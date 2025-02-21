@@ -82,8 +82,8 @@ async function displayRouteInfo(routeNo) {
                   <dt>To:</dt>
                   <dd>${routeInfo.data.to}</dd>
                   
-                  <dt>Frequency:</dt>
-                  <dd class="frequency-rare">VERY RARE</dd>
+                  <dt>Total Distance:</dt>
+                  <dd class="frequency-rare">${routeInfo.data.distance}</dd>
               </dl>
               
               <h2 class="stops-heading">Route/Important Stops</h2>
