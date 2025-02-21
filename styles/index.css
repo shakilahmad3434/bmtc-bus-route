@@ -238,6 +238,12 @@ nav a:hover:after {
   gap: 10px;
   margin-bottom: 20px;
 }
+.no-route{
+  text-align: center;
+  font-size: 3rem;
+  padding: 2rem;
+  color: red;
+}
 
 .route-info dt {
   font-weight: 500;
