@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karnataka State Bus Routes - Find KSRTC Bus Timings & Routes</title>
+    <meta name="description" content="Find all Karnataka (KSRTC) bus routes, timings, and stops. Search bus routes in Bangalore, Mysore, Mangalore and other cities in Karnataka. Real-time bus tracking available.">
+    <meta name="keywords" content="Karnataka bus routes, KSRTC bus timings, Bangalore bus routes, Karnataka state transport">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/lucide.min.js"></script>
+    <style>
+        :root {
+            --primary: #4F46E5;
+            --secondary: #7C3AED;
+            --bg-light: #f8f9fa;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: system-ui, -apple-system, sans-serif;
+        }
+
+        body {
+            background: var(--bg-light);
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 1rem;
+        }
+
+        .nav {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .hero {
+            background: white;
+            padding: 4rem 2rem;
+            text-align: center;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #1f2937;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+
+        .popular-routes {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .route-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            box-shadow: var(--shadow);
+        }
+
+        .route-card h3 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+
+        .cities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .city-link {
+            background: white;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            text-align: center;
+            text-decoration: none;
+            color: #1f2937;
+            box-shadow: var(--shadow);
+            transition: transform 0.2s;
+        }
+
+        .city-link:hover {
+            transform: translateY(-2px);
+        }
+
+        .state-links {
+            background: white;
+            padding: 2rem;
+            border-radius: 0.5rem;
+            margin: 2rem 0;
+            box-shadow: var(--shadow);
+        }
+
+        .state-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .state-grid a {
+            color: #4b5563;
+            text-decoration: none;
+            padding: 0.5rem;
+        }
+
+        .state-grid a:hover {
+            color: var(--primary);
+        }
+
+        footer {
+            background: #1f2937;
+            color: white;
+            padding: 3rem 2rem;
+            margin-top: 4rem;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .nav {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <div class="logo">Bangalore City Bus</div>
+            <div class="nav-links">
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                <a href="/contact">Contact</a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Karnataka State Bus Routes</h1>
+        <p>Find bus routes, timings and track buses in real-time across Karnataka</p>
+    </section>
+
+    <main class="container">
+        <section>
+            <h2>Major Cities in Karnataka</h2>
+            <div class="cities-grid">
+                <a href="/karnataka/bangalore" class="city-link">Bangalore</a>
+                <a href="/karnataka/mysore" class="city-link">Mysore</a>
+                <a href="/karnataka/hubli" class="city-link">Hubli</a>
+                <a href="/karnataka/mangalore" class="city-link">Mangalore</a>
+                <a href="/karnataka/belgaum" class="city-link">Belgaum</a>
+                <a href="/karnataka/gulbarga" class="city-link">Gulbarga</a>
+            </div>
+        </section>
+
+        <section>
+            <h2>Popular Bus Routes</h2>
+            <div class="popular-routes">
+                <div class="route-card">
+                    <h3>Bangalore - Mysore</h3>
+                    <p>Route Numbers: 101, 102, 103</p>
+                    <p>Frequency: Every 15 minutes</p>
+                    <p>Travel Time: 3.5 hours</p>
+                </div>
+                <div class="route-card">
+                    <h3>Bangalore - Mangalore</h3>
+                    <p>Route Numbers: 201, 202</p>
+                    <p>Frequency: Every 30 minutes</p>
+                    <p>Travel Time: 8 hours</p>
+                </div>
+                <div class="route-card">
+                    <h3>Mysore - Hassan</h3>
+                    <p>Route Numbers: 301, 302</p>
+                    <p>Frequency: Every hour</p>
+                    <p>Travel Time: 2.5 hours</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="state-links">
+            <h2>Other State Bus Services</h2>
+            <div class="state-grid">
+                <a href="/tamil-nadu">Tamil Nadu</a>
+                <a href="/kerala">Kerala</a>
+                <a href="/andhra-pradesh">Andhra Pradesh</a>
+                <a href="/maharashtra">Maharashtra</a>
+                <a href="/goa">Goa</a>
+                <a href="/telangana">Telangana</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div>
+                <h3>About Us</h3>
+                <p>Your trusted source for bus route information across India.</p>
+            </div>
+            <div>
+                <h3>Quick Links</h3>
+                <p>Terms of Service</p>
+                <p>Privacy Policy</p>
+                <p>Contact Us</p>
+            </div>
+            <div>
+                <h3>Connect With Us</h3>
+                <p>Facebook</p>
+                <p>Twitter</p>
+                <p>Instagram</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

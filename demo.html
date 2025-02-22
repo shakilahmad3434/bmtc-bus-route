@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced Bus Route Finder</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/lucide.min.js"></script>
+    <style>
+        :root {
+            --primary-gradient: linear-gradient(135deg, #4F46E5, #7C3AED);
+            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            --tab-active: #4F46E5;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: system-ui, -apple-system, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            background: #f8f9fa;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .hero {
+            background: var(--primary-gradient);
+            color: white;
+            padding: 4rem 2rem;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .search-container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: white;
+            border-radius: 1rem;
+            box-shadow: var(--shadow-lg);
+        }
+
+        .city-selector {
+            margin-bottom: 2rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .city-selector select {
+            padding: 0.5rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        .tab {
+            padding: 1rem 2rem;
+            cursor: pointer;
+            border-bottom: 2px solid transparent;
+            margin-bottom: -2px;
+            transition: all 0.3s;
+        }
+
+        .tab.active {
+            color: var(--tab-active);
+            border-bottom-color: var(--tab-active);
+        }
+
+        .search-box {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .search-group {
+            flex: 1;
+            display: none;
+        }
+
+        .search-group.active {
+            display: flex;
+            gap: 1rem;
+        }
+
+        input, select {
+            flex: 1;
+            padding: 1rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+        }
+
+        button {
+            padding: 1rem 2rem;
+            background: var(--primary-gradient);
+            color: white;
+            border: none;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            font-weight: 600;
+            transition: opacity 0.2s;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+
+        .route-details {
+            display: none;
+            background: white;
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-top: 2rem;
+            box-shadow: var(--shadow-lg);
+        }
+
+        .route-info {
+            margin-bottom: 2rem;
+        }
+
+        .route-info div {
+            display: flex;
+            justify-content: space-between;
+            padding: 1rem 0;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .stops-list {
+            position: relative;
+            padding-left: 2rem;
+        }
+
+        .stop-item {
+            position: relative;
+            padding: 1rem 0;
+            padding-left: 1rem;
+        }
+
+        .stop-marker {
+            position: absolute;
+            left: -2rem;
+            width: 2rem;
+            height: 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #4F46E5;
+            color: white;
+            border-radius: 50%;
+            font-size: 0.875rem;
+        }
+
+        .route-line {
+            position: absolute;
+            left: -1.25rem;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: #4F46E5;
+        }
+
+        .map-view {
+            height: 300px;
+            background: #e2e8f0;
+            border-radius: 0.5rem;
+            margin-top: 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #64748b;
+        }
+
+        @media (max-width: 640px) {
+            .search-box {
+                flex-direction: column;
+            }
+            
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .tabs {
+                flex-wrap: wrap;
+            }
+
+            .tab {
+                flex: 1;
+                text-align: center;
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>Bus Route Finder</h1>
+        <p>Find your way around the city with our easy-to-use bus route finder</p>
+    </div>
+
+    <div class="container">
+        <div class="search-container">
+            <div class="city-selector">
+                <label for="city">Select/Change City:</label>
+                <select id="city">
+                    <option value="">Select City</option>
+                    <option value="bangalore">Bangalore</option>
+                    <option value="mumbai">Mumbai</option>
+                    <option value="delhi">Delhi</option>
+                </select>
+            </div>
+
+            <div class="tabs">
+                <div class="tab active" data-tab="route">Bus Routes</div>
+                <div class="tab" data-tab="stage">Bus Stages</div>
+                <div class="tab" data-tab="fromto">From - To</div>
+            </div>
+
+            <div class="search-box">
+                <div class="search-group active" id="route-search">
+                    <input type="text" placeholder="Enter route number (e.g. 105A)" />
+                    <button onclick="searchRoute()">Search</button>
+                </div>
+
+                <div class="search-group" id="stage-search">
+                    <input type="text" placeholder="Enter bus stage name" />
+                    <button onclick="searchStage()">Search</button>
+                </div>
+
+                <div class="search-group" id="fromto-search">
+                    <input type="text" placeholder="From" />
+                    <input type="text" placeholder="To" />
+                    <button onclick="searchFromTo()">Search</button>
+                </div>
+            </div>
+
+            <div id="routeDetails" class="route-details">
+                <div class="route-info">
+                    <div>
+                        <span>Route Number:</span>
+                        <span id="routeNo"></span>
+                    </div>
+                    <div>
+                        <span>From:</span>
+                        <span id="routeFrom"></span>
+                    </div>
+                    <div>
+                        <span>To:</span>
+                        <span id="routeTo"></span>
+                    </div>
+                    <div>
+                        <span>Total Distance:</span>
+                        <span id="routeDistance"></span>
+                    </div>
+                    <div>
+                        <span>Operating Hours:</span>
+                        <span>6:00 AM - 10:00 PM</span>
+                    </div>
+                    <div>
+                        <span>Frequency:</span>
+                        <span>Every 15 minutes</span>
+                    </div>
+                </div>
+
+                <h3>Stops</h3>
+                <div class="stops-list" id="stopsList">
+                    <div class="route-line"></div>
+                </div>
+
+                <div class="map-view">
+                    Route Map View (Map integration placeholder)
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Sample route data
+        const routeData = {
+            "105A": {
+                routeNo: "105A",
+                from: "Rajmahal Guttahalli",
+                to: "Raghavendra Colony",
+                distance: "10.4 K.M.",
+                stops: [
+                    "Rajmahal Guttahalli",
+                    "Sudhindra Nagar",
+                    "Malleswaram 8th Cross",
+                    "Malleswaram Circle",
+                    "Sheshadripuram"
+                ]
+            }
+        };
+
+        // Tab switching functionality
+        const tabs = document.querySelectorAll('.tab');
+        const searchGroups = document.querySelectorAll('.search-group');
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                // Remove active class from all tabs and search groups
+                tabs.forEach(t => t.classList.remove('active'));
+                searchGroups.forEach(g => g.classList.remove('active'));
+
+                // Add active class to clicked tab and corresponding search group
+                tab.classList.add('active');
+                document.getElementById(`${tab.dataset.tab}-search`).classList.add('active');
+            });
+        });
+
+        function searchRoute() {
+            const routeDetails = document.getElementById('routeDetails');
+            const route = routeData["105A"]; // Using sample data
+
+            if (route) {
+                document.getElementById('routeNo').textContent = route.routeNo;
+                document.getElementById('routeFrom').textContent = route.from;
+                document.getElementById('routeTo').textContent = route.to;
+                document.getElementById('routeDistance').textContent = route.distance;
+
+                const stopsList = document.getElementById('stopsList');
+                stopsList.innerHTML = '<div class="route-line"></div>';
+                
+                route.stops.forEach((stop, index) => {
+                    const stopItem = document.createElement('div');
+                    stopItem.className = 'stop-item';
+                    stopItem.innerHTML = `
+                        <div class="stop-marker">${index + 1}</div>
+                        ${stop}
+                    `;
+                    stopsList.appendChild(stopItem);
+                });
+
+                routeDetails.style.display = 'block';
+            } else {
+                alert('Route not found. Please try another route number.');
+            }
+        }
+
+        function searchStage() {
+            alert('Searching for bus stages... (Feature in development)');
+        }
+
+        function searchFromTo() {
+            alert('Searching routes between locations... (Feature in development)');
+        }
+    </script>
+</body>
+</html>
