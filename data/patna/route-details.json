@@ -1,0 +1,132 @@
+[
+  {
+    "route": "1",
+    "data": {
+      "routeNo": "1",
+      "from": "Khagaul Birla Military Police Camp",
+      "to": "Gandhi Maidan",
+      "distance": "11  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Khagaul Birla Military Police Camp",
+        "Phulwarisharif",
+        "Anisabad",
+        "Chitkohra",
+        "R Block",
+        "Gpo Roundabout",
+        "Frazer Road",
+        "Gandhi Maidan."
+      ]
+    }
+  },
+  {
+    "route": "2",
+    "data": {
+      "routeNo": "2",
+      "from": "Gandhi Maidan Frazer Road",
+      "to": "Danapur",
+      "distance": "15  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Gandhi Maidan Frazer Road",
+        "Patna Junction",
+        "G.P.O",
+        "R Block",
+        "Income Tax Golambar",
+        "Baily Road",
+        "Saguna Moar",
+        "Danapur"
+      ]
+    }
+  },
+  {
+    "route": "3",
+    "data": {
+      "routeNo": "3",
+      "from": "Rajapur Pul",
+      "to": "Danapur",
+      "distance": "8  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Rajapur Pul",
+        "Kurji And Digha",
+        "Danapur"
+      ]
+    }
+  },
+  {
+    "route": "4",
+    "data": {
+      "routeNo": "4",
+      "from": "Gandhi Maidan",
+      "to": "Gaighat",
+      "distance": "5  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Gandhi Maidan",
+        "Pmch",
+        "Tripolia Hospital",
+        "Gaighat"
+      ]
+    }
+  },
+  {
+    "route": "5",
+    "data": {
+      "routeNo": "5",
+      "from": "Mithapur Bus Stand",
+      "to": "Mithapur Bus Stand",
+      "distance": "16  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Mithapur Bus Stand",
+        "New Bypass",
+        "Pahari Moar",
+        "Agamkuan",
+        "Kumhrar Park",
+        "Bahadurpur",
+        "Rajendra Nagar Terminal",
+        "Chiraiyatarh",
+        "Karbigahiya",
+        "Mithapur Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "6",
+    "data": {
+      "routeNo": "6",
+      "from": "Gandhi Maidan",
+      "to": "Ias Colony",
+      "distance": "11  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Gandhi Maidan",
+        "Rajapur",
+        "Kurji",
+        "St. Micheal School",
+        "Alpana Cinema Moar",
+        "Ias Colony"
+      ]
+    }
+  },
+  {
+    "route": "7",
+    "data": {
+      "routeNo": "7",
+      "from": "Gandhi Maidan",
+      "to": "Boring Road",
+      "distance": "7  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Gandhi Maidan",
+        "Rajaapur",
+        "Kurji",
+        "Iit",
+        "Patliputra Golambar",
+        "An College",
+        "Boring Road"
+      ]
+    }
+  }
+]
