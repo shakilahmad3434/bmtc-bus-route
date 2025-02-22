@@ -4,7 +4,7 @@ import {fetchRouteData} from './fetchRouteData.js'
 // fetch bus route
 
 async function getAllRoutes(){
-  const options = await fetchBusRoute('bangalore');
+  const options = await fetchBusRoute('patna');
   // Add default option and set innerHTML
   document.querySelector('.js-bus-route-no').innerHTML = `
       <option value="">Select Bus No</option>
@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (!routeNo) return alert("Please select the route");
 
     try {
-      const routeInfo = await fetchRouteData('bangalore', routeNo);
+      const routeInfo = await fetchRouteData('patna', routeNo);
       searchRoute(routeInfo)
     } catch (error) {
       console.error("Failed to fetch route info:", error);
