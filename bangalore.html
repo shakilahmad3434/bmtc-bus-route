@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced Bus Route Finder</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/lucide.min.js"></script>
+    <link rel="stylesheet" href="styles/bangalore.css">
+</head>
+<body>
+    <div class="hero">
+        <h1>Bus Route Finder</h1>
+        <p>Find your way around the city with our easy-to-use bus route finder</p>
+    </div>
+
+    <div class="container">
+        <div class="search-container">
+
+            <div class="tabs">
+                <div class="tab active" data-tab="route">Bus Routes</div>
+                <div class="tab" data-tab="stage">Bus Stages</div>
+                <div class="tab" data-tab="fromto">From - To</div>
+            </div>
+
+            <div class="search-box">
+                <div class="city-selector">
+                    <select id="city" class="js-bus-route-no">
+                        <!-- insert bus route from JS  -->
+                    </select>
+                </div>
+                <div class="search-group active" id="route-search">
+                    <input type="text" placeholder="Enter route number (e.g. 105A)" />
+                    <button onclick="searchRoute()">Search</button>
+                </div>
+
+                <div class="search-group" id="stage-search">
+                    <input type="text" placeholder="Enter bus stage name" />
+                    <button onclick="searchStage()">Search</button>
+                </div>
+
+                <div class="search-group" id="fromto-search">
+                    <input type="text" placeholder="From" />
+                    <input type="text" placeholder="To" />
+                    <button onclick="searchFromTo()">Search</button>
+                </div>
+            </div>
+
+            <div id="routeDetails" class="route-details">
+                <div class="route-info">
+                    <div>
+                        <span>Route Number:</span>
+                        <span id="routeNo"></span>
+                    </div>
+                    <div>
+                        <span>From:</span>
+                        <span id="routeFrom"></span>
+                    </div>
+                    <div>
+                        <span>To:</span>
+                        <span id="routeTo"></span>
+                    </div>
+                    <div>
+                        <span>Total Distance:</span>
+                        <span id="routeDistance"></span>
+                    </div>
+                    <div>
+                        <span>Operating Hours:</span>
+                        <span>6:00 AM - 10:00 PM</span>
+                    </div>
+                    <div>
+                        <span>Frequency:</span>
+                        <span>Every 15 minutes</span>
+                    </div>
+                </div>
+
+                <h3>Stops</h3>
+                <div class="stops-list" id="stopsList">
+                    <div class="route-line"></div>
+                </div>
+
+                <div class="map-view">
+                    Route Map View (Map integration placeholder)
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="scripts/bangalore.js" type="module"></script>
+</body>
+</html>
