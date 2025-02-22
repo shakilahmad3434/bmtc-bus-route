@@ -2,36 +2,15 @@ import {fetchBusRoute} from './fetchBusRoute.js'
 import {fetchRouteData} from './fetchRouteData.js'
 
 // fetch bus route
-(async () => {
-const options = await fetchBusRoute('bangalore');
-// Add default option and set innerHTML
-document.querySelector('.js-bus-route-no').innerHTML = `
-    <option value="">Select Bus No</option>
-    ${options}
-`;
-})();
 
-(async () => {
-  const routeDatas = await fetchRouteData('bangalore', '100');
-console.log(routeDatas)
-})()
-
-// Sample route data
-const routeData = {
-  "105A": {
-      routeNo: "105A",
-      from: "Rajmahal Guttahalli",
-      to: "Raghavendra Colony",
-      distance: "10.4 K.M.",
-      stops: [
-          "Rajmahal Guttahalli",
-          "Sudhindra Nagar",
-          "Malleswaram 8th Cross",
-          "Malleswaram Circle",
-          "Sheshadripuram"
-      ]
-  }
-};
+async function getAllRoutes(){
+  const options = await fetchBusRoute('bangalore');
+  // Add default option and set innerHTML
+  document.querySelector('.js-bus-route-no').innerHTML = `
+      <option value="">Select Bus No</option>
+      ${options}
+  `;
+}
 
 // Tab switching functionality
 const tabs = document.querySelectorAll('.tab');
@@ -49,9 +28,9 @@ tabs.forEach(tab => {
   });
 });
 
-function searchRoute() {
+function searchRoute(routeInfo) {
   const routeDetails = document.getElementById('routeDetails');
-  const route = routeData["105A"]; // Using sample data
+  const route = routeInfo.data; 
 
   if (route) {
       document.getElementById('routeNo').textContent = route.routeNo;
@@ -77,6 +56,23 @@ function searchRoute() {
       alert('Route not found. Please try another route number.');
   }
 }
+
+// Event Layer
+document.addEventListener("DOMContentLoaded", async () => {
+  getAllRoutes()
+
+  document.querySelector(".submit-route").addEventListener("click", async () => {
+    const routeNo = document.querySelector(".js-bus-route-no").value;
+    if (!routeNo) return alert("Please select the route");
+
+    try {
+      const routeInfo = await fetchRouteData('bangalore', routeNo);
+      searchRoute(routeInfo)
+    } catch (error) {
+      console.error("Failed to fetch route info:", error);
+    }
+  });
+});
 
 function searchStage() {
   alert('Searching for bus stages... (Feature in development)');
