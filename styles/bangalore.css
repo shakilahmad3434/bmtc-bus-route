@@ -30,12 +30,6 @@ a:hover {
   color: #004080;
 }
 
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem;
-}
-
 /* Header styles */
 header {
   background-color: #D6fff6;
@@ -58,10 +52,43 @@ header {
   color: #333;
 }
 
+.logo img{
+  width: 180px;
+  height: 50px;
+  object-fit:fill;
+}
+
 /* Navbar styles */
-nav ul {
+nav ul.navbar-menu {
   display: flex;
   list-style: none;
+}
+
+/* Dropdown menu */
+nav ul.navbar-menu > li {
+  position: relative; /* Ensure the dropdown is positioned relative to this li */
+}
+
+nav ul.dropdown-menu {
+  position: absolute;
+  top: 100%; /* Position the dropdown below the parent li */
+  left: 0;
+  list-style: none;
+  display: none; /* Initially hidden */
+  flex-direction: column;
+  gap: .5rem;
+  padding: .5rem 2rem 0.5rem .5rem;
+  background-color: #fff; /* Add a background color for better visibility */
+  box-shadow: 1px 4px 20px rgba(0, 0, 0, 0.1);
+  z-index: 10; /* Ensure it appears above other elements */
+}
+
+nav ul.navbar-menu > li:hover > ul.dropdown-menu {
+  display: block; /* Show the dropdown when hovering over the parent li */
+}
+
+nav ul.dropdown-menu li {
+  margin-left: 0;
 }
 
 nav li {
@@ -92,6 +119,7 @@ nav a:hover:after {
 /* Mobile menu */
 .mobile-menu-toggle {
   display: none;
+  color: #231651;
   background: none;
   border: none;
   font-size: 1.5rem;
@@ -342,6 +370,26 @@ button:hover {
 }
 
 /* -------------------------------------------------------------------------------------*/
+
+.from-to-destination {
+  display: none;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.from-to-destination p {
+  text-align: center;
+  font-size: 2rem;
+  animation: paraColor 2s cubic-bezier(0.785, 0.135, 0.15, 0.86) infinite alternate;
+}
+
+@keyframes paraColor {
+  0%{color: rgb(235, 145, 145);}
+  50%{color: rgb(239, 88, 88);}
+  100%{color: rgb(237, 10, 10);}
+}
 
 .route-details {
   display: none;

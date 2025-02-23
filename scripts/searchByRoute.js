@@ -3,6 +3,8 @@ import {fetchRouteData} from './fetchRouteData.js'
 
 export async function searchByRoute(){
   document.querySelector(".stage-info").style.display = 'none';
+  document.querySelector('.from-to-destination').style.display = 'none';
+  
   const selectInput = document.querySelector(".js-bus-route-no").value;
     const inputRoute = document.querySelector('#routeId').value;
     const routeNo = selectInput || inputRoute;

@@ -10,7 +10,7 @@ export async function fetchStates() {
       stateHTML += `<a href="/${slug}">${state}</a>`;
     });
 
-    return stateHTML;
+    return {stateHTML, states};
   } catch (error) {
     console.log(error);
   }

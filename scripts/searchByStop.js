@@ -1,6 +1,8 @@
 import { displayBusStopDetails } from "./displayBusStopDetails.js";
 export async function searchByStop(){
   document.getElementById('routeDetails').style.display = 'none';
+  document.querySelector('.from-to-destination').style.display = 'none';
+  
   const selectInput = document.querySelector(".js-bus-stop-name").value;
     const inputBusStop = document.querySelector('#busStopId').value;
     const busStopName = selectInput || inputBusStop;

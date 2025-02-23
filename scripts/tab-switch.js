@@ -2,6 +2,7 @@ import { fetchBusRoute } from './fetchBusRoute.js';
 import { getBusStageName } from './getBusStageName.js';
 import { searchByRoute } from './searchByRoute.js';
 import { searchByStop } from './searchByStop.js';
+import { searchByDestination } from './searchByDestination.js';
 
 // Fetch bus route and populate dropdown
 async function getAllRoutes() {
@@ -59,12 +60,14 @@ export function tabSwitch() {
         await getAllRoutes();
         // Attach event listener for search button
         document.getElementById('searchByRouteButton').addEventListener('click', searchByRoute);
+
       } else if (tab.textContent === 'Source - Destination') {
         searchContent.innerHTML = `
           <input type="text" placeholder="Enter source">
           <input type="text" placeholder="Enter destination">
-          <button class="search-button">Search</button>
+          <button class="search-button" id="searchByDestination">Search</button>
         `;
+        document.getElementById('searchByDestination').addEventListener('click', searchByDestination);
       } else if (tab.textContent === 'Bus Stop') {
         searchContent.innerHTML = `
           <select class="js-bus-stop-name">
