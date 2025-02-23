@@ -16,4 +16,6 @@ export async function displayBusStopDetails(busStageName) {
       `;
       tbody.appendChild(row);
   });
+
+  document.querySelector(".stage-info").style.display = 'block'
 }

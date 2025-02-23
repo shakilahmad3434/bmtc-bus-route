@@ -2,12 +2,11 @@ import { displayRouteDetails } from './displayRouteDetails.js';
 import {fetchRouteData} from './fetchRouteData.js'
 
 export async function searchByRoute(){
-  console.log("Search by route method");
-  
+  document.querySelector(".stage-info").style.display = 'none';
   const selectInput = document.querySelector(".js-bus-route-no").value;
     const inputRoute = document.querySelector('#routeId').value;
-    const routeNo = inputRoute || selectInput;
-    console.log(routeNo)
+    const routeNo = selectInput || inputRoute;
+
     if (!routeNo) return alert("Please select the route");
 
     try {

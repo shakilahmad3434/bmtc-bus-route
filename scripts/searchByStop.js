@@ -1,9 +1,11 @@
 import { displayBusStopDetails } from "./displayBusStopDetails.js";
 export async function searchByStop(){
+  document.getElementById('routeDetails').style.display = 'none';
   const selectInput = document.querySelector(".js-bus-stop-name").value;
     const inputBusStop = document.querySelector('#busStopId').value;
-    const busStopName = inputBusStop || selectInput;
-    if (!routeNo) return alert("Please select the route");
+    const busStopName = selectInput || inputBusStop;
+
+    if (!busStopName) return alert("Please select the route");
 
     try {
       await displayBusStopDetails(busStopName);
