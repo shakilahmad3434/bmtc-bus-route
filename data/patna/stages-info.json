@@ -1,0 +1,386 @@
+[
+  {
+    "stage": "Agamkuan",
+    "data": [
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      }
+    ]
+  },
+  {
+    "stage": "Alpana Cinema Moar",
+    "data": [
+      {
+        "stageName": "6",
+        "stageInfo": "Gandhi Maidan to Ias Colony"
+      }
+    ]
+  },
+  {
+    "stage": "An College",
+    "data": [
+      {
+        "stageName": "7",
+        "stageInfo": "Gandhi Maidan to Boring Road"
+      }
+    ]
+  },
+  {
+    "stage": "Anisabad",
+    "data": [
+      {
+        "stageName": "1",
+        "stageInfo": "Khagaul Birla Military Police Camp to Gandhi Maidan"
+      }
+    ]
+  },
+  {
+    "stage": "Bahadurpur",
+    "data": [
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      }
+    ]
+  },
+  {
+    "stage": "Baily Road",
+    "data": [
+      {
+        "stageName": "2",
+        "stageInfo": "Gandhi Maidan Frazer Road to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "Boring Road",
+    "data": [
+      {
+        "stageName": "7",
+        "stageInfo": "Gandhi Maidan to Boring Road"
+      }
+    ]
+  },
+  {
+    "stage": "Chiraiyatarh",
+    "data": [
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      }
+    ]
+  },
+  {
+    "stage": "Chitkohra",
+    "data": [
+      {
+        "stageName": "1",
+        "stageInfo": "Khagaul Birla Military Police Camp to Gandhi Maidan"
+      }
+    ]
+  },
+  {
+    "stage": "Danapur",
+    "data": [
+      {
+        "stageName": "2",
+        "stageInfo": "Gandhi Maidan Frazer Road to Danapur"
+      },
+      {
+        "stageName": "3",
+        "stageInfo": "Rajapur Pul to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "Frazer Road",
+    "data": [
+      {
+        "stageName": "1",
+        "stageInfo": "Khagaul Birla Military Police Camp to Gandhi Maidan"
+      }
+    ]
+  },
+  {
+    "stage": "G.P.O",
+    "data": [
+      {
+        "stageName": "2",
+        "stageInfo": "Gandhi Maidan Frazer Road to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "Gaighat",
+    "data": [
+      {
+        "stageName": "4",
+        "stageInfo": "Gandhi Maidan to Gaighat"
+      }
+    ]
+  },
+  {
+    "stage": "Gandhi Maidan",
+    "data": [
+      {
+        "stageName": "4",
+        "stageInfo": "Gandhi Maidan to Gaighat"
+      },
+      {
+        "stageName": "6",
+        "stageInfo": "Gandhi Maidan to Ias Colony"
+      },
+      {
+        "stageName": "7",
+        "stageInfo": "Gandhi Maidan to Boring Road"
+      }
+    ]
+  },
+  {
+    "stage": "Gandhi Maidan Frazer Road",
+    "data": [
+      {
+        "stageName": "2",
+        "stageInfo": "Gandhi Maidan Frazer Road to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "Gandhi Maidan.",
+    "data": [
+      {
+        "stageName": "1",
+        "stageInfo": "Khagaul Birla Military Police Camp to Gandhi Maidan"
+      }
+    ]
+  },
+  {
+    "stage": "Gpo Roundabout",
+    "data": [
+      {
+        "stageName": "1",
+        "stageInfo": "Khagaul Birla Military Police Camp to Gandhi Maidan"
+      }
+    ]
+  },
+  {
+    "stage": "Ias Colony",
+    "data": [
+      {
+        "stageName": "6",
+        "stageInfo": "Gandhi Maidan to Ias Colony"
+      }
+    ]
+  },
+  {
+    "stage": "Iit",
+    "data": [
+      {
+        "stageName": "7",
+        "stageInfo": "Gandhi Maidan to Boring Road"
+      }
+    ]
+  },
+  {
+    "stage": "Income Tax Golambar",
+    "data": [
+      {
+        "stageName": "2",
+        "stageInfo": "Gandhi Maidan Frazer Road to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "Karbigahiya",
+    "data": [
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      }
+    ]
+  },
+  {
+    "stage": "Khagaul Birla Military Police Camp",
+    "data": [
+      {
+        "stageName": "1",
+        "stageInfo": "Khagaul Birla Military Police Camp to Gandhi Maidan"
+      }
+    ]
+  },
+  {
+    "stage": "Kumhrar Park",
+    "data": [
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      }
+    ]
+  },
+  {
+    "stage": "Kurji",
+    "data": [
+      {
+        "stageName": "6",
+        "stageInfo": "Gandhi Maidan to Ias Colony"
+      },
+      {
+        "stageName": "7",
+        "stageInfo": "Gandhi Maidan to Boring Road"
+      }
+    ]
+  },
+  {
+    "stage": "Kurji And Digha",
+    "data": [
+      {
+        "stageName": "3",
+        "stageInfo": "Rajapur Pul to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "Mithapur Bus Stand",
+    "data": [
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      },
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      }
+    ]
+  },
+  {
+    "stage": "New Bypass",
+    "data": [
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      }
+    ]
+  },
+  {
+    "stage": "Pahari Moar",
+    "data": [
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      }
+    ]
+  },
+  {
+    "stage": "Patliputra Golambar",
+    "data": [
+      {
+        "stageName": "7",
+        "stageInfo": "Gandhi Maidan to Boring Road"
+      }
+    ]
+  },
+  {
+    "stage": "Patna Junction",
+    "data": [
+      {
+        "stageName": "2",
+        "stageInfo": "Gandhi Maidan Frazer Road to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "Phulwarisharif",
+    "data": [
+      {
+        "stageName": "1",
+        "stageInfo": "Khagaul Birla Military Police Camp to Gandhi Maidan"
+      }
+    ]
+  },
+  {
+    "stage": "Pmch",
+    "data": [
+      {
+        "stageName": "4",
+        "stageInfo": "Gandhi Maidan to Gaighat"
+      }
+    ]
+  },
+  {
+    "stage": "R Block",
+    "data": [
+      {
+        "stageName": "1",
+        "stageInfo": "Khagaul Birla Military Police Camp to Gandhi Maidan"
+      },
+      {
+        "stageName": "2",
+        "stageInfo": "Gandhi Maidan Frazer Road to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "Rajaapur",
+    "data": [
+      {
+        "stageName": "7",
+        "stageInfo": "Gandhi Maidan to Boring Road"
+      }
+    ]
+  },
+  {
+    "stage": "Rajapur",
+    "data": [
+      {
+        "stageName": "6",
+        "stageInfo": "Gandhi Maidan to Ias Colony"
+      }
+    ]
+  },
+  {
+    "stage": "Rajapur Pul",
+    "data": [
+      {
+        "stageName": "3",
+        "stageInfo": "Rajapur Pul to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "Rajendra Nagar Terminal",
+    "data": [
+      {
+        "stageName": "5",
+        "stageInfo": "Mithapur Bus Stand to Mithapur Bus Stand"
+      }
+    ]
+  },
+  {
+    "stage": "Saguna Moar",
+    "data": [
+      {
+        "stageName": "2",
+        "stageInfo": "Gandhi Maidan Frazer Road to Danapur"
+      }
+    ]
+  },
+  {
+    "stage": "St. Micheal School",
+    "data": [
+      {
+        "stageName": "6",
+        "stageInfo": "Gandhi Maidan to Ias Colony"
+      }
+    ]
+  },
+  {
+    "stage": "Tripolia Hospital",
+    "data": [
+      {
+        "stageName": "4",
+        "stageInfo": "Gandhi Maidan to Gaighat"
+      }
+    ]
+  }
+]

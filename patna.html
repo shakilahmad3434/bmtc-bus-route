@@ -3,87 +3,271 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enhanced Bus Route Finder</title>
+    <title>Patna Bus Route Finder</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/lucide.min.js"></script>
     <link rel="stylesheet" href="styles/bangalore.css">
 </head>
 <body>
+    <!-- Header -->
+    <header>
+        <div class="container header-container">
+            <div class="logo">Brand Logo</div>
+            <button class="mobile-menu-toggle">☰</button>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+ <!-- main element coding -->
+
     <div class="hero">
-        <h1>Bus Route Finder</h1>
-        <p>Find your way around the city with our easy-to-use bus route finder</p>
-    </div>
+        <div class="container" style="padding-bottom: 0px !important;">
+        <div class="hero-info">
+            <h1>Bus Route Finder</h1>
+            <p>Find your way around the city with our easy-to-use bus route finder</p>
+        </div>
 
-    <div class="container">
-        <div class="search-container">
-
-            <div class="tabs">
-                <div class="tab active" data-tab="route">Bus Routes</div>
-                <div class="tab" data-tab="stage">Bus Stages</div>
-                <div class="tab" data-tab="fromto">From - To</div>
+        <section class="search-section">
+            <div class="search-tabs">
+                <div class="search-tab active">Route Number</div>
+                <div class="search-tab">Bus Stop</div>
+                <div class="search-tab">Source - Destination</div>
             </div>
-
-            <div class="search-box">
-                <div class="city-selector">
-                    <select id="city" class="js-bus-route-no">
-                        <!-- insert bus route from JS  -->
-                    </select>
-                </div>
-                <div class="search-group active" id="route-search">
-                    <input type="text" placeholder="Enter route number (e.g. 105A)" id="routeId" />
-                    <button class="submit-route">Search</button>
-                </div>
-
-                <div class="search-group" id="stage-search">
-                    <input type="text" placeholder="Enter bus stage name" />
-                    <button onclick="searchStage()">Search</button>
-                </div>
-
-                <div class="search-group" id="fromto-search">
-                    <input type="text" placeholder="From" />
-                    <input type="text" placeholder="To" />
-                    <button onclick="searchFromTo()">Search</button>
-                </div>
+            <div class="search-content">
+                <select class="js-bus-route-no">
+                    <!-- insert bus route no from JS -->
+                </select>
+                <input type="text" placeholder="Enter route number or destination" id="routeId">
+                <button class="search-button">Search</button>
             </div>
-
-            <div id="routeDetails" class="route-details">
-                <div class="route-info">
-                    <div>
-                        <span>Route Number:</span>
-                        <span id="routeNo"></span>
-                    </div>
-                    <div>
-                        <span>From:</span>
-                        <span id="routeFrom"></span>
-                    </div>
-                    <div>
-                        <span>To:</span>
-                        <span id="routeTo"></span>
-                    </div>
-                    <div>
-                        <span>Total Distance:</span>
-                        <span id="routeDistance"></span>
-                    </div>
-                    <div>
-                        <span>Total Stops:</span>
-                        <span id="totalStops"></span>
-                    </div>
-                    <div>
-                        <span>Frequency:</span>
-                        <span>Every 15 minutes</span>
-                    </div>
-                </div>
-
-                <h3>Stops</h3>
-                <div class="stops-list" id="stopsList">
-                    <div class="route-line"></div>
-                </div>
-
-                <div class="map-view">
-                    Route Map View (Map integration placeholder)
-                </div>
-            </div>
+        </section>
         </div>
     </div>
+
+    <main class="container">  
+        <!-- bus route no info  -->
+        <div id="routeDetails" class="route-details">
+            <div class="route-info">
+                <div>
+                    <span>Route Number:</span>
+                    <span id="routeNo"></span>
+                </div>
+                <div>
+                    <span>From:</span>
+                    <span id="routeFrom"></span>
+                </div>
+                <div>
+                    <span>To:</span>
+                    <span id="routeTo"></span>
+                </div>
+                <div>
+                    <span>Total Distance:</span>
+                    <span id="routeDistance"></span>
+                </div>
+                <div>
+                    <span>Total Stops:</span>
+                    <span id="totalStops"></span>
+                </div>
+                <div>
+                    <span>Frequency:</span>
+                    <span>Every 15 minutes</span>
+                </div>
+            </div>
+
+            <h3>Stops</h3>
+            <div class="stops-list" id="stopsList">
+                <div class="route-line"></div>
+            </div>
+
+            <div class="map-view">
+                Route Map View (Map integration placeholder)
+            </div>
+        </div>
+
+        <!-- bus stages no  -->
+        <div class="stage-info">
+            <h2 class="stage-name">
+                <span class="bus-stage-name">Bus Stage Name</span>
+                <span class="info-badge">Active</span>
+            </h2>
+
+            <table class="routes-table">
+                <thead>
+                    <tr>
+                        <th>Sl No.</th>
+                        <th>Bus Route</th>
+                        <th>From and To Details</th>
+                        <th>Frequency</th>
+                        <th>Next Bus</th>
+                    </tr>
+                </thead>
+                <tbody id="routesBody">
+                    <!-- Routes will be populated here -->
+                </tbody>
+            </table>
+        </div>
+
+        <section class="quick-info">
+            <h2>Karnataka State Transport Information</h2>
+            <div class="info-grid">
+                <div class="info-item">
+                    <h4>Daily Buses</h4>
+                    <p>8,000+</p>
+                </div>
+                <div class="info-item">
+                    <h4>Routes</h4>
+                    <p>2,500+</p>
+                </div>
+                <div class="info-item">
+                    <h4>Cities Covered</h4>
+                    <p>200+</p>
+                </div>
+                <div class="info-item">
+                    <h4>Daily Passengers</h4>
+                    <p>2.5M+</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="popular-routes">
+            <h2>Popular Routes</h2>
+            <div class="route-cards">
+                <div class="route-card">
+                    <h3>Bangalore - Mysore</h3>
+                    <div class="popular-route-details">
+                        <div class="route-detail">
+                            <span>Distance:</span>
+                            <span>150 km</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>Duration:</span>
+                            <span>3.5 hours</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>Frequency:</span>
+                            <span>Every 15 mins</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>First Bus:</span>
+                            <span>5:00 AM</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>Last Bus:</span>
+                            <span>11:30 PM</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="route-card">
+                    <h3>Bangalore - Mangalore</h3>
+                    <div class="popular-route-details">
+                        <div class="route-detail">
+                            <span>Distance:</span>
+                            <span>350 km</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>Duration:</span>
+                            <span>8 hours</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>Frequency:</span>
+                            <span>Every 30 mins</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>First Bus:</span>
+                            <span>6:00 AM</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>Last Bus:</span>
+                            <span>10:30 PM</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="route-card">
+                    <h3>Mysore - Hassan</h3>
+                    <div class="popular-route-details">
+                        <div class="route-detail">
+                            <span>Distance:</span>
+                            <span>118 km</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>Duration:</span>
+                            <span>2.5 hours</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>Frequency:</span>
+                            <span>Every hour</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>First Bus:</span>
+                            <span>6:00 AM</span>
+                        </div>
+                        <div class="route-detail">
+                            <span>Last Bus:</span>
+                            <span>9:30 PM</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="state-links">
+            <h2>Other State Bus Services</h2>
+            <div class="state-grid">
+                <!-- insert item from JS  -->
+            </div>
+        </section>
+
+</main>
+
+<!-- Footer -->
+<footer id="contact">
+    <div class="container">
+        <div class="footer-container">
+            <div class="footer-column">
+                <h3>About Us</h3>
+                <p>We are a digital agency focused on delivering high-quality web solutions for businesses of all sizes.</p>
+            </div>
+            <div class="footer-column">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Services</h3>
+                <ul>
+                    <li><a href="#">Web Design</a></li>
+                    <li><a href="#">Mobile Development</a></li>
+                    <li><a href="#">E-commerce Solutions</a></li>
+                    <li><a href="#">Digital Marketing</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Connect With Us</h3>
+                <ul>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">Twitter</a></li>
+                    <li><a href="#">Instagram</a></li>
+                    <li><a href="#">LinkedIn</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2025 Your Company Name. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
 
     <script src="scripts/patna.js" type="module"></script>
 </body>

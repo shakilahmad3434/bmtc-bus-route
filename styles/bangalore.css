@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root {
   --primary-gradient: linear-gradient(135deg, #4F46E5, #7C3AED);
   --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
@@ -8,12 +10,24 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: system-ui, -apple-system, sans-serif;
 }
 
 body {
   min-height: 100vh;
   background: #f8f9fa;
+  font-family: "jost", sans-serif;
+  font-size: 62.2;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: #0066cc;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #004080;
 }
 
 .container {
@@ -22,9 +36,126 @@ body {
   padding: 2rem;
 }
 
-.hero {
-  background: var(--primary-gradient);
+/* Header styles */
+header {
+  background-color: #D6fff6;
+  /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 0;
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Navbar styles */
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav li {
+  margin-left: 30px;
+}
+
+nav a {
+  color: #231651;
+  font-weight: 500;
+  position: relative;
+}
+
+nav a:after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -5px;
+  left: 0;
+  background-color: #231651;
+  transition: width 0.3s ease;
+}
+
+nav a:hover:after {
+  width: 100%;
+}
+
+/* Mobile menu */
+.mobile-menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+/* Hero Section  */
+
+.search-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+  margin-bottom: 2rem;
+}
+
+.search-tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.search-tab {
+  padding: 1rem 2rem;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+}
+
+.search-tab.active {
+  color: var(--primary);
+  border-bottom-color: #4F46E5;
+}
+
+.search-content {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.search-content input,
+.search-content select {
+  padding: 0.75rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  flex: 1;
+}
+
+.search-button {
+  background: #4F46E5;
   color: white;
+  padding: 0.75rem 2rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+
+
+.hero {
+   background-color: #D6fff6;
+  color: #231651;
   padding: 4rem 2rem;
   text-align: center;
   margin-bottom: 2rem;
@@ -38,6 +169,34 @@ body {
 .hero p {
   font-size: 1.1rem;
   opacity: 0.9;
+}
+
+.hero-info {
+  padding-bottom: 3rem;
+}
+
+.quick-info {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow:  4px 6px -1px rgba(0,0,0,0.1);
+  margin: 2rem 0;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.info-item {
+  text-align: center;
+}
+
+.info-item h4 {
+  color: #4F46E5;
+  margin-bottom: 0.5rem;
 }
 
 .search-container {
@@ -122,6 +281,67 @@ button:hover {
   opacity: 0.9;
 }
 
+/* --------------------------------------------------------------------------*/
+.stage-info {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.stage-name {
+  font-size: 1.5rem;
+  color: #343a40;
+  margin-bottom: 1.5rem;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.routes-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.routes-table th,
+.routes-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.routes-table th {
+  background-color: #e9ecef;
+  color: #343a40;
+  font-weight: 600;
+}
+
+.routes-table tr:hover {
+  background-color: #f8f9fa;
+}
+
+.route-link {
+  color: #0056b3;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.route-link:hover {
+  text-decoration: underline;
+}
+
+.info-badge {
+  display: inline-block;
+  padding: 4px 8px;
+  background-color: #28a745;
+  color: white;
+  border-radius: 4px;
+  font-size: 0.875rem;
+  margin-left: 8px;
+}
+
+/* -------------------------------------------------------------------------------------*/
+
 .route-details {
   display: none;
   background: white;
@@ -186,6 +406,110 @@ button:hover {
   justify-content: center;
   color: #64748b;
 }
+
+/* Popular Routes */
+.popular-routes {
+  margin-top: 3rem;
+}
+
+.route-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.route-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+}
+
+.route-card h3 {
+  color: #4F46E5;
+  margin-bottom: 1rem;
+}
+
+.popular-route-details {
+  margin-top: 1rem;
+} 
+
+.route-detail {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+}
+
+.state-links {
+  background: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+}
+
+.state-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.state-grid a {
+  color: #4b5563;
+  text-decoration: none;
+  padding: 0.5rem;
+}
+
+.state-grid a:hover {
+  color: #4F46E5;
+}
+
+/* Footer */
+footer {
+  background-color: #222;
+  color: #aaa;
+  padding: 60px 0 30px;
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.footer-column h3 {
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.footer-column ul {
+  list-style: none;
+}
+
+.footer-column li {
+  margin-bottom: 10px;
+}
+
+.footer-column a {
+  color: #aaa;
+  transition: color 0.3s ease;
+}
+
+.footer-column a:hover {
+  color: white;
+}
+
+.copyright {
+  text-align: center;
+  padding-top: 30px;
+  border-top: 1px solid #444;
+  font-size: 0.9rem;
+}
+
 
 @media (max-width: 640px) {
   .search-box {
