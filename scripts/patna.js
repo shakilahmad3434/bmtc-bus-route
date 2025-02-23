@@ -1,18 +1,8 @@
-import {fetchBusRoute} from './fetchBusRoute.js'
+
 import {fetchRouteData} from './fetchRouteData.js'
 import { fetchStates } from './states.js';
 import { fetchStageInfo } from './fetchStageInfo.js';
-
-// fetch bus route
-
-async function getAllRoutes(){
-  const options = await fetchBusRoute('patna');
-  // Add default option and set innerHTML
-  document.querySelector('.js-bus-route-no').innerHTML = `
-      <option value="">Select Bus No</option>
-      ${options}
-  `;
-}
+import { tabSwitch } from './tab-switch.js';
 
 function searchRoute(routeInfo) {
   const routeDetails = document.getElementById('routeDetails');
@@ -46,15 +36,7 @@ function searchRoute(routeInfo) {
 
 // Event Layer
 document.addEventListener("DOMContentLoaded", async () => {
-  getAllRoutes()
   
-  const states = await fetchStates()
-  let stateHTML = '';
-  states.forEach(state => {
-    const slug = state.toLowerCase().replace(/\s+/g, '-');
-      stateHTML +=`<a href="/${slug}">${state}</a>`
-  })
-  document.querySelector(".state-grid").innerHTML = stateHTML;
 
   document.querySelector(".search-button").addEventListener("click", async () => {
     const selectInput = document.querySelector(".js-bus-route-no").value;
@@ -70,14 +52,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   });
 });
-
-function searchStage() {
-  alert('Searching for bus stages... (Feature in development)');
-}
-
-function searchFromTo() {
-  alert('Searching routes between locations... (Feature in development)');
-}
 
 
 
@@ -102,6 +76,8 @@ async function initializeTable(busStageName) {
 
 
 // Initialize the page
-window.onload = function() {
+window.onload = async function() {
+  tabSwitch()
   initializeTable();
+  document.querySelector(".state-grid").innerHTML = await fetchStates();
 };

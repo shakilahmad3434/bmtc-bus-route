@@ -1,9 +1,28 @@
+import {fetchBusRoute} from './fetchBusRoute.js'
+// fetch bus route
+
+async function getAllRoutes(){
+  try {
+    const options = await fetchBusRoute('patna');
+    document.querySelector('.js-bus-route-no').innerHTML = `
+      <option value="">Select Bus No</option>
+      ${options}
+  `;
+  } catch (error) {
+    console.error('Error fetching bus routes:', error);
+    document.querySelector('.js-bus-route-no').innerHTML = `
+      <option value="">Failed to load bus routes</option>
+    `;
+  }
+}
+
 // Tab switching functionality
-const tabs = document.querySelectorAll('.search-tab');
+export function tabSwitch(){
+  const tabs = document.querySelectorAll('.search-tab');
 const searchContent = document.querySelector('.search-content');
 
 tabs.forEach(tab => {
-    tab.addEventListener('click', () => {
+    tab.addEventListener('click', async () => {
         // Remove active class from all tabs
         tabs.forEach(t => t.classList.remove('active'));
         // Add active class to clicked tab
@@ -17,6 +36,8 @@ tabs.forEach(tab => {
                 <input type="text" placeholder="Enter route number">
                 <button class="search-button">Search</button>
             `;
+            // Fetch and populate bus routes
+            await getAllRoutes();
         } else if (tab.textContent === 'Source - Destination') {
             searchContent.innerHTML = `
                 <input type="text" placeholder="Enter source">
@@ -36,4 +57,6 @@ tabs.forEach(tab => {
             `;
         }
     });
+    getAllRoutes()
 });
+}
