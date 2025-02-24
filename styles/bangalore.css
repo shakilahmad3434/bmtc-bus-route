@@ -219,7 +219,78 @@ button:hover {
   opacity: 0.9;
 }
 
-/* --------------------------------------------------------------------------*/
+
+/* ----------------------------------------- Bus Route Coding Details ---------------------------------------- */
+
+.bus-route-details {
+  display: none;
+  background: white;
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 10px 20px 0px rgba(0, 0, 0, 0.1);
+  margin-bottom: 3rem;
+}
+
+.route-info {
+  margin-bottom: 2rem;
+}
+
+.route-info div {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 1rem;
+}
+
+.stops-list {
+  position: relative;
+  padding-left: 2rem;
+}
+
+.stop-item {
+  position: relative;
+  padding: 1rem 0;
+  padding-left: 1rem;
+  font-size: 1rem;
+}
+
+.stop-marker {
+  position: absolute;
+  left: -2rem;
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #4F46E5;
+  color: white;
+  border-radius: 50%;
+  font-size: 0.875rem;
+}
+
+.route-line {
+  position: absolute;
+  left: -1.25rem;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #4F46E5;
+}
+
+.map-view {
+  height: 300px;
+  background: #e2e8f0;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #64748b;
+  font-size: 1rem;
+}
+
+/* ------------------------------------- Bus Stops Finder ---------------------------------------- */
 
 .stage-info {
   display: none;
@@ -227,6 +298,7 @@ button:hover {
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 3rem;
 }
 
 .stage-name {
@@ -241,6 +313,7 @@ button:hover {
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
+  font-size: 1rem;
 }
 
 .routes-table th,
@@ -280,14 +353,15 @@ button:hover {
   margin-left: 8px;
 }
 
-/* -------------------------------------------------------------------------------------*/
 
+/* --------------------------- From Source to Destination finder -------------------------------------------------- */
 .from-to-destination {
   display: none;
   background-color: white;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 3rem;
 }
 
 .from-to-destination p {
@@ -300,71 +374,6 @@ button:hover {
   0%{color: rgb(235, 145, 145);}
   50%{color: rgb(239, 88, 88);}
   100%{color: rgb(237, 10, 10);}
-}
-
-.route-details {
-  display: none;
-  background: white;
-  border-radius: 1rem;
-  padding: 2rem;
-  margin-top: 2rem;
-  box-shadow: var(--shadow-lg);
-}
-
-.route-info {
-  margin-bottom: 2rem;
-}
-
-.route-info div {
-  display: flex;
-  justify-content: space-between;
-  padding: 1rem 0;
-  border-bottom: 1px solid #e2e8f0;
-}
-
-.stops-list {
-  position: relative;
-  padding-left: 2rem;
-}
-
-.stop-item {
-  position: relative;
-  padding: 1rem 0;
-  padding-left: 1rem;
-}
-
-.stop-marker {
-  position: absolute;
-  left: -2rem;
-  width: 2rem;
-  height: 2rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #4F46E5;
-  color: white;
-  border-radius: 50%;
-  font-size: 0.875rem;
-}
-
-.route-line {
-  position: absolute;
-  left: -1.25rem;
-  top: 0;
-  bottom: 0;
-  width: 2px;
-  background: #4F46E5;
-}
-
-.map-view {
-  height: 300px;
-  background: #e2e8f0;
-  border-radius: 0.5rem;
-  margin-top: 2rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #64748b;
 }
 
 /* ------------------------------ Quick Information about Bus Transportation --------------------------- */
@@ -560,46 +569,4 @@ button:hover {
   color: #4F46E5;
 }
 
-/* Footer */
-footer {
-  background-color: #222;
-  color: #aaa;
-  padding: 60px 0 30px;
-}
 
-.footer-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 40px;
-  margin-bottom: 40px;
-}
-
-.footer-column h3 {
-  color: white;
-  font-size: 1.2rem;
-  margin-bottom: 20px;
-}
-
-.footer-column ul {
-  list-style: none;
-}
-
-.footer-column li {
-  margin-bottom: 10px;
-}
-
-.footer-column a {
-  color: #aaa;
-  transition: color 0.3s ease;
-}
-
-.footer-column a:hover {
-  color: white;
-}
-
-.copyright {
-  text-align: center;
-  padding-top: 30px;
-  border-top: 1px solid #444;
-  font-size: 0.9rem;
-}
