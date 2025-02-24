@@ -1,28 +1,18 @@
+"use-strict"
 import { fetchStates } from './states.js';
 import { tabSwitch } from './tab-switch.js';
 
 
 document.querySelector('.mobile-menu-toggle').addEventListener('click', function () {
-  const navbarMenu = document.querySelector('.navbar-menu');
-  navbarMenu.classList.toggle('active'); // Toggle the 'active' class
+  const navbarMenu = document.querySelector('.mobile-menu');
+  if(navbarMenu.style.display === "block"){
+
+    navbarMenu.style.display = 'none';
+  } else{
+    navbarMenu.style.display = 'block';
+  }
+
 });
-
-// Simple mobile menu toggle
-// document
-//   .querySelector(".mobile-menu-toggle")
-//   .addEventListener("click", function () {
-//     document.querySelector("nav ul").classList.toggle("show");
-//   });
-
-// Hide mobile menu when clicking outside
-// document.addEventListener("click", function (event) {
-//   if (
-//     !event.target.closest("nav") &&
-//     !event.target.closest(".mobile-menu-toggle")
-//   ) {
-//     document.querySelector("nav ul").classList.remove("show");
-//   }
-// });
 
 // fetch state wise menu data
 async function getStateWise(){
@@ -33,6 +23,7 @@ async function getStateWise(){
   }
 
   document.querySelector(".dropdown-menu").innerHTML = stateHTML;
+  document.querySelector(".mobile-dropdown-menu").innerHTML = stateHTML;
 }
 
 // Initialize the page
