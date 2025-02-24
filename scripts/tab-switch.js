@@ -5,9 +5,9 @@ import { searchByStop } from './searchByStop.js';
 import { searchByDestination } from './searchByDestination.js';
 
 // Fetch bus route and populate dropdown
-async function getAllRoutes() {
+async function getAllRoutes(city) {
   try {
-    const options = await fetchBusRoute('patna');
+    const options = await fetchBusRoute(city);
     document.querySelector('.js-bus-route-no').innerHTML = `
       <option value="">Select Bus No</option>
       ${options}
@@ -21,9 +21,9 @@ async function getAllRoutes() {
 }
 
 // Fetch bus stop names and populate dropdown
-async function getAllBusStageName() {
+async function getAllBusStageName(city) {
   try {
-    const options = await getBusStageName('patna');
+    const options = await getBusStageName(city);
     document.querySelector('.js-bus-stop-name').innerHTML = `
       <option value="">Select Bus Stop</option>
       ${options}
@@ -37,7 +37,7 @@ async function getAllBusStageName() {
 }
 
 // Tab switching functionality
-export function tabSwitch() {
+export function tabSwitch(city) {
   const tabs = document.querySelectorAll('.search-tab');
   const searchContent = document.querySelector('.search-content');
 
@@ -57,9 +57,9 @@ export function tabSwitch() {
           <button class="search-routes" id="searchByRouteButton">Search</button>
         `;
         // Fetch and populate bus routes
-        await getAllRoutes();
+        await getAllRoutes(city);
         // Attach event listener for search button
-        document.getElementById('searchByRouteButton').addEventListener('click', searchByRoute);
+        document.getElementById('searchByRouteButton').addEventListener('click', ()=> searchByRoute(city));
 
       } else if (tab.textContent === 'Source - Destination') {
         searchContent.innerHTML = `
@@ -76,7 +76,7 @@ export function tabSwitch() {
           <button class="search-stages" id="searchByStopButton">Search</button>
         `;
         // Fetch and populate bus stop names
-        await getAllBusStageName();
+        await getAllBusStageName(city);
         // Attach event listener for search button
         document.getElementById('searchByStopButton').addEventListener('click', searchByStop);
       }

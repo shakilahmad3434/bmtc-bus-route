@@ -3,88 +3,378 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enhanced Bus Route Finder</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/lucide.min.js"></script>
+    <meta name="description" content="Complete guide to Karnataka (KSRTC) bus routes, timings, and fares. Find bus routes in Bangalore, Mysore, Mangalore & other cities. Live bus tracking available.">
+    <meta name="keywords" content="Karnataka bus routes, KSRTC timings, Karnataka bus service, Bangalore bus routes">
+    <title>Bangalore Bus Route Finder</title>
     <link rel="stylesheet" href="styles/bangalore.css">
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/footer.css">
+    <link rel="stylesheet" href="styles/responsive.css">
 </head>
 <body>
-    <div class="hero">
-        <h1>Bus Route Finder</h1>
-        <p>Find your way around the city with our easy-to-use bus route finder</p>
-    </div>
-
-    <div class="container">
-        <div class="search-container">
-
-            <div class="tabs">
-                <div class="tab active" data-tab="route">Bus Routes</div>
-                <div class="tab" data-tab="stage">Bus Stages</div>
-                <div class="tab" data-tab="fromto">From - To</div>
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <a href="/patna.html">
+                    <img src="images/logo.png" alt="bangalore city bus">
+                </a>
             </div>
-
-            <div class="search-box">
-                <div class="city-selector">
-                    <select id="city" class="js-bus-route-no">
-                        <!-- insert bus route from JS  -->
-                    </select>
-                </div>
-                <div class="search-group active" id="route-search">
-                    <input type="text" placeholder="Enter route number (e.g. 105A)" id="routeId" />
-                    <button class="submit-route">Search</button>
-                </div>
-
-                <div class="search-group" id="stage-search">
-                    <input type="text" placeholder="Enter bus stage name" />
-                    <button onclick="searchStage()">Search</button>
-                </div>
-
-                <div class="search-group" id="fromto-search">
-                    <input type="text" placeholder="From" />
-                    <input type="text" placeholder="To" />
-                    <button onclick="searchFromTo()">Search</button>
-                </div>
-            </div>
-
-            <div id="routeDetails" class="route-details">
-                <div class="route-info">
-                    <div>
-                        <span>Route Number:</span>
-                        <span id="routeNo"></span>
-                    </div>
-                    <div>
-                        <span>From:</span>
-                        <span id="routeFrom"></span>
-                    </div>
-                    <div>
-                        <span>To:</span>
-                        <span id="routeTo"></span>
-                    </div>
-                    <div>
-                        <span>Total Distance:</span>
-                        <span id="routeDistance"></span>
-                    </div>
-                    <div>
-                        <span>Total Stops:</span>
-                        <span id="totalStops"></span>
-                    </div>
-                    <div>
-                        <span>Frequency:</span>
-                        <span>Every 15 minutes</span>
-                    </div>
-                </div>
-
-                <h3>Stops</h3>
-                <div class="stops-list" id="stopsList">
-                    <div class="route-line"></div>
-                </div>
-
-                <div class="map-view">
-                    Route Map View (Map integration placeholder)
-                </div>
+            <button class="mobile-menu-toggle">☰</button>
+            <nav>
+                <ul class="navbar-menu">
+                    <li><a href="#home">Home</a></li>
+                    <li>
+                        <a href="#state-wise">State Wise</a>
+                        <ul class="dropdown-menu">
+                            <!-- <li><a href="#">Patna</a></li> -->
+                        </ul>
+                    </li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+            <div class="mobile-menu">
+                <ul class="mobile-menu-navbar">
+                    <li><a href="#home">Home</a></li>
+                    <li>
+                        <a href="#state-wise">State Wise</a>
+                        <ul class="mobile-dropdown-menu">
+                            <!-- <li><a href="#">Patna</a></li> -->
+                        </ul>
+                    </li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
             </div>
         </div>
-    </div>
+    </header>
 
-    <script src="scripts/bangalore.js" type="module"></script>
+ <!-- main element coding -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-info">
+                <h1>Bus Route Finder</h1>
+                <p>Find your way around the city with our easy-to-use bus route finder</p>
+            </div>
+
+            <section class="search-section">
+                <div class="search-tabs">
+                    <div class="search-tab active">Route Number</div>
+                    <div class="search-tab">Bus Stop</div>
+                    <div class="search-tab">Source - Destination</div>
+                </div>
+                <div class="search-content">
+                    <select class="js-bus-route-no">
+                        <!-- insert bus route no from JS -->
+                    </select>
+                    <input type="text" placeholder="Enter route number or destination" id="routeId">
+                    <button class="search-button">Search</button>
+                </div>
+            </section>
+        </div>
+    </section>
+
+    <main class="container">  
+        <!-- bus route no info  -->
+        <div id="routeDetails" class="bus-route-details">
+            <div class="route-info">
+                <div>
+                    <span>Route Number:</span>
+                    <span id="routeNo"></span>
+                </div>
+                <div>
+                    <span>From:</span>
+                    <span id="routeFrom"></span>
+                </div>
+                <div>
+                    <span>To:</span>
+                    <span id="routeTo"></span>
+                </div>
+                <div>
+                    <span>Total Distance:</span>
+                    <span id="routeDistance"></span>
+                </div>
+                <div>
+                    <span>Total Stops:</span>
+                    <span id="totalStops"></span>
+                </div>
+                <div>
+                    <span>Frequency:</span>
+                    <span>Every 15 minutes</span>
+                </div>
+            </div>
+
+            <h3>Stops</h3>
+            <div class="stops-list" id="stopsList">
+                <div class="route-line"></div>
+            </div>
+
+            <div class="map-view">
+                Route Map View Loading...
+            </div>
+        </div>
+
+        <!-- bus stages no  -->
+        <div class="stage-info" style="overflow-x: auto;">
+            <h2 class="stage-name">
+                <span class="bus-stage-name">Bus Stage Name</span>
+                <span class="info-badge">Active</span>
+            </h2>
+
+            <table class="routes-table">
+                <thead>
+                    <tr>
+                        <th>Sl No.</th>
+                        <th>Bus Route</th>
+                        <th>From and To Details</th>
+                        <th>Frequency</th>
+                        <th>Next Bus</th>
+                    </tr>
+                </thead>
+                <tbody id="routesBody">
+                    <!-- Routes will be populated here -->
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Bus Source - Destination -->
+         <div class="from-to-destination">
+            <p>Bus route to the destination feature is coming soon...</p>
+         </div>
+
+
+        <!-- Quick Info  -->
+         <section class="quick-info">
+            <div class="info-container">
+                <h1>Bangalore City Transport Information</h1>
+                <p>Connecting cities and communities across Bangaluru with reliable public transportation</p>
+                <div class="bracker-line"></div>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card blue">
+                    <div class="stat-header">
+                        <span class="stat-title">Daily Buses</span>
+                        <div class="stat-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h8m-8 5h8m-4-9h4a2 2 0 012 2v14a2 2 0 01-2 2H6a2 2 0 01-2-2V5a2 2 0 012-2h4"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="stat-value">8,000+</div>
+                </div>
+
+                <div class="stat-card purple">
+                    <div class="stat-header">
+                        <span class="stat-title">Routes</span>
+                        <div class="stat-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="stat-value">2,500+</div>
+                </div>
+
+                <div class="stat-card green">
+                    <div class="stat-header">
+                        <span class="stat-title">Cities Covered</span>
+                        <div class="stat-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="stat-value">200+</div>
+                </div>
+
+                <div class="stat-card orange">
+                    <div class="stat-header">
+                        <span class="stat-title">Daily Passengers</span>
+                        <div class="stat-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="stat-value">2.5M+</div>
+                </div>
+            </div>
+        </section>
+         <!-- Quick Ended Code  -->
+
+        <section class="popular-routes">
+                <div class="info-container">
+                    <h1>Popular Routes</h1>
+                    <p>Connecting cities and communities across Bangaluru with reliable public transportation</p>
+                    <div class="bracker-line"></div>
+                </div>
+        
+                <div class="popular-routes-grid">
+                    <!-- Bangalore - Mysore -->
+                    <div class="popular-route-card">
+                        <div class="popular-route-image">
+                            <img src="https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800" alt="Bangalore to Mysore route">
+                            <h2 class="popular-route-title">Bangalore - Mysore</h2>
+                        </div>
+                        <div class="popular-route-info">
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">Distance</span>
+                                    <span class="info-value">150 km</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Duration</span>
+                                    <span class="info-value">3.5 hours</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Frequency</span>
+                                    <span class="info-value">Every 15 mins</span>
+                                </div>
+                            </div>
+                            <div class="divider"></div>
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">First Bus</span>
+                                    <span class="info-value">5:00 AM</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Last Bus</span>
+                                    <span class="info-value">11:30 PM</span>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+        
+                    <!-- Bangalore - Mangalore -->
+                    <div class="popular-route-card">
+                        <div class="popular-route-image">
+                            <img src="https://images.unsplash.com/photo-1600697394936-59934aa5951f?auto=format&fit=crop&q=80&w=800" alt="Bangalore to Mangalore route">
+                            <h2 class="popular-route-title">Bangalore - Mangalore</h2>
+                        </div>
+                        <div class="popular-route-info">
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">Distance</span>
+                                    <span class="info-value">350 km</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Duration</span>
+                                    <span class="info-value">8 hours</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Frequency</span>
+                                    <span class="info-value">Every 30 mins</span>
+                                </div>
+                            </div>
+                            <div class="divider"></div>
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">First Bus</span>
+                                    <span class="info-value">6:00 AM</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Last Bus</span>
+                                    <span class="info-value">10:30 PM</span>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+        
+                    <!-- Mysore - Hassan -->
+                    <div class="popular-route-card">
+                        <div class="popular-route-image">
+                            <img src="https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800" alt="Mysore to Hassan route">
+                            <h2 class="popular-route-title">Mysore - Hassan</h2>
+                        </div>
+                        <div class="popular-route-info">
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">Distance</span>
+                                    <span class="info-value">118 km</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Duration</span>
+                                    <span class="info-value">2.5 hours</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Frequency</span>
+                                    <span class="info-value">Every hour</span>
+                                </div>
+                            </div>
+                            <div class="divider"></div>
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">First Bus</span>
+                                    <span class="info-value">6:00 AM</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Last Bus</span>
+                                    <span class="info-value">9:30 PM</span>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+        <!-- Quick City Bus Links -->
+
+        <section class="state-links">
+            <h2>Other State Bus Services</h2>
+            <div class="state-grid">
+                <!-- insert item from JS  -->
+            </div>
+        </section>
+
+</main>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="footer-container">
+            <div class="footer-column">
+                <h3>About KSRTC</h3>
+                <p>Karnataka State Road Transport Corporation (KSRTC) is a state-owned transport company providing bus services within Karnataka and neighboring states.</p>
+            </div>
+            <div class="footer-column">
+                <h3>Useful Links</h3>
+                <ul>
+                    <li><a href="#">Bus Pass Application</a></li>
+                    <li><a href="#">Time Table</a></li>
+                    <li><a href="#">Fare Calculator</a></li>
+                    <li><a href="#">Digital Marketing</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#home">Terms and Conditions</a></li>
+                    <li><a href="#about">Privacy Policy</a></li>
+                    <li><a href="#services">Discremer</a></li>
+                    <li><a href="#portfolio">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Contact Info</h3>
+                <p>24/7 Helpline: 1800-425-1777</p>
+                <p>Email: helpline@ksrtc.in</p>
+                <p>Website: www.ksrtc.in</p>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2025 Bangalore City Bus. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+
+    <script src="scripts/app.js" type="module"></script>
 </body>
 </html>

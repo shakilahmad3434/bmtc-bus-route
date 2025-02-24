@@ -14,6 +14,9 @@ document.querySelector('.mobile-menu-toggle').addEventListener('click', function
 
 });
 
+const myURL =  window.location.pathname;
+const city = myURL.split('/').pop().split('.')[0];
+
 // fetch state wise menu data
 async function getStateWise(){
   const states = await fetchStates();
@@ -29,7 +32,7 @@ async function getStateWise(){
 // Initialize the page
 window.onload = async function() {
   getStateWise()
-  tabSwitch()
+  tabSwitch(city)
   const {stateHTML} = await fetchStates();
   document.querySelector(".state-grid").innerHTML = stateHTML;
 };

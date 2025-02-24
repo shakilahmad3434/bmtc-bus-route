@@ -1,7 +1,7 @@
 import { displayRouteDetails } from './displayRouteDetails.js';
 import {fetchRouteData} from './fetchRouteData.js'
 
-export async function searchByRoute(){
+export async function searchByRoute(city){
   document.querySelector(".stage-info").style.display = 'none';
   document.querySelector('.from-to-destination').style.display = 'none';
   
@@ -12,7 +12,7 @@ export async function searchByRoute(){
     if (!routeNo) return alert("Please select the route");
 
     try {
-      const routeInfo = await fetchRouteData('patna', routeNo);
+      const routeInfo = await fetchRouteData(city, routeNo);
       displayRouteDetails(routeInfo)
     } catch (error) {
       console.error("Failed to fetch route info:", error);
