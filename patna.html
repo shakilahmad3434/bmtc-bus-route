@@ -50,29 +50,29 @@
     </header>
 
  <!-- main element coding -->
-    <div class="hero">
-        <div class="container" style="padding-bottom: 0px !important;">
-        <div class="hero-info">
-            <h1>Bus Route Finder</h1>
-            <p>Find your way around the city with our easy-to-use bus route finder</p>
-        </div>
+    <section class="hero">
+        <div class="container">
+            <div class="hero-info">
+                <h1>Bus Route Finder</h1>
+                <p>Find your way around the city with our easy-to-use bus route finder</p>
+            </div>
 
-        <section class="search-section">
-            <div class="search-tabs">
-                <div class="search-tab active">Route Number</div>
-                <div class="search-tab">Bus Stop</div>
-                <div class="search-tab">Source - Destination</div>
-            </div>
-            <div class="search-content">
-                <select class="js-bus-route-no">
-                    <!-- insert bus route no from JS -->
-                </select>
-                <input type="text" placeholder="Enter route number or destination" id="routeId">
-                <button class="search-button">Search</button>
-            </div>
-        </section>
+            <section class="search-section">
+                <div class="search-tabs">
+                    <div class="search-tab active">Route Number</div>
+                    <div class="search-tab">Bus Stop</div>
+                    <div class="search-tab">Source - Destination</div>
+                </div>
+                <div class="search-content">
+                    <select class="js-bus-route-no">
+                        <!-- insert bus route no from JS -->
+                    </select>
+                    <input type="text" placeholder="Enter route number or destination" id="routeId">
+                    <button class="search-button">Search</button>
+                </div>
+            </section>
         </div>
-    </div>
+    </section>
 
     <main class="container">  
         <!-- bus route no info  -->
@@ -142,108 +142,187 @@
             <p>Bus route to the destination feature is coming soon...</p>
          </div>
 
-        <section class="quick-info">
-            <h2>Karnataka State Transport Information</h2>
-            <div class="info-grid">
-                <div class="info-item">
-                    <h4>Daily Buses</h4>
-                    <p>8,000+</p>
+
+        <!-- Quick Info  -->
+         <section class="quick-info">
+            <div class="info-container">
+                <h1>Bangalore City Transport Information</h1>
+                <p>Connecting cities and communities across Bangaluru with reliable public transportation</p>
+                <div class="bracker-line"></div>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card blue">
+                    <div class="stat-header">
+                        <span class="stat-title">Daily Buses</span>
+                        <div class="stat-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h8m-8 5h8m-4-9h4a2 2 0 012 2v14a2 2 0 01-2 2H6a2 2 0 01-2-2V5a2 2 0 012-2h4"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="stat-value">8,000+</div>
                 </div>
-                <div class="info-item">
-                    <h4>Routes</h4>
-                    <p>2,500+</p>
+
+                <div class="stat-card purple">
+                    <div class="stat-header">
+                        <span class="stat-title">Routes</span>
+                        <div class="stat-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="stat-value">2,500+</div>
                 </div>
-                <div class="info-item">
-                    <h4>Cities Covered</h4>
-                    <p>200+</p>
+
+                <div class="stat-card green">
+                    <div class="stat-header">
+                        <span class="stat-title">Cities Covered</span>
+                        <div class="stat-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="stat-value">200+</div>
                 </div>
-                <div class="info-item">
-                    <h4>Daily Passengers</h4>
-                    <p>2.5M+</p>
+
+                <div class="stat-card orange">
+                    <div class="stat-header">
+                        <span class="stat-title">Daily Passengers</span>
+                        <div class="stat-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="stat-value">2.5M+</div>
                 </div>
             </div>
         </section>
+         <!-- Quick Ended Code  -->
 
         <section class="popular-routes">
-            <h2>Popular Routes</h2>
-            <div class="route-cards">
-                <div class="route-card">
-                    <h3>Bangalore - Mysore</h3>
-                    <div class="popular-route-details">
-                        <div class="route-detail">
-                            <span>Distance:</span>
-                            <span>150 km</span>
+                <div class="info-container">
+                    <h1>Popular Routes</h1>
+                    <p>Connecting cities and communities across Bangaluru with reliable public transportation</p>
+                    <div class="bracker-line"></div>
+                </div>
+        
+                <div class="popular-routes-grid">
+                    <!-- Bangalore - Mysore -->
+                    <div class="popular-route-card">
+                        <div class="popular-route-image">
+                            <img src="https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800" alt="Bangalore to Mysore route">
+                            <h2 class="popular-route-title">Bangalore - Mysore</h2>
                         </div>
-                        <div class="route-detail">
-                            <span>Duration:</span>
-                            <span>3.5 hours</span>
+                        <div class="popular-route-info">
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">Distance</span>
+                                    <span class="info-value">150 km</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Duration</span>
+                                    <span class="info-value">3.5 hours</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Frequency</span>
+                                    <span class="info-value">Every 15 mins</span>
+                                </div>
+                            </div>
+                            <div class="divider"></div>
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">First Bus</span>
+                                    <span class="info-value">5:00 AM</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Last Bus</span>
+                                    <span class="info-value">11:30 PM</span>
+                                </div>
+                            </div>
+
                         </div>
-                        <div class="route-detail">
-                            <span>Frequency:</span>
-                            <span>Every 15 mins</span>
+                    </div>
+        
+                    <!-- Bangalore - Mangalore -->
+                    <div class="popular-route-card">
+                        <div class="popular-route-image">
+                            <img src="https://images.unsplash.com/photo-1600697394936-59934aa5951f?auto=format&fit=crop&q=80&w=800" alt="Bangalore to Mangalore route">
+                            <h2 class="popular-route-title">Bangalore - Mangalore</h2>
                         </div>
-                        <div class="route-detail">
-                            <span>First Bus:</span>
-                            <span>5:00 AM</span>
+                        <div class="popular-route-info">
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">Distance</span>
+                                    <span class="info-value">350 km</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Duration</span>
+                                    <span class="info-value">8 hours</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Frequency</span>
+                                    <span class="info-value">Every 30 mins</span>
+                                </div>
+                            </div>
+                            <div class="divider"></div>
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">First Bus</span>
+                                    <span class="info-value">6:00 AM</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Last Bus</span>
+                                    <span class="info-value">10:30 PM</span>
+                                </div>
+                            </div>
+
                         </div>
-                        <div class="route-detail">
-                            <span>Last Bus:</span>
-                            <span>11:30 PM</span>
+                    </div>
+        
+                    <!-- Mysore - Hassan -->
+                    <div class="popular-route-card">
+                        <div class="popular-route-image">
+                            <img src="https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800" alt="Mysore to Hassan route">
+                            <h2 class="popular-route-title">Mysore - Hassan</h2>
+                        </div>
+                        <div class="popular-route-info">
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">Distance</span>
+                                    <span class="info-value">118 km</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Duration</span>
+                                    <span class="info-value">2.5 hours</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Frequency</span>
+                                    <span class="info-value">Every hour</span>
+                                </div>
+                            </div>
+                            <div class="divider"></div>
+                            <div class="popular-info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">First Bus</span>
+                                    <span class="info-value">6:00 AM</span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Last Bus</span>
+                                    <span class="info-value">9:30 PM</span>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
-                <div class="route-card">
-                    <h3>Bangalore - Mangalore</h3>
-                    <div class="popular-route-details">
-                        <div class="route-detail">
-                            <span>Distance:</span>
-                            <span>350 km</span>
-                        </div>
-                        <div class="route-detail">
-                            <span>Duration:</span>
-                            <span>8 hours</span>
-                        </div>
-                        <div class="route-detail">
-                            <span>Frequency:</span>
-                            <span>Every 30 mins</span>
-                        </div>
-                        <div class="route-detail">
-                            <span>First Bus:</span>
-                            <span>6:00 AM</span>
-                        </div>
-                        <div class="route-detail">
-                            <span>Last Bus:</span>
-                            <span>10:30 PM</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="route-card">
-                    <h3>Mysore - Hassan</h3>
-                    <div class="popular-route-details">
-                        <div class="route-detail">
-                            <span>Distance:</span>
-                            <span>118 km</span>
-                        </div>
-                        <div class="route-detail">
-                            <span>Duration:</span>
-                            <span>2.5 hours</span>
-                        </div>
-                        <div class="route-detail">
-                            <span>Frequency:</span>
-                            <span>Every hour</span>
-                        </div>
-                        <div class="route-detail">
-                            <span>First Bus:</span>
-                            <span>6:00 AM</span>
-                        </div>
-                        <div class="route-detail">
-                            <span>Last Bus:</span>
-                            <span>9:30 PM</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </section>
+
+        <!-- Quick City Bus Links -->
 
         <section class="state-links">
             <h2>Other State Bus Services</h2>

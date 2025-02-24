@@ -33,8 +33,54 @@ li {
   list-style: none;
 }
 
+.bracker-line {
+  height: 4px;
+  width: 80px;
+  background-color: #3b82f6;
+  margin: 0 auto;
+  border-radius: 2px;
+}
 
-/* Hero Section  */
+.info-container {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.info-container h1 {
+  color: #1a1a1a;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.info-container p {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+
+/* -------------------------------------------------- Hero Section --------------------------------------------  */
+
+.hero {
+  background-color: #D6fff6;
+ color: #231651;
+ /* padding: 4rem 2rem; */
+ text-align: center;
+ margin-bottom: 2rem;
+}
+
+.hero h1 {
+ font-size: 2.5rem;
+ margin-bottom: 1rem;
+}
+
+.hero p {
+ font-size: 1.1rem;
+ opacity: 0.9;
+}
+
+.hero-info {
+ padding-bottom: 3rem;
+}
 
 .search-section {
   background: white;
@@ -56,6 +102,7 @@ li {
   cursor: pointer;
   border-bottom: 2px solid transparent;
   margin-bottom: -2px;
+  font-size: 1rem;
 }
 
 .search-tab.active {
@@ -87,53 +134,8 @@ li {
   font-weight: 500;
 }
 
+/* ------------------------------------------------------------------------------- */
 
-
-.hero {
-   background-color: #D6fff6;
-  color: #231651;
-  padding: 4rem 2rem;
-  text-align: center;
-  margin-bottom: 2rem;
-}
-
-.hero h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-.hero p {
-  font-size: 1.1rem;
-  opacity: 0.9;
-}
-
-.hero-info {
-  padding-bottom: 3rem;
-}
-
-.quick-info {
-  background: white;
-  padding: 2rem;
-  border-radius: 1rem;
-  box-shadow:  4px 6px -1px rgba(0,0,0,0.1);
-  margin: 2rem 0;
-}
-
-.info-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 2rem;
-  margin-top: 1rem;
-}
-
-.info-item {
-  text-align: center;
-}
-
-.info-item h4 {
-  color: #4F46E5;
-  margin-bottom: 0.5rem;
-}
 
 .search-container {
   max-width: 800px;
@@ -218,6 +220,7 @@ button:hover {
 }
 
 /* --------------------------------------------------------------------------*/
+
 .stage-info {
   display: none;
   background-color: white;
@@ -364,41 +367,171 @@ button:hover {
   color: #64748b;
 }
 
-/* Popular Routes */
-.popular-routes {
-  margin-top: 3rem;
+/* ------------------------------ Quick Information about Bus Transportation --------------------------- */
+.quick-info {
+  margin-bottom: 5rem;
 }
-
-.route-cards {
+.stats-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin-top: 1.5rem;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  max-width: 1024px;
+  margin: 0 auto;
 }
 
-.route-card {
+.stat-card {
   background: white;
+  border-radius: 12px;
   padding: 1.5rem;
-  border-radius: 1rem;
-  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
 }
 
-.route-card h3 {
-  color: #4F46E5;
+.stat-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+}
+
+.stat-card::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+}
+
+.stat-card.blue::after { background-color: #3b82f6; }
+.stat-card.purple::after { background-color: #8b5cf6; }
+.stat-card.green::after { background-color: #10b981; }
+.stat-card.orange::after { background-color: #f59e0b; }
+
+.stat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin-bottom: 1rem;
 }
 
-.popular-route-details {
-  margin-top: 1rem;
-} 
-
-.route-detail {
-  display: flex;
-  justify-content: space-between;
-  padding: 0.5rem 0;
+.stat-title {
+  color: #4b5563;
+  font-size: 1rem;
+  font-weight: 500;
 }
 
-/* State Service Links  */
+.stat-icon {
+  width: 24px;
+  height: 24px;
+  color: #4b5563;
+}
+
+.stat-value {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+/* SVG Icons */
+.stat-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* ------------------------------------------------- Popular Routes ----------------------------------------- */
+
+.popular-routes-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.popular-route-card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.popular-route-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+}
+
+.popular-route-image {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+}
+
+.popular-route-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.popular-route-image::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50%;
+  background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+}
+
+.popular-route-title {
+  position: absolute;
+  bottom: 1rem;
+  left: 1.5rem;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+  z-index: 1;
+}
+
+.popular-route-info {
+  padding: 1.5rem;
+}
+
+.popular-info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.info-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.info-label {
+  color: #6b7280;
+  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.info-value {
+  color: #1a1a1a;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.divider {
+  height: 1px;
+  background-color: #e5e7eb;
+  margin: 1.5rem 0;
+}
+
+
+
+/* ---------------------------------------- State Service Links -------------------------------------  */
 
 .state-links {
   background: white;
