@@ -9,6 +9,7 @@
 @import "./components/tab-switch.css";
 @import "./components/button.css";
 @import "./components/search.css";
+@import url("../styles/components/hero.css");
 
 /* Page-specific styles */
 @import "./pages/bangalore.css";
@@ -19,3 +20,4 @@
 /* Utility styles */
 @import "./utils/responsive.css";
 @import "./utils/helpers.css";
+@import url("./utils/global.css");
