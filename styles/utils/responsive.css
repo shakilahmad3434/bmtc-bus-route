@@ -56,6 +56,15 @@
   .search-content {
     flex-direction: column;
   }
+
+  /* Privacy Policy Page CSS  */
+  .content {
+    padding: 1.5rem;
+  }
+
+  .section-header {
+    margin-bottom: 1rem;
+  }
   
 } 
 

@@ -1,74 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
-
-:root {
-  --primary-gradient: linear-gradient(135deg, #4F46E5, #7C3AED);
-  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-  --tab-active: #4F46E5;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  background: #f8f9fa;
-  font-family: "jost", sans-serif;
-  font-size: 62.5%;
-  line-height: 1.6;
-}
-
-a {
-  text-decoration: none;
-  color: #0066cc;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: #004080;
-}
-
-
-.container {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
-/* Header styles */
-.header {
-  text-align: center;
-  margin-bottom: 3rem;
-}
-
-.header h1 {
-  font-size: 2.5rem;
-  color: #2d3748;
-  margin-bottom: 0.5rem;
-}
-
-.last-updated {
-  color: #666;
-}
 
 /* Table of Contents styles */
 .table-of-contents {
-  background: white;
+  background: var(--bg-card);
   padding: 1.5rem;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow-sm);
   margin-bottom: 2rem;
 }
 
 .table-of-contents h2 {
   font-size: 1.25rem;
   margin-bottom: 1rem;
-  color: #2d3748;
-}
-
-.table-of-contents ul {
-  list-style: none;
+  color: var(--text-primary);
 }
 
 .table-of-contents li {
@@ -76,8 +19,7 @@ a:hover {
 }
 
 .table-of-contents a {
-  color: #4a5568;
-  text-decoration: none;
+  color: var(--text-primary);
   display: flex;
   align-items: center;
   transition: color 0.2s;
@@ -90,15 +32,15 @@ a:hover {
 }
 
 .table-of-contents a:hover {
-  color: #2b6cb0;
+  color: var(--secondary);
 }
 
 /* Content styles */
 .content {
-  background: white;
+  background: var(--bg-card);
   padding: 2rem;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow-sm);
 }
 
 section {
@@ -123,7 +65,7 @@ section:last-child {
 
 h2 {
   font-size: 1.5rem;
-  color: #2d3748;
+  color: var(--text-primary);
 }
 
 .section-content p {
@@ -141,26 +83,7 @@ h2 {
 }
 
 .contact-info {
-  background: #f7fafc;
+  background: var(--bg-accent);
   padding: 1rem;
   border-radius: 6px;
-}
-
-/* Responsive styles */
-@media (max-width: 768px) {
-  .container {
-    padding: 1rem;
-  }
-
-  .header h1 {
-    font-size: 2rem;
-  }
-
-  .content {
-    padding: 1.5rem;
-  }
-
-  .section-header {
-    margin-bottom: 1rem;
-  }
 }
