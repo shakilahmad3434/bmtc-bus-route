@@ -1,0 +1,14 @@
+/* main.css */
+
+@import "./base/reset.css";
+@import "./base/typography.css";
+@import "./base/variables.css";
+
+@import "./components/header.css";
+@import "./components/footer.css";
+@import "./components/tab-switch.css";
+
+@import "./pages/bangalore.css";
+
+@import "./utils/responsive.css";
+@import "./utils/helpers.css";
