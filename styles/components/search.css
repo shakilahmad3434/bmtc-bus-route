@@ -1,0 +1,45 @@
+.search-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.search-content {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.search-content input,
+.search-content select {
+  padding: 0.75rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  flex: 1;
+}
+
+.search-box {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.search-group {
+  flex: 1;
+  display: none;
+}
+
+.search-group.active {
+  display: flex;
+  gap: 1rem;
+}
+
+input, select {
+  flex: 1;
+  padding: 1rem;
+  border: 2px solid #e2e8f0;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+}

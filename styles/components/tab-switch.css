@@ -1,0 +1,39 @@
+.search-tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.search-tab {
+  padding: 1rem 2rem;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  font-size: 1rem;
+}
+
+.search-tab.active {
+  color: var(--primary);
+  border-bottom-color: #4F46E5;
+}
+
+.tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.tab {
+  padding: 1rem 2rem;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: all 0.3s;
+}
+
+.tab.active {
+  color: var(--tab-active);
+  border-bottom-color: var(--tab-active);
+}

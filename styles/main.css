@@ -1,14 +1,21 @@
-/* main.css */
-
+/* Base styles */
 @import "./base/reset.css";
 @import "./base/typography.css";
 @import "./base/variables.css";
 
+/* Component styles */
 @import "./components/header.css";
 @import "./components/footer.css";
 @import "./components/tab-switch.css";
+@import "./components/button.css";
+@import "./components/search.css";
 
+/* Page-specific styles */
 @import "./pages/bangalore.css";
+@import "./pages/patna.css";
+@import "./pages/privacy.css";
+@import "./pages/disclaimer.css";
 
+/* Utility styles */
 @import "./utils/responsive.css";
 @import "./utils/helpers.css";

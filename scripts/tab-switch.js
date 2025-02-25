@@ -54,7 +54,7 @@ export function tabSwitch(city) {
           <select class="js-bus-route-no">
           </select>
           <input type="text" placeholder="Enter route number" id="routeId">
-          <button class="search-routes" id="searchByRouteButton">Search</button>
+          <button id="searchByRouteButton">Search</button>
         `;
         // Fetch and populate bus routes
         await getAllRoutes(city);
@@ -65,7 +65,7 @@ export function tabSwitch(city) {
         searchContent.innerHTML = `
           <input type="text" placeholder="Enter source">
           <input type="text" placeholder="Enter destination">
-          <button class="search-button" id="searchByDestination">Search</button>
+          <button id="searchByDestination">Search</button>
         `;
         document.getElementById('searchByDestination').addEventListener('click', searchByDestination);
       } else if (tab.textContent === 'Bus Stop') {
@@ -73,7 +73,7 @@ export function tabSwitch(city) {
           <select class="js-bus-stop-name">
           </select>
           <input type="text" placeholder="Enter bus stop name" id="busStopId">
-          <button class="search-stages" id="searchByStopButton">Search</button>
+          <button id="searchByStopButton">Search</button>
         `;
         // Fetch and populate bus stop names
         await getAllBusStageName(city);

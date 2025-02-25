@@ -1,7 +1,5 @@
-/* Header styles */
 header {
   background-color: #D6fff6;
-  /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
   position: sticky;
   top: 0;
   z-index: 100;
@@ -14,13 +12,13 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 15px 2rem;
-} 
+}
 
-.logo img{
+.logo img {
   width: 180px;
   height: 50px;
-  object-fit:fill;
-} 
+  object-fit: fill;
+}
 
 nav a {
   color: #231651;
@@ -43,50 +41,47 @@ nav a:hover:after {
   width: 100%;
 }
 
- nav ul.navbar-menu {
+nav ul.navbar-menu {
   display: flex;
   gap: 1.2rem;
   font-size: 1.1rem;
-} 
-
-/* Dropdown menu */
-nav ul.navbar-menu > li {
-  position: relative; 
 }
 
+nav ul.navbar-menu > li {
+  position: relative;
+}
 
 nav ul.dropdown-menu {
   position: absolute;
-  top: 100%; /* Position the dropdown below the parent li */
+  top: 100%;
   left: 0;
   list-style: none;
-  display: none; /* Initially hidden */
+  display: none;
   flex-direction: column;
   gap: .5rem;
   padding: .5rem 2rem 0.5rem .5rem;
-  background-color: #fff; /* Add a background color for better visibility */
+  background-color: #fff;
   box-shadow: 1px 4px 20px rgba(0, 0, 0, 0.1);
-  z-index: 10; /* Ensure it appears above other elements */
+  z-index: 10;
   font-size: 1rem;
 }
 
- nav ul.navbar-menu > li:hover > ul.dropdown-menu {
-   display: block;
-} 
+nav ul.navbar-menu > li:hover > ul.dropdown-menu {
+  display: block;
+}
 
 nav ul.dropdown-menu li {
   margin-left: 0;
 }
 
-/* Mobile menu */
- .mobile-menu-toggle {
+.mobile-menu-toggle {
   display: none;
   color: #231651;
   background: none;
   border: none;
   font-size: 1.5rem;
   cursor: pointer;
-} 
+}
 
 .mobile-menu {
   display: none;
@@ -99,7 +94,7 @@ nav ul.dropdown-menu li {
   font-size: 1rem;
 }
 
-.mobile-menu-navbar li a{
+.mobile-menu-navbar li a {
   display: block;
   padding: .5rem;
 }
@@ -115,4 +110,4 @@ nav ul.dropdown-menu li {
 
 .mobile-menu-navbar > li:hover > .mobile-dropdown-menu {
   display: block;
-} 
+}
