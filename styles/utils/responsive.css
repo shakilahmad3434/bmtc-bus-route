@@ -28,6 +28,12 @@
   }
 }
 
+@media (min-width: 1024px) {
+  .col-grid-2 {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 @media (max-width: 991px){
   .stats-grid {
     grid-template-columns: repeat(2, 1fr);

@@ -20,6 +20,7 @@
 @import "./pages/patna.css";
 @import "./pages/privacy.css";
 @import "./pages/disclaimer.css";
+@import "./pages/contact.css";
 
 /* Utility styles */
 @import "./utils/responsive.css";
