@@ -6,31 +6,32 @@
   box-shadow: var(--shadow-sm);
 }
 
-.section {
+.disclaimer-section {
   padding: 2rem;
   border-bottom: 1px solid var(--border-medium);
 }
 
-.section:last-child {
+.disclaimer-section:last-child {
   border-bottom: none;
 }
 
-.section h2 {
+.disclaimer-section h2 {
   margin-bottom: 1.25rem;
+  font-size: 2rem;
 }
 
-.section h3 {
+.disclaimer-section h3 {
   margin: 1.5rem 0 1rem;
 }
 
 /* Lists */
-.section ul {
+.disclaimer-section ul {
   margin: 1rem 0;
   padding-left: 1.5rem;
   list-style-type: disc;
 }
 
-.section li {
+.disclaimer-section li {
   margin-bottom: 0.75rem;
   color: var(--text-secondary);
 }
