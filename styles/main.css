@@ -21,6 +21,7 @@
 @import "./pages/privacy.css";
 @import "./pages/disclaimer.css";
 @import "./pages/contact.css";
+@import "./pages/about.css";
 
 /* Utility styles */
 @import "./utils/responsive.css";
