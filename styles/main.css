@@ -18,6 +18,6 @@
 @import "./pages/disclaimer.css";
 
 /* Utility styles */
-@import "./utils/responsive.css";
 @import "./utils/helpers.css";
 @import url("./utils/global.css");
+@import "./utils/responsive.css";

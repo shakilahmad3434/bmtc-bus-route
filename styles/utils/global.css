@@ -313,6 +313,62 @@
   font-size: 1rem;
 }
 
+/* -------------------------------------------- FAQs Snippets code --------------------------------------------- */
+.accordion {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.accordion-item {
+  width: 100%;
+  background: var(--bg-main);
+  box-shadow: var(--shadow-md);
+  margin-bottom: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.accordion-item label {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 25px;
+  color: var(--text-primary);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.accordion-item label .icon::before {
+  content: "+";
+  font-size: 30px;
+  color: #333;
+  transition: transform 0.3s;
+}
+
+.accordion-item input[type="radio"] {
+  display: none;
+}
+
+.accordion-content {
+  padding: 0 10px;
+  line-height: 30px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-in-out;
+}
+
+
+/* Expand content and change icon when checked */
+.accordion-item input[type="radio"]:checked + label + .accordion-content {
+  max-height: 400px;
+}
+
+.accordion-item input[type="radio"]:checked + label .icon::before {
+  content: "-";
+  color: green;
+}
+
 
 /* ---------------------------------------- State Service Links -------------------------------------  */
 

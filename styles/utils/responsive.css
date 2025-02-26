@@ -150,4 +150,9 @@
   .stats-grid {
     grid-template-columns: repeat(1, 1fr);
   }
+
+  /* popular bus routes code  */
+  .popular-routes-grid {
+    grid-template-columns: repeat(1, 1fr);
+  } 
 }
