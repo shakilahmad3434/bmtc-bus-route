@@ -342,8 +342,8 @@
     <div class="container">
         <div class="footer-container">
             <div class="footer-column">
-                <h3>About KSRTC</h3>
-                <p>Karnataka State Road Transport Corporation (KSRTC) is a state-owned transport company providing bus services within Karnataka and neighboring states.</p>
+                <h3>About</h3>
+                <p>BangaloreCityBus.com helps you find bus routes across all states in India. Get accurate schedules, maps, and travel details in one place. Plan your journey easily and travel hassle-free!</p>
             </div>
             <div class="footer-column">
                 <h3>Useful Links</h3>
@@ -364,10 +364,42 @@
                 </ul>
             </div>
             <div class="footer-column">
-                <h3>Contact Info</h3>
-                <p>24/7 Helpline: 1800-425-1777</p>
-                <p>Email: helpline@ksrtc.in</p>
-                <p>Website: www.ksrtc.in</p>
+
+                <h3>Stay Updated</h3>
+                    <div class="subscription-card">
+                        <div class="text-center">
+                            <p class="description">Get the latest updates and exclusive content directly in your inbox.</p>
+                        </div>
+            
+                        <form id="subscriptionForm" novalidate>
+                            <div class="form-group">
+                                <input 
+                                    type="email" 
+                                    id="email" 
+                                    placeholder="Enter your email"
+                                    pattern="[^@\s]+@[^@\s]+\.[^@\s]+" 
+                                    required
+                                >
+                                <p class="error-message">Please enter a valid email address</p>
+                            </div>
+            
+                            <button type="submit">
+                                Subscribe
+                            </button>
+                        </form>
+                    </div>
+            
+                    <div class="subscription-card success-card">
+                        <div class="icon-circle">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M22 2L11 13"></path>
+                                <path d="M22 2L15 22L11 13L2 9L22 2Z"></path>
+                            </svg>
+                        </div>
+                        <h3 class="success-title">Thank you for subscribing!</h3>
+                        <p class="success-message">We'll keep you updated with the latest news and updates.</p>
+                    </div>
+
             </div>
         </div>
         <div class="copyright">
