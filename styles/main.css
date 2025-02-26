@@ -22,6 +22,7 @@
 @import "./pages/disclaimer.css";
 @import "./pages/contact.css";
 @import "./pages/about.css";
+@import "./pages/terms.css";
 
 /* Utility styles */
 @import "./utils/responsive.css";
