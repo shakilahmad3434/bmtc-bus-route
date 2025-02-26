@@ -61,6 +61,10 @@
   .content {
     padding: 1.5rem;
   }
+  /* Disclaimer Page CSS */
+  .disclaimer-content {
+    padding: 1rem;
+  }
 
   .section-header {
     margin-bottom: 1rem;

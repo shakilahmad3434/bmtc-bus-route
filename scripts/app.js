@@ -22,6 +22,22 @@ for (let i = 0; i < accordion.length; i++) {
   });
 }
 
+// Smooth scroll for table of contents links
+document.querySelectorAll('.table-of-contents a').forEach(anchor => {
+  anchor.addEventListener('click', function(e) {
+    e.preventDefault();
+    const targetId = this.getAttribute('href');
+    const targetElement = document.querySelector(targetId);
+    
+    if (targetElement) {
+      targetElement.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+      });
+    }
+  });
+});
+
 // find the current pathname & url
 const myURL = window.location.pathname;
 let city = "";

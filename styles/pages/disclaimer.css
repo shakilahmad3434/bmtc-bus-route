@@ -1,22 +1,39 @@
-
-/* Content sections */
-.content {
+/* Content styles */
+.disclaimer-content {
   background: var(--bg-card);
+  padding: 2rem;
   border-radius: 8px;
-  box-shadow: var(--shadow-md);
-  overflow: hidden;
+  box-shadow: var(--shadow-sm);
 }
 
 .section {
   padding: 2rem;
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-medium);
 }
 
 .section:last-child {
   border-bottom: none;
 }
 
+.section h2 {
+  margin-bottom: 1.25rem;
+}
 
+.section h3 {
+  margin: 1.5rem 0 1rem;
+}
+
+/* Lists */
+.section ul {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+  list-style-type: disc;
+}
+
+.section li {
+  margin-bottom: 0.75rem;
+  color: var(--text-secondary);
+}
 
 /* Contact section */
 .contact-section {
@@ -26,24 +43,4 @@
 .contact-list {
   list-style: none;
   padding-left: 0;
-}
-
-
-/* Responsive design */
-@media (max-width: 768px) {
-  .container {
-    padding: 1rem;
-  }
-
-  .header {
-    margin-bottom: 2rem;
-    padding: 1.5rem 0;
-  }
-
-
-  .section {
-    padding: 1.5rem;
-  }
-
-
 }
