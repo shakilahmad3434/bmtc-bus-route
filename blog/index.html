@@ -1,14 +1,54 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Complete guide to Karnataka (KSRTC) bus routes, timings, and fares. Find bus routes in Bangalore, Mysore, Mangalore & other cities. Live bus tracking available.">
-    <meta name="keywords" content="Karnataka bus routes, KSRTC timings, Karnataka bus service, Bangalore bus routes">
-    <title>Blog Bus Route Finder</title>
-    <link rel="icon" type="image/x-icon" href="../images/fevicon.png">
-    <link rel="stylesheet" href="../styles/main.css">
-</head>
+<html lang="en-IN">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="robots" content="index, follow" />
+        <meta name="googlebot" content="index, follow" />
+        <meta name="bingbot" content="index, follow" />
+        
+        <meta name="title" property="og:title" content="Blog - Bangalore City Bus" />
+        <meta name="description" content="Stay updated with the latest news, tips, and updates about Bangalore City Bus services, routes, and travel guides." />
+        <meta name="keywords" content="Bangalore City Bus Blog, BMTC Bus News, Bangalore Travel Tips, Public Transport Updates" />
+    
+        <!-- Open Graph / Facebook -->
+        <meta property="og:title" content="Blog - Bangalore City Bus" />
+        <meta property="og:description" content="Explore our blog for the latest updates, travel tips, and essential information about Bangalore City Bus services." />
+        <meta property="og:image" content="../images/bangalore-city-bus.jpg" />
+        <meta property="og:url" content="https://bangalorecitybus.com/blog" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Bangalore City Bus" />
+        <meta property="og:locale" content="en_IN" />
+    
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Blog - Bangalore City Bus" />
+        <meta name="twitter:description" content="Discover useful travel tips, route updates, and insights about Bangalore City Bus services in our blog." />
+        <meta name="twitter:image" content="../images/bangalore-city-bus.jpg" />
+        <meta name="twitter:site" content="@BangaloreCityBus" />
+        <meta name="twitter:creator" content="@BangaloreCityBus" />
+    
+        <!-- Canonical URL -->
+        <link rel="canonical" href="https://bangalorecitybus.com/blog" />
+    
+        <!-- Favicon -->
+        <link rel="icon" type="image/x-icon" href="../images/fevicon.png" />
+    
+        <!-- Stylesheets -->
+        <link rel="stylesheet" href="../styles/main.css">
+    
+        <!-- Preconnect for Faster Loading -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://www.google-analytics.com" />
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    
+        <!-- Security Headers -->
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src * data:; script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;" />
+    
+        <title>Blog - Bangalore City Bus</title>
+    </head>
+    
 <body>
     <!-- Header -->
     <header>
@@ -49,6 +89,58 @@
             </div>
         </div>
     </header>
+
+    <!-- start a main coding -->
+    <main class="blog-container">
+        <!-- Hero Section -->
+    <section class="blog-hero">
+        <img src="../images/bangalore-city-bus.jpg" alt="Featured post cover" class="blog-hero-image">
+        <div class="blog-hero-overlay"></div>
+        <div class="hero-content container">
+            <div>
+                <span class="tag">Featured</span>
+                <span class="category">Technology</span>
+            </div>
+            <h1 class="blog-hero-title">The Future of Web Development: What's Next?</h1>
+            <p class="blog-hero-description">
+                Explore the latest trends and technologies shaping the future of web development, from AI-powered tools to new frameworks.
+            </p>
+            <div class="meta">
+                <div class="meta-item">
+                    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                        <path d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                    </svg>
+                    <span>March 1, 2024</span>
+                </div>
+                <div class="meta-item">
+                    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                        <path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <span>5 min read</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Posts Section -->
+    <section class="posts-section">
+        <div class="container">
+            <div class="posts-header">
+                <h2 class="posts-title">Latest Posts</h2>
+                <a href="#" class="view-all">
+                    View all posts
+                    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                        <path d="M9 5l7 7-7 7" />
+                    </svg>
+                </a>
+            </div>
+
+            <div class="posts-grid" id="posts-grid">
+                <!-- Posts will be inserted here by JavaScript -->
+            </div>
+        </div>
+    </section>
+    </main>
 
 <!-- Footer -->
 <footer class="footer">
@@ -122,5 +214,65 @@
 </footer>
 
   <script src="../scripts/app.js" type="module"></script>
+  <script>
+    // Sample post data
+    const posts = Array.from({ length: 6 }, (_, i) => ({
+        id: i + 1,
+        title: `Building Better User Experiences with Modern Web Technologies ${i + 1}`,
+        category: ['Design', 'Development', 'Technology'][i % 3],
+        description: 'Learn how modern web technologies and design principles can help create more engaging and user-friendly applications.',
+        date: `March ${i + 1}, 2024`,
+        readTime: '4 min read'
+    }));
+
+    // Function to create post cards
+    function createPostCard(post) {
+        return `
+            <article class="card">
+                <img src="https://source.unsplash.com/random/400x200/?technology&sig=${post.id}" 
+                     alt="Blog post ${post.id}" 
+                     class="card-image">
+                <div class="card-content">
+                    <span class="category">${post.category}</span>
+                    <a href="#" class="card-title">
+                        <h3>${post.title}</h3>
+                    </a>
+                    <p class="card-description">${post.description}</p>
+                </div>
+                <div class="card-footer">
+                    <div class="meta-item">
+                        <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                            <path d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                        </svg>
+                        <span>${post.date}</span>
+                    </div>
+                    <div class="meta-item">
+                        <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                            <path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        <span>${post.readTime}</span>
+                    </div>
+                </div>
+            </article>
+        `;
+    }
+
+    // Render posts
+    document.getElementById('posts-grid').innerHTML = posts.map(post => createPostCard(post)).join('');
+
+    // Add dark mode toggle based on system preference
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.classList.add('dark');
+    }
+
+    // Listen for system dark mode changes
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+        if (e.matches) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    });
+</script>
 </body>
 </html>

@@ -23,6 +23,7 @@
 @import "./pages/contact.css";
 @import "./pages/about.css";
 @import "./pages/terms.css";
+@import "./pages/blog.css";
 
 /* Utility styles */
 @import "./utils/responsive.css";
