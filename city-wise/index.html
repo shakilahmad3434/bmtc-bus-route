@@ -23,7 +23,7 @@
                 <ul class="navbar-menu">
                     <li><a href="/">Home</a></li>
                     <li>
-                        <a href="/state-wise">State Wise</a>
+                        <a href="/city-wise">City Wise</a>
                         <ul class="dropdown-menu">
                             <!-- <li><a href="#">Patna</a></li> -->
                         </ul>
@@ -37,7 +37,7 @@
                 <ul class="mobile-menu-navbar">
                     <li><a href="/">Home</a></li>
                     <li>
-                        <a href="/state-wise">State Wise</a>
+                        <a href="/city-wise">City Wise</a>
                         <ul class="mobile-dropdown-menu">
                             <!-- <li><a href="#">Patna</a></li> -->
                         </ul>
@@ -141,75 +141,6 @@
 </footer>
 
   <script src="../scripts/app.js" type="module"></script>
-  <!-- Pure JavaScript with no dependencies -->
-  <script>
 
-    const cities = [
-        {
-            img : 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
-            alt : 'Bangalore',
-            badge : '250',
-            title : 'Bangalore',
-            desc : 'Explore bus routes throughout Karnataka, including Bangalore Metropolitan Transport Corporation (BMTC) services.',
-            link : '/',
-            bgColor : 'bg-amber-50'
-        },
-        {
-            img : 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
-            alt : 'Bangalore',
-            badge : '250',
-            title : 'Bangalore',
-            desc : 'Explore bus routes throughout Karnataka, including Bangalore Metropolitan Transport Corporation (BMTC) services.',
-            link : '/',
-            bgColor : 'bg-orange-50'
-        },
-        {
-            img : 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
-            alt : 'Bangalore',
-            badge : '250',
-            title : 'Bangalore',
-            desc : 'Explore bus routes throughout Karnataka, including Bangalore Metropolitan Transport Corporation (BMTC) services.',
-            link : '/',
-            bgColor : 'bg-blue-50'
-        },
-        {
-            img : 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
-            alt : 'Bangalore',
-            badge : '250',
-            title : 'Bangalore',
-            desc : 'Explore bus routes throughout Karnataka, including Bangalore Metropolitan Transport Corporation (BMTC) services.',
-            link : '/patna',
-            bgColor : 'bg-red-50'
-        }
-    ]
-
-    function displayCities({img, alt, badge, title, desc, link, bgColor}) {
-        return `<div class="city-card ${bgColor}">
-            <div class="city-card-image">
-              <img src="${img}" alt="${alt}">
-            </div>
-            <div class="city-card-content">
-              <span class="city-badge">${badge}+ routes</span>
-              <h3>${title}</h3>
-              <p class="city-description">${desc}</p>
-              <a href="${link}" class="city-link">
-                View routes 
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <polyline points="9 18 15 12 9 6"></polyline>
-                </svg>
-              </a>
-            </div>
-          </div>`;
-    }
-
-    let cityHTML = ''
-
-    cities.forEach(city => {
-        cityHTML += displayCities(city);
-    });
-
-    document.querySelector('#cityCards').innerHTML = cityHTML;
-
-  </script>
 </body>
 </html>

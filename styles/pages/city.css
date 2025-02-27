@@ -1,0 +1,177 @@
+
+/* Typography */
+.city-title {
+  font-size: 2.25rem;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -0.025em;
+  color: #111827;
+  margin-bottom: 0.75rem;
+}
+
+.city-subtitle {
+  font-size: 1rem;
+  color: #6b7280;
+  text-align: center;
+  max-width: 36rem;
+  margin: 0.75rem auto 3rem;
+}
+
+/* Card Styles */
+.col-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 2rem;
+}
+
+.city-card {
+  background-color: white;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
+}
+
+.city-card:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.city-card-image {
+  height: 12rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+.city-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s ease;
+}
+
+.city-card:hover .city-card-image img {
+  transform: scale(1.1);
+}
+
+.city-card-content {
+  padding: 1.5rem;
+}
+
+.city-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background-color: #f3f4f6;
+  color: #4b5563;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.city-description {
+  color: #6b7280;
+  margin-bottom: 1rem;
+}
+
+.city-link {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 600;
+  color: #111827;
+  text-decoration: none;
+}
+
+.city-link:hover {
+  color: #374151;
+}
+
+.city-link svg {
+  width: 1rem;
+  height: 1rem;
+  margin-left: 0.25rem;
+}
+
+/* State Background Colors */
+/* Amber Background Colors */
+.bg-amber-50 { background-color: #fffbeb; }
+.bg-amber-100 { background-color: #fef3c7; }
+
+/* Orange Background Colors */
+.bg-orange-50 { background-color: #fff7ed; }
+.bg-orange-100 { background-color: #ffedd5; }
+
+/* Blue Background Colors */
+.bg-blue-50 { background-color: #eff6ff; }
+.bg-blue-100 { background-color: #dbeafe; }
+
+/* Red Background Colors */
+.bg-red-50 { background-color: #fef2f2; }
+.bg-red-100 { background-color: #fee2e2; }
+
+/* Green Background Colors */
+.bg-green-50 { background-color: #f0fdf4; }
+.bg-green-100 { background-color: #dcfce7; }
+
+/* Yellow Background Colors */
+.bg-yellow-50 { background-color: #fefce8; }
+.bg-yellow-100 { background-color: #fef9c3; }
+
+/* Purple Background Colors */
+.bg-purple-50 { background-color: #faf5ff; }
+.bg-purple-100 { background-color: #f3e8ff; }
+
+/* Pink Background Colors */
+.bg-pink-50 { background-color: #fdf2f8; }
+.bg-pink-100 { background-color: #fce7f3; }
+
+/* Teal Background Colors */
+.bg-teal-50 { background-color: #f0fdfa; }
+.bg-teal-100 { background-color: #ccfbf1; }
+
+/* Indigo Background Colors */
+.bg-indigo-50 { background-color: #eef2ff; }
+.bg-indigo-100 { background-color: #e0e7ff; }
+
+/* Gray Background Colors */
+.bg-gray-50 { background-color: #f9fafb; }
+.bg-gray-100 { background-color: #f3f4f6; }
+
+/* Cyan Background Colors */
+.bg-cyan-50 { background-color: #ecfeff; }
+.bg-cyan-100 { background-color: #cffafe; }
+
+/* Lime Background Colors */
+.bg-lime-50 { background-color: #f7fee7; }
+.bg-lime-100 { background-color: #ecfccb; }
+
+/* Violet Background Colors */
+.bg-violet-50 { background-color: #f5f3ff; }
+.bg-violet-100 { background-color: #ede9fe; }
+
+/* Emerald Background Colors */
+.bg-emerald-50 { background-color: #ecfdf5; }
+.bg-emerald-100 { background-color: #d1fae5; }
+
+/* Rose Background Colors */
+.bg-rose-50 { background-color: #fff1f2; }
+.bg-rose-100 { background-color: #ffe4e6; }
+
+/* Sky Background Colors */
+.bg-sky-50 { background-color: #f0f9ff; }
+.bg-sky-100 { background-color: #e0f2fe; }
+
+/* Fuchsia Background Colors */
+.bg-fuchsia-50 { background-color: #fdf4ff; }
+.bg-fuchsia-100 { background-color: #fae8ff; }
+
+/* Stone Background Colors */
+.bg-stone-50 { background-color: #fafaf9; }
+.bg-stone-100 { background-color: #f5f5f4; }
+
+/* Zinc Background Colors */
+.bg-zinc-50 { background-color: #fafafa; }
+.bg-zinc-100 { background-color: #f4f4f5; }
+
+/* Neutral Background Colors */
+.bg-neutral-50 { background-color: #fafafa; }
+.bg-neutral-100 { background-color: #f5f5f5; }

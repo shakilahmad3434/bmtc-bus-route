@@ -1,6 +1,7 @@
 "use-strict";
 import { fetchStates } from "./states.js";
 import { tabSwitch } from "./tab-switch.js";
+import { cities } from "./cities.js";
 
 // responsive mobile menu toggle
 document
@@ -23,16 +24,16 @@ for (let i = 0; i < accordion.length; i++) {
 }
 
 // Smooth scroll for table of contents links
-document.querySelectorAll('.table-of-contents a').forEach(anchor => {
-  anchor.addEventListener('click', function(e) {
+document.querySelectorAll(".table-of-contents a").forEach((anchor) => {
+  anchor.addEventListener("click", function (e) {
     e.preventDefault();
-    const targetId = this.getAttribute('href');
+    const targetId = this.getAttribute("href");
     const targetElement = document.querySelector(targetId);
-    
+
     if (targetElement) {
       targetElement.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start'
+        behavior: "smooth",
+        block: "start",
       });
     }
   });
@@ -52,9 +53,16 @@ async function getStateWise() {
   const states = await fetchStates();
   let stateHTML = "";
   for (let [key, value] of Object.entries(states.states)) {
-    stateHTML += `<li><a href="${value
+    let tempCity = undefined;
+    if(value === "Bengaluru"){
+      value = '/'
+      tempCity = "Bengaluru";
+    }else{
+      value
       .toLowerCase()
-      .replace(/\s+/g, "-")}">${value}</a></li>`;
+      .replace(/\s+/g, "-")
+    }
+    stateHTML += `<li><a href="${value}">${tempCity || value}</a></li>`;
   }
 
   document.querySelector(".dropdown-menu").innerHTML = stateHTML;
@@ -88,13 +96,45 @@ function getSubscribe() {
   });
 }
 
+// state wise page visible
+function getCities({ img, alt, badge, title, desc, link, bgColor }) {
+  return `<div class="city-card ${bgColor}">
+      <div class="city-card-image">
+        <img src="${img}" alt="${alt}">
+      </div>
+      <div class="city-card-content">
+        <span class="city-badge">${badge}+ routes</span>
+        <h3>${title}</h3>
+        <p class="city-description">${desc}</p>
+        <a href="${link}" class="city-link">
+          View routes 
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="9 18 15 12 9 6"></polyline>
+          </svg>
+        </a>
+      </div>
+    </div>`;
+}
+
+function displayCities() {
+  let cityHTML = "";
+
+  cities.forEach((city) => {
+    cityHTML += getCities(city);
+  });
+
+  if(document.querySelector("#cityCards") !== null)
+  document.querySelector("#cityCards").innerHTML = cityHTML;
+}
+
 // Initialize the page
 window.onload = async function () {
   getStateWise();
   tabSwitch(city);
   const { stateHTML } = await fetchStates();
-  if(document.querySelector(".state-grid") !== null){
+  if (document.querySelector(".state-grid") !== null) {
     document.querySelector(".state-grid").innerHTML = await stateHTML;
   }
+  displayCities();
   getSubscribe();
 };
