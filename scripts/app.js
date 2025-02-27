@@ -93,6 +93,8 @@ window.onload = async function () {
   getStateWise();
   tabSwitch(city);
   const { stateHTML } = await fetchStates();
-  document.querySelector(".state-grid").innerHTML = await stateHTML;
+  if(document.querySelector(".state-grid") !== null){
+    document.querySelector(".state-grid").innerHTML = await stateHTML;
+  }
   getSubscribe();
 };
