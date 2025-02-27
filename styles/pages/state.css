@@ -1,0 +1,103 @@
+
+/* Typography */
+.city-title {
+  font-size: 2.25rem;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -0.025em;
+  color: #111827;
+  margin-bottom: 0.75rem;
+}
+
+.city-subtitle {
+  font-size: 1rem;
+  color: #6b7280;
+  text-align: center;
+  max-width: 36rem;
+  margin: 0.75rem auto 3rem;
+}
+
+
+
+/* Card Styles */
+.col-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 2rem;
+}
+
+
+.city-card {
+  background-color: white;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
+}
+
+.city-card:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.city-card-image {
+  height: 12rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+.city-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s ease;
+}
+
+.city-card:hover .city-card-image img {
+  transform: scale(1.1);
+}
+
+.city-card-content {
+  padding: 1.5rem;
+}
+
+.city-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background-color: #f3f4f6;
+  color: #4b5563;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.city-description {
+  color: #6b7280;
+  margin-bottom: 1rem;
+}
+
+.city-link {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 600;
+  color: #111827;
+  text-decoration: none;
+}
+
+.city-link:hover {
+  color: #374151;
+}
+
+.city-link svg {
+  width: 1rem;
+  height: 1rem;
+  margin-left: 0.25rem;
+}
+
+/* State Background Colors */
+.bg-amber-50 { background-color: #fffbeb; }
+.bg-orange-50 { background-color: #fff7ed; }
+.bg-blue-50 { background-color: #eff6ff; }
+.bg-red-50 { background-color: #fef2f2; }
+.bg-green-50 { background-color: #f0fdf4; }
+.bg-yellow-50 { background-color: #fefce8; }

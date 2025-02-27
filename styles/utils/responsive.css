@@ -1,36 +1,35 @@
-@media (min-width: 1536px) {
-  .container {
-    max-width: 1536px;
-    margin: 0 auto;
-    padding: 2rem;
-  }
+/* min width coding */
 
-  /* header navbar responsive coding */
-  .header-container {
-    max-width: 1536px;
-    margin: 0 auto;
-    padding: 10px 2rem;
-  }
-}
 
 @media (min-width: 640px) {
   .posts-grid {
       grid-template-columns: repeat(2, 1fr);
   }
-}
 
-@media (max-width: 1536px) {
-  .container {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 2rem;
+  /* city title design */
+  .city-title {
+    font-size: 3rem;
   }
 
-  /* header navbar responsive coding */
-  .header-container {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 10px 2rem;
+  .city-subtitle {
+    font-size: 1.125rem;
+  }
+
+  .col-grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 768px){
+  /* city title design */
+  .city-title {
+    font-size: 3.75rem;
+  }
+
+  .city-subtitle {
+    font-size: 1.25rem;
+    margin-top: 1.25rem;
+    max-width: 48rem;
   }
 }
 
@@ -46,6 +45,43 @@
 .hero-title {
     font-size: 3rem;
 }
+
+/* city card design */
+.col-grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+}
+
+@media (min-width: 1536px) {
+  .container {
+    max-width: 1536px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  /* header navbar responsive coding */
+  .header-container {
+    max-width: 1536px;
+    margin: 0 auto;
+    padding: 10px 2rem;
+  }
+}
+
+
+@media (max-width: 1536px) {
+  .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  /* header navbar responsive coding */
+  .header-container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 10px 2rem;
+  }
 }
 
 @media (max-width: 991px){
@@ -96,7 +132,6 @@
 }
   
 } 
-
 
 
 @media (max-width: 640px) {
