@@ -92,25 +92,26 @@
 
     <!-- start a main coding -->
     <main class="blog-container">
+        
         <!-- Hero Section -->
     <section class="blog-hero">
-        <img src="../images/bangalore-city-bus.jpg" alt="Featured post cover" class="blog-hero-image">
+        <img src="../images/bmtc-night-bus-service.png" alt="Featured post cover" class="blog-hero-image">
         <div class="blog-hero-overlay"></div>
         <div class="hero-content container">
             <div>
                 <span class="tag">Featured</span>
-                <span class="category">Technology</span>
+                <span class="category">Bus Route</span>
             </div>
-            <h1 class="blog-hero-title">The Future of Web Development: What's Next?</h1>
+            <a href="https://bangalorecitybus.com/blog/bmtc-night-bus-service/" class="card-title"><h1 class="blog-hero-title">BMTC Night Bus Service: Timings, Charges, and Routes</h1></a>
             <p class="blog-hero-description">
-                Explore the latest trends and technologies shaping the future of web development, from AI-powered tools to new frameworks.
+                BMTC Night Bus Service in Bangalore: Find timings, routes, charges, and key information about safe and affordable night travel. Check live bus updates via MyBMTC App.
             </p>
             <div class="meta">
                 <div class="meta-item">
                     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
                         <path d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                     </svg>
-                    <span>March 1, 2024</span>
+                    <span>March 1, 2025</span>
                 </div>
                 <div class="meta-item">
                     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
@@ -136,7 +137,32 @@
             </div>
 
             <div class="posts-grid" id="posts-grid">
-                <!-- Posts will be inserted here by JavaScript -->
+                <article class="card">
+                    <img src="https://source.unsplash.com/random/400x200/?technology&sig=${post.id}" 
+                         alt="Blog post ${post.id}" 
+                         class="card-image">
+                    <div class="card-content">
+                        <span class="category">Design</span>
+                        <a href="#" class="card-title">
+                            <h3>Building Better User Experiences with Modern Web Technologies 1</h3>
+                        </a>
+                        <p class="card-description">Learn how modern web technologies and design principles can help create more engaging and user-friendly applications.</p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="meta-item">
+                            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                <path d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                            </svg>
+                            <span>March 1, 2024</span>
+                        </div>
+                        <div class="meta-item">
+                            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                <path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                            <span>4 min read</span>
+                        </div>
+                    </div>
+                </article>
             </div>
         </div>
     </section>
@@ -214,65 +240,6 @@
 </footer>
 
   <script src="../scripts/app.js" type="module"></script>
-  <script>
-    // Sample post data
-    const posts = Array.from({ length: 6 }, (_, i) => ({
-        id: i + 1,
-        title: `Building Better User Experiences with Modern Web Technologies ${i + 1}`,
-        category: ['Design', 'Development', 'Technology'][i % 3],
-        description: 'Learn how modern web technologies and design principles can help create more engaging and user-friendly applications.',
-        date: `March ${i + 1}, 2024`,
-        readTime: '4 min read'
-    }));
-
-    // Function to create post cards
-    function createPostCard(post) {
-        return `
-            <article class="card">
-                <img src="https://source.unsplash.com/random/400x200/?technology&sig=${post.id}" 
-                     alt="Blog post ${post.id}" 
-                     class="card-image">
-                <div class="card-content">
-                    <span class="category">${post.category}</span>
-                    <a href="#" class="card-title">
-                        <h3>${post.title}</h3>
-                    </a>
-                    <p class="card-description">${post.description}</p>
-                </div>
-                <div class="card-footer">
-                    <div class="meta-item">
-                        <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
-                        </svg>
-                        <span>${post.date}</span>
-                    </div>
-                    <div class="meta-item">
-                        <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                        </svg>
-                        <span>${post.readTime}</span>
-                    </div>
-                </div>
-            </article>
-        `;
-    }
-
-    // Render posts
-    document.getElementById('posts-grid').innerHTML = posts.map(post => createPostCard(post)).join('');
-
-    // Add dark mode toggle based on system preference
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.documentElement.classList.add('dark');
-    }
-
-    // Listen for system dark mode changes
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
-        if (e.matches) {
-            document.documentElement.classList.add('dark');
-        } else {
-            document.documentElement.classList.remove('dark');
-        }
-    });
-</script>
+  
 </body>
 </html>

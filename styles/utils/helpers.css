@@ -45,7 +45,7 @@
 
 .divider {
   height: 1px;
-  background-color: #e5e7eb;
+  background-color: var(--border-medium);
   margin: 1.5rem 0;
 }
 
