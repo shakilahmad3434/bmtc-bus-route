@@ -1,6 +1,6 @@
 export const cities = [
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/ahmedabad.png',
     alt: 'Ahmedabad',
     badge: '150',
     title: 'Ahmedabad',
@@ -9,16 +9,16 @@ export const cities = [
     bgColor: 'bg-red-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/bengaluru.png',
     alt: 'Bengaluru',
-    badge: '250',
+    badge: '2,200',
     title: 'Bengaluru',
     desc: 'Explore bus routes throughout Karnataka, including Bangalore Metropolitan Transport Corporation (BMTC) services.',
     link: '/bengaluru',
     bgColor: 'bg-amber-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/bhopal.png',
     alt: 'Bhopal',
     badge: '120',
     title: 'Bhopal',
@@ -27,7 +27,7 @@ export const cities = [
     bgColor: 'bg-green-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/bhubaneswar.png',
     alt: 'Bhubaneswar',
     badge: '130',
     title: 'Bhubaneswar',
@@ -36,7 +36,7 @@ export const cities = [
     bgColor: 'bg-blue-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/chandigarh.png',
     alt: 'Chandigarh',
     badge: '90',
     title: 'Chandigarh',
@@ -45,7 +45,7 @@ export const cities = [
     bgColor: 'bg-purple-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/chennai.png',
     alt: 'Chennai',
     badge: '200',
     title: 'Chennai',
@@ -54,7 +54,7 @@ export const cities = [
     bgColor: 'bg-yellow-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/coimbatore.png',
     alt: 'Coimbatore',
     badge: '110',
     title: 'Coimbatore',
@@ -63,7 +63,7 @@ export const cities = [
     bgColor: 'bg-pink-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/delhi.png',
     alt: 'Delhi',
     badge: '300',
     title: 'Delhi',
@@ -72,7 +72,7 @@ export const cities = [
     bgColor: 'bg-teal-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/faridabad.png',
     alt: 'Faridabad',
     badge: '80',
     title: 'Faridabad',
@@ -81,7 +81,7 @@ export const cities = [
     bgColor: 'bg-indigo-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/howrah.png',
     alt: 'Howrah',
     badge: '180',
     title: 'Howrah',
@@ -90,7 +90,7 @@ export const cities = [
     bgColor: 'bg-gray-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/hyderabad.png',
     alt: 'Hyderabad',
     badge: '220',
     title: 'Hyderabad',
@@ -99,7 +99,7 @@ export const cities = [
     bgColor: 'bg-orange-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/indore.png',
     alt: 'Indore',
     badge: '100',
     title: 'Indore',
@@ -108,7 +108,7 @@ export const cities = [
     bgColor: 'bg-lime-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/jaipur.png',
     alt: 'Jaipur',
     badge: '140',
     title: 'Jaipur',
@@ -117,7 +117,7 @@ export const cities = [
     bgColor: 'bg-cyan-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/kanpur.png',
     alt: 'Kanpur',
     badge: '160',
     title: 'Kanpur',
@@ -126,7 +126,7 @@ export const cities = [
     bgColor: 'bg-violet-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/kolkata.png',
     alt: 'Kolkata',
     badge: '280',
     title: 'Kolkata',
@@ -135,7 +135,7 @@ export const cities = [
     bgColor: 'bg-emerald-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/lucknow.png',
     alt: 'Lucknow',
     badge: '170',
     title: 'Lucknow',
@@ -144,7 +144,7 @@ export const cities = [
     bgColor: 'bg-rose-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/ludhiana.png',
     alt: 'Ludhiana',
     badge: '95',
     title: 'Ludhiana',
@@ -153,7 +153,7 @@ export const cities = [
     bgColor: 'bg-sky-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/madurai.png',
     alt: 'Madurai',
     badge: '115',
     title: 'Madurai',
@@ -162,7 +162,7 @@ export const cities = [
     bgColor: 'bg-fuchsia-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/mangalore.png',
     alt: 'Mangalore',
     badge: '105',
     title: 'Mangalore',
@@ -171,7 +171,7 @@ export const cities = [
     bgColor: 'bg-stone-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/mumbai.png',
     alt: 'Mumbai',
     badge: '350',
     title: 'Mumbai',
@@ -180,7 +180,7 @@ export const cities = [
     bgColor: 'bg-zinc-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/patna.png',
     alt: 'Patna',
     badge: '125',
     title: 'Patna',
@@ -189,7 +189,7 @@ export const cities = [
     bgColor: 'bg-neutral-50'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/pune.png',
     alt: 'Pune',
     badge: '210',
     title: 'Pune',
@@ -198,7 +198,7 @@ export const cities = [
     bgColor: 'bg-amber-100'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/thane.png',
     alt: 'Thane',
     badge: '135',
     title: 'Thane',
@@ -207,7 +207,7 @@ export const cities = [
     bgColor: 'bg-red-100'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/vasai-virar.png',
     alt: 'Vasai Virar',
     badge: '85',
     title: 'Vasai Virar',
@@ -216,7 +216,7 @@ export const cities = [
     bgColor: 'bg-green-100'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/vijayawada.png',
     alt: 'Vijayawada',
     badge: '145',
     title: 'Vijayawada',
@@ -225,7 +225,7 @@ export const cities = [
     bgColor: 'bg-blue-100'
   },
   {
-    img: 'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?q=80&w=2658&auto=format&fit=crop',
+    img: '/images/city/vizag.png',
     alt: 'Vizag',
     badge: '155',
     title: 'Vizag',
