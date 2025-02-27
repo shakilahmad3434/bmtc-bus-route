@@ -144,6 +144,11 @@
     padding: 1.5rem;
 }
 
+/* table responsive */
+.blog-post-table {
+  table-layout: auto;
+}
+
 }
 
 @media (max-width:480px) {

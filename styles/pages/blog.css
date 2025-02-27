@@ -195,3 +195,22 @@
   font-size: 1.2rem !important;
   margin-bottom: 1rem;
 }
+
+/* ------------------------------- Second Post ------------------------------------- */
+.blog-post-table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 1.2rem;
+}
+
+.blog-post-table td, th {
+  border: 1px solid var(--border-light);
+  text-align: left;
+  padding: .5rem;
+}
+
+.blog-post-table tr:nth-child(even) {
+  background-color: var(--border-medium);
+}
