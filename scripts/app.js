@@ -50,20 +50,16 @@ if (myURL === "/") {
 
 // fetch state wise menu data
 async function getStateWise() {
-  const states = await fetchStates();
+  const {states} = await fetchStates();
   let stateHTML = "";
-  for (let [key, value] of Object.entries(states.states)) {
-    let tempCity = undefined;
-    if(value === "Bengaluru"){
-      value = '/'
-      tempCity = "Bengaluru";
-    }else{
-      value
-      .toLowerCase()
-      .replace(/\s+/g, "-")
+  states.forEach(state => {
+    if(state === "Bengaluru"){
+      stateHTML +=`<li><a href="/">${state}</a></li>`;
+    }else {
+      stateHTML +=`<li><a href="/${state.toLowerCase()}">${state}</a></li>`;
     }
-    stateHTML += `<li><a href="${value}">${tempCity || value}</a></li>`;
-  }
+    
+  })
 
   document.querySelector(".dropdown-menu").innerHTML = stateHTML;
   document.querySelector(".mobile-dropdown-menu").innerHTML = stateHTML;
