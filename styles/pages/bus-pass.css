@@ -1,0 +1,30 @@
+.bus-pass-content {
+  padding: 1rem;
+}
+
+.bus-pass-content h2 {
+  font-size: 1.875rem;
+  font-weight: bold;
+  color: var(--text-dark);
+  padding: 1rem 0;
+}
+
+.bus-pass-content p {
+  font-size: 1.2rem;
+}
+
+.bus-pass-content ul {
+  list-style-type: disc;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.bus-pass-content ol {
+  list-style-type:decimal;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.bus-pass-content li {
+  font-size: 1.2rem;
+}
