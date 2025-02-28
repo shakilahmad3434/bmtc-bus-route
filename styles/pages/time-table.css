@@ -1,0 +1,258 @@
+.route-card {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.route-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
+}
+
+.route-header {
+  padding: 18px 20px;
+  border-bottom: 1px solid var(--border-medium);
+  position: relative;
+}
+
+.route-number {
+  color: var(--text-white);
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.route-destination {
+  color: #f3efef;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.route-body {
+  padding: 20px;
+}
+
+.route-via {
+  margin-bottom: 20px;
+}
+
+.via-stops {
+  font-size: 14px;
+  color: #607d8b;
+  line-height: 1.5;
+}
+
+.journey-time {
+  display: inline-block;
+  background-color: #f1f8ff;
+  padding: 6px 12px;
+  border-radius: 30px;
+  font-size: 14px;
+  color: #0277bd;
+  font-weight: 500;
+  margin-top: 4px;
+  margin-bottom: 20px;
+}
+
+.bus-times {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.time-section {
+  border-left: 3px solid #e0e0e0;
+  padding-left: 16px;
+  position: relative;
+}
+
+.time-section::before {
+  content: '';
+  position: absolute;
+  left: -9px;
+  top: 0;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #fff;
+  border: 3px solid;
+}
+
+.first-bus::before {
+  border-color: #4caf50;
+}
+
+.last-bus::before {
+  border-color: #f44336;
+}
+
+.time-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #455a64;
+  margin-bottom: 10px;
+}
+
+.time-details {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.time-item {
+  flex: 1;
+  min-width: 120px;
+}
+
+.time-direction {
+  font-size: 13px;
+  color: #78909c;
+  margin-bottom: 4px;
+}
+
+.time-value {
+  font-size: 16px;
+  font-weight: 600;
+  color: #263238;
+}
+
+.view-more {
+  display: block;
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-weight: 500;
+  border-radius: 0 0 12px 12px;
+  transition: background-color 0.2s;
+}
+
+.view-more:hover {
+  background-color: var(--primary);
+  color: #fff;
+}
+
+/* Route-specific header colors */
+.bg1 .route-header {
+  background: linear-gradient(135deg, #3498db, #2c3e50);
+}
+
+.bg2 .route-header {
+  background: linear-gradient(135deg, #9b59b6, #8e44ad);
+}
+
+.bg3 .route-header {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+}
+
+.bg4 .route-header {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
+
+.bg5 .route-header {
+  background: linear-gradient(135deg, #f39c12, #d35400);
+}
+
+.bg6 .route-header {
+  background: linear-gradient(135deg, #16a085, #1abc9c);
+}
+
+.bg7 .route-header {
+  background: linear-gradient(135deg, #34495e, #2c3e50);
+}
+
+.bg8 .route-header {
+  background: linear-gradient(135deg, #e67e22, #d35400);
+}
+
+.bg9 .route-header {
+  background: linear-gradient(135deg, #1abc9c, #16a085);
+}
+
+.bg10 .route-header {
+  background: linear-gradient(135deg, #3498db, #2980b9);
+}
+
+.bg11 .route-header {
+  background: linear-gradient(135deg, #9b59b6, #8e44ad);
+}
+
+.bg12 .route-header {
+  background: linear-gradient(135deg, #f1c40f, #f39c12);
+}
+
+.bg13 .route-header {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+}
+
+.bg14 .route-header {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
+
+.bg15 .route-header {
+  background: linear-gradient(135deg, #ecf0f1, #bdc3c7);
+}
+
+.bg16 .route-header {
+  background: linear-gradient(135deg, #1e3799, #0a79df);
+}
+
+.bg17 .route-header {
+  background: linear-gradient(135deg, #ff7675, #d63031);
+}
+
+.bg18 .route-header {
+  background: linear-gradient(135deg, #74b9ff, #0984e3);
+}
+
+.bg19 .route-header {
+  background: linear-gradient(135deg, #a29bfe, #6c5ce7);
+}
+
+.bg20 .route-header {
+  background: linear-gradient(135deg, #fab1a0, #e17055);
+}
+
+.bg21 .route-header {
+  background: linear-gradient(135deg, #fdcb6e, #ffeaa7);
+}
+
+.bg22 .route-header {
+  background: linear-gradient(135deg, #81ecec, #00cec9);
+}
+
+.bg23 .route-header {
+  background: linear-gradient(135deg, #ffeaa7, #fdcb6e);
+}
+
+.bg24 .route-header {
+  background: linear-gradient(135deg, #dfe6e9, #b2bec3);
+}
+
+.bg25 .route-header {
+  background: linear-gradient(135deg, #ff7f50, #ff4d4d);
+}
+
+.bg26 .route-header {
+  background: linear-gradient(135deg, #ffafbd, #ffc3a0);
+}
+
+.bg27 .route-header {
+  background: linear-gradient(135deg, #c7ecee, #81ecec);
+}
+
+.bg28 .route-header {
+  background: linear-gradient(135deg, #a29bfe, #6c5ce7);
+}
+
+.bg29 .route-header {
+  background: linear-gradient(135deg, #ffbe76, #f0932b);
+}
+
+.bg30 .route-header {
+  background: linear-gradient(135deg, #badc58, #6ab04c);
+}

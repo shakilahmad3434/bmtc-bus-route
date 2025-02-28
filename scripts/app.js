@@ -2,6 +2,7 @@
 import { fetchStates } from "./states.js";
 import { tabSwitch } from "./tab-switch.js";
 import { cities } from "./cities.js";
+import { timeTable } from "./time-table.js";
 
 // responsive mobile menu toggle
 document
@@ -112,6 +113,63 @@ function getCities({ img, alt, badge, title, desc, link, bgColor }) {
     </div>`;
 }
 
+// display time table from this code
+function displayTimeTable(){
+  let tableHTML = '';
+  timeTable.forEach((time, i) => {
+  const toLength = time.toAirport.length-1;
+  const fromLength = time.fromAirport.length-1;
+  const randomNum = Math.floor(Math.random() * 30) + 1;
+  tableHTML += `<div class="route-card bg${randomNum}">
+            <div class="route-header">
+                <div class="route-number">${time.routeNo} Bus Route</div>
+                <div class="route-destination">${time.route}</div>
+            </div>
+            
+            <div class="route-body">
+                <div class="route-via">
+                    <div class="via-stops"><strong>STOPS:</strong> ${time.via}</div>
+                </div>
+                
+                <div class="journey-time">Journey Time: ${time.journeyTime}</div>
+                
+                <div class="bus-times">
+                    <div class="time-section first-bus">
+                        <div class="time-label">First Bus:</div>
+                        <div class="time-details">
+                            <div class="time-item">
+                                <div class="time-direction">To Airport:</div>
+                                <div class="time-value">${time.toAirport[0]}</div>
+                            </div>
+                            <div class="time-item">
+                                <div class="time-direction">From Airport:</div>
+                                <div class="time-value">${time.fromAirport[0]}</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="time-section last-bus">
+                        <div class="time-label">Last Bus:</div>
+                        <div class="time-details">
+                            <div class="time-item">
+                                <div class="time-direction">To Airport:</div>
+                                <div class="time-value">${time.toAirport[toLength]}</div>
+                            </div>
+                            <div class="time-item">
+                                <div class="time-direction">From Airport:</div>
+                                <div class="time-value">${time.fromAirport[fromLength]}</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <a href="#" class="view-more">View Schedule, Route Map & More</a>
+        </div>`;
+      });
+    document.querySelector("#timeTable").innerHTML = tableHTML;
+}
+
 function displayCities() {
   let cityHTML = "";
 
@@ -133,4 +191,5 @@ window.onload = async function () {
   }
   displayCities();
   getSubscribe();
+  displayTimeTable();
 };

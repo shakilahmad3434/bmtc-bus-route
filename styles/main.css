@@ -26,6 +26,7 @@
 @import "./pages/blog.css";
 @import "./pages/city.css";
 @import "./pages/bus-pass.css";
+@import "./pages/time-table.css";
 
 /* Utility styles */
 @import "./utils/responsive.css";
