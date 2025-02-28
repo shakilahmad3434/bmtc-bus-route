@@ -1,5 +1,5 @@
 import { displayBusStopDetails } from "./displayBusStopDetails.js";
-export async function searchByStop(){
+export async function searchByStop(city){
   document.getElementById('routeDetails').style.display = 'none';
   document.querySelector('.from-to-destination').style.display = 'none';
   
@@ -10,7 +10,7 @@ export async function searchByStop(){
     if (!busStopName) return alert("Please select the route");
 
     try {
-      await displayBusStopDetails(busStopName);
+      await displayBusStopDetails(city, busStopName);
     } catch (error) {
       console.error("Failed to fetch route info:", error);
     }

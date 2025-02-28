@@ -78,7 +78,7 @@ export function tabSwitch(city) {
         // Fetch and populate bus stop names
         await getAllBusStageName(city);
         // Attach event listener for search button
-        document.getElementById('searchByStopButton').addEventListener('click', searchByStop);
+        document.getElementById('searchByStopButton').addEventListener('click', ()=> searchByStop(city));
       }
     });
   });

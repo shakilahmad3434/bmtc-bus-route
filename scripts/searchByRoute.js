@@ -13,7 +13,11 @@ export async function searchByRoute(city){
 
     try {
       const routeInfo = await fetchRouteData(city, routeNo);
-      displayRouteDetails(routeInfo)
+      if(routeInfo !== undefined){
+        displayRouteDetails(routeInfo)
+      }else{
+        alert('Route information is currently unavailable. Please wait while I update it.');
+      }
     } catch (error) {
       console.error("Failed to fetch route info:", error);
     }

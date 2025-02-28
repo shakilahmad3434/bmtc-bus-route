@@ -1,0 +1,586 @@
+[
+  {
+    "stage": "A Narayanapura",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "310A",
+        "stageInfo": "Shivajinagar to A Narayanapura"
+      },
+      {
+        "stageName": "310C",
+        "stageInfo": "Shivajinagar to Udayanagar"
+      },
+      {
+        "stageName": "313C",
+        "stageInfo": "K R Market to A Narayanapura"
+      },
+      {
+        "stageName": "315B",
+        "stageInfo": "Kempegowda Bus Station/Majestic to A Narayanapura"
+      },
+      {
+        "stageName": "315W",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Udayanagar"
+      }
+    ]
+  },
+  {
+    "stage": "Abbigere",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "266",
+        "stageInfo": "K R Market to Hesaraghatta Indo Danish Farm"
+      },
+      {
+        "stageName": "266D",
+        "stageInfo": "K R Market to Hesaraghatta"
+      },
+      {
+        "stageName": "270D",
+        "stageInfo": "Shivajinagar to Abbigere"
+      },
+      {
+        "stageName": "270S",
+        "stageInfo": "Shivajinagar to Shettyhalli (Bagalagunte)"
+      },
+      {
+        "stageName": "271A",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Abbigere"
+      },
+      {
+        "stageName": "271F",
+        "stageInfo": "K R Market to Chi"
+      }
+    ]
+  },
+  {
+    "stage": "Abhiman Studio",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "401X",
+        "stageInfo": "Banashankari to Bidadi"
+      },
+      {
+        "stageName": "V225CA",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Bgs Health City"
+      },
+      {
+        "stageName": "V375A",
+        "stageInfo": "Kengeri Khb Quarters/Shirke Apartment to Electronic City Wipro Gate"
+      }
+    ]
+  },
+  {
+    "stage": "Achyuthanagar",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "250Z",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Achyuthanagar"
+      }
+    ]
+  },
+  {
+    "stage": "Achyuthanagar Gate",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "250Z",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Achyuthanagar"
+      }
+    ]
+  },
+  {
+    "stage": "Adakamaranahalli",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "410B",
+        "stageInfo": "Banashankari to Nelamangala"
+      },
+      {
+        "stageName": "501E",
+        "stageInfo": "Kengeri to Nelamangala"
+      },
+      {
+        "stageName": "502G",
+        "stageInfo": "Chennammanakere Achkattu to Nelamangala"
+      },
+      {
+        "stageName": "G8",
+        "stageInfo": "Nelamangala to Parade Ground"
+      }
+    ]
+  },
+  {
+    "stage": "Adarshanagar",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "256B",
+        "stageInfo": "K R Market to Gejjagadahalli"
+      },
+      {
+        "stageName": "256K",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Adarshanagar"
+      }
+    ]
+  },
+  {
+    "stage": "Adda Vishwanathapura",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "285S",
+        "stageInfo": "K R Market to Adda Vishwanathapura"
+      }
+    ]
+  },
+  {
+    "stage": "Ade/Gtre",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "504E",
+        "stageInfo": "K R Puram to K R Puram"
+      },
+      {
+        "stageName": "504F",
+        "stageInfo": "K R Puram to K R Puram"
+      },
+      {
+        "stageName": "314AA",
+        "stageInfo": "Halasuru/Ulsoor to Itpl"
+      },
+      {
+        "stageName": "400A",
+        "stageInfo": "Hal Main Gate to K R Puram"
+      }
+    ]
+  },
+  {
+    "stage": "Adigara Kallahalli",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "342K",
+        "stageInfo": "K R Market to Adigara Kallahalli"
+      }
+    ]
+  },
+  {
+    "stage": "Adigondanahalli",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "350",
+        "stageInfo": "K R Market to Adigondanahalli"
+      },
+      {
+        "stageName": "359A",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Jigala"
+      },
+      {
+        "stageName": "360M",
+        "stageInfo": "K R Market to Adigondanahalli"
+      },
+      {
+        "stageName": "360P",
+        "stageInfo": "K R Market to Sollepura"
+      }
+    ]
+  },
+  {
+    "stage": "Adosonnahatti",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "356F",
+        "stageInfo": "K R Market to Adosonnahatti"
+      }
+    ]
+  },
+  {
+    "stage": "Adugodi",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "B2",
+        "stageInfo": "Peenya 2nd Stage to Electronic City"
+      },
+      {
+        "stageName": "G2",
+        "stageInfo": "Brigade Road Junction to Electronic City Wipro Gate"
+      },
+      {
+        "stageName": "J166",
+        "stageInfo": "Shivajinagar to Koramangala"
+      },
+      {
+        "stageName": "J171",
+        "stageInfo": "Kempegowda"
+      }
+    ]
+  },
+  {
+    "stage": "Adugodi Police Quarters",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "B2",
+        "stageInfo": "Peenya 2nd Stage to Electronic City"
+      },
+      {
+        "stageName": "G2",
+        "stageInfo": "Brigade Road Junction to Electronic City Wipro Gate"
+      },
+      {
+        "stageName": "J166",
+        "stageInfo": "Shivajinagar to Koramangala"
+      },
+      {
+        "stageName": "J171",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Koramangala"
+      },
+      {
+        "stageName": "P30",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Koramangala Kendriya Sadan"
+      },
+      {
+        "stageName": "P171",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Koramangala"
+      },
+      {
+        "stageName": "P171B",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Koramangala 8th Block"
+      },
+      {
+        "stageName": "TR1",
+        "stageInfo": "Hampinagar to Kuvempunagar (Btm Layout)"
+      },
+      {
+        "stageName": "V362B",
+        "stageInfo": "Ganganagar to Begur Vishwapriya Layout"
+      },
+      {
+        "stageName": "V362E",
+        "stageInfo": "Shivajinagar to Electronic City"
+      },
+      {
+        "stageName": "100E",
+        "stageInfo": "Sadashivanagar to Kuvempunagar (Btm Layout)"
+      },
+      {
+        "stageName": "112E",
+        "stageInfo": "Kaval Byrasandra to Kuvempunagar (Btm Layout)"
+      },
+      {
+        "stageName": "163",
+        "stageInfo": "K R Market to Koramangala"
+      },
+      {
+        "stageName": "163A",
+        "stageInfo": "K R Market to Koramangala"
+      },
+      {
+        "stageName": "163B",
+        "stageInfo": "K R Market to Koramangala 8th Block"
+      },
+      {
+        "stageName": "164",
+        "stageInfo": "Shivajinagar to Kuvempunagar (Btm Layout)"
+      },
+      {
+        "stageName": "165E",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Adugodi Police Quarters"
+      },
+      {
+        "stageName": "166",
+        "stageInfo": "Shivajinagar to Koramangala"
+      },
+      {
+        "stageName": "170",
+        "stageInfo": "Koramangala to Vijayanagar"
+      },
+      {
+        "stageName": "170E",
+        "stageInfo": "Chamarajpet Mydana to Koramangala"
+      },
+      {
+        "stageName": "171",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Koramangala"
+      },
+      {
+        "stageName": "171B",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Koramangala 8th Block"
+      },
+      {
+        "stageName": "171C",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Koramangala Kendriya Sadan"
+      },
+      {
+        "stageName": "171D",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Venkatapura"
+      },
+      {
+        "stageName": "171E",
+        "stageInfo": "Koramangala to Kamalanagar Beml Layout"
+      },
+      {
+        "stageName": "171G",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Koramangala"
+      },
+      {
+        "stageName": "171H",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Koramangala Housing Complex"
+      },
+      {
+        "stageName": "171J",
+        "stageInfo": "Koramangala to City Railway Station"
+      },
+      {
+        "stageName": "172",
+        "stageInfo": "Koramangala to Thyagarajanagar"
+      },
+      {
+        "stageName": "173",
+        "stageInfo": "Koramangala to Yeshwanthpur"
+      },
+      {
+        "stageName": "173A",
+        "stageInfo": "Koramangala to Chowdeshwari Bus Station"
+      },
+      {
+        "stageName": "174",
+        "stageInfo": "Koramangala to Mahalakshmi Layout"
+      },
+      {
+        "stageName": "174A",
+        "stageInfo": "Koramangala to Nandini Layout"
+      },
+      {
+        "stageName": "201S",
+        "stageInfo": "Banashankari to Domlur"
+      },
+      {
+        "stageName": "206",
+        "stageInfo": "Nandini Layout to Nandini Layout"
+      },
+      {
+        "stageName": "206A",
+        "stageInfo": "Nandini Layout to Nandini Layout"
+      },
+      {
+        "stageName": "238N",
+        "stageInfo": "Nrupathunganagar to Koramangala"
+      },
+      {
+        "stageName": "340G",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Hsr Layout Bda Complex"
+      },
+      {
+        "stageName": "340S",
+        "stageInfo": "Shivajinagar to Parangipalya"
+      },
+      {
+        "stageName": "346P",
+        "stageInfo": "Shivajinagar to Shikaripalya"
+      },
+      {
+        "stageName": "346R",
+        "stageInfo": "Neelasandra Rose Garden to Shikaripalya"
+      },
+      {
+        "stageName": "349K",
+        "stageInfo": "Shivajinagar to Huskur (Hosur Road)"
+      },
+      {
+        "stageName": "362",
+        "stageInfo": "Shivajinagar to Vijaya Bank Layout"
+      },
+      {
+        "stageName": "362C",
+        "stageInfo": "Shivajinagar to Begur (Hosur Road)"
+      },
+      {
+        "stageName": "376",
+        "stageInfo": "Hennur Cross to Huskur (Hosur Road)"
+      }
+    ]
+  },
+  {
+    "stage": "Adur",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "280F",
+        "stageInfo": "Yelahanka to Hosakote"
+      },
+      {
+        "stageName": "301D",
+        "stageInfo": "Shivajinagar to Hosakote"
+      },
+      {
+        "stageName": "307",
+        "stageInfo": "K R Market to Rampura"
+      },
+      {
+        "stageName": "313F",
+        "stageInfo": "K R Market to Rampura"
+      },
+      {
+        "stageName": "315J",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Adur"
+      }
+    ]
+  },
+  {
+    "stage": "Aecs Dental College",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "369E",
+        "stageInfo": "K R Market to Chikkakammanahalli"
+      },
+      {
+        "stageName": "369F",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Aecs Dental College"
+      },
+      {
+        "stageName": "369G",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Hommadevanahalli"
+      },
+      {
+        "stageName": "369P",
+        "stageInfo": "K R Market to Begur (Hosur Road)"
+      }
+    ]
+  },
+  {
+    "stage": "Aecs Layout (Kudlu)",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "347K",
+        "stageInfo": "K R Market to Aecs Layout (Kudlu)"
+      }
+    ]
+  },
+  {
+    "stage": "Aecs Layout (Kundalahalli)",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "411E",
+        "stageInfo": "Banashankari to Vydehi Hospital"
+      },
+      {
+        "stageName": "411F",
+        "stageInfo": "Minaznagar to Vydehi Hospital"
+      },
+      {
+        "stageName": "411G",
+        "stageInfo": "Kuvempunagar (Btm Layout) to Kadugodi"
+      }
+    ]
+  },
+  {
+    "stage": "Aecs Layout Cross (Kudlu)",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "347",
+        "stageInfo": "K R Market to Kudlu"
+      },
+      {
+        "stageName": "347B",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Kudlu"
+      },
+      {
+        "stageName": "347D",
+        "stageInfo": "K R Market to Somasundarapalya"
+      },
+      {
+        "stageName": "347E",
+        "stageInfo": "Kempegowda Bus Station/Majestic to Somasundarapalya"
+      },
+      {
+        "stageName": "347K",
+        "stageInfo": "K R Market to Aecs Layout (Kudlu)"
+      }
+    ]
+  },
+  {
+    "stage": "Agalahalli",
+    "data": [
+      {
+        "stageName": "Bus Route Name",
+        "stageInfo": "From and To Details"
+      },
+      {
+        "stageName": "227U",
+        "stageInfo": "K R Market to Agalahalli"
+      }
+    ]
+  }
+]
