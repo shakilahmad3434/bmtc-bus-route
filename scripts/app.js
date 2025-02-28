@@ -170,6 +170,7 @@ function displayTimeTable(){
     document.querySelector("#timeTable").innerHTML = tableHTML;
 }
 
+// display top navbar header city
 function displayCities() {
   let cityHTML = "";
 
