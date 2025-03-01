@@ -117,15 +117,6 @@ export const cities = [
     bgColor: 'bg-cyan-50'
   },
   {
-    img: '/images/city/kanpur.png',
-    alt: 'Kanpur',
-    badge: '160',
-    title: 'Kanpur',
-    desc: 'Explore bus routes throughout Uttar Pradesh, including Kanpur Nagar Nigam Transport services.',
-    link: '/kanpur',
-    bgColor: 'bg-violet-50'
-  },
-  {
     img: '/images/city/kolkata.png',
     alt: 'Kolkata',
     badge: '280',
