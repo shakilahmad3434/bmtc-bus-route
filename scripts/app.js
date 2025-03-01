@@ -167,7 +167,10 @@ function displayTimeTable(){
             <a href="#" class="view-more">View Schedule, Route Map & More</a>
         </div>`;
       });
-    document.querySelector("#timeTable").innerHTML = tableHTML;
+
+    if(document.querySelector("#timeTable") !== null){
+      document.querySelector("#timeTable").innerHTML = tableHTML;
+    }
 }
 
 // display top navbar header city
