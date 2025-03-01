@@ -8,6 +8,28 @@
     <title>Bus Fare Calculator</title>
     <link rel="icon" type="image/x-icon" href="../images/fevicon.png">
     <link rel="stylesheet" href="../styles/main.css">
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 20px auto;
+            font-family: Arial, sans-serif;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        caption {
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+    </style>
 </head>
 <body>
     <!-- Header -->
@@ -15,7 +37,7 @@
         <div class="header-container">
             <div class="logo">
                 <a href="/">
-                    <img src="../images/logo.png" alt="bangalore city bus">
+                    <img src="/images/logo.png" alt="bangalore city bus">
                 </a>
             </div>
             <i class="mobile-menu-toggle">☰</i>
@@ -49,6 +71,255 @@
             </div>
         </div>
     </header>
+
+<!-- start a main container -->
+ <main class="container">
+    <div class="info-container">
+        <h1>Bus Fare Calculator</h1>
+        <p>Last updated: March 02, 2025</p>
+        <div class="bracker-line"></div>
+    </div>
+
+    <h2>Mofussil Fare Chart</h2>
+
+    <div style="overflow-x: auto;">
+        <table>
+        <caption>MOFUSSIL SERVICE W.E.F. 25/26-02-2020</caption>
+        <thead>
+            <tr>
+                <th>Chargeable stages</th>
+                <th>ADULT</th>
+                <th>CHILD</th>
+                <th>SENIOR CITIZEN</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>1S</td><td>5.00</td><td>3.00</td><td>4.00</td></tr>
+            <tr><td>1</td><td>10.00</td><td>5.00</td><td>8.00</td></tr>
+            <tr><td>2S</td><td>12.00</td><td>6.00</td><td>9.00</td></tr>
+            <tr><td>2</td><td>15.00</td><td>8.00</td><td>11.00</td></tr>
+            <tr><td>3S</td><td>20.00</td><td>10.00</td><td>15.00</td></tr>
+            <tr><td>3</td><td>25.00</td><td>13.00</td><td>19.00</td></tr>
+            <tr><td>4S</td><td>26.00</td><td>13.00</td><td>20.00</td></tr>
+            <tr><td>4</td><td>28.00</td><td>14.00</td><td>21.00</td></tr>
+            <tr><td>5</td><td>30.00</td><td>15.00</td><td>23.00</td></tr>
+            <tr><td>6</td><td>33.00</td><td>17.00</td><td>25.00</td></tr>
+            <tr><td>7</td><td>36.00</td><td>18.00</td><td>27.00</td></tr>
+            <tr><td>8</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+            <tr><td>9</td><td>44.00</td><td>22.00</td><td>33.00</td></tr>
+            <tr><td>10</td><td>46.00</td><td>23.00</td><td>35.00</td></tr>
+            <tr><td>11</td><td>47.00</td><td>24.00</td><td>35.00</td></tr>
+            <tr><td>12</td><td>48.00</td><td>24.00</td><td>36.00</td></tr>
+            <tr><td>13</td><td>50.00</td><td>25.00</td><td>38.00</td></tr>
+            <tr><td>14</td><td>53.00</td><td>27.00</td><td>40.00</td></tr>
+            <tr><td>15</td><td>55.00</td><td>28.00</td><td>41.00</td></tr>
+            <tr><td>16</td><td>56.00</td><td>28.00</td><td>42.00</td></tr>
+            <tr><td>17</td><td>58.00</td><td>29.00</td><td>44.00</td></tr>
+            <tr><td>18</td><td>63.00</td><td>32.00</td><td>47.00</td></tr>
+            <tr><td>19</td><td>64.00</td><td>32.00</td><td>48.00</td></tr>
+            <tr><td>20</td><td>65.00</td><td>33.00</td><td>49.00</td></tr>
+        </tbody>
+    </table>
+    </div>
+
+    <h2>Nice Road Fare Chart</h2>
+    <div style="overflow-x: auto;">
+        <table>
+            <caption>NICE ROAD SERVICES W.E.F 06-09-2023</caption>
+            <thead>
+                <tr>
+                    <th>Chargeable stages</th>
+                    <th>Distance in Kms</th>
+                    <th>ADULT</th>
+                    <th>CHILD</th>
+                    <th>SENIOR CITIZEN</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>1</td><td>2.0</td><td>5.00</td><td>5.00</td><td>5.00</td></tr>
+                <tr><td>2</td><td>4.0</td><td>10.00</td><td>5.00</td><td>10.00</td></tr>
+                <tr><td>3</td><td>6.0</td><td>15.00</td><td>10.00</td><td>10.00</td></tr>
+                <tr><td>4</td><td>8.0</td><td>20.00</td><td>10.00</td><td>15.00</td></tr>
+                <tr><td>5</td><td>10.0</td><td>20.00</td><td>10.00</td><td>15.00</td></tr>
+                <tr><td>6</td><td>12.0</td><td>20.00</td><td>10.00</td><td>15.00</td></tr>
+                <tr><td>7</td><td>14.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>8</td><td>16.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>9</td><td>18.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>10</td><td>20.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>11</td><td>22.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>12</td><td>24.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>13</td><td>26.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>14</td><td>28.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>15</td><td>30.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>16</td><td>32.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>17</td><td>34.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>18</td><td>36.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>19</td><td>38.0</td><td>35.00</td><td>20.00</td><td>25.00</td></tr>
+                <tr><td>20</td><td>40.0</td><td>35.00</td><td>20.00</td><td>25.00</td></tr>
+                <tr><td>21</td><td>42.0</td><td>35.00</td><td>20.00</td><td>25.00</td></tr>
+                <tr><td>22</td><td>44.0</td><td>35.00</td><td>20.00</td><td>25.00</td></tr>
+                <tr><td>23</td><td>46.0</td><td>35.00</td><td>20.00</td><td>25.00</td></tr>
+                <tr><td>24</td><td>48.0</td><td>35.00</td><td>20.00</td><td>25.00</td></tr>
+                <tr><td>25</td><td>50.0</td><td>35.00</td><td>20.00</td><td>25.00</td></tr>
+                <tr><td>26</td><td>52.0</td><td>35.00</td><td>20.00</td><td>25.00</td></tr>
+                <tr><td>27</td><td>54.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>28</td><td>56.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>29</td><td>58.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>30</td><td>60.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>31</td><td>62.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>32</td><td>64.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>33</td><td>66.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h2>Ordinary Service Fare Chart</h2>
+    <div style="overflow-x: auto;">
+        <table>
+            <caption>ORDINARY SERVICES W.E.F. 26-05-2020</caption>
+            <thead>
+                <tr>
+                    <th>Chargeable stages</th>
+                    <th>Distance in Kms</th>
+                    <th>ADULT</th>
+                    <th>CHILD</th>
+                    <th>SENIOR CITIZEN</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>1</td><td>2.0</td><td>5.00</td><td>5.00</td><td>5.00</td></tr>
+                <tr><td>2</td><td>4.0</td><td>10.00</td><td>5.00</td><td>10.00</td></tr>
+                <tr><td>3</td><td>6.0</td><td>15.00</td><td>10.00</td><td>10.00</td></tr>
+                <tr><td>4</td><td>8.0</td><td>20.00</td><td>10.00</td><td>15.00</td></tr>
+                <tr><td>5</td><td>10.0</td><td>20.00</td><td>10.00</td><td>15.00</td></tr>
+                <tr><td>6</td><td>12.0</td><td>20.00</td><td>10.00</td><td>15.00</td></tr>
+                <tr><td>7</td><td>14.0</td><td>20.00</td><td>10.00</td><td>15.00</td></tr>
+                <tr><td>8</td><td>16.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>9</td><td>18.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>10</td><td>20.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>11</td><td>22.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>12</td><td>24.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>13</td><td>26.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>14</td><td>28.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>15</td><td>30.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>16</td><td>32.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>17</td><td>34.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>18</td><td>36.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>19</td><td>38.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>20</td><td>40.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>21</td><td>42.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>22</td><td>44.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>23</td><td>46.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>24</td><td>48.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>25</td><td>50.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>26</td><td>52.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>27</td><td>54.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>28</td><td>56.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>29</td><td>58.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>30</td><td>60.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h2>Vajra Service Fare Chart</h2>
+    <div style="overflow-x: auto;">
+        <table>
+            <caption>VAJRA AIR-CONDITIONED SERVICES W.E.F.05-01-2023</caption>
+            <thead>
+                <tr>
+                    <th rowspan="2">Chargeable stages</th>
+                    <th rowspan="2">Distance in Kms</th>
+                    <th>ADULT</th>
+                    <th>CHILD</th>
+                    <th>SENIOR CITIZEN</th>
+                </tr>
+                <tr>
+                    <th class="subheader">Fare including GST</th>
+                    <th class="subheader">Fare including GST</th>
+                    <th class="subheader">Fare including GST</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>1</td><td>2.0</td><td>10.00</td><td>5.00</td><td>10.00</td></tr>
+                <tr><td>2</td><td>4.0</td><td>15.00</td><td>10.00</td><td>15.00</td></tr>
+                <tr><td>3</td><td>6.0</td><td>20.00</td><td>10.00</td><td>15.00</td></tr>
+                <tr><td>4</td><td>8.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>5</td><td>10.0</td><td>25.00</td><td>15.00</td><td>20.00</td></tr>
+                <tr><td>6</td><td>12.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>7</td><td>14.0</td><td>30.00</td><td>15.00</td><td>25.00</td></tr>
+                <tr><td>8</td><td>16.0</td><td>35.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>9</td><td>18.0</td><td>35.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>10</td><td>20.0</td><td>35.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>11</td><td>22.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>12</td><td>24.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>13</td><td>26.0</td><td>40.00</td><td>20.00</td><td>30.00</td></tr>
+                <tr><td>14</td><td>28.0</td><td>45.00</td><td>25.00</td><td>35.00</td></tr>
+                <tr><td>15</td><td>30.0</td><td>45.00</td><td>25.00</td><td>35.00</td></tr>
+                <tr><td>16</td><td>32.0</td><td>45.00</td><td>25.00</td><td>35.00</td></tr>
+                <tr><td>17</td><td>34.0</td><td>50.00</td><td>25.00</td><td>39.99</td></tr>
+                <tr><td>18</td><td>36.0</td><td>50.00</td><td>25.00</td><td>39.99</td></tr>
+                <tr><td>19</td><td>38.0</td><td>50.00</td><td>25.00</td><td>39.99</td></tr>
+                <tr><td>20</td><td>40.0</td><td>50.00</td><td>25.00</td><td>39.99</td></tr>
+                <tr><td>21</td><td>42.0</td><td>55.00</td><td>30.00</td><td>45.00</td></tr>
+                <tr><td>22</td><td>44.0</td><td>55.00</td><td>30.00</td><td>45.00</td></tr>
+                <tr><td>23</td><td>46.0</td><td>55.00</td><td>30.00</td><td>45.00</td></tr>
+                <tr><td>24</td><td>48.0</td><td>55.00</td><td>30.00</td><td>45.00</td></tr>
+                <tr><td>25</td><td>50.0</td><td>55.00</td><td>30.00</td><td>45.00</td></tr>
+                <tr><td>26</td><td>52.0</td><td>60.00</td><td>30.00</td><td>45.00</td></tr>
+                <tr><td>27</td><td>54.0</td><td>60.00</td><td>30.00</td><td>45.00</td></tr>
+                <tr><td>28</td><td>56.0</td><td>60.00</td><td>30.00</td><td>45.00</td></tr>
+                <tr><td>29</td><td>58.0</td><td>60.00</td><td>30.00</td><td>45.00</td></tr>
+                <tr><td>30</td><td>60.0</td><td>60.00</td><td>30.00</td><td>45.00</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h2>Vaju Vajra Service Cut Passenger Fare Chart</h2>
+    <div style="overflow-x: auto;">
+        <table>
+            <caption>VAYU VAJRA CUT TRIP PASSENGER W.E.F.08-08-2020</caption>
+            <thead>
+                <tr>
+                    <th>Chargeable stages</th>
+                    <th>Distance in Kms</th>
+                    <th>ADULT</th>
+                </tr>
+                <tr>
+                    <th colspan="2"></th>
+                    <th class="subheader">Fare including GST</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>1</td><td>2.0</td><td>20.00</td></tr>
+                <tr><td>2</td><td>4.0</td><td>30.00</td></tr>
+                <tr><td>3</td><td>6.0</td><td>40.00</td></tr>
+                <tr><td>4</td><td>8.0</td><td>50.00</td></tr>
+                <tr><td>5</td><td>10.0</td><td>60.00</td></tr>
+                <tr><td>6</td><td>12.0</td><td>70.00</td></tr>
+                <tr><td>7</td><td>14.0</td><td>70.00</td></tr>
+                <tr><td>8</td><td>16.0</td><td>80.00</td></tr>
+                <tr><td>9</td><td>18.0</td><td>80.00</td></tr>
+                <tr><td>10</td><td>20.0</td><td>80.00</td></tr>
+                <tr><td>11</td><td>22.0</td><td>90.00</td></tr>
+                <tr><td>12</td><td>24.0</td><td>90.00</td></tr>
+                <tr><td>13</td><td>26.0</td><td>90.00</td></tr>
+                <tr><td>14</td><td>28.0</td><td>105.00</td></tr>
+                <tr><td>15</td><td>30.0</td><td>105.00</td></tr>
+                <tr><td>16</td><td>32.0</td><td>105.00</td></tr>
+                <tr><td>17</td><td>34.0</td><td>120.00</td></tr>
+                <tr><td>18</td><td>36.0</td><td>120.00</td></tr>
+                <tr><td>19</td><td>38.0</td><td>120.00</td></tr>
+                <tr><td>20</td><td>40.0</td><td>130.00</td></tr>
+                <tr><td>21</td><td>42.0</td><td>130.00</td></tr>
+                <tr><td>22</td><td>44.0</td><td>130.00</td></tr>
+                <tr><td>23</td><td>46.0</td><td>140.00</td></tr>
+                <tr><td>24</td><td>48.0</td><td>150.00</td></tr>
+                <tr><td>25</td><td>50.0</td><td>150.00</td></tr>
+            </tbody>
+        </table>
+    </div>
+    
+ </main>
 
 <!-- Footer -->
 <footer class="footer">
@@ -121,6 +392,6 @@
   </div>
 </footer>
 
-  <script src="../scripts/app.js" type="module"></script>
+  <script src="/scripts/app.js" type="module"></script>
 </body>
 </html>
