@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="bingbot" content="index, follow" />
+    <meta name="title" property="og:title" content="Jaipur Bus Route Finder | Best Bus Services & Routes in Jaipur">
+    <meta name="description" content="Find the best bus routes in Jaipur with our smart bus route search tool. Get details on bus timings, frequencies, ticket options, and major routes like Jaipur to Ajmer, Kota, and Alwar." />
+    <meta name="keywords" content="Jaipur bus route, Jaipur bus services, Jaipur bus timings, Jaipur to Ajmer bus, Jaipur to Kota bus, Jaipur public transport, best bus routes in Jaipur, Jaipur bus tickets, Jaipur city buses" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Jaipur Bus Route Finder | Best Bus Services & Routes in Jaipur" />
+    <meta property="og:description" content="Find the best bus routes in Jaipur with our smart bus route search tool. Get details on bus timings, frequencies, ticket options, and major routes like Jaipur to Ajmer, Kota, and Alwar." />
+    <meta property="og:image" content="/images/bangalore-city-bus.jpg" />
+    <meta property="og:url" content="https://bangalorecitybus.com/jaipur" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="BangaloreCityBus" />
+    <meta property="og:locale" content="en_IN" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Jaipur Bus Route Finder | Best Bus Services & Routes in Jaipur" />
+    <meta name="twitter:description" content="Find the best bus routes in Jaipur with our smart bus route search tool. Get details on bus timings, frequencies, ticket options, and major routes like Jaipur to Ajmer, Kota, and Alwar." />
+    <meta name="twitter:image" content="/images/bangalore-city-bus.jpg" />
+    <meta name="twitter:site" content="@BangaloreCityBus" />
+    <meta name="twitter:creator" content="@BangaloreCityBus" />
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://bangalorecitybus.com/jaipur" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/images/fevicon.png" />
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="/styles/main.css">
+
+    <!-- Preconnect for Faster Loading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+
+    <!-- Security Headers -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src * data:; script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;" />
+
+    <title>Jaipur Bus Route Finder | Best Bus Services & Routes in Jaipur</title>
+</head>
+
+    
+  <body>
+    <!-- Header -->
+    <header>
+      <div class="header-container">
+        <div class="logo">
+          <a href="/">
+            <img src="/images/logo.png" alt="bangalore city bus" />
+          </a>
+        </div>
+        <i class="mobile-menu-toggle">☰</i>
+        <nav>
+          <ul class="navbar-menu">
+            <li><a href="/">Home</a></li>
+            <li>
+              <a href="/city-wise">City Wise</a>
+              <ul class="dropdown-menu">
+                <!-- <li><a href="#">Patna</a></li> -->
+              </ul>
+            </li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </nav>
+        <div class="mobile-menu">
+          <ul class="mobile-menu-navbar">
+            <li><a href="/">Home</a></li>
+            <li>
+              <a href="/city-wise">City Wise</a>
+              <ul class="mobile-dropdown-menu">
+                <!-- <li><a href="#">Patna</a></li> -->
+              </ul>
+            </li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <!-- main element coding -->
+    <section class="hero">
+      <div class="container">
+        <div class="hero-info">
+          <h1>Jaipur Bus Route Finder</h1>
+          <p>
+            Easily explore Jaipur with our smart bus route search tool. Find the best connections to any destination in seconds and travel hassle-free across the city!
+          </p>
+        </div>
+
+        <section class="search-section">
+          <div class="search-tabs">
+            <div class="search-tab active">Route Number</div>
+            <div class="search-tab">Bus Stop</div>
+            <div class="search-tab">Source - Destination</div>
+          </div>
+          <div class="search-content">
+            <select class="js-bus-route-no">
+              <!-- insert bus route no from JS -->
+            </select>
+            <input
+              type="text"
+              placeholder="Enter route number or destination"
+              id="routeId"
+            />
+            <button class="search-button">Search</button>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <main class="container">
+      <!-- bus route no info  -->
+      <div id="routeDetails" class="bus-route-details">
+        <div class="route-info">
+          <div>
+            <span>Route Number:</span>
+            <span id="routeNo"></span>
+          </div>
+          <div>
+            <span>From:</span>
+            <span id="routeFrom"></span>
+          </div>
+          <div>
+            <span>To:</span>
+            <span id="routeTo"></span>
+          </div>
+          <div>
+            <span>Total Distance:</span>
+            <span id="routeDistance"></span>
+          </div>
+          <div>
+            <span>Total Stops:</span>
+            <span id="totalStops"></span>
+          </div>
+          <div>
+            <span>Frequency:</span>
+            <span>Every 15 minutes</span>
+          </div>
+        </div>
+
+        <h3>Stops</h3>
+        <div class="stops-list" id="stopsList">
+          <div class="route-line"></div>
+        </div>
+
+        <div class="map-view">Route Map View Loading...</div>
+      </div>
+
+      <!-- bus stages no  -->
+      <div class="stage-info" style="overflow-x: auto">
+        <h2 class="stage-name">
+          <span class="bus-stage-name">Bus Stage Name</span>
+          <span class="info-badge">Active</span>
+        </h2>
+
+        <table class="routes-table">
+          <thead>
+            <tr>
+              <th>Sl No.</th>
+              <th>Bus Route</th>
+              <th>From and To Details</th>
+              <th>Frequency</th>
+              <th>Next Bus</th>
+            </tr>
+          </thead>
+          <tbody id="routesBody">
+            <!-- Routes will be populated here -->
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Bus Source - Destination -->
+      <div class="from-to-destination">
+        <p>Bus route to the destination feature is coming soon...</p>
+      </div>
+
+      <!-- Quick Info  -->
+      <section class="quick-info">
+        <div class="info-container">
+          <h2>Bus Services in Jaipur</h2>
+          <p>
+            Jaipur has a well-developed public transport system, offering a variety of bus services for residents and tourists. With numerous buses running daily, the city ensures affordable, reliable, and comfortable travel options.
+          </p>
+          <div class="bracker-line"></div>
+        </div>
+
+        <div class="stats-grid">
+          <div class="stat-card blue">
+            <div class="stat-header">
+              <span class="stat-title">Daily Buses</span>
+              <div class="stat-icon">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M8 7h8m-8 5h8m-4-9h4a2 2 0 012 2v14a2 2 0 01-2 2H6a2 2 0 01-2-2V5a2 2 0 012-2h4"
+                  />
+                </svg>
+              </div>
+            </div>
+            <div class="stat-value">700+</div>
+          </div>
+
+          <div class="stat-card purple">
+            <div class="stat-header">
+              <span class="stat-title">Routes</span>
+              <div class="stat-icon">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+                  />
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+                  />
+                </svg>
+              </div>
+            </div>
+            <div class="stat-value">160+</div>
+          </div>
+
+          <div class="stat-card green">
+            <div class="stat-header">
+              <span class="stat-title">Areas Covered</span>
+              <div class="stat-icon">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"
+                  />
+                </svg>
+              </div>
+            </div>
+            <div class="stat-value">80+</div>
+          </div>
+
+          <div class="stat-card orange">
+            <div class="stat-header">
+              <span class="stat-title">Daily Passengers</span>
+              <div class="stat-icon">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"
+                  />
+                </svg>
+              </div>
+            </div>
+            <div class="stat-value">1.2M+</div>
+          </div>
+        </div>
+      </section>
+      <!-- Quick Ended Code  -->
+
+      <section class="popular-routes">
+        <div class="info-container">
+          <h2>Popular Routes</h2>
+          <p>
+            Connecting major destinations across Rajasthan with frequent, reliable bus services from Jaipur.
+          </p>
+          <div class="bracker-line"></div>
+        </div>
+
+        <div class="popular-routes-grid">
+          <!-- Jaipur - Ajmer -->
+          <div class="popular-route-card">
+            <div class="popular-route-image">
+              <img
+                src="/images/routes/jaipur/jaipur-ajmer.png"
+                alt="Jaipur to Ajmer route"
+              />
+              <h2 class="popular-route-title">Jaipur - Ajmer</h2>
+            </div>
+            <div class="popular-route-info">
+              <div class="popular-info-grid">
+                <div class="info-item">
+                  <span class="info-label">Distance</span>
+                  <span class="info-value">135 km</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">Duration</span>
+                  <span class="info-value">2.5 hours</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">Frequency</span>
+                  <span class="info-value">Every 30 mins</span>
+                </div>
+              </div>
+              <div class="divider"></div>
+              <div class="popular-info-grid">
+                <div class="info-item">
+                  <span class="info-label">First Bus</span>
+                  <span class="info-value">5:00 AM</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">Last Bus</span>
+                  <span class="info-value">11:00 PM</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Jaipur - Kota -->
+          <div class="popular-route-card">
+            <div class="popular-route-image">
+              <img
+                src="/images/routes/jaipur/jaipur-kota.png"
+                alt="Jaipur to Kota route"
+              />
+              <h2 class="popular-route-title">Jaipur - Kota</h2>
+            </div>
+            <div class="popular-route-info">
+              <div class="popular-info-grid">
+                <div class="info-item">
+                  <span class="info-label">Distance</span>
+                  <span class="info-value">250 km</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">Duration</span>
+                  <span class="info-value">5 hours</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">Frequency</span>
+                  <span class="info-value">Every 45 mins</span>
+                </div>
+              </div>
+              <div class="divider"></div>
+              <div class="popular-info-grid">
+                <div class="info-item">
+                  <span class="info-label">First Bus</span>
+                  <span class="info-value">4:30 AM</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">Last Bus</span>
+                  <span class="info-value">10:30 PM</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Jaipur - Alwar -->
+          <div class="popular-route-card">
+            <div class="popular-route-image">
+              <img
+                src="/images/routes/jaipur/jaipur-alwar.png"
+                alt="Jaipur to Alwar route"
+              />
+              <h2 class="popular-route-title">Jaipur - Alwar</h2>
+            </div>
+            <div class="popular-route-info">
+              <div class="popular-info-grid">
+                <div class="info-item">
+                  <span class="info-label">Distance</span>
+                  <span class="info-value">150 km</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">Duration</span>
+                  <span class="info-value">3 hours</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">Frequency</span>
+                  <span class="info-value">Every 40 mins</span>
+                </div>
+              </div>
+              <div class="divider"></div>
+              <div class="popular-info-grid">
+                <div class="info-item">
+                  <span class="info-label">First Bus</span>
+                  <span class="info-value">5:15 AM</span>
+                </div>
+                <div class="info-item">
+                  <span class="info-label">Last Bus</span>
+                  <span class="info-value">10:45 PM</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <p class="info-note">
+          Note: Timings and frequencies are approximate and may vary based on
+          the operator and time of day.
+        </p>
+      </section>
+
+      <!-- FAQs Snippets -->
+      <section class="faq-snippets">
+        <div class="info-container">
+          <h2>Frequently Asked Questions</h2>
+          <p>Everything you need to know about the bus services and routes in Jaipur.</p>
+          <div class="bracker-line"></div>
+        </div>
+        <div class="accordion">
+          <div class="accordion-item">
+            <input type="radio" name="accordion" id="first" checked />
+            <label for="first"
+              >How can I find the best bus route in Jaipur?
+              <span class="icon"></span
+            ></label>
+            <div class="accordion-content">
+              <p>
+                You can use our Jaipur Bus Route Finder to search for the best routes by entering your source and destination. You can also check live updates through various online platforms or mobile apps.
+              </p>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <input type="radio" name="accordion" id="second" />
+            <label for="second"
+              >What types of buses are available in Jaipur?
+              <span class="icon"></span
+            ></label>
+            <div class="accordion-content">
+              <p>Jaipur offers various bus options, including low-floor buses, express buses, and AC/non-AC buses for different budgets and travel needs.</p>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <input type="radio" name="accordion" id="third" />
+            <label for="third"
+              >Where can I buy bus tickets and passes in Jaipur?
+              <span class="icon"></span
+            ></label>
+            <div class="accordion-content">
+                <p>Bus tickets and passes are available at bus terminals, online booking platforms, and authorized ticket counters across the city.</p>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <input type="radio" name="accordion" id="fourth" />
+            <label for="fourth"
+              >What is the frequency of buses in Jaipur?
+              <span class="icon"></span
+            ></label>
+            <div class="accordion-content">
+                <p>Most city buses run every 10–30 minutes, depending on the route and demand.</p>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <input type="radio" name="accordion" id="fivth" />
+            <label for="fivth"
+              >Are buses available late at night in Jaipur?
+              <span class="icon"></span
+            ></label>
+            <div class="accordion-content">
+              <p>Limited night bus services are available on major routes, usually operating until 11:00 PM.</p>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <input type="radio" name="accordion" id="sixth" />
+            <label for="sixth"
+              >How can I reach Jaipur Airport using buses?
+              <span class="icon"></span
+            ></label>
+            <div class="accordion-content">
+              <p>Jaipur's public bus network includes direct and connecting routes to Jaipur International Airport, making it an affordable option for travelers.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Quick City Bus Links -->
+
+      <section class="state-links">
+        <div class="info-container">
+          <h2>Other State Bus Services</h2>
+          <div class="bracker-line"></div>
+        </div>
+        <div class="state-grid">
+          <!-- insert item from JS  -->
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-container">
+          <div class="footer-column">
+            <h3>About</h3>
+            <p>
+              BangaloreCityBus.com helps you find bus routes across all states
+              in India. Get accurate schedules, maps, and travel details in one
+              place. Plan your journey easily and travel hassle-free!
+            </p>
+          </div>
+          <div class="footer-column">
+            <h3>Useful Links</h3>
+            <ul>
+              <li><a href="/bus-pass">Bus Pass Application</a></li>
+              <li><a href="/time-table">Time Table</a></li>
+              <li><a href="/fare-calculator">Fare Calculator</a></li>
+              <li><a href="/metro-timings">Metro Timings</a></li>
+            </ul>
+          </div>
+          <div class="footer-column">
+            <h3>Quick Links</h3>
+            <ul>
+              <li><a href="/terms">Terms and Conditions</a></li>
+              <li><a href="/privacy">Privacy Policy</a></li>
+              <li><a href="/disclaimer">Disclaimer</a></li>
+              <li><a href="/contact">Contact Us</a></li>
+            </ul>
+          </div>
+          <div class="footer-column">
+            <h3>Stay Updated</h3>
+            <div class="subscription-card">
+              <div class="text-center">
+                <p class="description">
+                  Get the latest updates and exclusive content directly in your
+                  inbox.
+                </p>
+              </div>
+
+              <form id="subscriptionForm" novalidate>
+                <div class="form-group">
+                  <input
+                    type="email"
+                    id="email"
+                    placeholder="Enter your email"
+                    pattern="[^@\s]+@[^@\s]+\.[^@\s]+"
+                    required
+                  />
+                  <p class="error-message">
+                    Please enter a valid email address
+                  </p>
+                </div>
+
+                <button type="submit" class="subscribe-btn">Subscribe</button>
+              </form>
+            </div>
+
+            <div class="subscription-card success-card">
+              <div class="icon-circle">
+                <svg
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="#047857"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M22 2L11 13"></path>
+                  <path d="M22 2L15 22L11 13L2 9L22 2Z"></path>
+                </svg>
+              </div>
+              <h3 class="success-title">Thank you for subscribing!</h3>
+              <p class="success-message">
+                We'll keep you updated with the latest news and updates.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="copyright">
+          <p>&copy; 2025 Bangalore City Bus. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="/scripts/app.js" type="module"></script>
+  </body>
+</html>
