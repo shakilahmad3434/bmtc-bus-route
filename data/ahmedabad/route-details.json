@@ -1,0 +1,3541 @@
+[
+  {
+    "route": "1",
+    "data": {
+      "routeNo": "1",
+      "from": "Lal Darwaja",
+      "to": "Ratan Park (Gayatri Vidya Mandir Route)",
+      "distance": "3  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Lal Darwaja",
+        "Fuwara",
+        "Khadia Cross Roads",
+        "Shehar Kotda",
+        "Ratan Park (Gayatri Vidya Mandir Route)"
+      ]
+    }
+  },
+  {
+    "route": "101",
+    "data": {
+      "routeNo": "101",
+      "from": "Lal Darwaja Terminus",
+      "to": "Sardarnagar",
+      "distance": "8  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Police Commissioner Office",
+        "Shahibaug Underbridge",
+        "Circuit House",
+        "Camp Sadar Bazaar",
+        "Talawadi",
+        "Sardarnagar"
+      ]
+    }
+  },
+  {
+    "route": "102",
+    "data": {
+      "routeNo": "102",
+      "from": "Lal Darwaja",
+      "to": "Airport",
+      "distance": "8  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Lal Darwaja",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Shahibaug Underbridge",
+        "Sujata Flats",
+        "Rajasthan Hospital",
+        "Navrojji Hall",
+        "Dufnala",
+        "Camp Hanuman",
+        "Camp Sardar Bazaar",
+        "Garnala",
+        "Mandir",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "105",
+    "data": {
+      "routeNo": "105",
+      "from": "Lal Darwaja Terminus",
+      "to": "Naroda Industrial -Wnship",
+      "distance": "16  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Police Commissioner Office",
+        "Shahibaug",
+        "Circuit House",
+        "Hanuman Camp",
+        "Camp Sardar Bazaar",
+        "Sardar Nagar Approach",
+        "Hansol",
+        "Bhadreshwar",
+        "Kotarpur",
+        "Nobelnagar",
+        "Nana Chiloda",
+        "Shreenivas Envero",
+        "Makas",
+        "Naroda Industrial -Wnship"
+      ]
+    }
+  },
+  {
+    "route": "111/2",
+    "data": {
+      "routeNo": "111/2",
+      "from": "Lal Darwaja",
+      "to": "Kalapinagar",
+      "distance": "7  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Lal Darwaja",
+        "Khamasa",
+        "As-Dia Chakla",
+        "Raipur Darwaja",
+        "Sarangpur",
+        "Kalupur",
+        "Fruit Market",
+        "Prem Darwaja",
+        "Idagha Chowky",
+        "Asarwa Over Bridge",
+        "Asarwa Mills",
+        "Asarwa Chakla",
+        "Kalapinagar"
+      ]
+    }
+  },
+  {
+    "route": "112",
+    "data": {
+      "routeNo": "112",
+      "from": "Lal Darwaja Terminus",
+      "to": "Kubernagar Bunglow",
+      "distance": "10  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Dariyapur -Wer",
+        "Idagah Chowky",
+        "Girdharnagar",
+        "Civil Hospital",
+        "Tatanagar",
+        "Meghaninagar",
+        "Somnath Mahadev",
+        "Bhargav Society",
+        "Kubernagar Bunglow"
+      ]
+    }
+  },
+  {
+    "route": "116",
+    "data": {
+      "routeNo": "116",
+      "from": "Civil Hospital",
+      "to": "Dani Limbda Gaam",
+      "distance": "7  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Civil Hospital",
+        "Girdharnagar",
+        "Kalupur",
+        "Raipur Darwaja",
+        "St Stand",
+        "Parikshit Lalnagar",
+        "St Workshop",
+        "Dani Limbda Road",
+        "Dani Limbda Gaam"
+      ]
+    }
+  },
+  {
+    "route": "117",
+    "data": {
+      "routeNo": "117",
+      "from": "Suhaj Farm",
+      "to": "Kalapinagar",
+      "distance": "9  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Suhaj Farm",
+        "Chapirog Hospital",
+        "Calico Mills",
+        "Jamalpur Chakla",
+        "Khmasa",
+        "As-Dia Chakla",
+        "Raipur Darwaja",
+        "Kalupur",
+        "Prem Darwaja",
+        "Asarwa Over Bridge",
+        "Civil Hospital",
+        "Mla Quarters",
+        "Kalapinagar"
+      ]
+    }
+  },
+  {
+    "route": "122",
+    "data": {
+      "routeNo": "122",
+      "from": "Lal Darwaja Terminus",
+      "to": "Ambawadi Police Station",
+      "distance": "13  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Tilakmarg",
+        "Kalupur",
+        "Amdupura",
+        "Vijay Mills",
+        "Saijpur",
+        "St Workshop",
+        "Dholinagar",
+        "Railway Station",
+        "Ward",
+        "Maya Talkies",
+        "Kotarpur Water Works",
+        "Bhadreshwar",
+        "Ambawadi Police Station"
+      ]
+    }
+  },
+  {
+    "route": "123",
+    "data": {
+      "routeNo": "123",
+      "from": "Lal Darwaja Terminus",
+      "to": "Krishnanagar",
+      "distance": "8  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "As-Dia Chakla",
+        "Raipur Darwaja",
+        "Sarangpur",
+        "Kalupur",
+        "Amdupura",
+        "Vijay Mills",
+        "Gd High School",
+        "Krishnanagar"
+      ]
+    }
+  },
+  {
+    "route": "123/1",
+    "data": {
+      "routeNo": "123/1",
+      "from": "Lal Darwaja Terminus",
+      "to": "Wnship",
+      "distance": "13  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Raipur Darwaja",
+        "Saranpur",
+        "Kalupur Overbridge",
+        "Chamunda",
+        "Saijpur",
+        "Baithak",
+        "Parshavnath",
+        "Wnship"
+      ]
+    }
+  },
+  {
+    "route": "126",
+    "data": {
+      "routeNo": "126",
+      "from": "Sarangpur Terminus",
+      "to": "Sardarnagar",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Sarangpur Terminus",
+        "Kalupur",
+        "Chamunda",
+        "Vijay Mills",
+        "Saijpur",
+        "G Ward",
+        "Kotarpur Water Works",
+        "Bhadreshwar",
+        "Ambawadi Police Station",
+        "Sardarnagar"
+      ]
+    }
+  },
+  {
+    "route": "127",
+    "data": {
+      "routeNo": "127",
+      "from": "Adishwarnagar",
+      "to": "Sarangpur",
+      "distance": "25  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Adishwarnagar",
+        "Kalupur",
+        "Kalupur Overbridge",
+        "Chamunda",
+        "Bansidhar Mills",
+        "Saijpur Baithak",
+        "Naroda Gaam",
+        "Kathvada Fata",
+        "Sarangpur"
+      ]
+    }
+  },
+  {
+    "route": "128",
+    "data": {
+      "routeNo": "128",
+      "from": "Maninagar Terminus",
+      "to": "Wnship",
+      "distance": "15  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Maninagar Terminus",
+        "Lg Hospital Corner",
+        "Punit Ashram",
+        "Balvatika",
+        "Vishwanath Mahadev",
+        "Raipur Darwaja",
+        "Sarangpur",
+        "Kalupur",
+        "Chamunda",
+        "Saijpur",
+        "Naroda Terminus",
+        "Ingarsol",
+        "Reliance Textiles",
+        "Naroda Industrial",
+        "Wnship"
+      ]
+    }
+  },
+  {
+    "route": "129",
+    "data": {
+      "routeNo": "129",
+      "from": "Kubernagar",
+      "to": "Narayannagar",
+      "distance": "24  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Kubernagar",
+        "Navi Chali",
+        "Saijpur",
+        "Banisdhar Mills",
+        "Chamunda",
+        "Kalupur Terminus",
+        "Sarangpur",
+        "Raipur Darwaja",
+        "St Stand",
+        "Transport House",
+        "Calico Colony",
+        "Museum",
+        "Rajnagar Society",
+        "Shantivan",
+        "Alok Appartment",
+        "Chandranagar",
+        "Narayannagar Society",
+        "Narayannagar"
+      ]
+    }
+  },
+  {
+    "route": "13",
+    "data": {
+      "routeNo": "13",
+      "from": "Lal Darwaja Terminus",
+      "to": "Nigam Society",
+      "distance": "11  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "As-Dia Chakla",
+        "St Bus Stand",
+        "Shahallam -Lnaka",
+        "Puspkunj",
+        "Radhanpur Society",
+        "Bhairavnath",
+        "Millatnagar",
+        "Rajeshwari Society",
+        "Govindwadi",
+        "Isanpur",
+        "Samrat Nagar",
+        "Royal Tiles",
+        "Smruti Mandir",
+        "Nigam Society"
+      ]
+    }
+  },
+  {
+    "route": "13/1*",
+    "data": {
+      "routeNo": "13/1*",
+      "from": "Nigam Society",
+      "to": "Ranip",
+      "distance": "18  K.M.",
+      "totalStops": 21,
+      "stops": [
+        "Nigam Society",
+        "Smruti Mandir",
+        "Royal Tiles",
+        "Samrat Nagar",
+        "Isanpur",
+        "Jaymala Society",
+        "Jawaharchowk",
+        "Bhairavnath",
+        "Pushpkunj",
+        "Shahallam -Lnaka",
+        "St Stand",
+        "Khamasa",
+        "Laldwarja",
+        "Nehru Bridge",
+        "Natraj Cinema",
+        "Income Tax",
+        "Vadaj",
+        "Subhash Bridge Circle",
+        "Prbhoth Raval Bridge",
+        "Radha Swamy Satsang",
+        "Ranip"
+      ]
+    }
+  },
+  {
+    "route": "130*",
+    "data": {
+      "routeNo": "130*",
+      "from": "Naroda Industrial",
+      "to": "Indiranagar Vr",
+      "distance": "23  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Naroda Industrial",
+        "Wnship",
+        "Ingarsol",
+        "Naroda Terminus",
+        "St Workshop",
+        "Saijpur",
+        "Krishnanagar",
+        "Thakkarbapanagar Approach",
+        "Gauri Cinema",
+        "Ctm",
+        "Jasodhanagar Chowkdi",
+        "Ghodasar Chowdi",
+        "Samratnagar",
+        "Isanpur Chowkdi",
+        "Narol Circle",
+        "Shah Wadi",
+        "Bhamariya Kuva",
+        "Lambha Mandir",
+        "Lambha Gaam",
+        "Indiranagar Vr"
+      ]
+    }
+  },
+  {
+    "route": "133",
+    "data": {
+      "routeNo": "133",
+      "from": "Lal Darwaja Terminus",
+      "to": "Anand Flats",
+      "distance": "13  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Tilakroad",
+        "Kalupur",
+        "Shrinagar Mills",
+        "Kalabhuwan",
+        "Shardaben Hospital",
+        "Raipur Mills",
+        "Industrial Estate",
+        "Bapunagar General Hospital",
+        "Lal Bhadur Shastri Stadium",
+        "Stadium Corner",
+        "Margha Farm",
+        "Bajrang Society",
+        "Anand Flats"
+      ]
+    }
+  },
+  {
+    "route": "135*",
+    "data": {
+      "routeNo": "135*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Shukan Bunglows",
+      "distance": "11  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "As-Dia Chakla",
+        "Raipur Darwaja",
+        "Sarangpur",
+        "Kalupur",
+        "Shrinagar Mills",
+        "Dr. Ambedkar Hall",
+        "Shardaben Hospital",
+        "Vorana Rojo",
+        "Tapowan Society",
+        "Anil Starch Appartments",
+        "India Colony",
+        "Thakkarbapanagar Approach",
+        "Swaminarayan Nagar",
+        "Nikol Vad",
+        "Shukan Bunglows"
+      ]
+    }
+  },
+  {
+    "route": "137*",
+    "data": {
+      "routeNo": "137*",
+      "from": "Tejendranagar",
+      "to": "Gota Gaam",
+      "distance": "16  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Tejendranagar",
+        "Viratnagar",
+        "Khodiyarnagar",
+        "Bapunagar",
+        "Bheedbhanjan Hanuman",
+        "Shardaben Hospital",
+        "Kalupur Darwaja",
+        "Gandhi Bridge",
+        "Usmanpura",
+        "Vadaj",
+        "Nava Vadaj Nirnayanagar Garnala",
+        "Chandlodia",
+        "Jk Park",
+        "Gota Gaam"
+      ]
+    }
+  },
+  {
+    "route": "14*",
+    "data": {
+      "routeNo": "14*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Chosargam",
+      "distance": "20  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "St Stand",
+        "Shahallam Dwarja",
+        "Chandola Lake",
+        "Bhatha",
+        "Narol Turnings",
+        "Bibi Lake",
+        "Vatva Gam",
+        "Namdar Farm",
+        "Gamdi",
+        "Chosargam"
+      ]
+    }
+  },
+  {
+    "route": "14/1",
+    "data": {
+      "routeNo": "14/1",
+      "from": "Laldwarja Terminus",
+      "to": "Vtva Railway Crossing",
+      "distance": "10  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Laldwarja Terminus",
+        "Khamasa",
+        "St Stand",
+        "Shahallam -Lnaka",
+        "Pushpkunj",
+        "Krishnabaug",
+        "Jawaharchowk",
+        "Anand Wadi",
+        "Ramwadi",
+        "Isanpur",
+        "Bibi Lake",
+        "Vtva Railway Crossing"
+      ]
+    }
+  },
+  {
+    "route": "141",
+    "data": {
+      "routeNo": "141",
+      "from": "Lal Darwaja Terminus",
+      "to": "Rakhial Cross Roads",
+      "distance": "5  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Raipur Arwaja",
+        "Saranpur Overbridge",
+        "Rajpur -Lnaka",
+        "Jivram Bhattni Chali",
+        "Gomtipur Darwaja",
+        "Sukhramnagar",
+        "Government Quarters",
+        "Rakhial Cross Roads"
+      ]
+    }
+  },
+  {
+    "route": "142*",
+    "data": {
+      "routeNo": "142*",
+      "from": "Vastral Gaam",
+      "to": "Gujarat University",
+      "distance": "16  K.M.",
+      "totalStops": 25,
+      "stops": [
+        "Vastral Gaam",
+        "Sukhram Mahadev",
+        "Mahadevnagar",
+        "Rabari Colony",
+        "Swastik Industries",
+        "Amraiwadi",
+        "New Cot-N Mills",
+        "Mariambiwi",
+        "Masjid",
+        "Rajpur -Lnaka",
+        "Kamdar Maidan",
+        "Sarangpur",
+        "Raipur Darwaja",
+        "As-Dia Chakla",
+        "Khamasa",
+        "Lal Darwaja",
+        "Nehrubridge",
+        "Madalpur Garnala",
+        "Gujarat College",
+        "Mithakali",
+        "Navranpura",
+        "Commerce College",
+        "Vijay Char Rasta",
+        "Dada Sahebna Pagla",
+        "Gujarat University"
+      ]
+    }
+  },
+  {
+    "route": "143*",
+    "data": {
+      "routeNo": "143*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Bhuwaladi",
+      "distance": "16  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Raipur Darwaja",
+        "Sarangpur Overbridge",
+        "Rakhial Char Rasta",
+        "Bhikshuk Gruh",
+        "Odhav Terminus",
+        "Singarva Patia",
+        "Chinubhai Nagar",
+        "Hinglaj Mata Approach",
+        "Bhuwaladi"
+      ]
+    }
+  },
+  {
+    "route": "144",
+    "data": {
+      "routeNo": "144",
+      "from": "Lal Darwaja Terminus",
+      "to": "Aburdanagar",
+      "distance": "12  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Raipr Darwaja",
+        "Kamdar Maidan",
+        "Patel Mills",
+        "Gomtipur Darwaja",
+        "Government Quarters",
+        "Chakudia Mahadev",
+        "Nagarvel Hanuman",
+        "Satyamnagar",
+        "Rajratna Society",
+        "Rajendrapark",
+        "Radheshyam Society",
+        "Aburdanagar"
+      ]
+    }
+  },
+  {
+    "route": "144/1",
+    "data": {
+      "routeNo": "144/1",
+      "from": "Lal Darwaja Terminus",
+      "to": "Sahyog Vidhyalay",
+      "distance": "16  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Raipur Darwaja",
+        "Sarangpur",
+        "Kamdar Maidan",
+        "Patel Mills",
+        "Gomtipur Darwaja",
+        "Government Quarters",
+        "Chakudia Mahadev",
+        "Gravity House",
+        "Nagarvel Hanuman",
+        "Satyamnagar",
+        "Ramrajyanagar",
+        "Rajratna Society",
+        "Rajendrapark",
+        "Radheshyam Society",
+        "Shital Chaya Society",
+        "Ekta Chowk",
+        "Krishnakunj Society",
+        "Sahyog Vidhyalay"
+      ]
+    }
+  },
+  {
+    "route": "145/2",
+    "data": {
+      "routeNo": "145/2",
+      "from": "Lal Darwaja Terminus",
+      "to": "Adinathnagar (Khodiyaar Mandir-Navi Odhav Panchayat)",
+      "distance": "10  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Raipur Darwaja",
+        "Sarangpur Bridge",
+        "Patel Mills",
+        "Rakhial",
+        "Ajit Mills",
+        "Bhikshuk Gruh",
+        "Gidc Tanki",
+        "Adinathnagar (Khodiyaar Mandir-Navi Odhav Panchayat)"
+      ]
+    }
+  },
+  {
+    "route": "145/3",
+    "data": {
+      "routeNo": "145/3",
+      "from": "Lal Darwaja Terminus",
+      "to": "Janta Nagar",
+      "distance": "10  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Raipur",
+        "Sarangpur Bridge",
+        "Patel Mills",
+        "Rakhial",
+        "Bapunagar General Hospital",
+        "Lal Bhadur Shastri Stadium",
+        "Margha Farm",
+        "Viratnagar Municipal Zonal Office",
+        "Divya Prabha Appartment",
+        "Gopinath Society",
+        "Umiya Dhaam",
+        "Ambikanagar",
+        "Janta Nagar"
+      ]
+    }
+  },
+  {
+    "route": "145/4",
+    "data": {
+      "routeNo": "145/4",
+      "from": "Lal Darwaja Terminus",
+      "to": "Janta Nagar (Ambika Nagar)",
+      "distance": "11  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Raipur",
+        "Sarangpur Bridge",
+        "Patel Mills",
+        "Rakhial",
+        "Bhikshuk Gruh",
+        "Aapa Hotel",
+        "Janta Nagar (Ambika Nagar)"
+      ]
+    }
+  },
+  {
+    "route": "146/1*",
+    "data": {
+      "routeNo": "146/1*",
+      "from": "Chinubhai Nagar",
+      "to": "Gayatri Vidhaylay",
+      "distance": "22  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Chinubhai Nagar",
+        "Singarva Patia",
+        "Vapari Mahamandal",
+        "Sonini Chali",
+        "Rakhial",
+        "Kamdar Maidan",
+        "Sarangpur",
+        "Kalupur",
+        "Dariyapur Darwaja",
+        "Income-Tax Office",
+        "Vadaj",
+        "Nava Vadaj",
+        "Nirnaynagar Garnala",
+        "Vimal Tenaments",
+        "Natraj Tenaments",
+        "Gayatri Vidhaylay"
+      ]
+    }
+  },
+  {
+    "route": "146/6",
+    "data": {
+      "routeNo": "146/6",
+      "from": "Sarangpur Terminus",
+      "to": "Aburdanagar",
+      "distance": "7  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Sarangpur Terminus",
+        "Kamdar Maidan",
+        "Rakhial Char Rasta",
+        "Sonini Chali",
+        "Gauri Cinmea",
+        "Raj Ratna Society",
+        "Mukesh Nagar",
+        "Radheshyam Society",
+        "Aburdanagar"
+      ]
+    }
+  },
+  {
+    "route": "147*",
+    "data": {
+      "routeNo": "147*",
+      "from": "Mahadevnagar",
+      "to": "Vagheshwari Society",
+      "distance": "17  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Mahadevnagar",
+        "Suralia Estate",
+        "Rabari Colony",
+        "Amraiwadi",
+        "New Cot-N Mills",
+        "Silver Cot-N Mills",
+        "Rajpur -Lnaka",
+        "Kamdar Maidan",
+        "Kalupur",
+        "Dariyapur Darwaja",
+        "Income-Tax Office",
+        "Vadaj",
+        "Nava Vadaj",
+        "Nirnaynagar Garnala",
+        "Kk Nagar",
+        "Vagheshwari Society"
+      ]
+    }
+  },
+  {
+    "route": "147/1*",
+    "data": {
+      "routeNo": "147/1*",
+      "from": "Mahadevnagar",
+      "to": "Vagheshwari Society",
+      "distance": "17  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Mahadevnagar",
+        "Suralia Estate",
+        "Rabari Colony",
+        "Amraiwadi",
+        "New Cot-N Mills",
+        "Sukhramnagar",
+        "Gomtipur Darwaja",
+        "Patel Mills",
+        "Kamdar Maidan",
+        "Kalupur",
+        "Delhi Darwaja",
+        "Income-Tax Office",
+        "Vadaj",
+        "Nava Vadaj",
+        "Nirnaynagar Garnala",
+        "Kk Nagar",
+        "Vagheshwari Society"
+      ]
+    }
+  },
+  {
+    "route": "148*",
+    "data": {
+      "routeNo": "148*",
+      "from": "Kathvada Gaam",
+      "to": "Sarangpur Terminus",
+      "distance": "23  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Kathvada Gaam",
+        "Kamdar Maidan",
+        "Rakhial Char Rasta",
+        "Soninni Chal",
+        "Odhav",
+        "Cellulose Products",
+        "Sarangpur Terminus"
+      ]
+    }
+  },
+  {
+    "route": "15/1",
+    "data": {
+      "routeNo": "15/1",
+      "from": "Maninagar Terminus",
+      "to": "Vinobhabhav Nagar",
+      "distance": "24  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Maninagar Terminus",
+        "Maninagar Cross Roads",
+        "Nathalal Jagda Bridge",
+        "Railway Colony",
+        "Dr. Shyam Prasad Mukharjee Chowk",
+        "Trikampura Patia",
+        "F Road",
+        "Shree Krishna Roller Mills",
+        "School",
+        "Mandir",
+        "Vinzol Approach",
+        "Aayojan Nagar Approach",
+        "Vinobhabhav Nagar"
+      ]
+    }
+  },
+  {
+    "route": "15/3",
+    "data": {
+      "routeNo": "15/3",
+      "from": "Maninagar Terminus",
+      "to": "Vivekanand Nagar",
+      "distance": "10  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Maninagar Terminus",
+        "Maninagar Railway Crossing",
+        "Maniasha Society",
+        "Dr. Shyam Prasad Mukherjee Chowk",
+        "Jashodhanagar Cross Roads",
+        "Trikampura Patia",
+        "Garatnagar",
+        "Hatijan Vad",
+        "Vivekanand Nagar"
+      ]
+    }
+  },
+  {
+    "route": "150*",
+    "data": {
+      "routeNo": "150*",
+      "from": "Sarkhej Gaam",
+      "to": "Chinubhai Nagar",
+      "distance": "23  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Sarkhej Gaam",
+        "Sarkhej Bus Stand",
+        "Juhapur",
+        "Vasna",
+        "Paldi",
+        "Transport House",
+        "Raipur Darwaja",
+        "Sarangpur",
+        "Rakhial",
+        "Odhav",
+        "Nityanand Ashram",
+        "Singarva.",
+        "Chinubhai Nagar"
+      ]
+    }
+  },
+  {
+    "route": "151*",
+    "data": {
+      "routeNo": "151*",
+      "from": "Iskon Mandir",
+      "to": "Vivekanand Nagar",
+      "distance": "23  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Iskon Mandir",
+        "Ramdevnagar",
+        "Bhavnirjhar",
+        "Umiya-Vijay Society",
+        "Nehrunagar",
+        "Cn Vidyalaya",
+        "Law College",
+        "Gujarat College",
+        "Madalpur",
+        "Nehrubridge",
+        "Lal Darwaja",
+        "Khamasa",
+        "Raipur Darwaja",
+        "Kankaria Zoo",
+        "Khokhara Memdabad",
+        "Ctm",
+        "Jasodanagar Patia",
+        "Garatnagar",
+        "Hathijan Approach",
+        "Vivekanand Nagar"
+      ]
+    }
+  },
+  {
+    "route": "151/2*",
+    "data": {
+      "routeNo": "151/2*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Nandej Barajdi Gaam",
+      "distance": "23  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Raipur Darwaja",
+        "Balvatika",
+        "Punit Ashram",
+        "Nathalal Jagda Bridge",
+        "Khokhara Memdabad",
+        "Ctm",
+        "Jasodanagar Cross Roads",
+        "Garatnagar",
+        "Hathijan Approach",
+        "Vivekanandnagar",
+        "Garatpur Railway Station",
+        "Air Contro Staff Quarters",
+        "Nandej Barajdi Gaam"
+      ]
+    }
+  },
+  {
+    "route": "151/3*",
+    "data": {
+      "routeNo": "151/3*",
+      "from": "Dhuma Gaam",
+      "to": "Hatkeshwar Depo",
+      "distance": "20  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Dhuma Gaam",
+        "Bopal",
+        "Ambali",
+        "Ramdevnagar",
+        "Umiya Vijay Society",
+        "Cn Vidhayalay",
+        "Gujarat Collge",
+        "Nehru Bridge",
+        "Lal Darwaja",
+        "Khamsa",
+        "Raipur Darwaja",
+        "Anupam Cinema",
+        "Khokhara Memdabad Circle",
+        "Hatkeshwar Depo"
+      ]
+    }
+  },
+  {
+    "route": "152*",
+    "data": {
+      "routeNo": "152*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Vach Gaam",
+      "distance": "9  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamsa",
+        "Raipur Darwaja",
+        "Abad Dairy Ramnand Cot",
+        "Ambika Mills",
+        "Khokhara Memdabad",
+        "Hatkeshwar Depo",
+        "Ctm",
+        "Singhvai Mata",
+        "Ramol",
+        "Bibipura",
+        "Vach Gaam"
+      ]
+    }
+  },
+  {
+    "route": "152/1*",
+    "data": {
+      "routeNo": "152/1*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Gatrad Gaam",
+      "distance": "9  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Raipur Darwaja",
+        "Abad Dairy",
+        "Ramanand Cot",
+        "Khokhara Memdabad",
+        "Hatkeshwar Depo",
+        "Ctm",
+        "Ramol",
+        "Mehmudpura",
+        "Gatrad Gaam"
+      ]
+    }
+  },
+  {
+    "route": "153",
+    "data": {
+      "routeNo": "153",
+      "from": "Lal Darwaja Terminus",
+      "to": "Dr. Shyam Prasad Mukhurjee Chowk",
+      "distance": "7  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Raipur Darwaja",
+        "Abad Dairy",
+        "Kankaria Zoo",
+        "Ramanand Kot",
+        "Anupam Cinema",
+        "Khokhara Mehmadabad",
+        "Siyongnagar",
+        "Laxminarayan Society",
+        "Dr. Shyam Prasad Mukhurjee Chowk"
+      ]
+    }
+  },
+  {
+    "route": "16",
+    "data": {
+      "routeNo": "16",
+      "from": "Nigam Society",
+      "to": "Chiloda Municipal Octroi Naka",
+      "distance": "23  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Nigam Society",
+        "Royal Tiles",
+        "Ashapura Society",
+        "Maninagar",
+        "Rambaug",
+        "Puspkunj",
+        "Vishwanath Mahadev",
+        "Aabad Dairy",
+        "Raipur Dwarja",
+        "Sarangpur",
+        "Kalupur",
+        "Girdharnagar",
+        "Civil Hospital Corner",
+        "Dufnala",
+        "Campsadar Market",
+        "Sardarnagar",
+        "Bhadreshwar Noble Nagar",
+        "Ruby Coach Builder",
+        "Nana Chiloda",
+        "Chiloda Municipal Octroi Naka"
+      ]
+    }
+  },
+  {
+    "route": "17",
+    "data": {
+      "routeNo": "17",
+      "from": "Nigam Society",
+      "to": "Meghaninagar",
+      "distance": "15  K.M.",
+      "totalStops": 26,
+      "stops": [
+        "Nigam Society",
+        "Vrundavan Society",
+        "Punit Nagar",
+        "Jagdish Society",
+        "Ghodasar",
+        "Avkar Hall",
+        "Aradhna Society",
+        "Dakshini Society",
+        "Maninagar",
+        "Krishnabaug",
+        "Pushpkunj",
+        "Kankaria Zoo",
+        "Aabad Dairy",
+        "Raipur Dwarja",
+        "Sarangpur",
+        "Kalupur Terminus",
+        "Idagha Chowky",
+        "Asarwa Over Bridge",
+        "Haripura",
+        "Badia Limbdi",
+        "Civil Hospital",
+        "Mla Quarters",
+        "Mental Corner",
+        "Tata Nagar",
+        "Government Colony",
+        "Meghaninagar"
+      ]
+    }
+  },
+  {
+    "route": "17/Shatal Ghodasar",
+    "data": {
+      "routeNo": "17/Shatal Ghodasar",
+      "from": "Shatal Ghodasar",
+      "to": "Meghaninagar",
+      "distance": "13  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Shatal Ghodasar",
+        "Aavkar Hall",
+        "Aradhna Society",
+        "Dakshini Society",
+        "Maninagar",
+        "Krishnabaug",
+        "Pushpkunj",
+        "Kankaria Zoo",
+        "Aabad Dairy",
+        "Raipur Dwarja",
+        "Sarangpur",
+        "Kalupur Terminus",
+        "Idagah Chowky",
+        "Asarwa Overbridge",
+        "Haripura",
+        "Badia Limbdi",
+        "Civil Hospital",
+        "Mla Quarters",
+        "Mental Corner",
+        "Tata Nagar",
+        "Government Colony.B39",
+        "Meghaninagar"
+      ]
+    }
+  },
+  {
+    "route": "18",
+    "data": {
+      "routeNo": "18",
+      "from": "Kalupur",
+      "to": "Punit Nagar",
+      "distance": "9  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Kalupur",
+        "Khadia Cross Roads",
+        "Raipur Chakla",
+        "Raipur Dwarja",
+        "Aabad Dairy",
+        "Pushpkunj",
+        "Krishnabaug",
+        "Maninagar",
+        "Dakshini Society",
+        "Aavkar Hall",
+        "Ghodasar",
+        "Cadila Labora-Ry",
+        "Jagdish Society",
+        "Punit Nagar"
+      ]
+    }
+  },
+  {
+    "route": "20",
+    "data": {
+      "routeNo": "20",
+      "from": "Maninagar Terminus",
+      "to": "Civil Hospital",
+      "distance": "14  K.M.",
+      "totalStops": 27,
+      "stops": [
+        "Maninagar Terminus",
+        "Nathalal Jhagda Bridge",
+        "Madrasi Mandir",
+        "Bihari Mill",
+        "Khokhra Memdabad Circle",
+        "Hatkeshwar Circle",
+        "Amraiwadi",
+        "New Cot-N Mills",
+        "Sukhramnagar",
+        "Chikniwala Estate",
+        "Gomtipur Darwaja",
+        "Patel Mills",
+        "Rakhial Cross Roads",
+        "Sonaria Blocks",
+        "Indian Estate Corner",
+        "Laxmi Narayan Society",
+        "Bombay Housing",
+        "Shardaben Hospial",
+        "Vorano Roja",
+        "Chamunda Over Bridge",
+        "Chamanpura Chokda",
+        "Omnagar",
+        "Kalapinagar",
+        "Ratansagar Society",
+        "Mental Corner",
+        "Mla Quarters",
+        "Civil Hospital"
+      ]
+    }
+  },
+  {
+    "route": "200",
+    "data": {
+      "routeNo": "200",
+      "from": "Maninagar Terminus",
+      "to": "Maninagar Terminus (Circular Route)",
+      "distance": "32  K.M.",
+      "totalStops": 23,
+      "stops": [
+        "Maninagar Terminus",
+        "Puspkunj",
+        "St Stand",
+        "Sardar Bridge",
+        "Chandrannagar",
+        "Vasna",
+        "Sahjanand College",
+        "Gujarat University",
+        "Narayanpura Char Rasta",
+        "Ankur Society",
+        "Kiranpark",
+        "Vadaj",
+        "Subhashbridge",
+        "Civil Hospital",
+        "Somnath Mahadev",
+        "Lal Bhadur Shastri Stadium",
+        "Nagarvel Hanuman",
+        "Hatkeshwar Mahadev",
+        "Laxmi Narayan Society Turning",
+        "Railway Colony",
+        "Nathalal Jagda Pool",
+        "Maninagar Char Rasta",
+        "Maninagar Terminus (Circular Route)"
+      ]
+    }
+  },
+  {
+    "route": "202",
+    "data": {
+      "routeNo": "202",
+      "from": "Vasna Terminus",
+      "to": "Civil Hospital",
+      "distance": "16  K.M.",
+      "totalStops": 24,
+      "stops": [
+        "Vasna Terminus",
+        "Pravinnagar",
+        "Gupta Nagar",
+        "Vasna Octroi Naka",
+        "Chimanbhai Patel Market",
+        "Jivraj Park",
+        "Dr. Shyam Prasad Mukhurjee Bridge",
+        "Shyamal Char Rasta",
+        "Sivranjni Society",
+        "Blind Man Association",
+        "Memnagar Depo",
+        "Aec Office",
+        "Jay Mangal Society",
+        "Pallav Society",
+        "Pragatinagar",
+        "Akhbarnagar Underbridge",
+        "Nava Vadaj",
+        "Bhavsar Hostel",
+        "Ranip Cross Roads",
+        "Subhashbridge Circle",
+        "Shahibaug Under Bridge",
+        "Girdharnagar",
+        "Badia Limbdi",
+        "Civil Hospital"
+      ]
+    }
+  },
+  {
+    "route": "203",
+    "data": {
+      "routeNo": "203",
+      "from": "Vasna",
+      "to": "Vaishnavdevi Mandir",
+      "distance": "24  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Vasna",
+        "Juhapura",
+        "Sarkhej Railway Station",
+        "Sarkhej Railway Overbridge",
+        "Sarkhej Gandhinagar Cross Circle",
+        "Sarkhej Sanad Cross Road Circle",
+        "Divya Bhaskar Press Via Nca Club",
+        "Prahladnagar Cross Road",
+        "Karnavati Club",
+        "Iskon Mandir",
+        "Rajpath Club",
+        "Thaltej Cross Road",
+        "Sola Overbridge",
+        "Gujarat High Court Sankul",
+        "Rc Technical Institute",
+        "Goa Highway Cross Roads",
+        "Pradeshik Telecom Training Centre",
+        "Hiramani School",
+        "Nirma Institute Of Technology",
+        "Vaishnavdevi Mandir"
+      ]
+    }
+  },
+  {
+    "route": "22*",
+    "data": {
+      "routeNo": "22*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Indira Vibhag-2",
+      "distance": "11  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Khamasa",
+        "Jamalpur Chakla",
+        "Calico Mill",
+        "Maneknala",
+        "Danilimbda Road",
+        "Chandola Lake",
+        "Narol",
+        "Lambha Mandir",
+        "Lambha Gaam",
+        "Indira Vibhag-2"
+      ]
+    }
+  },
+  {
+    "route": "28*",
+    "data": {
+      "routeNo": "28*",
+      "from": "Meghaninagar",
+      "to": "Indira Nagar Vibhag-2",
+      "distance": "17  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Meghaninagar",
+        "Kalapinagar",
+        "Mla Quarters",
+        "Civil Hospital",
+        "Haripura",
+        "Asarwa Overbridge",
+        "Prem Darwaja",
+        "Kalupur",
+        "Sarangpur",
+        "Raipur Darwaja",
+        "St Stand",
+        "Shah Allam Darwaja",
+        "Chandola Lake",
+        "Narol",
+        "Bhamaria Well",
+        "Lambha Mandir",
+        "Lambha Gaam",
+        "Indira Nagar Vibhag-2"
+      ]
+    }
+  },
+  {
+    "route": "300",
+    "data": {
+      "routeNo": "300",
+      "from": "Maninagar Terminus",
+      "to": "Maninagar Terminus (Anti Circular Route)",
+      "distance": "32  K.M.",
+      "totalStops": 21,
+      "stops": [
+        "Maninagar Terminus",
+        "Maninagar Char Rasta",
+        "Nathalal Jagda Pool",
+        "Laxmi Narayan Society Turning",
+        "Hatkeshwar Mahadev",
+        "Nagarvel Hanuman",
+        "Lal Bhadur Shastri Stadium",
+        "Somnath Mahadev",
+        "Civil Hospital",
+        "Subhashbridge",
+        "Vadaj",
+        "Ankur Society",
+        "Nranpura Char Rasta",
+        "Gujarat University",
+        "Vasna",
+        "Chandranagar",
+        "Sardarbridge",
+        "Transport House",
+        "St Stand",
+        "Puspkunj",
+        "Maninagar Terminus (Anti Circular Route)"
+      ]
+    }
+  },
+  {
+    "route": "31*",
+    "data": {
+      "routeNo": "31*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Sarkhej Gaam",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehru Bridge",
+        "Vs Hospital",
+        "Paldi",
+        "Fatehnagar",
+        "Vasna",
+        "Juhapura",
+        "Vejalpur Road",
+        "Sarkhej Railway Station",
+        "Sarkhej Gaam"
+      ]
+    }
+  },
+  {
+    "route": "31/1*",
+    "data": {
+      "routeNo": "31/1*",
+      "from": "Sarkhej Roja",
+      "to": "Civil Hospital",
+      "distance": "15  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Sarkhej Roja",
+        "Sarkhej Bus Stand",
+        "Juhapura",
+        "Vasna",
+        "Paldi",
+        "Vs Hospital",
+        "Nehrubridge",
+        "Sardarbag",
+        "Lal Darwaja",
+        "Jansatta Office",
+        "Dariapur -Wer",
+        "Idagha",
+        "Girdharnagar Over Bridge",
+        "Badia Limbdi",
+        "Civil Hospital"
+      ]
+    }
+  },
+  {
+    "route": "31/2*",
+    "data": {
+      "routeNo": "31/2*",
+      "from": "Sarkhej Roja",
+      "to": "Civil Hospital",
+      "distance": "18  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Sarkhej Roja",
+        "Juhapura",
+        "Vasna",
+        "Paldi",
+        "Vs Hospital",
+        "Nehru Bridge",
+        "Lal Darwaja",
+        "Kanpurbhai Centre",
+        "Shahpur Chakla",
+        "Shahpur Darwaja",
+        "Delhi Darwaja",
+        "Dariyapur -Wer",
+        "Prem Darwaja",
+        "Idagha",
+        "Asarwa Over Bridge",
+        "Harpur",
+        "Badia Limbdi",
+        "Civil Hospital"
+      ]
+    }
+  },
+  {
+    "route": "31/3*",
+    "data": {
+      "routeNo": "31/3*",
+      "from": "Sarkhej Roja",
+      "to": "Civil Hospital",
+      "distance": "16  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Sarkhej Roja",
+        "Juhapura",
+        "Vasna",
+        "Paldi",
+        "Vs Hospital",
+        "Nehru Bridge",
+        "Lal Darwaja",
+        "Kanpurbhai Centre",
+        "Shahpur Chakla",
+        "Lal Chakla Hall",
+        "Municipal Staff Quarters",
+        "Navi Chali",
+        "Dudeshwar",
+        "Dariyakhan Ghumatt",
+        "Police Commissioneer Office",
+        "Shahibaug Under Bridge",
+        "Girdharnagar",
+        "Civil Hospital"
+      ]
+    }
+  },
+  {
+    "route": "32",
+    "data": {
+      "routeNo": "32",
+      "from": "Maninagar Terminus",
+      "to": "Vasna",
+      "distance": "10  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Maninagar Terminus",
+        "Pushpkunj",
+        "Ramnandkot",
+        "Raipur",
+        "Lal Darwaja",
+        "Nehru Bridge",
+        "Vs Hospital",
+        "Paldi",
+        "Bhatta",
+        "Vasna"
+      ]
+    }
+  },
+  {
+    "route": "33",
+    "data": {
+      "routeNo": "33",
+      "from": "Narayan Nagar",
+      "to": "Manmohan Park (Odhav Nikol Road)",
+      "distance": "15  K.M.",
+      "totalStops": 29,
+      "stops": [
+        "Narayan Nagar",
+        "Chandranagar",
+        "Alok Appartment",
+        "Shantivan",
+        "Raj Nagar Society",
+        "Paldi Terminus",
+        "Vs Hospital",
+        "Nehru Bridge",
+        "Lal Darwaja",
+        "Khamasa",
+        "As-Dia Chakla",
+        "Raipur Darwaja",
+        "Sarangpur",
+        "Kalupur Terminus",
+        "Srinagar Mills",
+        "Dr. Ambedkar Hall",
+        "Shardaben Hospital",
+        "Bombay Housing",
+        "Bheedbhanjan Hanuman",
+        "Bapunagar",
+        "Khodiyar Nagar",
+        "Virat Nagar",
+        "Gandhi Park",
+        "Tejendra Nagar",
+        "Viratnagar Canal",
+        "Vinayak Park",
+        "Vaibhav Park",
+        "Varahi Primary School",
+        "Manmohan Park (Odhav Nikol Road)"
+      ]
+    }
+  },
+  {
+    "route": "34",
+    "data": {
+      "routeNo": "34",
+      "from": "Aayojan Nagar",
+      "to": "Kalapinagar",
+      "distance": "13  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Aayojan Nagar",
+        "Sharda Society",
+        "Vasantkunj",
+        "Nutan Society",
+        "Paldi",
+        "Vs Hospital",
+        "Nehru Bridge",
+        "Lal Darwaja",
+        "Jansatta Office",
+        "Delhi Chakla",
+        "Dariyapur -Wer",
+        "Idagha",
+        "Haripur",
+        "Civil Hospital",
+        "Mla Quarters",
+        "Umiyanagar",
+        "Kalapinagar"
+      ]
+    }
+  },
+  {
+    "route": "34/3*",
+    "data": {
+      "routeNo": "34/3*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Makbara Gaam",
+      "distance": "9  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehru Bridge",
+        "V S Hospital",
+        "Paldi",
+        "Fatehnagar",
+        "Shardanagar",
+        "Keshariyanagar",
+        "Lavanya Society",
+        "Jivraj Park",
+        "Jaltarang Society",
+        "Vejalpur",
+        "Shreenandnagar",
+        "Makbara Gaam"
+      ]
+    }
+  },
+  {
+    "route": "34/4",
+    "data": {
+      "routeNo": "34/4",
+      "from": "Lal Darwaja",
+      "to": "Bootbhavani Mata Mandir",
+      "distance": "8  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Lal Darwaja",
+        "Nehru Bridge",
+        "Vs Hospital",
+        "Paldi",
+        "Fatehnagar",
+        "Shardanagar",
+        "Lavanya Society",
+        "Jivraj Park",
+        "Jaltarang Society",
+        "Bootbhavani Mata Mandir"
+      ]
+    }
+  },
+  {
+    "route": "34/5*",
+    "data": {
+      "routeNo": "34/5*",
+      "from": "Bootbhavani Mata Mandir",
+      "to": "Kalapinagar",
+      "distance": "15  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Bootbhavani Mata Mandir",
+        "Vastrapur Railway Crossing",
+        "Vishvakarma Society",
+        "Aayojannagar",
+        "Sikhpura",
+        "Nutan Society",
+        "Paldi",
+        "Vs Hospital",
+        "Nehrubridge",
+        "Lal Darwaja",
+        "Jansatta Office",
+        "Delhi Chakla",
+        "Dariyanagar -Wer",
+        "Idagah",
+        "Hirapura",
+        "Civil Hospital",
+        "Mla Quarters",
+        "Kalapinagar"
+      ]
+    }
+  },
+  {
+    "route": "36*",
+    "data": {
+      "routeNo": "36*",
+      "from": "Sarangpurterminus",
+      "to": "Sarkhej Gaam",
+      "distance": "14  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Sarangpurterminus",
+        "Raipur Darwaja",
+        "Aas-Dia Chala",
+        "Khamasa",
+        "Jamalpur Chakla",
+        "Sardar Bridge",
+        "Paldi",
+        "Fatehpur",
+        "Vasna",
+        "Juhapura",
+        "Vejalpur Road",
+        "Sarkhej Railway Station",
+        "Sarkhej Gaam"
+      ]
+    }
+  },
+  {
+    "route": "36/1*",
+    "data": {
+      "routeNo": "36/1*",
+      "from": "Sarangpur Terminus",
+      "to": "Sarkhej Roja",
+      "distance": "14  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Sarangpur Terminus",
+        "Raipur Darwaja",
+        "Aas-Dia Chakla",
+        "Jamalpur Chakla",
+        "Paldi",
+        "Fatehnagar",
+        "Vasna",
+        "Juhapur",
+        "Vejalpur Road",
+        "Sarkhej Bus Stand",
+        "Sarkhej Roja"
+      ]
+    }
+  },
+  {
+    "route": "37",
+    "data": {
+      "routeNo": "37",
+      "from": "Vasna",
+      "to": "Tejendranagar",
+      "distance": "14  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Vasna",
+        "Fatehpur",
+        "Paldi",
+        "Vs Hospital",
+        "Nehrubridge",
+        "Lal Darwaja",
+        "Khamasa",
+        "Raipur Darwaja",
+        "Kalupur",
+        "Srinagar Mills",
+        "Shardaben Hospital",
+        "Bheedbhanjan Hanuman",
+        "Bapunagar Terminus",
+        "Khodiyarnagar",
+        "Viratnagar",
+        "Gandhi Park",
+        "Tejendranagar"
+      ]
+    }
+  },
+  {
+    "route": "37/4*",
+    "data": {
+      "routeNo": "37/4*",
+      "from": "Kalupur Terminus",
+      "to": "Bootbhavani Mata Mandir",
+      "distance": "10  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kalupur Terminus",
+        "Raipur Darwaja",
+        "St Bus Stand",
+        "Paldi",
+        "Nutan Society",
+        "Sukhipura",
+        "Sharda Society",
+        "Aayojannagar",
+        "Vastrapur Railway Crossing",
+        "Bootbhavani Mata Mandir"
+      ]
+    }
+  },
+  {
+    "route": "38",
+    "data": {
+      "routeNo": "38",
+      "from": "Juhapura",
+      "to": "Meghaninagar",
+      "distance": "14  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Juhapura",
+        "Vasna",
+        "Paldi",
+        "Vs Hospital",
+        "Nehrubridge",
+        "Lal Darwaja",
+        "Tilak Marg",
+        "Kalupur",
+        "Idagah",
+        "Asarwa Overbridge",
+        "Asarwa Mills",
+        "Baithak",
+        "Asarwa Chakla",
+        "Meghaninagar"
+      ]
+    }
+  },
+  {
+    "route": "38/1",
+    "data": {
+      "routeNo": "38/1",
+      "from": "Vasna",
+      "to": "Meghaninagar",
+      "distance": "14  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Vasna",
+        "Fatehnagar",
+        "Paldi",
+        "Vs Hospital",
+        "Natraj Cinema",
+        "Income-Tax Office",
+        "Shahpur Darwaja",
+        "Delhi Darwaja",
+        "Police Commissioner Office",
+        "Shahibaug Underbridge",
+        "Circuit House",
+        "Dufnala",
+        "Navroji Hall",
+        "Government Press",
+        "Vithalnagar",
+        "Meghaninagar"
+      ]
+    }
+  },
+  {
+    "route": "39/3*",
+    "data": {
+      "routeNo": "39/3*",
+      "from": "Kalupur Terminus",
+      "to": "Bootbhavani Mata Mandir",
+      "distance": "10  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Kalupur Terminus",
+        "Raipur Darwaja",
+        "St Bus Stand",
+        "Transport House",
+        "Sardar Bridge",
+        "Paldi",
+        "Fatehnagar",
+        "Shardanagar",
+        "Keshariyaji Nagar",
+        "Jivraj Park",
+        "Jaltarang Society",
+        "Vejalpur",
+        "Bootbhavani Mata Mandir"
+      ]
+    }
+  },
+  {
+    "route": "4",
+    "data": {
+      "routeNo": "4",
+      "from": "Lal Darwaja",
+      "to": "Lal Darwaja (Circular Route)",
+      "distance": "14  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Lal Darwaja",
+        "Kanpur",
+        "Shahpur Chakla",
+        "Shahpur Dwarja",
+        "Municipal Staff Quarters",
+        "Dudeshwar",
+        "Police Commissioner Office",
+        "Shahibaug Underbridge",
+        "Girdharnagar",
+        "Civil Hospital",
+        "M.L.A. Quarters",
+        "Umiyanagar",
+        "Kalapinagar",
+        "Omnagar",
+        "Vijay Mills",
+        "Kalupur Bus Terminus",
+        "Kadhiya Cross Roads",
+        "Raipur Chakla",
+        "Raipur Dwarja",
+        "As-Dia Chakla",
+        "Khamasa",
+        "Lal Darwaja (Circular Route)"
+      ]
+    }
+  },
+  {
+    "route": "40",
+    "data": {
+      "routeNo": "40",
+      "from": "Paldi",
+      "to": "Chandlodia",
+      "distance": "9  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Paldi",
+        "Vs Hospital",
+        "Natraj Cinema",
+        "Income-Tax Office",
+        "Usmanpura",
+        "Vadaj",
+        "Bhimjipura",
+        "Purushottamnagar",
+        "Nava Vadaj",
+        "Nirnayanagar Garnala",
+        "Chandlodia"
+      ]
+    }
+  },
+  {
+    "route": "40/3*",
+    "data": {
+      "routeNo": "40/3*",
+      "from": "Vejalpur",
+      "to": "Gayatri Vidhyalay",
+      "distance": "16  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Vejalpur",
+        "Jivraj Park",
+        "Shreyas Railway Crossing",
+        "Manekbaug Hall",
+        "Nehrunagar",
+        "Panjrapol",
+        "Gujarat University",
+        "Vijay Cross Roads",
+        "Commerce College",
+        "Navrangpura",
+        "Income-Tax Office",
+        "Vadaj",
+        "Nava Vadaj Terminus",
+        "Nirnaynagar Garnala",
+        "Ramvadi",
+        "Madhavbaug",
+        "Gayatri Vidhyalay"
+      ]
+    }
+  },
+  {
+    "route": "400*",
+    "data": {
+      "routeNo": "400*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Lal Darwaja Terminus (Circular Route)",
+      "distance": "18  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehrubridge",
+        "Natraj Cinema",
+        "Mithakali Underbridge",
+        "Navrangpura",
+        "Commerce College",
+        "Vijay Char Rasta",
+        "Gurukul",
+        "Vishramnagar",
+        "Someshwar Park",
+        "Gulab -Wer",
+        "Sattadhar Cross Roads",
+        "Bhyungdev",
+        "Naranpura",
+        "Shree Niketan Socety",
+        "Usmanpura",
+        "Gandhibridge",
+        "Delhi Darwaja",
+        "Jansatta Office.",
+        "Lal Darwaja Terminus (Circular Route)"
+      ]
+    }
+  },
+  {
+    "route": "42",
+    "data": {
+      "routeNo": "42",
+      "from": "Ghodasar",
+      "to": "Judges Bunglow",
+      "distance": "14  K.M.",
+      "totalStops": 23,
+      "stops": [
+        "Ghodasar",
+        "Aavkar Hall",
+        "Dakshini Society",
+        "Maninagar",
+        "Krishna Baug",
+        "Puspkunj",
+        "Ramnand Cot",
+        "Aabad Dairy",
+        "Raipur Darwaja",
+        "Khamasa",
+        "Lal Darwaja",
+        "Nehru Bridge",
+        "Madalpur Garnala",
+        "Gujarat College",
+        "Law Garden",
+        "C.N Vidhyalay",
+        "Polytechnic",
+        "Sahjanand College",
+        "Aazad Society",
+        "Himmatlal Park",
+        "Mansi Complex",
+        "Premchand Nagar",
+        "Judges Bunglow"
+      ]
+    }
+  },
+  {
+    "route": "43*",
+    "data": {
+      "routeNo": "43*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Judges Bunglow",
+      "distance": "11  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehru Bridge",
+        "Madalpur",
+        "Gujarat College",
+        "C.N. Vidhyalay",
+        "Polytechnic",
+        "Indraprast",
+        "Mansi Complex",
+        "Judges Bunglow"
+      ]
+    }
+  },
+  {
+    "route": "44/1*",
+    "data": {
+      "routeNo": "44/1*",
+      "from": "Maninagar Terminus",
+      "to": "Vaishnav Devi Mandir",
+      "distance": "25  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Maninagar Terminus",
+        "Krishna Baug",
+        "Pushpkunj",
+        "Shah Allam -Lnaka",
+        "St Stand",
+        "Transport House",
+        "Paldi",
+        "Law College",
+        "C.N. Vidhyalay",
+        "Umiya Vijay Society",
+        "Isckon Mandir",
+        "Rajpath Club",
+        "Thaltej Cross Roads",
+        "Sola Overbridge",
+        "Gujarat High Court Sankul",
+        "Gota Highway Cross Roads",
+        "Nirma Institute Of Technology And Return",
+        "Vaishnav Devi Mandir"
+      ]
+    }
+  },
+  {
+    "route": "44/3*",
+    "data": {
+      "routeNo": "44/3*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Dhuma Gaam",
+      "distance": "14  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehru Bridge",
+        "Madalpur",
+        "Law College",
+        "C.N. Vidhalay",
+        "Umiya Vijay Society",
+        "Satellite",
+        "Ramdevnagar",
+        "Aambli",
+        "Bopal",
+        "Dhuma Gaam"
+      ]
+    }
+  },
+  {
+    "route": "45*",
+    "data": {
+      "routeNo": "45*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Jodhpur Gaam",
+      "distance": "6  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehru Bridge",
+        "Madalpur",
+        "Law College",
+        "C.N. Vidhyalay",
+        "Nehrunagar",
+        "Jodhpur Road",
+        "Shubhda Colony",
+        "Jodhpur Gaam"
+      ]
+    }
+  },
+  {
+    "route": "45/1*",
+    "data": {
+      "routeNo": "45/1*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Mumatpura Gaam",
+      "distance": "14  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehru Bridge",
+        "Madalpur Garnala",
+        "Gujarat College",
+        "Law College",
+        "C.N. Vidhyalay",
+        "Nehrunagar",
+        "Umiya-Vijay Society",
+        "Jodhpur Road",
+        "Ramdevnagar",
+        "Iskon Mandir",
+        "Sardar Patel Institute",
+        "Karnavati Club",
+        "M.B. Farm",
+        "Dodha Bapanu Mandir",
+        "Mumatpura Gaam"
+      ]
+    }
+  },
+  {
+    "route": "46",
+    "data": {
+      "routeNo": "46",
+      "from": "Kalupur Terminus",
+      "to": "Kalupur Terminus (Circular Route)",
+      "distance": "14  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Kalupur Terminus",
+        "Sarangpur",
+        "St Stand",
+        "Paldi",
+        "Law College",
+        "Polytechnic",
+        "Shefali Appartment",
+        "Gujarat University",
+        "Mount Carmel School",
+        "Income-Tax Office",
+        "Gandhi Bridge",
+        "Delhi Darwaja",
+        "Dariyapur Darwaja",
+        "Kalupur Terminus (Circular Route)"
+      ]
+    }
+  },
+  {
+    "route": "46/1*",
+    "data": {
+      "routeNo": "46/1*",
+      "from": "Kalupur Terminus",
+      "to": "Kalupur Terminus (Circular Route)",
+      "distance": "19  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Kalupur Terminus",
+        "Sarangpur",
+        "St Stand",
+        "Paldi",
+        "Panchvati",
+        "C.N. Vidhyalay",
+        "Polytechnic",
+        "Panjrapol",
+        "Vastrapur",
+        "Prerna Complex",
+        "Bodakdev Sarkari Vasahat",
+        "Telephone Training Centre",
+        "Gurrukul",
+        "Income-Tax Office",
+        "Delhi Darwaja",
+        "Dariyapur Darwaja",
+        "Kalupur Terminus (Circular Route)"
+      ]
+    }
+  },
+  {
+    "route": "47",
+    "data": {
+      "routeNo": "47",
+      "from": "Kalupur Terminus",
+      "to": "Kalupur Terminus (Anti Circular Route)",
+      "distance": "14  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Kalupur Terminus",
+        "Dariyapur Darwaja",
+        "Delhi Darwaja",
+        "Gandhi Bridge",
+        "Mount Carmel School",
+        "Sdhachitta Appartment",
+        "Gujarat University",
+        "Polytechnic",
+        "Law College",
+        "Paldi",
+        "St Stand",
+        "Sarangpur",
+        "Kalupur Terminus (Anti Circular Route)"
+      ]
+    }
+  },
+  {
+    "route": "47/1*",
+    "data": {
+      "routeNo": "47/1*",
+      "from": "Kalupur Terminus",
+      "to": "Kalupur Terminus (Anti Circular Route)",
+      "distance": "19  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Kalupur Terminus",
+        "Dariyapur Darwaja",
+        "Delhi Darwaja",
+        "Income-Tax Office",
+        "Navrangpura",
+        "Commerce College",
+        "Gurukul",
+        "Telephone Training Centre",
+        "Bodakdev Sarkari Vasahat",
+        "Prerna Complex",
+        "Vastrapur",
+        "Panjrapol",
+        "Polytechnic",
+        "C.N. Vidhyalay",
+        "Panchvati",
+        "Paldi",
+        "Sardarbridge",
+        "St Stand",
+        "Sarangpur",
+        "Kalupur Terminus (Anti Circular Route)"
+      ]
+    }
+  },
+  {
+    "route": "48*",
+    "data": {
+      "routeNo": "48*",
+      "from": "Kalupur",
+      "to": "Prahaladnagar Garden",
+      "distance": "11  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Kalupur",
+        "Ghanasuthar Ni Pol",
+        "Zaveri Vad",
+        "Bijali Ghar",
+        "Lal Darwaja",
+        "Nehru Bridge",
+        "Gujarat College",
+        "Law Garden",
+        "C.N. Vidhyalay",
+        "Polytechnic",
+        "Azad Society",
+        "Himmatlal Park",
+        "Shivranjni Society",
+        "Shyamal Cross Roads",
+        "Anand Nagar",
+        "Prahaladnagar Garden"
+      ]
+    }
+  },
+  {
+    "route": "49*",
+    "data": {
+      "routeNo": "49*",
+      "from": "Sarangpur Terminus",
+      "to": "Dhuma Gaam",
+      "distance": "16  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Sarangpur Terminus",
+        "S.T Stand",
+        "Sardar Bridge",
+        "Paldi",
+        "Law College",
+        "C.N. Vidhyalay",
+        "Jodhpur Road",
+        "Ramdev Nagar",
+        "Aambali",
+        "Bopal",
+        "Dhuma Gaam"
+      ]
+    }
+  },
+  {
+    "route": "49/1*",
+    "data": {
+      "routeNo": "49/1*",
+      "from": "Saranpur Terminus",
+      "to": "Jodhpur Gaam",
+      "distance": "11  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Saranpur Terminus",
+        "Raipur Darwaja",
+        "St Stand",
+        "Calico Colony",
+        "Paldi",
+        "Sharda Mandir",
+        "Law College",
+        "C.N. Vidhyalay",
+        "Nehru Nagar",
+        "L Colony",
+        "Azad Society",
+        "Himmatlal Park",
+        "Shivranjni Society",
+        "Jodhpur Road",
+        "Shubhda Colony",
+        "Jodhpur Gaam"
+      ]
+    }
+  },
+  {
+    "route": "5",
+    "data": {
+      "routeNo": "5",
+      "from": "Lal Darwaja",
+      "to": "Laldwarja (Circular Route)",
+      "distance": "14  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Lal Darwaja",
+        "Khamasa",
+        "As-Dia Chakla",
+        "Raipur Dwarja",
+        "Raipur Chakla",
+        "Khadia Cross Roads",
+        "Shehar Kotda",
+        "Kalupur",
+        "Chamunda",
+        "Vijay Mills",
+        "Umiyanagar",
+        "M.L.A. Quarters",
+        "Civil Hospital",
+        "Girdharnagar",
+        "Shahibaug Underbridge",
+        "Police Commissioner Office",
+        "Dudheswar",
+        "Municipal Staff Quarters",
+        "Shahpur Dwarja",
+        "Shahpur Chakla",
+        "Kanpur",
+        "Laldwarja (Circular Route)"
+      ]
+    }
+  },
+  {
+    "route": "50*",
+    "data": {
+      "routeNo": "50*",
+      "from": "Meghaninagar",
+      "to": "Dhuma Gaam",
+      "distance": "22  K.M.",
+      "totalStops": 26,
+      "stops": [
+        "Meghaninagar",
+        "Ratan Sagar Society",
+        "Kalapinagar",
+        "Umiyanagar",
+        "Mla Quarters",
+        "Civil Hospital",
+        "Girdharnagar",
+        "Shahibaug Under Bridge",
+        "Police Commissioner Office",
+        "Delhi Darwaja",
+        "Income Tax Office",
+        "Navrangpura",
+        "Commerce College",
+        "Vijay Char Rasta",
+        "Gujarat University",
+        "Sahjanand College",
+        "Azad Society",
+        "Himmatlal Park",
+        "Sughmitra Society",
+        "Jodhpur Road",
+        "Iskon Mandir",
+        "Aambali",
+        "Sardar Patel Cross Roads",
+        "Sarkari Tube Well",
+        "Bopal Gaam.",
+        "Dhuma Gaam"
+      ]
+    }
+  },
+  {
+    "route": "500*",
+    "data": {
+      "routeNo": "500*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Lal Darwaja Terminus (Anticircular Route)",
+      "distance": "18  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Gandhi Bridge",
+        "Usmanpura",
+        "Shreeniketan Society",
+        "Naranpura",
+        "Bhyungdev",
+        "Sattadhar Cross Roads",
+        "Gulab -Wer",
+        "Someshwar Park",
+        "Vishramnagar",
+        "Gurukul",
+        "Vijay Char Rasta",
+        "Commerce College",
+        "Navrangpura",
+        "Mithakali Underbridge",
+        "Natraj Cinema",
+        "Nehrubridge",
+        "Lal Darwaja Terminus (Anticircular Route)"
+      ]
+    }
+  },
+  {
+    "route": "51*",
+    "data": {
+      "routeNo": "51*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Rancharda Gaam",
+      "distance": "21  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehru Bridge",
+        "Natraj Cinema",
+        "Mithakali Under Bridge",
+        "Navrangpura",
+        "Commerce College",
+        "Vijay Char Rasta",
+        "Gurukul",
+        "Drive-In Road",
+        "Thaltej",
+        "Aambali",
+        "Road Station",
+        "Shilaj Gaam",
+        "Ayoydhya -Wnship",
+        "Rancharda Gaam"
+      ]
+    }
+  },
+  {
+    "route": "52*",
+    "data": {
+      "routeNo": "52*",
+      "from": "Punitnagar",
+      "to": "Thaltej",
+      "distance": "22  K.M.",
+      "totalStops": 25,
+      "stops": [
+        "Punitnagar",
+        "Ghodasar",
+        "Aradhana High School",
+        "Dakshini Society",
+        "Jawaharchowk",
+        "Bhairav Nath Road",
+        "Shah Allam -Lnaka",
+        "St Stand",
+        "Khamasa",
+        "Lal Darwaja",
+        "Nehru Bridge",
+        "Madalpur Garnala",
+        "Gujarat College",
+        "Inkallab Society",
+        "Alkapuri Society",
+        "Gujarat University",
+        "Saurabh Society",
+        "Manav Mandir",
+        "Gurukul",
+        "Drive-In Cinema",
+        "Sardar Patel Institute",
+        "Shantinath Mahadev",
+        "Bhaikakanagar",
+        "Thakorvas",
+        "Thaltej"
+      ]
+    }
+  },
+  {
+    "route": "52/2*",
+    "data": {
+      "routeNo": "52/2*",
+      "from": "Maninagar Terminus",
+      "to": "Sattadhar Society",
+      "distance": "16  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Maninagar Terminus",
+        "Maninagar Char Rasta",
+        "Krishna Baug",
+        "Rambaug",
+        "Puspkunj",
+        "Shah Allam -Lnaka",
+        "St Stand",
+        "Khamasa",
+        "Lal Darwaja",
+        "Nehru Bridge",
+        "Gujarat College",
+        "Law College",
+        "Lal Bunglow",
+        "Rajhans Society",
+        "Gujarat University",
+        "Vijay Char Rasta",
+        "Gurukul",
+        "Gulab -Wer",
+        "Sattadhar Cross Roads. R",
+        "Sattadhar Society"
+      ]
+    }
+  },
+  {
+    "route": "54*",
+    "data": {
+      "routeNo": "54*",
+      "from": "Ambika Tubes (Vatva Railway Crossing)",
+      "to": "Vaishnavdevi Mandir",
+      "distance": "33  K.M.",
+      "totalStops": 39,
+      "stops": [
+        "Ambika Tubes (Vatva Railway Crossing)",
+        "Divya Jyoti Eye Hopsital",
+        "Shiv Park (Talavadi)P.D. Pandya College",
+        "Dharmbhumi Society",
+        "Vrundavan Society",
+        "Shyam Bunglows",
+        "Punit Nagar",
+        "Jagdish Society",
+        "Godhasar",
+        "Avkar Hall",
+        "Aradhna Society",
+        "Dakshini Society",
+        "Maninagar",
+        "Maninagar Char Rasta",
+        "Krishna Baug",
+        "Rambaug",
+        "Puspkunj",
+        "Shah Allam -Lnaka",
+        "St Stand",
+        "Khamasa",
+        "Lal Darwaja",
+        "Nehru Bridge",
+        "Gujarat College",
+        "Law College",
+        "Lal Bunglow",
+        "Rajhans Society",
+        "Gujarat University",
+        "Vijay Char Rasta",
+        "Gurukul",
+        "Drive-In Cinema",
+        "Thaltej Cross Roads",
+        "Vinay Vidhyamandir",
+        "Raja Palace",
+        "Sola Over Bridge",
+        "Gujarat High Court",
+        "R.C. Technology Institute",
+        "Gota Highway Cross Roads",
+        "Nirma Institute Of Technology",
+        "Vaishnavdevi Mandir"
+      ]
+    }
+  },
+  {
+    "route": "56*",
+    "data": {
+      "routeNo": "56*",
+      "from": "Sitarambapa Chowk",
+      "to": "Judges Bunglow",
+      "distance": "19  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Sitarambapa Chowk",
+        "Lal Bhadur Shastri Market",
+        "Vijay Chowk",
+        "Bheedbhanjan Hanuman",
+        "Sharda Ben Hospital",
+        "Kalupur",
+        "Tilak Marg",
+        "Lal Darwaja",
+        "Nehrubridge",
+        "Gujarat College",
+        "Navrangpura",
+        "Commerce College",
+        "Gujarat University",
+        "Iim",
+        "Vastrapur",
+        "Lad Society",
+        "Premchandnagar",
+        "Judges Bunglow"
+      ]
+    }
+  },
+  {
+    "route": "60*",
+    "data": {
+      "routeNo": "60*",
+      "from": "Maninagat Terminus",
+      "to": "Judges Bangla",
+      "distance": "15  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Maninagat Terminus",
+        "Krishna Baug",
+        "Puspkunj",
+        "Kankaria Zoo",
+        "Raipur Khamasa",
+        "Lal Darwaja",
+        "Nehru Bridge",
+        "Gujarat College",
+        "Navrangpura",
+        "Gujarat University",
+        "Panjrapol",
+        "Vastrapur",
+        "Nehrupark",
+        "Mansi Complex",
+        "Judges Bangla"
+      ]
+    }
+  },
+  {
+    "route": "61*",
+    "data": {
+      "routeNo": "61*",
+      "from": "Maninagar Terminus",
+      "to": "Gujarat High Court Sankul",
+      "distance": "17  K.M.",
+      "totalStops": 21,
+      "stops": [
+        "Maninagar Terminus",
+        "Jawaharchowk",
+        "Bhairavnath",
+        "Nilamkunj",
+        "Shah Allam -Lnaka",
+        "St Stand",
+        "Khamasa",
+        "Lal Darwaja",
+        "Jansatta Karyalay",
+        "Delhi Darwaja",
+        "Gandhi Bridge",
+        "Income-Tax Office",
+        "Usmanpura",
+        "Shree Niketan Society",
+        "Naranpura",
+        "Sola Housing Complex",
+        "Bhuyungdev",
+        "Sattadhar Society",
+        "Sola Highway Cross Roads",
+        "Ramdev Masala",
+        "Gujarat High Court Sankul"
+      ]
+    }
+  },
+  {
+    "route": "63*",
+    "data": {
+      "routeNo": "63*",
+      "from": "Maninagar Terminus",
+      "to": "Gujarat High Court Sankul",
+      "distance": "16  K.M.",
+      "totalStops": 23,
+      "stops": [
+        "Maninagar Terminus",
+        "Maninagar Char Rasta",
+        "Jawaharchowk",
+        "Nilamkunj",
+        "Shahallam -Lnaka",
+        "St Stand",
+        "Khamasa",
+        "Lal Darwaja",
+        "Nehru Bridge",
+        "Natraj Cinema",
+        "Income-Tax Office",
+        "Usmanpura",
+        "Sardar Patel Colony",
+        "Naranpura Char Rasta",
+        "Ankur Society",
+        "Vijaynagar",
+        "Pragatinagar",
+        "Rannapark",
+        "Chaya Flats",
+        "Chandlodia Railway Station",
+        "Chanakyapuri Approach",
+        "R.C. Technical",
+        "Gujarat High Court Sankul"
+      ]
+    }
+  },
+  {
+    "route": "63/1*",
+    "data": {
+      "routeNo": "63/1*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Vaishnav Devi Mandir",
+      "distance": "16  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Income-Tax Office",
+        "Shree Niketan Society",
+        "Naranpura Char Rasta",
+        "Ankur Society",
+        "Ranna Park",
+        "Chanakyapuri Approach",
+        "R.C. Technical",
+        "Gota Highway Cross Roads",
+        "Charodi Patia",
+        "Nirma Institute Of Technology",
+        "Vaishnav Devi Mandir"
+      ]
+    }
+  },
+  {
+    "route": "64*",
+    "data": {
+      "routeNo": "64*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Gujarat High Court",
+      "distance": "12  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Shahpur Darwaja",
+        "Gandhi Bridge",
+        "Usmanpura",
+        "Shree Niketan Society",
+        "Naranpura Char Rasta",
+        "Ankur Society",
+        "Ranna Park",
+        "Chanlodia Railway Station",
+        "Chanakyapuri Approach",
+        "R.C. Technical",
+        "Umiya Campus",
+        "Gujarat High Court"
+      ]
+    }
+  },
+  {
+    "route": "64/2*",
+    "data": {
+      "routeNo": "64/2*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Sattadhar Society",
+      "distance": "9  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehrubridge",
+        "Natraj Cinema",
+        "Income-Tax Office",
+        "Usmanpura",
+        "Sardar Patel Colony",
+        "Naranpura Char Rasta",
+        "Ankur Society",
+        "Ranna Park",
+        "Ghatlodia",
+        "Pavapuri Society",
+        "Sattadhar Society"
+      ]
+    }
+  },
+  {
+    "route": "65*",
+    "data": {
+      "routeNo": "65*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Sola Bhagwat Vidhyapith",
+      "distance": "8  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Gandhi Bridge",
+        "Usmanpura",
+        "Shree Niketan Society",
+        "Naranpura",
+        "Bhyungdev",
+        "Highway Cross Roads",
+        "Sola Gaam",
+        "Sola Bhagwat Vidhyapith"
+      ]
+    }
+  },
+  {
+    "route": "65/1*",
+    "data": {
+      "routeNo": "65/1*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Mangalmurti Appartments",
+      "distance": "8  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehrubridge",
+        "Natraj Cinema",
+        "Mithakali",
+        "Six Roads",
+        "Commerce College",
+        "Amikunj",
+        "Naranpura Char Rasta",
+        "Mira Ambika High School",
+        "Jaymangal Society",
+        "Mangalmurti Appartments"
+      ]
+    }
+  },
+  {
+    "route": "65/2*",
+    "data": {
+      "routeNo": "65/2*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Khatraj Chokdi (Arvind Polycot)",
+      "distance": "17  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Income-Tax Office",
+        "Usmanpura",
+        "Shree Niketan Society",
+        "Naranpura",
+        "Bhyungdev",
+        "Sola Overbridge",
+        "Sola Gaam Approach",
+        "Bhadaj Gaam",
+        "Rakanpur Approach",
+        "Khatraj Chokdi (Arvind Polycot)"
+      ]
+    }
+  },
+  {
+    "route": "65/3*",
+    "data": {
+      "routeNo": "65/3*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Satej (Shah Alloys)",
+      "distance": "17  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Income-Tax Office",
+        "Usmanpura",
+        "Shree Niketan Society",
+        "Naranpura",
+        "Bhyungdev",
+        "Sola Overbridge",
+        "Sola Gaam Approach",
+        "Bhadaj Gaam",
+        "Rakanpur Approach",
+        "Satej (Shah Alloys)"
+      ]
+    }
+  },
+  {
+    "route": "67*",
+    "data": {
+      "routeNo": "67*",
+      "from": "Kalupur Terminus",
+      "to": "Sattadhar Society",
+      "distance": "11  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kalupur Terminus",
+        "Dariyapur -Wer",
+        "Delhi Darwaja",
+        "Income-Tax Office",
+        "Usmanpura",
+        "Shree Niketan Society",
+        "Naranpura",
+        "Bhyungdev",
+        "Karamcharinagar",
+        "Sattadhar Society"
+      ]
+    }
+  },
+  {
+    "route": "67/1*",
+    "data": {
+      "routeNo": "67/1*",
+      "from": "Kalupur Terminus",
+      "to": "Sattadhar Society",
+      "distance": "13  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Kalupur Terminus",
+        "Dariyapur -Wer",
+        "Delhi Darwaja",
+        "Income-Tax Office",
+        "Usmanpura",
+        "Shree Niketan Society",
+        "Somnath Society",
+        "Pragatinagar",
+        "Rannapark",
+        "Ghatlodia Gaam",
+        "Pavapuri Society",
+        "Sattadhar Society"
+      ]
+    }
+  },
+  {
+    "route": "69*",
+    "data": {
+      "routeNo": "69*",
+      "from": "Kalupur Terminus",
+      "to": "Chanakyapuri",
+      "distance": "10  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Kalupur Terminus",
+        "Dariyapur Darwaja",
+        "Delhi Darwaja",
+        "Income-Tax",
+        "Office",
+        "Usmanpura",
+        "Shree Niketan Society",
+        "Naranpura Char Rasta",
+        "Ankur Society",
+        "Rannapark",
+        "Chandlodia Railway Station",
+        "Chanakyapuri"
+      ]
+    }
+  },
+  {
+    "route": "70*",
+    "data": {
+      "routeNo": "70*",
+      "from": "Vagheswari Society",
+      "to": "Naroda Terminus",
+      "distance": "17  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Vagheswari Society",
+        "Gaurinagar",
+        "K.K. Nagar",
+        "Shakarda Hall",
+        "Ranna Park",
+        "Ankur Society",
+        "Vadaj",
+        "Income-Tax Office",
+        "Delhi Darwaja",
+        "Shahibaug Under Bridge",
+        "Civil Hospital",
+        "Om Nagar",
+        "Bansidhar Mills",
+        "Saijpur",
+        "St Workshop",
+        "Baithak",
+        "Naroda Terminus"
+      ]
+    }
+  },
+  {
+    "route": "71/1*",
+    "data": {
+      "routeNo": "71/1*",
+      "from": "Vatva",
+      "to": "Karnavati Eye Hospital (Ognej)",
+      "distance": "28  K.M.",
+      "totalStops": 24,
+      "stops": [
+        "Vatva",
+        "Bibi Lake",
+        "Gabnasha Peer",
+        "Parasnagar",
+        "Isanpur",
+        "Anandvadi",
+        "Vishistnagar",
+        "Jawaharchowk",
+        "Bhairavnath",
+        "Radhanpur Society",
+        "Pushpkunj",
+        "Shah Allam -Lnaka",
+        "St Stand",
+        "Khamasa",
+        "Lal Darwaja",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Income Tax Office",
+        "Vadaj",
+        "Nava Vadaj",
+        "Chandlodia",
+        "Gota",
+        "Ognej",
+        "Karnavati Eye Hospital (Ognej)"
+      ]
+    }
+  },
+  {
+    "route": "72",
+    "data": {
+      "routeNo": "72",
+      "from": "Maninagar Terminus",
+      "to": "Navavadaj Terminus",
+      "distance": "12  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Maninagar Terminus",
+        "Krishna Baug",
+        "Pushpkunj",
+        "Shahallam -Lnaka",
+        "St Stand",
+        "Khamasa",
+        "Lal Darwaja",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Incometax Office",
+        "Usmanpura",
+        "Vadaj",
+        "Bhimjipura",
+        "Navavadaj Terminus"
+      ]
+    }
+  },
+  {
+    "route": "74",
+    "data": {
+      "routeNo": "74",
+      "from": "Lal Darwaja, Terminus",
+      "to": "Rh Patel College (Ganesh Vidhyalaya)",
+      "distance": "8  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Lal Darwaja, Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Income Tax Office",
+        "Usmanpura",
+        "Vadaj",
+        "Bhimjipura",
+        "Ramdevpeer Tekra",
+        "Juhu Park",
+        "Bhavsar Hostel",
+        "Shreenath Appartment",
+        "Chandrbhaga Raw House",
+        "Rh Patel College (Ganesh Vidhyalaya)"
+      ]
+    }
+  },
+  {
+    "route": "75*",
+    "data": {
+      "routeNo": "75*",
+      "from": "Maninagar Terminus",
+      "to": "Chandkheda Gaam",
+      "distance": "17  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Maninagar Terminus",
+        "Krishna Baug",
+        "Pushpkunj",
+        "Shahallam -Lnaka",
+        "Bhulabhai Park",
+        "St Stand",
+        "Khamasa",
+        "Lal Darwaja",
+        "Nehrubridge",
+        "Natraj Cinema",
+        "Income-Tax Office",
+        "Vadaj",
+        "Subhashbridge Circle",
+        "Keshavnagar",
+        "Powerhouse",
+        "Acher Depo",
+        "Ongc Office",
+        "Parshavnathnagar",
+        "Chandkheda Gaam"
+      ]
+    }
+  },
+  {
+    "route": "76*",
+    "data": {
+      "routeNo": "76*",
+      "from": "Kalupur Terminus",
+      "to": "Gujarat High Court Sankul",
+      "distance": "14  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Kalupur Terminus",
+        "Prem Darwaja",
+        "Delhi Darwaja",
+        "Income Tax Office",
+        "Vadaj",
+        "Nava Vadaj",
+        "Nirnaynagar Garnala",
+        "Chandlodia",
+        "Gota Gaam",
+        "Gota Highway Cross Roads",
+        "Umiya Campus",
+        "Gujarat High Court Sankul"
+      ]
+    }
+  },
+  {
+    "route": "77",
+    "data": {
+      "routeNo": "77",
+      "from": "Vadaj Terminus",
+      "to": "Hatkeshwar Depo",
+      "distance": "11  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Vadaj Terminus",
+        "Usmanpura",
+        "Income Tax Office",
+        "Delhi Darwaja",
+        "Kalupur",
+        "Sarangpur",
+        "Kamdar Maidan",
+        "Rajpur -Lnaka",
+        "New Cot-N Mills",
+        "Amraiwadi",
+        "Hatkeshwar Depo"
+      ]
+    }
+  },
+  {
+    "route": "79*",
+    "data": {
+      "routeNo": "79*",
+      "from": "Thakkarbapanagar",
+      "to": "Chainpur Gaam",
+      "distance": "13  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Thakkarbapanagar",
+        "Dariyapur Darwaja",
+        "Delhi Darwaja",
+        "Income-Tax Office",
+        "Usmanpura",
+        "Vadaj",
+        "Bhimjipura",
+        "Ramdev Peer Tekra",
+        "Juhu Park",
+        "Bhavsar Hostel",
+        "Shreenath Appartments",
+        "Badolnagar",
+        "Blind Man Association",
+        "Gst",
+        "Chainpur Gaam"
+      ]
+    }
+  },
+  {
+    "route": "82*",
+    "data": {
+      "routeNo": "82*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Gayatri Vidhyalay",
+      "distance": "8  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Nehru Bridge",
+        "Income Tax Office",
+        "Vadaj",
+        "Nava Vadaj",
+        "Nirnayanagar",
+        "Ramvadi",
+        "Vimal Tenaments",
+        "Navsurgon High School",
+        "Gayatri Vidhyalay"
+      ]
+    }
+  },
+  {
+    "route": "83*",
+    "data": {
+      "routeNo": "83*",
+      "from": "Lal Darwaja Termius",
+      "to": "Sabarmati D  Cabin",
+      "distance": "12  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lal Darwaja Termius",
+        "Nehru Bridge",
+        "Natraj Cinema",
+        "Income-Tax Office",
+        "Vaadaj",
+        "Gandhi Ashram",
+        "Subhash Bridge Circle",
+        "Keshavnagar",
+        "Dharamnagar",
+        "Kali Bridge Cross Roads",
+        "Sabarmati D  Cabin"
+      ]
+    }
+  },
+  {
+    "route": "84*",
+    "data": {
+      "routeNo": "84*",
+      "from": "Maninagar Terminus",
+      "to": "Chandkheda",
+      "distance": "18  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Maninagar Terminus",
+        "L.G. Hospital",
+        "Krishnabaug",
+        "Puspkunj",
+        "Shahallam -Lnaka",
+        "St Stand",
+        "Khamasa",
+        "Lal Darwaja",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Police Commissioner Office",
+        "Subhash Bridge Circle",
+        "Keshavnagar",
+        "Dharamnagar",
+        "Ramnagar Chintamani Society",
+        "Acher Depo",
+        "Jawaharchok",
+        "Railway Colony",
+        "Chandkheda Cross Roads",
+        "Padmaprabhunagar",
+        "Gujarat Housing Board",
+        "Chandkheda"
+      ]
+    }
+  },
+  {
+    "route": "85*",
+    "data": {
+      "routeNo": "85*",
+      "from": "Lal Darwaja Terminus",
+      "to": "Chandkheda Gaam",
+      "distance": "14  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lal Darwaja Terminus",
+        "Jansatta Office",
+        "Delhi Darwaja",
+        "Advance Mills",
+        "Police Commissioner Office",
+        "Subhashbridge Circle",
+        "Keshavnagar",
+        "Power House",
+        "Ongc Office",
+        "Parshavnathnagar",
+        "Chandkheda Gaam"
+      ]
+    }
+  },
+  {
+    "route": "87",
+    "data": {
+      "routeNo": "87",
+      "from": "Maninagar",
+      "to": "Chandkheda Gaam",
+      "distance": "21  K.M.",
+      "totalStops": 24,
+      "stops": [
+        "Maninagar",
+        "Jawaharchowk",
+        "Bhairavnath",
+        "Nilamkunj",
+        "Shahallam Darwaja",
+        "St Stand",
+        "Raipur Darwaja",
+        "Sarangpur",
+        "Kalupur",
+        "Dariyapur Darwaja",
+        "Delhi Darwaja",
+        "Incometax Office",
+        "Vadaj",
+        "Subhashbridge Circle",
+        "Keshavnagar",
+        "Dharamnagar",
+        "Ramnagar",
+        "Chintamani Society",
+        "Abukoba Cross Roads",
+        "Indiarnagar",
+        "Gujarat Stadium",
+        "Asharambapu Ashram Cross Roads",
+        "Aakash Darshan Society",
+        "Chandkheda Gaam"
+      ]
+    }
+  },
+  {
+    "route": "88*",
+    "data": {
+      "routeNo": "88*",
+      "from": "Ranip",
+      "to": "Nikol Gaam",
+      "distance": "14  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Ranip",
+        "Radhaswamy Satsang",
+        "Probhod Raval Bridge",
+        "Subhash Bridge",
+        "Shahibaug Police Commissioner Office",
+        "Delhi Darwaja",
+        "Dariyapur Darwaja",
+        "Kalupur Terminus",
+        "Kalupur Over Bridge",
+        "Shrinagar Mills",
+        "Dr. Baba Saheb Ambedkar Hall",
+        "Shardaben Hospital",
+        "Bombay Housing",
+        "Tapovan Society",
+        "Chandraparakash Hall",
+        "Pramukh Swaminagar",
+        "India Colony",
+        "Thakkarbapanagar Approach",
+        "Khodiyar Matanu Mandir",
+        "Nikol Gaam"
+      ]
+    }
+  },
+  {
+    "route": "89/2*",
+    "data": {
+      "routeNo": "89/2*",
+      "from": "Kalupur Terminus",
+      "to": "Trangad Gaam",
+      "distance": "16  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Kalupur Terminus",
+        "Delhi Darwaja",
+        "Advance Mills",
+        "Police Commissioner Office",
+        "Subhasbridge Circle",
+        "Keshavnagar",
+        "Dharamnagar",
+        "Kabirchowk",
+        "Jawaharchowk Railway Colony",
+        "Chandkheda Cross Road",
+        "Trangad Gaam"
+      ]
+    }
+  },
+  {
+    "route": "89/3*",
+    "data": {
+      "routeNo": "89/3*",
+      "from": "Manmarket",
+      "to": "Adalaj",
+      "distance": "25  K.M.",
+      "totalStops": 29,
+      "stops": [
+        "Manmarket",
+        "Thakkarbapanagar Approach",
+        "India Colony",
+        "Samjuba Hospital",
+        "Bapunagar Char Rasta",
+        "Bheedbhanjan Hanuman",
+        "Saurashtra Patel Samaj",
+        "Industrial Estate",
+        "Ramini Chali",
+        "Rakhial Char Rasta",
+        "Patel Mills",
+        "Kamdar Maidan",
+        "Sarangpur",
+        "Kalupur Terminus",
+        "Prem Darwaja",
+        "Dariyapur Darwaja",
+        "Delhi Darwaja",
+        "Police Commissioner Office",
+        "Subhash Bridge Circle",
+        "Power House Quarters",
+        "Acher Depo",
+        "Ongc Office",
+        "Parshavnathnagar",
+        "Chandkheda",
+        "Gokuldham",
+        "Jhundal Bus Stand",
+        "Ambapur St Stand",
+        "Adalaj St Stand",
+        "Adalaj"
+      ]
+    }
+  },
+  {
+    "route": "90/6*",
+    "data": {
+      "routeNo": "90/6*",
+      "from": "Vasna",
+      "to": "Chandkeda Gaam",
+      "distance": "15  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Vasna",
+        "Paldi",
+        "Vs Hospital",
+        "Natraj Cinema",
+        "Incometax Office",
+        "Subhash Bridge Circle",
+        "Keshavnagar",
+        "Power House Staff Quarters Chinatmani Society",
+        "Ongc Office",
+        "Parshavnath Nagar",
+        "Chandkeda Gaam"
+      ]
+    }
+  },
+  {
+    "route": "96",
+    "data": {
+      "routeNo": "96",
+      "from": "Dariyakhan Ghummat Qarters",
+      "to": "Ravdi Bazaar",
+      "distance": "9  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Dariyakhan Ghummat Qarters",
+        "Prem Dawaja",
+        "Dariyapur Quarters",
+        "Delhi Darwaja",
+        "Ice Fac-Ry",
+        "Jupiter Mills",
+        "Mental Hospital",
+        "Municipal Staff Quarters",
+        "Dudeshwar Turning Municipal Staff Quarters",
+        "Halimani Khadki",
+        "Delhi Chakla",
+        "Panchbhai Ni Pol",
+        "Dhanasuthar Ni Pol",
+        "Ravdi Bazaar"
+      ]
+    }
+  }
+]
