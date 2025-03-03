@@ -1,0 +1,1259 @@
+[
+  {
+    "route": ".86/118J",
+    "data": {
+      "routeNo": ".86/118J",
+      "from": "Mehdipatnam Bus Stop",
+      "to": "Secunderabad Junction",
+      "distance": "13  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Mehdipatnam Bus Stop",
+        "Masab Tank Bus Stop",
+        "Lakdikapool Bus Stop",
+        "Nampally",
+        "Ram Nagar",
+        "Warasiguda Bus Stop",
+        "Secunderabad Junction"
+      ]
+    }
+  },
+  {
+    "route": "1",
+    "data": {
+      "routeNo": "1",
+      "from": "Afzalgunj Bus Stop",
+      "to": "Secunderabad Junction",
+      "distance": "7  K.M.",
+      "totalStops": 21,
+      "stops": [
+        "Afzalgunj Bus Stop",
+        "Gowliguda",
+        "Cbs Bus Stop",
+        "Putlibowli",
+        "Koti Bus Stop",
+        "Ram Koti",
+        "Badichowdi",
+        "Madapati Hanumantha School",
+        "Ymca(Koti) Bus Stop",
+        "Narayanguda",
+        "Chikkadpally",
+        "Rtc Cross Rd",
+        "Golconda X Roads",
+        "Sapthagiri Theater",
+        "Raja Delux",
+        "Musheerabad Bus Stop",
+        "Jail Garden",
+        "Gandhi Hospital",
+        "Padmarao Nagar",
+        "Bhoiguda",
+        "Secunderabad Junction"
+      ]
+    }
+  },
+  {
+    "route": "1/229",
+    "data": {
+      "routeNo": "1/229",
+      "from": "Medchal",
+      "to": "Afzalgunj Bus Stop",
+      "distance": "32  K.M.",
+      "totalStops": 38,
+      "stops": [
+        "Medchal",
+        "Cmr College Of Engineering And Technology",
+        "Kandlakoya",
+        "Pochampally",
+        "Malla Reddy Engineering College",
+        "Bommidala",
+        "Kompally Bus Stop",
+        "Suchitra Bus Stop",
+        "Military Dairy Farm",
+        "Old Bowenpally Bus Stop",
+        "New Bowenpally Bus Stop",
+        "Chinnathokata",
+        "Tadbund Bus Stop",
+        "Paradise Bus Stop",
+        "Gymkhana Grounds",
+        "Patny",
+        "Clock Tower",
+        "Secunderabad Junction",
+        "Bhoiguda",
+        "Padmarao Nagar",
+        "Gandhi Hospital",
+        "Jail Garden",
+        "Musheerabad Bus Stop",
+        "Raja Delux",
+        "Sapthagiri Theater",
+        "Golconda X Roads",
+        "Rtc Cross Rd",
+        "Chikkadpally",
+        "Narayanguda",
+        "Ymca(Koti) Bus Stop",
+        "Madapati Hanumantha School",
+        "Badichowdi",
+        "Ram Koti",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Cbs Bus Stop",
+        "Gowliguda",
+        "Afzalgunj Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "1/94R",
+    "data": {
+      "routeNo": "1/94R",
+      "from": "Secunderabad Junction",
+      "to": "Rajendra Nagar Bus Depot Bus Stop",
+      "distance": "25  K.M.",
+      "totalStops": 28,
+      "stops": [
+        "Secunderabad Junction",
+        "Bhoiguda",
+        "Padmarao Nagar",
+        "Gandhi Hospital",
+        "Jail Garden",
+        "Musheerabad Bus Stop",
+        "Raja Delux",
+        "Sapthagiri Theater",
+        "Golconda X Roads",
+        "Rtc Cross Rd",
+        "Chikkadpally",
+        "Narayanguda",
+        "Ymca(Koti) Bus Stop",
+        "Madapati Hanumantha School",
+        "Badichowdi",
+        "Ram Koti",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Cbs Bus Stop",
+        "Gowliguda",
+        "Afzalgunj Bus Stop",
+        "Osmania Hospital(Ogh)",
+        "Puranapool Bus Stop",
+        "East Bahadurpura",
+        "Dairy Form(Rajendra Nagar)",
+        "Nppti",
+        "Kishan Bagh",
+        "Rajendra Nagar Bus Depot Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "10",
+    "data": {
+      "routeNo": "10",
+      "from": "Secunderabad Junction",
+      "to": "Sanath Nagar Bus Stop",
+      "distance": "11  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Secunderabad Junction",
+        "Clock Tower",
+        "Patny",
+        "Paradise Bus Stop",
+        "Anand Theatre",
+        "Police Lines-Begumpet Bus Stop",
+        "Prakash Nagar Bus Stop",
+        "Shyamlal Building",
+        "Hps",
+        "Begumpet Railway Station",
+        "Greenlands",
+        "Sheeshamahal",
+        "Ameerpet Bus Station",
+        "Mytrivanam",
+        "S R Nagar",
+        "Esi Bus Stop",
+        "Erragadda",
+        "Sanath Nagar Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "10 0M/R",
+    "data": {
+      "routeNo": "10 0M/R",
+      "from": "Snehapuri Colony Bus Stop",
+      "to": "Nampally",
+      "distance": "11  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Snehapuri Colony Bus Stop",
+        "Telephone Colony(Kothapet)",
+        "Mohan Nagar",
+        "Fruitmarket",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Malakpet",
+        "Chaderghat Bus Stop",
+        "Putlibowli",
+        "Abids Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100",
+    "data": {
+      "routeNo": "100",
+      "from": "Dilsukhnagar Bus Station",
+      "to": "Janapriya Colony Bus Stop",
+      "distance": "18  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Dilsukhnagar Bus Station",
+        "Chaitanyapuri",
+        "Kothapet Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Lb Nagar Bus Stop",
+        "Nagarjuna Sagar Road",
+        "Hastinapuram",
+        "Rn Reddy Colony",
+        "Sita Homes Colony",
+        "Balapur X Roads",
+        "Balapur",
+        "Janapriya Colony Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "100A",
+    "data": {
+      "routeNo": "100A",
+      "from": "Alkapuri Bus Stop",
+      "to": "Nampally",
+      "distance": "12  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Alkapuri Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Mohan Nagar",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gandhi Bhavan Bus Stop",
+        "Gpo(Abids)",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100A/S",
+    "data": {
+      "routeNo": "100A/S",
+      "from": "Sai Nagar(Bala Nagar)",
+      "to": "Nampally",
+      "distance": "10  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Alkapuri Bus Stop",
+        "Telephone Colony(Kothapet)",
+        "Kothapet Bus Stop",
+        "Dilsukhnagar Bus Station",
+        "Malakpet",
+        "Chaderghat Bus Stop",
+        "Putlibowli",
+        "Abids Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100C",
+    "data": {
+      "routeNo": "100C",
+      "from": "Bn Reddy Nagar Bus Stop",
+      "to": "Womens College Bus Stop",
+      "distance": "15  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Bn Reddy Nagar Bus Stop",
+        "Ngos Colony Bus Stop",
+        "Ganesh Temple",
+        "Sushma Theater",
+        "Panama Godown",
+        "Chintalakunta",
+        "Lb Nagar Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Mohan Nagar",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "100D",
+    "data": {
+      "routeNo": "100D",
+      "from": "Dilsukhnagar Bus Station",
+      "to": "Esi Bus Stop",
+      "distance": "19  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Dilsukhnagar Bus Station",
+        "Sbi Colony(Kothapet)",
+        "Saidabad Bus Stop",
+        "Lic Colony",
+        "Darulshifa",
+        "Mozamjahi Market",
+        "Nampally",
+        "Lakdikapool Bus Stop",
+        "Khairatabad Bus Stop",
+        "Panjagutta Bus Stop",
+        "Ameerpet Bus Station",
+        "S R Nagar",
+        "Esi Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "100G",
+    "data": {
+      "routeNo": "100G",
+      "from": "Geological Survey Of India",
+      "to": "Nampally",
+      "distance": "16  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Geological Survey Of India",
+        "Bandlaguda(Nagole)",
+        "Nagole Bus Stop",
+        "Hari Puri Colony Park",
+        "Alkapuri Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Mohan Nagar",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gpo(Abids)",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100G/",
+    "data": {
+      "routeNo": "100G/",
+      "from": "Dilsukhnagar Bus Station",
+      "to": "Dilsukhnagar Bus Station",
+      "distance": "7  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Dilsukhnagar Bus Station",
+        "Fruitmarket",
+        "Nagole Bus Stop",
+        "Mansoorabad",
+        "Lb Nagar Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "100H",
+    "data": {
+      "routeNo": "100H",
+      "from": "Gayatri Hills",
+      "to": "Womens College Bus Stop",
+      "distance": "12  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Gayatri Hills",
+        "Sri Nagar Colony",
+        "Panjagutta Bus Stop",
+        "Somajiguda",
+        "Nims (Nizam Hospital)",
+        "Erramanzil Bus Stop",
+        "Khairatabad Bus Stop",
+        "Chintal Basthi",
+        "Lakdikapool Bus Stop",
+        "Assembly",
+        "Public Gardens(Nampally)",
+        "Nizam College",
+        "Abids Bus Stop",
+        "Gpo(Abids)",
+        "Koti Bus Stop",
+        "Osmania Medical College",
+        "Womens College Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "100H/",
+    "data": {
+      "routeNo": "100H/",
+      "from": "Gayatri Hills",
+      "to": "Chaderghat Bus Stop",
+      "distance": "17  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Gayatri Hills",
+        "Dilsukhnagar Bus Station",
+        "Malakpet",
+        "Chaderghat Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "100I",
+    "data": {
+      "routeNo": "100I",
+      "from": "Ngos Colony Bus Stop",
+      "to": "Mgbs Bus Stop",
+      "distance": "16  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Ngos Colony Bus Stop",
+        "Vanasthalipuram",
+        "Ganesh Temple",
+        "Sushma Theater",
+        "Panama Godown",
+        "Chintalakunta",
+        "Lb Nagar Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Mohan Nagar",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Mgbs Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "100J",
+    "data": {
+      "routeNo": "100J",
+      "from": "Jayapuri Colony",
+      "to": "Nampally",
+      "distance": "15  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Jayapuri Colony",
+        "Bandlaguda(Nagole)",
+        "Nagole Bus Stop",
+        "Hari Puri Colony Park",
+        "Alkapuri Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Mohan Nagar",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gpo(Abids)",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100K",
+    "data": {
+      "routeNo": "100K",
+      "from": "Sbi Colony(Kothapet)",
+      "to": "Nampally",
+      "distance": "10  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Sbi Colony(Kothapet)",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gpo(Abids)",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100L",
+    "data": {
+      "routeNo": "100L",
+      "from": "Ntr Nagar(L B Nagar)",
+      "to": "Nampally",
+      "distance": "11  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Ntr Nagar(L B Nagar)",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gpo(Abids)",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100LG",
+    "data": {
+      "routeNo": "100LG",
+      "from": "Dilsukhnagar Bus Station",
+      "to": "Dilsukhnagar Bus Station",
+      "distance": "8  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Dilsukhnagar Bus Station",
+        "Chaitanyapuri",
+        "Kothapet Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Lb Nagar Bus Stop",
+        "Kamineni Hospital",
+        "Mansoorabad",
+        "Geological Survey Of India"
+      ]
+    }
+  },
+  {
+    "route": "100M",
+    "data": {
+      "routeNo": "100M",
+      "from": "Maruthi Nagar(Kothapet)",
+      "to": "Nampally",
+      "distance": "10  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Maruthi Nagar(Kothapet)",
+        "New Maruthi Nagar",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gpo(Abids)",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100N",
+    "data": {
+      "routeNo": "100N",
+      "from": "Ngos Colony Bus Stop",
+      "to": "Nampally",
+      "distance": "18  K.M.",
+      "totalStops": 24,
+      "stops": [
+        "Ngos Colony Bus Stop",
+        "Vanasthalipuram",
+        "Ganesh Temple",
+        "Sushma Theater",
+        "Panama Godown",
+        "Chintalakunta",
+        "Lb Nagar Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Mohan Nagar",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gpo(Abids)",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100P",
+    "data": {
+      "routeNo": "100P",
+      "from": "South End Park",
+      "to": "Nampally",
+      "distance": "14  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "South End Park",
+        "Lb Nagar Bus Stop",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gpo(Abids)",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100P/",
+    "data": {
+      "routeNo": "100P/",
+      "from": "South End Park",
+      "to": "Telephone Bhavan",
+      "distance": "12  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "South End Park",
+        "Alkapuri Bus Stop",
+        "Telephone Bhavan"
+      ]
+    }
+  },
+  {
+    "route": "100R",
+    "data": {
+      "routeNo": "100R",
+      "from": "Snehapuri Colony Bus Stop",
+      "to": "Nampally",
+      "distance": "11  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Snehapuri Colony Bus Stop",
+        "Alkapuri Bus Stop",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gpo(Abids)",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100S",
+    "data": {
+      "routeNo": "100S",
+      "from": "Lb Nagar Bus Stop",
+      "to": "Womens College Bus Stop",
+      "distance": "7  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Lb Nagar Bus Stop",
+        "Dilsukhnagar Bus Station",
+        "Malakpet",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "100T",
+    "data": {
+      "routeNo": "100T",
+      "from": "Telephone Colony(Kothapet)",
+      "to": "Nampally",
+      "distance": "10  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Telephone Colony(Kothapet)",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Gpo(Abids)",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "100V",
+    "data": {
+      "routeNo": "100V",
+      "from": "Ngos Colony Bus Stop",
+      "to": "Womens College Bus Stop",
+      "distance": "15  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Ngos Colony Bus Stop",
+        "Vanasthalipuram",
+        "Ganesh Temple",
+        "Sushma Theater",
+        "Panama Godown",
+        "Chintalakunta",
+        "Lb Nagar Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Mohan Nagar",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "100VK",
+    "data": {
+      "routeNo": "100VK",
+      "from": "Ngos Colony Bus Stop",
+      "to": "Kachiguda Railway Station",
+      "distance": "16  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Ngos Colony Bus Stop",
+        "Vanasthalipuram",
+        "Ganesh Temple",
+        "Sushma Theater",
+        "Panama Godown",
+        "Chintalakunta",
+        "Lb Nagar Bus Stop",
+        "Ramakrishnapuram(Kothapet)",
+        "Mohan Nagar",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Kachiguda Railway Station"
+      ]
+    }
+  },
+  {
+    "route": "101/1",
+    "data": {
+      "routeNo": "101/1",
+      "from": "Saroor Nagar Bus Terminal",
+      "to": "Secunderabad Junction",
+      "distance": "16  K.M.",
+      "totalStops": 24,
+      "stops": [
+        "Saroor Nagar Bus Terminal",
+        "Kothapet Bus Stop",
+        "Chaitanyapuri",
+        "Dilsukhnagar Bus Station",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Victory Play Ground",
+        "Putlibowli",
+        "Koti Bus Stop",
+        "Badichowdi",
+        "Kachiguda Bus Stop",
+        "Madapati Hanumantha School",
+        "Ymca(Koti) Bus Stop",
+        "Narayanguda",
+        "Chikkadpally",
+        "Rtc Cross Rd",
+        "Musheerabad Bus Stop",
+        "Gandhi Hospital",
+        "Bhoiguda",
+        "Secunderabad Junction"
+      ]
+    }
+  },
+  {
+    "route": "101B",
+    "data": {
+      "routeNo": "101B",
+      "from": "Bhupesh Guptha Colony",
+      "to": "Nampally",
+      "distance": "66  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Bhupesh Guptha Colony",
+        "Khagazghat",
+        "Saroor Nagar Bus Terminal",
+        "Womens College Bus Stop",
+        "Abids Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "101K",
+    "data": {
+      "routeNo": "101K",
+      "from": "Nampally",
+      "to": "Khagazghat",
+      "distance": "38  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Nampally",
+        "Abids Bus Stop",
+        "Womens College Bus Stop",
+        "Jail Garden",
+        "Super Bazar",
+        "Shankeshwar Bazar",
+        "Saroor Nagar Bus Terminal",
+        "Khagazghat"
+      ]
+    }
+  },
+  {
+    "route": "101R",
+    "data": {
+      "routeNo": "101R",
+      "from": "Bn Reddy Nagar Bus Stop",
+      "to": "Nampally",
+      "distance": "15  K.M.",
+      "totalStops": 21,
+      "stops": [
+        "Bn Reddy Nagar Bus Stop",
+        "Agrl Colony",
+        "Sriramana Colony",
+        "Bhupesh Guptha Colony",
+        "New Gayathri Nagar Colony Bus Stop",
+        "Karmanghat Bus Stop",
+        "Saroor Nagar Bus Terminal",
+        "Revenue Board Colony",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Victory Play Ground",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Mozamjahi Market",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "101S",
+    "data": {
+      "routeNo": "101S",
+      "from": "Saroor Nagar Bus Terminal",
+      "to": "Nampally",
+      "distance": "10  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Saroor Nagar Bus Terminal",
+        "Revenue Board Colony",
+        "Mosarambagh",
+        "Saleem Nagar",
+        "Super Bazar",
+        "Malakpet",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Victory Play Ground",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Putlibowli",
+        "Mozamjahi Market",
+        "Gandhi Bhavan Bus Stop",
+        "Nampally"
+      ]
+    }
+  },
+  {
+    "route": "102",
+    "data": {
+      "routeNo": "102",
+      "from": "Lab Quarters Main Bus Stop",
+      "to": "Secunderabad Junction",
+      "distance": "14  K.M.",
+      "totalStops": 26,
+      "stops": [
+        "Lab Quarters Main Bus Stop",
+        "Midhani",
+        "Hasnabad",
+        "Champapet",
+        "I S Sadan Complex",
+        "Upperguda",
+        "Kurmaguda",
+        "Chanchalguda",
+        "Sohail Hotel",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Victory Play Ground",
+        "Womens College Bus Stop",
+        "Badichowdi",
+        "Kachiguda Bus Stop",
+        "Madapati Hanumantha School",
+        "Ymca(Koti) Bus Stop",
+        "Narayanguda",
+        "Chikkadpally",
+        "Rtc Cross Rd",
+        "Golconda X Roads",
+        "Raja Delux",
+        "Musheerabad Bus Stop",
+        "Gandhi Hospital",
+        "Bhoiguda",
+        "Secunderabad Junction"
+      ]
+    }
+  },
+  {
+    "route": "102/",
+    "data": {
+      "routeNo": "102/",
+      "from": "Saidabad Bus Stop",
+      "to": "Putlibowli",
+      "distance": "4  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Saidabad Bus Stop",
+        "Press(Saidabad)",
+        "Chaderghat Bus Stop",
+        "Putlibowli"
+      ]
+    }
+  },
+  {
+    "route": "102/1",
+    "data": {
+      "routeNo": "102/1",
+      "from": "I S Sadan Complex",
+      "to": "Rtc Cross Rd",
+      "distance": "7  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "I S Sadan Complex",
+        "Saidabad Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Ymca(Koti) Bus Stop",
+        "Narayanguda",
+        "Rtc Cross Rd"
+      ]
+    }
+  },
+  {
+    "route": "102/17H",
+    "data": {
+      "routeNo": "102/17H",
+      "from": "Midhani",
+      "to": "Ecil Bus Stop",
+      "distance": "20  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Midhani",
+        "Santhosh Nagar Bus Stand",
+        "I S Sadan Complex",
+        "Saidabad Bus Stop",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Ymca(Koti) Bus Stop",
+        "Mettuguda Bus Stop",
+        "Lalapet",
+        "Railway Quarters Moulali",
+        "Moula Ali",
+        "Ecil Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "102/3K",
+    "data": {
+      "routeNo": "102/3K",
+      "from": "I S Sadan Complex",
+      "to": "Ecil Bus Stop",
+      "distance": "18  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "I S Sadan Complex",
+        "Saidabad Bus Stop",
+        "Malakpet",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop",
+        "Ymca(Koti) Bus Stop",
+        "Nallakunta Bus Stop",
+        "Vidya Nagar Bus Stop",
+        "Arts College Mmts",
+        "Lalapet",
+        "Railway Quarters Moulali",
+        "Jts",
+        "Hb Colony",
+        "Ecil Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "102A",
+    "data": {
+      "routeNo": "102A",
+      "from": "Womens College Bus Stop",
+      "to": "Bandlaguda(Chandrayanagutta)",
+      "distance": "10  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Womens College Bus Stop",
+        "Victory Play Ground",
+        "Chaderghat Bus Stop",
+        "Nalgonda X Roads Bus Stop",
+        "Sohail Hotel",
+        "Chanchalguda",
+        "Kurmaguda",
+        "Upperguda",
+        "I S Sadan Complex",
+        "Champapet",
+        "Hasnabad",
+        "Midhani",
+        "Lab Quarters Main Bus Stop",
+        "Kesav Giri",
+        "Bandlaguda(Chandrayanagutta)"
+      ]
+    }
+  },
+  {
+    "route": "102C",
+    "data": {
+      "routeNo": "102C",
+      "from": "Balapur",
+      "to": "Womens College Bus Stop",
+      "distance": "11  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Balapur",
+        "Midhani",
+        "Champapet",
+        "I S Sadan Complex",
+        "Saidabad Bus Stop",
+        "Nalgonda X Roads Bus Stop",
+        "Malakpet",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "102C/B",
+    "data": {
+      "routeNo": "102C/B",
+      "from": "Balapur",
+      "to": "Womens College Bus Stop",
+      "distance": "17  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Balapur",
+        "Chandrayanagutta",
+        "Phisalbanda",
+        "I S Sadan Complex",
+        "Saidabad Bus Stop",
+        "Malakpet",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "102C/J",
+    "data": {
+      "routeNo": "102C/J",
+      "from": "Janapriya Colony Bus Stop",
+      "to": "Womens College Bus Stop",
+      "distance": "21  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Janapriya Colony Bus Stop",
+        "Balapur",
+        "Chandrayanagutta",
+        "Phisalbanda",
+        "I S Sadan Complex",
+        "Saidabad Bus Stop",
+        "Malakpet",
+        "Chaderghat Bus Stop",
+        "Womens College Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "102CJ",
+    "data": {
+      "routeNo": "102CJ",
+      "from": "Janapriya Colony Bus Stop",
+      "to": "Womens College Bus Stop",
+      "distance": "13  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Janapriya Colony Bus Stop",
+        "Balapur X Roads",
+        "Midhani",
+        "Hasnabad",
+        "Champapet",
+        "I S Sadan Complex",
+        "Upperguda",
+        "Kurmaguda",
+        "Chanchalguda",
+        "Sohail Hotel",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Victory Play Ground",
+        "Womens College Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "102D",
+    "data": {
+      "routeNo": "102D",
+      "from": "Saroor Nagar Bus Terminal",
+      "to": "I S Sadan Complex",
+      "distance": "3  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Saroor Nagar Bus Terminal",
+        "Saidabad Bus Stop",
+        "I S Sadan Complex"
+      ]
+    }
+  },
+  {
+    "route": "102F",
+    "data": {
+      "routeNo": "102F",
+      "from": "Borabanda Bus Stop",
+      "to": "Madhura Nagar Colony",
+      "distance": "16  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Borabanda Bus Stop",
+        "Erragadda",
+        "Ameerpet Bus Station",
+        "Panjagutta Bus Stop",
+        "Khairatabad Bus Stop",
+        "Koti Bus Stop",
+        "Chaderghat Bus Stop",
+        "Nalgonda X Roads Bus Stop",
+        "Press(Saidabad)",
+        "Saidabad Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "102H",
+    "data": {
+      "routeNo": "102H",
+      "from": "Nampally",
+      "to": "Baba Nagar",
+      "distance": "14  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Nampally",
+        "Womens College Bus Stop",
+        "Jail Garden",
+        "Press(Saidabad)",
+        "Baba Nagar"
+      ]
+    }
+  },
+  {
+    "route": "102J",
+    "data": {
+      "routeNo": "102J",
+      "from": "Jamal Colony",
+      "to": "Nampally",
+      "distance": "5  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Jamal Colony",
+        "Nalgonda X Roads Bus Stop",
+        "Chaderghat Bus Stop",
+        "Victory Play Ground",
+        "Womens College Bus Stop",
+        "Koti Bus Stop",
+        "Gpo(Abids)",
+        "Abids Bus Stop",
+        "Gandhi Bhavan Bus Stop",
+        "Latha Talkies",
+        "Nampally"
+      ]
+    }
+  }
+]

@@ -1,0 +1,2612 @@
+[
+  {
+    "route": "11",
+    "data": {
+      "routeNo": "11",
+      "from": "Rathtala",
+      "to": "Howrah",
+      "distance": "33  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Rathtala",
+        "Dunlop",
+        "Chiria More",
+        "Shyambazar",
+        "Khanna",
+        "Manicktala",
+        "Raja Bazar",
+        "Sealdah",
+        "College Street",
+        "M G Road",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "11A",
+    "data": {
+      "routeNo": "11A",
+      "from": "Dum Dum",
+      "to": "Howrah",
+      "distance": "9  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Dum Dum",
+        "Chiria More",
+        "Shyambazar",
+        "Grey Street",
+        "Girish Park",
+        "C R Avenue",
+        "M G Road",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "12N",
+    "data": {
+      "routeNo": "12N",
+      "from": "Thakurpukur",
+      "to": "Nabanna",
+      "distance": "14  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Thakurpukur",
+        "Behala",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "P T S",
+        "2nd Hooghly Bridge",
+        "Nabanna"
+      ]
+    }
+  },
+  {
+    "route": "14A",
+    "data": {
+      "routeNo": "14A",
+      "from": "H M G College",
+      "to": "Saltlake",
+      "distance": "24  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "H M G College",
+        "Ram Nagar",
+        "Khidirpur",
+        "Fort Willium",
+        "Esplanade",
+        "Moulali",
+        "Sealdah",
+        "Beliaghata",
+        "Amri",
+        "Pnb",
+        "Central Park",
+        "City Centre",
+        "Saltlake"
+      ]
+    }
+  },
+  {
+    "route": "15",
+    "data": {
+      "routeNo": "15",
+      "from": "Ultadanga",
+      "to": "Howrah",
+      "distance": "10  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Ultadanga",
+        "Khanna",
+        "Kankurgachhi",
+        "Manicktala",
+        "Girish Park",
+        "M G Road",
+        "Howrah St",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "19A",
+    "data": {
+      "routeNo": "19A",
+      "from": "Rajabagan",
+      "to": "Howrah",
+      "distance": "13  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Rajabagan",
+        "Garden Reach Sb",
+        "Alif Nagar",
+        "Itc More",
+        "Khidirpur",
+        "Fort Willium",
+        "Esplanade",
+        "B B D Bag",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "19B",
+    "data": {
+      "routeNo": "19B",
+      "from": "Taratala",
+      "to": "Bawali",
+      "distance": "27  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Taratala",
+        "Behala",
+        "Sakuntala Park",
+        "Dakghar",
+        "Mahestala",
+        "Budge Budge",
+        "Charial",
+        "Bawali"
+      ]
+    }
+  },
+  {
+    "route": "19S",
+    "data": {
+      "routeNo": "19S",
+      "from": "Taratala",
+      "to": "Bishalaxmi Tala",
+      "distance": "52  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Taratala",
+        "Behala",
+        "Sakuntala Park",
+        "Dakghar",
+        "Budge Budge",
+        "Charial",
+        "Bishalaxmi Tala"
+      ]
+    }
+  },
+  {
+    "route": "3",
+    "data": {
+      "routeNo": "3",
+      "from": "Dahighat",
+      "to": "Sealdah",
+      "distance": "22  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Dahighat",
+        "Khidirpur",
+        "Mominpur",
+        "Hazra",
+        "Ballygunj Phari",
+        "Bondel Gate",
+        "Park Circus",
+        "C I T Road",
+        "Ananda Palit",
+        "Moulali",
+        "Sealdah"
+      ]
+    }
+  },
+  {
+    "route": "33",
+    "data": {
+      "routeNo": "33",
+      "from": "Chetla",
+      "to": "Paikpara",
+      "distance": "17  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Chetla",
+        "Mominpur",
+        "Hazra",
+        "Ballygunj Phari",
+        "Bondel Gate",
+        "Darga Rd",
+        "Moulali",
+        "Sealdah",
+        "Raja Bazar",
+        "Manicktala",
+        "Khanna",
+        "Shyambazar",
+        "Paikpara"
+      ]
+    }
+  },
+  {
+    "route": "3A/2",
+    "data": {
+      "routeNo": "3A/2",
+      "from": "Sarsuna",
+      "to": "New Town (Sector-V)",
+      "distance": "25  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Sarsuna",
+        "Behala",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "Sealdah",
+        "Beliaghata",
+        "Chingri Ghata",
+        "Nicco Park",
+        "S D F",
+        "New Town (Sector-V)"
+      ]
+    }
+  },
+  {
+    "route": "5N",
+    "data": {
+      "routeNo": "5N",
+      "from": "Garia",
+      "to": "Nabanna",
+      "distance": "19  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Garia",
+        "Baghajatin",
+        "Sulekha",
+        "Jadavpur",
+        "Dhakuria",
+        "Golpark",
+        "Gariahat",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "P T S",
+        "2nd Hooghly Bridge",
+        "Nabanna"
+      ]
+    }
+  },
+  {
+    "route": "6N",
+    "data": {
+      "routeNo": "6N",
+      "from": "Garia",
+      "to": "Nabanna",
+      "distance": "17  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Garia",
+        "Naktala",
+        "Bansdroni",
+        "Tollygunj",
+        "Bangur Hospital",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "P T S",
+        "2nd Hooghly Bridge",
+        "Nabanna"
+      ]
+    }
+  },
+  {
+    "route": "7",
+    "data": {
+      "routeNo": "7",
+      "from": "Sarsuna",
+      "to": "Howrah",
+      "distance": "18  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Sarsuna",
+        "Bakultala",
+        "Behala",
+        "Taratala",
+        "New Alipur",
+        "Tollygunje Phari",
+        "Rasbihari More",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "B B D Bag",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "75A",
+    "data": {
+      "routeNo": "75A",
+      "from": "Behala",
+      "to": "Raipur",
+      "distance": "35  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Behala",
+        "Thakurpukur Bazar",
+        "Bibir Hut",
+        "Bakra Hut",
+        "Nodakhali",
+        "Dongaria",
+        "Raipur"
+      ]
+    }
+  },
+  {
+    "route": "7A",
+    "data": {
+      "routeNo": "7A",
+      "from": "Sarsuna",
+      "to": "Howrah",
+      "distance": "16  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Sarsuna",
+        "Behala Chowrasta",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "Fort Willium",
+        "Esplanade",
+        "B B D Bag",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-1",
+    "data": {
+      "routeNo": "AC-1",
+      "from": "Jadavpur",
+      "to": "Howrah",
+      "distance": "12  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Jadavpur",
+        "Southcity",
+        "Prince Anwar Sh Rd",
+        "Tollygunje Phari",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "Maindan",
+        "Park Street",
+        "Esplanade",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-10",
+    "data": {
+      "routeNo": "AC-10",
+      "from": "Nilgaunj Depot",
+      "to": "Howrah",
+      "distance": "45  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Nilgaunj Depot",
+        "Muragacha",
+        "Sajirhat",
+        "Madhyamgram",
+        "Airport",
+        "Lake Town Vip Rd",
+        "Kankurgachhi",
+        "C R Avenue",
+        "M G Road",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-12",
+    "data": {
+      "routeNo": "AC-12",
+      "from": "Sapoorji",
+      "to": "Howrah",
+      "distance": "27  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Sapoorji",
+        "Unitech",
+        "Narkel Bagan",
+        "New Town (Sector-V)",
+        "College More",
+        "S D F",
+        "Nicco Park",
+        "Chingri Ghata",
+        "Science City",
+        "Topsia Xing",
+        "Exide",
+        "Esplanade",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-12D",
+    "data": {
+      "routeNo": "AC-12D",
+      "from": "Joka",
+      "to": "Howrah",
+      "distance": "20  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Joka",
+        "Thakurpukur",
+        "Behala",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "Fort Willium",
+        "P T S",
+        "Rabindra Sadan",
+        "Esplanade",
+        "Mission Row Xing",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-14",
+    "data": {
+      "routeNo": "AC-14",
+      "from": "Saltlake",
+      "to": "Baruipur",
+      "distance": "28  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Saltlake",
+        "Karunamoyee",
+        "Central Park",
+        "Beliaghata",
+        "Science City",
+        "Ruby More",
+        "Peerless",
+        "Kamalgazi",
+        "Narendrapur",
+        "Baruipur"
+      ]
+    }
+  },
+  {
+    "route": "AC-15",
+    "data": {
+      "routeNo": "AC-15",
+      "from": "Bantala It Park",
+      "to": "Howrah",
+      "distance": "25  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Bantala It Park",
+        "B I T College",
+        "Bamanghata",
+        "Bantala Bazar",
+        "Chowbaga",
+        "Science City",
+        "Chingri Ghata",
+        "Beliaghata",
+        "Sealdah",
+        "Moulali",
+        "Esplanade",
+        "B B D Bag",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-17",
+    "data": {
+      "routeNo": "AC-17",
+      "from": "Thakurpukur",
+      "to": "Karunamoyee",
+      "distance": "49  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Thakurpukur",
+        "M G Road",
+        "Cancer Hospital",
+        "Tollygaunj Tram Dep",
+        "Hazra",
+        "Exide",
+        "Beck Bagan",
+        "Sealdah",
+        "Beliaghata",
+        "Central Park",
+        "Karunamoyee"
+      ]
+    }
+  },
+  {
+    "route": "AC-17B",
+    "data": {
+      "routeNo": "AC-17B",
+      "from": "Sinthi More",
+      "to": "Kundghat",
+      "distance": "22  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Sinthi More",
+        "Chiria More",
+        "Shyambazar",
+        "C R Avenue",
+        "Girish Park",
+        "Esplanade",
+        "Park Street",
+        "Exide",
+        "Hazra",
+        "Rabindra Sadan",
+        "Rasbihari More",
+        "Tollygunj",
+        "Kundghat"
+      ]
+    }
+  },
+  {
+    "route": "AC-20",
+    "data": {
+      "routeNo": "AC-20",
+      "from": "Santragachi",
+      "to": "Barrackpore",
+      "distance": "35  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Santragachi",
+        "2nd Hooghly Bridge",
+        "P T S",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "C R Avenue",
+        "Shyambazar",
+        "Sinthi More",
+        "Dunlop",
+        "Agarpara",
+        "Sodepur",
+        "Titagarh",
+        "Barrackpore"
+      ]
+    }
+  },
+  {
+    "route": "AC-23A",
+    "data": {
+      "routeNo": "AC-23A",
+      "from": "Bally Khal",
+      "to": "Saltlake Gate",
+      "distance": "27  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Bally Khal",
+        "Dakshineswar",
+        "Dunlop",
+        "Belgharia Expressway",
+        "Airport",
+        "Haldiram",
+        "City Centre New",
+        "Eco Park",
+        "Ecospace",
+        "Narkel Bagan",
+        "Technopolis",
+        "College More",
+        "Wipro More",
+        "Saltlake Gate"
+      ]
+    }
+  },
+  {
+    "route": "AC-24",
+    "data": {
+      "routeNo": "AC-24",
+      "from": "Patuli",
+      "to": "Howrah",
+      "distance": "17  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Patuli",
+        "Peerless",
+        "Ajaay Nagar",
+        "Ruby More",
+        "Gariahat",
+        "R B Avenue",
+        "Bhawanipur",
+        "Park Street",
+        "Esplanade",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-25",
+    "data": {
+      "routeNo": "AC-25",
+      "from": "Dunlop",
+      "to": "Saltlake Gate",
+      "distance": "20  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Dunlop",
+        "Belghoria Stn",
+        "Nimta",
+        "Birati More",
+        "Birati Airport",
+        "City Centre New",
+        "Eco Park",
+        "New Town (Sector-V)",
+        "Saltlake Gate"
+      ]
+    }
+  },
+  {
+    "route": "AC-37A",
+    "data": {
+      "routeNo": "AC-37A",
+      "from": "Garia",
+      "to": "Airport",
+      "distance": "38  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Garia",
+        "Baisnab Ghata",
+        "Patuli",
+        "Peerless",
+        "E M Bypass",
+        "Ruby More",
+        "Science City",
+        "Chingri Ghata",
+        "Nicco Park",
+        "New Town (Sector-V)",
+        "Eco Park",
+        "City Centre",
+        "Kaikhali",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "AC-37B",
+    "data": {
+      "routeNo": "AC-37B",
+      "from": "Garia",
+      "to": "Airport",
+      "distance": "27  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Garia",
+        "Baghajatin",
+        "Sukanta Setu",
+        "Santoshpur",
+        "Ajaay Nagar",
+        "Kalikapur",
+        "Ruby More",
+        "Science City",
+        "Metropolitan",
+        "Chingri Ghata",
+        "Ultadanga",
+        "V I P Road",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "AC-39",
+    "data": {
+      "routeNo": "AC-39",
+      "from": "Howrah",
+      "to": "Airport",
+      "distance": "18  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Howrah",
+        "B B D Bag",
+        "Esplanade",
+        "C R Avenue",
+        "Girish Park",
+        "Manicktala",
+        "Kankurgachhi",
+        "Ultadanga",
+        "V I P Road",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "AC-4",
+    "data": {
+      "routeNo": "AC-4",
+      "from": "Parnasree",
+      "to": "Howrah",
+      "distance": "13  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Parnasree",
+        "Taratala Xing",
+        "Mominpur",
+        "Khidirpur",
+        "Hastings",
+        "Fort Willium",
+        "Esplanade",
+        "B B D Bag",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-41",
+    "data": {
+      "routeNo": "AC-41",
+      "from": "Santragachi",
+      "to": "Ecospace",
+      "distance": "25  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Santragachi",
+        "Kona High Way",
+        "Nabanna",
+        "2nd Hooghly Bridge",
+        "P T S",
+        "Rabindra Sadan",
+        "Minto Park",
+        "Park Circus",
+        "Science City",
+        "Chingri Ghata",
+        "Nicco Park",
+        "College More",
+        "New Town (Sector-V)",
+        "Ecospace"
+      ]
+    }
+  },
+  {
+    "route": "AC-43",
+    "data": {
+      "routeNo": "AC-43",
+      "from": "Golf Green",
+      "to": "Airport",
+      "distance": "28  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Golf Green",
+        "Southcity",
+        "Anwar Shah Road",
+        "Kalikapur",
+        "Ruby More",
+        "E M Bypass",
+        "Science City",
+        "Nicco Park",
+        "College More",
+        "New Town (Sector-V)",
+        "Eco Park",
+        "Kaikhali",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "AC-44",
+    "data": {
+      "routeNo": "AC-44",
+      "from": "New Town (Sector-V)",
+      "to": "Nabanna",
+      "distance": "21  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "New Town (Sector-V)",
+        "College More",
+        "Karunamoyee",
+        "Pnb",
+        "Ultadanga",
+        "Kankurgachhi",
+        "Phoolbagan",
+        "Beliaghata",
+        "Sealdah",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "2nd Hooghly Bridge",
+        "Nabanna"
+      ]
+    }
+  },
+  {
+    "route": "AC-47",
+    "data": {
+      "routeNo": "AC-47",
+      "from": "Kundghat",
+      "to": "Sapoorji",
+      "distance": "28  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Kundghat",
+        "Tollygunj",
+        "Anwar Shah Road",
+        "Rashbihari More",
+        "Deshapriya Park",
+        "Gariahat",
+        "Ballygunj Stn",
+        "Ruby More",
+        "Science City",
+        "Chingri Ghata",
+        "Nicco Park",
+        "College More",
+        "New Town (Sector-V)",
+        "Sapoorji"
+      ]
+    }
+  },
+  {
+    "route": "AC-48",
+    "data": {
+      "routeNo": "AC-48",
+      "from": "Kundghat",
+      "to": "Bantala It Park",
+      "distance": "24  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kundghat",
+        "Tollygunj",
+        "Rashbihari More",
+        "Gariahat",
+        "Ruby More",
+        "Science City",
+        "Chowbaga",
+        "Bamanghata",
+        "B I T College",
+        "Bantala It Park"
+      ]
+    }
+  },
+  {
+    "route": "AC-49",
+    "data": {
+      "routeNo": "AC-49",
+      "from": "Eden City",
+      "to": "Airport",
+      "distance": "34  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Eden City",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "Fort Willium",
+        "Esplanade",
+        "B B D Bag",
+        "C R Avenue",
+        "Girish Park",
+        "Manicktala",
+        "Kankurgachhi",
+        "Ultadanga",
+        "V I P Road",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "AC-49A",
+    "data": {
+      "routeNo": "AC-49A",
+      "from": "Behala 14 No",
+      "to": "Airport",
+      "distance": "25  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Behala 14 No",
+        "Taratala",
+        "Khidirpur",
+        "P T S",
+        "Exide",
+        "Park Street",
+        "Esplanade",
+        "Moulali",
+        "Sealdah",
+        "Beliaghata",
+        "Kankurgachhi",
+        "V I P Road",
+        "Kaikhali",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "AC-4A",
+    "data": {
+      "routeNo": "AC-4A",
+      "from": "Parnasree",
+      "to": "Sapoorji",
+      "distance": "29  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Parnasree",
+        "Taratala",
+        "New Alipur",
+        "Tollygunje Phari",
+        "Anwar Shah Road",
+        "Kalikapur",
+        "Ruby More",
+        "Science City",
+        "Chingri Ghata",
+        "Nicco Park",
+        "College More",
+        "New Town (Sector-V)",
+        "Unitech",
+        "Sapoorji"
+      ]
+    }
+  },
+  {
+    "route": "AC-5",
+    "data": {
+      "routeNo": "AC-5",
+      "from": "Garia",
+      "to": "Howrah",
+      "distance": "20  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Garia",
+        "Baghajatin",
+        "Jadavpur",
+        "Golpark",
+        "Gariahat",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "B B D Bag",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-50",
+    "data": {
+      "routeNo": "AC-50",
+      "from": "Garia",
+      "to": "Belur",
+      "distance": "36  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Garia",
+        "Patuli",
+        "Peerless",
+        "Ruby More",
+        "Science City",
+        "Chingri Ghata",
+        "Ultadanga",
+        "V I P Road",
+        "Airport",
+        "Belgharia Expressway",
+        "Dunlop",
+        "Dakshineswar",
+        "Bally Khal",
+        "Belur"
+      ]
+    }
+  },
+  {
+    "route": "AC-51",
+    "data": {
+      "routeNo": "AC-51",
+      "from": "Kundghat",
+      "to": "Airport",
+      "distance": "26  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kundghat",
+        "Tollygunj",
+        "R B Avenue",
+        "Gariahat",
+        "Ruby More",
+        "E M Bypass",
+        "Science City",
+        "Ultadanga",
+        "V I P Road",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "AC-52",
+    "data": {
+      "routeNo": "AC-52",
+      "from": "Amtala",
+      "to": "Howrah",
+      "distance": "30  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Amtala",
+        "Bagirhat",
+        "Bisnhupur",
+        "Pailan",
+        "Joka",
+        "3a Stand",
+        "Thakurpukur",
+        "Behala",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "Fort Willium",
+        "Esplanade Meo Rd",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-53",
+    "data": {
+      "routeNo": "AC-53",
+      "from": "Santragachi",
+      "to": "Patuli",
+      "distance": "24  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Santragachi",
+        "Carry Road",
+        "P T S",
+        "Elgin",
+        "Hazra",
+        "Rashbihari More",
+        "Gariahat",
+        "Kasba Ps",
+        "Ruby More",
+        "Kalikapur",
+        "Ajaay Nagar",
+        "Patuli"
+      ]
+    }
+  },
+  {
+    "route": "AC-54",
+    "data": {
+      "routeNo": "AC-54",
+      "from": "Rathtala",
+      "to": "Howrah",
+      "distance": "32  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Rathtala",
+        "Dunlop",
+        "Sinthi More",
+        "Shyambazar",
+        "Grey Street",
+        "Girish Park",
+        "Ram Nagar",
+        "M G Road",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-6",
+    "data": {
+      "routeNo": "AC-6",
+      "from": "Garia",
+      "to": "Howrah",
+      "distance": "17  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Garia",
+        "Rathtala",
+        "Naktala",
+        "Bansdroni",
+        "Tollygunj",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "AC-9",
+    "data": {
+      "routeNo": "AC-9",
+      "from": "Jadavpur",
+      "to": "Karunamoyee",
+      "distance": "16  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Jadavpur",
+        "Santoshpur",
+        "Ajaay Nagar",
+        "Ruby More",
+        "Science City",
+        "Chingri Ghata",
+        "Beliagha Bypass",
+        "Amri",
+        "Karunamoyee",
+        "Karunamoyee"
+      ]
+    }
+  },
+  {
+    "route": "AC-9A",
+    "data": {
+      "routeNo": "AC-9A",
+      "from": "Golf Green",
+      "to": "Dakshineswar",
+      "distance": "23  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Golf Green",
+        "Southcity",
+        "Dhakuria",
+        "Golpark",
+        "Gariahat",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "C R Avenue",
+        "Shyambazar",
+        "Dakshineswar"
+      ]
+    }
+  },
+  {
+    "route": "AC-9B",
+    "data": {
+      "routeNo": "AC-9B",
+      "from": "Jadavpur",
+      "to": "Ecospace",
+      "distance": "19  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Jadavpur",
+        "Sukanta Setu",
+        "Ajaay Nagar",
+        "E M Bypass",
+        "Science City",
+        "Chingri Ghata",
+        "S D F",
+        "College More",
+        "New Town (Sector-V)",
+        "Ecospace"
+      ]
+    }
+  },
+  {
+    "route": "E-1",
+    "data": {
+      "routeNo": "E-1",
+      "from": "Jadavpur",
+      "to": "Howrah",
+      "distance": "15  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Jadavpur",
+        "Dhakuria",
+        "Anwar Shah Road",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "B B D Bag",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "E-32",
+    "data": {
+      "routeNo": "E-32",
+      "from": "Nilgaunj Depot",
+      "to": "Howrah",
+      "distance": null,
+      "totalStops": 1,
+      "stops": [
+        "Nilgaunj Depot"
+      ]
+    }
+  },
+  {
+    "route": "E-4",
+    "data": {
+      "routeNo": "E-4",
+      "from": "Parnasree",
+      "to": "Howrah",
+      "distance": "11  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Parnasree",
+        "Taratala Depot",
+        "Mominpur",
+        "Khidirpur",
+        "Hastings",
+        "Fort Willium",
+        "Babu Ghat",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "M-14",
+    "data": {
+      "routeNo": "M-14",
+      "from": "Behala",
+      "to": "Bengal Chemical",
+      "distance": "15  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Behala",
+        "Roy Bahadur Road",
+        "Tolly Circular Rd",
+        "Rasbihari More",
+        "Elgin",
+        "Esplanade",
+        "Sealdah",
+        "Kankurgachhi",
+        "Bengal Chemical"
+      ]
+    }
+  },
+  {
+    "route": "M-7C",
+    "data": {
+      "routeNo": "M-7C",
+      "from": "Sasthir More",
+      "to": "Howrah",
+      "distance": "19  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Sasthir More",
+        "Bakultala",
+        "Thakurpukur",
+        "Behala",
+        "Taratala",
+        "Khidirpur",
+        "Babu Ghat",
+        "Stand Road",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "M-7D",
+    "data": {
+      "routeNo": "M-7D",
+      "from": "Sona Mukhi Bazar",
+      "to": "Kankurgachhi",
+      "distance": "22  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Sona Mukhi Bazar",
+        "Sarsuna",
+        "Behala",
+        "Taratala",
+        "Mominpur",
+        "Gopalnagar",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "Moulali",
+        "Sealdah",
+        "Manicktala",
+        "Kankurgachhi"
+      ]
+    }
+  },
+  {
+    "route": "M-7E",
+    "data": {
+      "routeNo": "M-7E",
+      "from": "Baghpota",
+      "to": "Howrah",
+      "distance": "21  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Baghpota",
+        "Kestor More",
+        "Sarsuna",
+        "Bakultala",
+        "Behala",
+        "Chowrastha",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "Fort Willium",
+        "Esplanade",
+        "B B D Bag",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "MIDI-1",
+    "data": {
+      "routeNo": "MIDI-1",
+      "from": "Howrah",
+      "to": "Raja Bazar",
+      "distance": "5  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Howrah",
+        "Howrah",
+        "Barabazar",
+        "M G Road",
+        "College Street",
+        "Sealdah",
+        "Raja Bazar"
+      ]
+    }
+  },
+  {
+    "route": "S-10",
+    "data": {
+      "routeNo": "S-10",
+      "from": "Airport Gate",
+      "to": "Nabanna",
+      "distance": "21  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Airport Gate",
+        "Jessore Road",
+        "Nager Bazar",
+        "Dum Dum",
+        "Chiria More",
+        "Paikpara",
+        "Shyambazar",
+        "C R Avenue",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "P T S",
+        "2nd Hooghly Bridge",
+        "Nabanna"
+      ]
+    }
+  },
+  {
+    "route": "S-10A",
+    "data": {
+      "routeNo": "S-10A",
+      "from": "Howrah",
+      "to": "Ballygunj Stn",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Howrah",
+        "B B D Bag",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "Hazra",
+        "Kalighat",
+        "Rashbihari More",
+        "Gariahat",
+        "Ballygunj Stn"
+      ]
+    }
+  },
+  {
+    "route": "S-11",
+    "data": {
+      "routeNo": "S-11",
+      "from": "Nilgaunj",
+      "to": "Nabanna",
+      "distance": "36  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Nilgaunj",
+        "Barrackpore",
+        "Titagarh",
+        "Khardah",
+        "Sodepur",
+        "Agarpara",
+        "Dunlop",
+        "Sinthi More",
+        "Shyambazar",
+        "C R Avenue",
+        "Esplanade",
+        "P T S",
+        "2nd Hooghly Bridge",
+        "Nabanna"
+      ]
+    }
+  },
+  {
+    "route": "S-12",
+    "data": {
+      "routeNo": "S-12",
+      "from": "New Town (Sector-V)",
+      "to": "Howrah",
+      "distance": "14  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "New Town (Sector-V)",
+        "Technopolis",
+        "College More",
+        "Nicco Park",
+        "Chingri Ghata",
+        "Beliaghatata Id",
+        "C I T More",
+        "Uria Bagan",
+        "Sales Tax",
+        "Moulali",
+        "Subodh Mallick Sn",
+        "Esplanade",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S-12C",
+    "data": {
+      "routeNo": "S-12C",
+      "from": "Paikpara",
+      "to": "Nayabad",
+      "distance": "20  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Paikpara",
+        "Shyambazar",
+        "Khanna",
+        "Ultadanga",
+        "Phoolbagan",
+        "Cit More",
+        "Science City",
+        "Ruby More",
+        "Ajaay Nagar",
+        "Garia Station",
+        "Srinagar",
+        "Nayabad"
+      ]
+    }
+  },
+  {
+    "route": "S-12D",
+    "data": {
+      "routeNo": "S-12D",
+      "from": "Howrah",
+      "to": "Thakurpukur",
+      "distance": "15  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Howrah",
+        "B B D Bag",
+        "Esplanade",
+        "Fort Willium",
+        "Khidirpur",
+        "Mominpur",
+        "Taratala",
+        "Behala",
+        "Thakurpukur"
+      ]
+    }
+  },
+  {
+    "route": "S-12E",
+    "data": {
+      "routeNo": "S-12E",
+      "from": "Howrah",
+      "to": "Ecospace",
+      "distance": "22  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Howrah",
+        "B B D Bag",
+        "Esplanade",
+        "Moulali",
+        "Sealdah",
+        "Beliaghata",
+        "Chingri Ghata",
+        "College More",
+        "New Town (Sector-V)",
+        "Narkel Bagan",
+        "Unitech",
+        "Ecospace"
+      ]
+    }
+  },
+  {
+    "route": "S-13",
+    "data": {
+      "routeNo": "S-13",
+      "from": "Ultadanga",
+      "to": "Amtala",
+      "distance": "33  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Ultadanga",
+        "Kankurgachhi",
+        "Phoolbagan",
+        "Beliaghata",
+        "Sealdah",
+        "A J C Bose Road",
+        "Lansdown",
+        "Hazra",
+        "Mominpur",
+        "Taratala",
+        "Behala",
+        "Thakurpukur",
+        "Joka",
+        "Amtala"
+      ]
+    }
+  },
+  {
+    "route": "S-14",
+    "data": {
+      "routeNo": "S-14",
+      "from": "Saltlake",
+      "to": "Garia",
+      "distance": "16  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Saltlake",
+        "Bikash Bhaban",
+        "City Centre",
+        "Pnb",
+        "Science City",
+        "Ruby More",
+        "Peerless",
+        "Patuli",
+        "Garia"
+      ]
+    }
+  },
+  {
+    "route": "S-14C",
+    "data": {
+      "routeNo": "S-14C",
+      "from": "Dunlop",
+      "to": "Unitech",
+      "distance": "29  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Dunlop",
+        "Tobin Road",
+        "Sinthi More",
+        "Chiria More",
+        "Paikpara More",
+        "Shyambazar",
+        "Khanna",
+        "Ultadanga",
+        "Chingri Ghata",
+        "Nicco Park",
+        "College More",
+        "New Town (Sector-V)",
+        "Narkel Bagan",
+        "Unitech"
+      ]
+    }
+  },
+  {
+    "route": "S-15G",
+    "data": {
+      "routeNo": "S-15G",
+      "from": "Dakshineswar",
+      "to": "Baruipur",
+      "distance": "38  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Dakshineswar",
+        "Dunlop",
+        "Shyambazar",
+        "C R Avenue",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "Hazra",
+        "Kalighat",
+        "Rashbihari More",
+        "Southern Avenue",
+        "Jadavpur",
+        "Garia",
+        "Baruipur"
+      ]
+    }
+  },
+  {
+    "route": "S-16",
+    "data": {
+      "routeNo": "S-16",
+      "from": "Thakurpukur",
+      "to": "Saltlake",
+      "distance": null,
+      "totalStops": 1,
+      "stops": [
+        "Thakurpukur"
+      ]
+    }
+  },
+  {
+    "route": "S-17A",
+    "data": {
+      "routeNo": "S-17A",
+      "from": "Ariadaha",
+      "to": "Kundghat",
+      "distance": "21  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Ariadaha",
+        "Dakshineswar",
+        "Kashipur",
+        "Chitpur",
+        "Bagbazar",
+        "C R Avenue",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "Hazra",
+        "Kalighat",
+        "Rashbihari More",
+        "Tollygunj",
+        "Kundghat"
+      ]
+    }
+  },
+  {
+    "route": "S-19",
+    "data": {
+      "routeNo": "S-19",
+      "from": "Ultadanga",
+      "to": "Jadavpur",
+      "distance": "25  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Mominpur",
+        "Ultadanga",
+        "Beliaghata",
+        "Chingri Ghata",
+        "Science City",
+        "Park Circus",
+        "Ballygunj Phari",
+        "Gariahat",
+        "Golpark",
+        "Dhakuria",
+        "Jadavpur"
+      ]
+    }
+  },
+  {
+    "route": "S-2",
+    "data": {
+      "routeNo": "S-2",
+      "from": "Kundghat",
+      "to": "Howrah",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kundghat",
+        "Tollygunj",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S-21",
+    "data": {
+      "routeNo": "S-21",
+      "from": "Bagbazar",
+      "to": "Garia",
+      "distance": "25  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Esplanade",
+        "Bagbazar",
+        "Shyambazar",
+        "Khanna",
+        "Ultadanga",
+        "Chingri Ghata",
+        "Metropolitan",
+        "Science City",
+        "Ruby More",
+        "Kalikapur",
+        "Ajaay Nagar",
+        "Peerless",
+        "Patuli",
+        "Baisnab Ghata",
+        "Garia"
+      ]
+    }
+  },
+  {
+    "route": "S-22",
+    "data": {
+      "routeNo": "S-22",
+      "from": "Karunamoyee",
+      "to": "Sakuntala Park",
+      "distance": "29  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Moulali",
+        "Karunamoyee",
+        "Nicco Park",
+        "Chingri Ghata",
+        "Science City",
+        "Ruby More",
+        "Gariahat",
+        "Rashbihari More",
+        "Chetla",
+        "Taratala",
+        "Chowrastha",
+        "Bakultala",
+        "Sakuntala Park"
+      ]
+    }
+  },
+  {
+    "route": "S-22A",
+    "data": {
+      "routeNo": "S-22A",
+      "from": "Karunamoyee",
+      "to": "Dakghar",
+      "distance": "29  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Karunamoyee",
+        "Central Park",
+        "Amri",
+        "Chingri Ghata",
+        "Science City",
+        "Ruby More",
+        "Gariahat",
+        "Rashbihari More",
+        "Hazra",
+        "Gopalnagar",
+        "Taratala",
+        "Behala",
+        "Sakuntala Park",
+        "Dakghar"
+      ]
+    }
+  },
+  {
+    "route": "S-23A",
+    "data": {
+      "routeNo": "S-23A",
+      "from": "Bally Khal",
+      "to": "Saltlake Gate",
+      "distance": "25  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Bally Khal",
+        "Ballyghat",
+        "Dakshineswar",
+        "Dunlop",
+        "Adarsha Nagar",
+        "Durga Nagar",
+        "Airport Gate-1",
+        "Haldiram",
+        "Eco Park",
+        "Narkel Bagan",
+        "Technopolis",
+        "College More",
+        "Wipro More",
+        "Saltlake Gate"
+      ]
+    }
+  },
+  {
+    "route": "S-24",
+    "data": {
+      "routeNo": "S-24",
+      "from": "Howrah",
+      "to": "Patuli",
+      "distance": "22  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Raja Bazar",
+        "Howrah",
+        "Barabazar",
+        "B B D Bag",
+        "Esplanade",
+        "Moulali",
+        "Park Circus",
+        "Science City",
+        "Ruby More",
+        "Peerless",
+        "Patuli"
+      ]
+    }
+  },
+  {
+    "route": "S-24N",
+    "data": {
+      "routeNo": "S-24N",
+      "from": "Patuli",
+      "to": "Nabanna",
+      "distance": "23  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Patuli",
+        "Peerless",
+        "Ruby More",
+        "Science City",
+        "Park Circus",
+        "C I T Road",
+        "Moulali",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "P T S",
+        "2nd Hooghly Bridge",
+        "Nabanna"
+      ]
+    }
+  },
+  {
+    "route": "S-2A",
+    "data": {
+      "routeNo": "S-2A",
+      "from": "Paikpara",
+      "to": "Ballygunj Stn",
+      "distance": "18  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Paikpara",
+        "Dutta Bagan",
+        "Belgachia Metro",
+        "R. G. Kar Hospital",
+        "Shyambazar",
+        "Vivekananda Road",
+        "M G Road",
+        "Bowbazar",
+        "Lalbazar",
+        "Esplanade",
+        "Hazra",
+        "Rashbihari More",
+        "Gariahat",
+        "Ballygunj Stn"
+      ]
+    }
+  },
+  {
+    "route": "S-2B",
+    "data": {
+      "routeNo": "S-2B",
+      "from": "Bagbazar",
+      "to": "Kalikapur",
+      "distance": "16  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Bagbazar",
+        "Shyambazar",
+        "Khanna",
+        "Manicktala",
+        "Raja Bazar",
+        "Sealdah",
+        "Moulali",
+        "C I T Road",
+        "Park Circus",
+        "Ballygunj Phari",
+        "Gariahat",
+        "Ruby More",
+        "Kalikapur"
+      ]
+    }
+  },
+  {
+    "route": "S-30",
+    "data": {
+      "routeNo": "S-30",
+      "from": "Ultadanga",
+      "to": "Ecospace",
+      "distance": "28  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Ultadanga",
+        "Kadapara",
+        "Beliaghata",
+        "Chingri Ghata",
+        "Nicco Park",
+        "Nicco Park",
+        "S D F",
+        "Narkel Bagan",
+        "College More",
+        "New Town (Sector-V)",
+        "Unitech",
+        "Sapoorji",
+        "Ecospace"
+      ]
+    }
+  },
+  {
+    "route": "S-31",
+    "data": {
+      "routeNo": "S-31",
+      "from": "Jadavpur",
+      "to": "Janakalyan",
+      "distance": "8  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Jadavpur",
+        "Southcity",
+        "Anwar Shah Road",
+        "Tollygaunj Tram Dep",
+        "Behala Karunamoyee",
+        "Siriti",
+        "Behala Chowrasta",
+        "Janakalyan"
+      ]
+    }
+  },
+  {
+    "route": "S-32",
+    "data": {
+      "routeNo": "S-32",
+      "from": "Barrackpore",
+      "to": "Howrah",
+      "distance": "27  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Barrackpore",
+        "Titagarh",
+        "Khardah",
+        "Sodepur",
+        "Agarpara",
+        "Dunlop",
+        "Sinthi More",
+        "Shyambazar",
+        "C R Avenue",
+        "Vivekananda Road",
+        "Girish Park",
+        "M G Road",
+        "Barabazar",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S-37A",
+    "data": {
+      "routeNo": "S-37A",
+      "from": "Airport",
+      "to": "Garia",
+      "distance": "24  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Airport",
+        "V I P Road",
+        "Ultadanga",
+        "Chingri Ghata",
+        "Science City",
+        "Ruby More",
+        "Peerless",
+        "Patuli",
+        "Garia"
+      ]
+    }
+  },
+  {
+    "route": "S-39A",
+    "data": {
+      "routeNo": "S-39A",
+      "from": "Santragachi",
+      "to": "Sealdah",
+      "distance": "13  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Santragachi",
+        "Carry Road",
+        "P T S",
+        "Park Street",
+        "Esplanade",
+        "Moulali",
+        "Sealdah"
+      ]
+    }
+  },
+  {
+    "route": "S-3A",
+    "data": {
+      "routeNo": "S-3A",
+      "from": "Thakurpukur",
+      "to": "Sealdah",
+      "distance": "17  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Thakurpukur",
+        "Behala",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "Fort Willium",
+        "Esplanade",
+        "B B D Bag",
+        "Lalbazar",
+        "Bowbazar",
+        "Goenka College",
+        "Amherst Street",
+        "Sealdah"
+      ]
+    }
+  },
+  {
+    "route": "S-3B",
+    "data": {
+      "routeNo": "S-3B",
+      "from": "Behala",
+      "to": "Kankurgachhi",
+      "distance": "14  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Behala",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "Khidirpur",
+        "Fort Willium",
+        "Babu Ghat",
+        "B B D Bag",
+        "B B Ganguli St",
+        "Sealdah",
+        "Raja Bazar",
+        "Phoolbagan",
+        "Kankurgachhi"
+      ]
+    }
+  },
+  {
+    "route": "S-3W",
+    "data": {
+      "routeNo": "S-3W",
+      "from": "Joka",
+      "to": "Ecospace",
+      "distance": "31  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Joka",
+        "Thakurpukur",
+        "Behala",
+        "Taratala",
+        "Chetla",
+        "Rashbihari More",
+        "Ballygunj",
+        "Ruby More",
+        "Science City",
+        "Chingri Ghata",
+        "Nicco Park",
+        "College More",
+        "New Town (Sector-V)",
+        "Ecospace"
+      ]
+    }
+  },
+  {
+    "route": "S-4",
+    "data": {
+      "routeNo": "S-4",
+      "from": "Saltlake Gate",
+      "to": "Parnasree",
+      "distance": "24  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Saltlake Gate",
+        "Nicco Park",
+        "Pnb",
+        "Hudco",
+        "Science City",
+        "Ruby More",
+        "Gariahat",
+        "R B Avenue",
+        "Tollygunje Phari",
+        "Taratala Xing",
+        "Taratala Depot",
+        "Parnasree"
+      ]
+    }
+  },
+  {
+    "route": "S-42",
+    "data": {
+      "routeNo": "S-42",
+      "from": "Thakurpukur",
+      "to": "Santragachi",
+      "distance": "18  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Thakurpukur",
+        "Behala",
+        "Taratala",
+        "Mominpur",
+        "Khidirpur",
+        "Alipur Zoo",
+        "P T S",
+        "2nd Hooghly Bridge",
+        "Nabanna",
+        "Carry Road",
+        "Santragachi"
+      ]
+    }
+  },
+  {
+    "route": "S-44",
+    "data": {
+      "routeNo": "S-44",
+      "from": "Eco Park",
+      "to": "Nabanna",
+      "distance": "23  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Eco Park",
+        "New Town (Sector-V)",
+        "College More",
+        "Karunamoyee",
+        "Pnb",
+        "Hudco",
+        "Ultadanga",
+        "Khanna",
+        "Manicktala",
+        "Raja Bazar",
+        "Sealdah",
+        "Esplanade",
+        "Rabindra Sadan",
+        "Nabanna"
+      ]
+    }
+  },
+  {
+    "route": "S-45",
+    "data": {
+      "routeNo": "S-45",
+      "from": "Kolkata Station",
+      "to": "Sakuntala Park",
+      "distance": "20  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Kolkata Station",
+        "R. G. Kar Hospital",
+        "Shyambazar",
+        "Khanna",
+        "Manicktala",
+        "Sealdah",
+        "Moulali",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "Khidirpur",
+        "Taratala",
+        "Behala",
+        "Sakuntala Park"
+      ]
+    }
+  },
+  {
+    "route": "S-46",
+    "data": {
+      "routeNo": "S-46",
+      "from": "Akra Rabindra Nagar",
+      "to": "Karunamoyee",
+      "distance": "44  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Akra Rabindra Nagar",
+        "Santoshpur",
+        "Nature'S Park",
+        "Taratala Xing",
+        "Chetla",
+        "R B Avenue",
+        "Gariahat",
+        "Bijan Setu",
+        "Ruby More",
+        "Science City",
+        "Central Park",
+        "Karunamoyee"
+      ]
+    }
+  },
+  {
+    "route": "S-47",
+    "data": {
+      "routeNo": "S-47",
+      "from": "Howrah",
+      "to": "Eden City",
+      "distance": "21  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Howrah",
+        "B B D Bag",
+        "Esplanade",
+        "Fort Willium",
+        "Khidirpur",
+        "Mominpur",
+        "Taratala",
+        "Mollar Gate",
+        "Dakghar",
+        "Eden City"
+      ]
+    }
+  },
+  {
+    "route": "S-47A",
+    "data": {
+      "routeNo": "S-47A",
+      "from": "Howrah",
+      "to": "Behala Airport",
+      "distance": "12  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Howrah",
+        "B B D Bag",
+        "Esplanade",
+        "Fort Willium",
+        "Khidirpur",
+        "Mominpur",
+        "Taratala",
+        "Parnasree",
+        "Behala Airport"
+      ]
+    }
+  },
+  {
+    "route": "S-48",
+    "data": {
+      "routeNo": "S-48",
+      "from": "Airport",
+      "to": "Behala Chowrasta",
+      "distance": "24  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Airport",
+        "Nager Bazar",
+        "Lake Town Js Rd",
+        "Pati Pukur",
+        "Shyambazar",
+        "Grey Street",
+        "Girish Park",
+        "C R Avenue",
+        "Esplanade",
+        "Exide",
+        "Khidirpur",
+        "Taratala",
+        "Behala Tram Depot",
+        "Behala Chowrasta"
+      ]
+    }
+  },
+  {
+    "route": "S-48A",
+    "data": {
+      "routeNo": "S-48A",
+      "from": "B B D Bag",
+      "to": "Behala Chowrasta",
+      "distance": "13  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "B B D Bag",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "Rashbihari More",
+        "Chetla",
+        "New Alipur",
+        "Taratala",
+        "Behala Chowrasta"
+      ]
+    }
+  },
+  {
+    "route": "S-4B",
+    "data": {
+      "routeNo": "S-4B",
+      "from": "Haridevpur",
+      "to": "New Town (Sector-V)",
+      "distance": "19  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Haridevpur",
+        "Behala Karunamoyee",
+        "Ranikuthi",
+        "Sukanta Setu",
+        "Kalikapur",
+        "Ruby More",
+        "Science City",
+        "Chingri Ghata",
+        "Nicco Park",
+        "S D F",
+        "College More",
+        "New Town (Sector-V)"
+      ]
+    }
+  },
+  {
+    "route": "S-4C",
+    "data": {
+      "routeNo": "S-4C",
+      "from": "Haridevpur",
+      "to": "Howrah St",
+      "distance": "12  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Haridevpur",
+        "Karunamoyee Beh",
+        "Tollygaunj Tram Dep",
+        "Hazra",
+        "Park Street",
+        "Esplanade",
+        "Mission Row Xing",
+        "B B D Bag",
+        "Howrah St"
+      ]
+    }
+  },
+  {
+    "route": "S-4D",
+    "data": {
+      "routeNo": "S-4D",
+      "from": "Parnasree",
+      "to": "New Town (Sector-V)",
+      "distance": "22  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Parnasree",
+        "Taratala Depot",
+        "Taratala Xing",
+        "New Alipur",
+        "Tollygunje Phari",
+        "Anwar Shah Road",
+        "Jadavpur Thana",
+        "Kalikapur",
+        "Ruby More",
+        "Science City",
+        "Nicco Park",
+        "College More",
+        "Technopolis",
+        "New Town (Sector-V)"
+      ]
+    }
+  },
+  {
+    "route": "S-5",
+    "data": {
+      "routeNo": "S-5",
+      "from": "Garia",
+      "to": "Howrah",
+      "distance": "19  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Garia",
+        "Baghajatin",
+        "Jadavpur",
+        "Dhakuria",
+        "Golpark",
+        "Southern Avenue",
+        "Deshapriya Park",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S-51",
+    "data": {
+      "routeNo": "S-51",
+      "from": "Eden City",
+      "to": "Garia",
+      "distance": "21  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Eden City",
+        "Dakghar",
+        "Taratala",
+        "Chetla",
+        "Rashbihari More",
+        "Anwar Shah Road",
+        "Southcity",
+        "Jadavpur",
+        "Baghajatin",
+        "Garia"
+      ]
+    }
+  },
+  {
+    "route": "S-53",
+    "data": {
+      "routeNo": "S-53",
+      "from": "Unitech",
+      "to": "Kolkata Station",
+      "distance": "19  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Unitech",
+        "Narkel Bagan",
+        "New Town (Sector-V)",
+        "Technopolis",
+        "College More",
+        "Karunamoyee",
+        "City Centre",
+        "Bidhannagar College",
+        "Ultadanga",
+        "Kankurgachhi",
+        "Manicktala",
+        "Shyambazar",
+        "Kolkata Station"
+      ]
+    }
+  },
+  {
+    "route": "S-5C",
+    "data": {
+      "routeNo": "S-5C",
+      "from": "Nayabad",
+      "to": "Howrah",
+      "distance": "25  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Nayabad",
+        "Kamalgazi",
+        "Peerless",
+        "Santoshpur",
+        "Sukanta Setu",
+        "Jadavpur",
+        "Golpark",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S-7",
+    "data": {
+      "routeNo": "S-7",
+      "from": "Garia",
+      "to": "Howrah",
+      "distance": "17  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Garia",
+        "Naktala",
+        "Ranikuthi",
+        "Tollygunj",
+        "Rashbihari More",
+        "Kalighat",
+        "Hazra",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "B B D Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S-9",
+    "data": {
+      "routeNo": "S-9",
+      "from": "Saltlake",
+      "to": "Jadavpur",
+      "distance": "16  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Saltlake",
+        "City Centre",
+        "Central Park",
+        "Amri",
+        "Chingri Ghata",
+        "Science City",
+        "V I P Bazar",
+        "Ruby More",
+        "Ajaay Nagar",
+        "Jora Bridge",
+        "Santoshpur",
+        "Sukanta Setu",
+        "Sulekha",
+        "Jadavpur"
+      ]
+    }
+  },
+  {
+    "route": "S-91B",
+    "data": {
+      "routeNo": "S-91B",
+      "from": "Kolkata Station",
+      "to": "Rajar Hut",
+      "distance": "17  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kolkata Station",
+        "R. G. Kar Hospital",
+        "Shyambazar",
+        "Khanna",
+        "Ultadanga",
+        "V I P Road",
+        "Airport",
+        "Kaikhali",
+        "Narayanpur Battala",
+        "Rajar Hut"
+      ]
+    }
+  },
+  {
+    "route": "S-9A",
+    "data": {
+      "routeNo": "S-9A",
+      "from": "Dunlop",
+      "to": "Ballygunj Stn",
+      "distance": "20  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Dunlop",
+        "Sinthi More",
+        "Shyambazar",
+        "C R Avenue",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "Hazra",
+        "Kalighat",
+        "Rashbihari More",
+        "Deshapriya Park",
+        "Gariahat",
+        "Ballygunj Stn"
+      ]
+    }
+  },
+  {
+    "route": "S-9C",
+    "data": {
+      "routeNo": "S-9C",
+      "from": "Patuli",
+      "to": "Ecospace",
+      "distance": "19  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Patuli",
+        "Peerless",
+        "Ruby More",
+        "V I P Bazar",
+        "Science City",
+        "Chingri Ghata",
+        "Nicco Park",
+        "College More",
+        "Technopolis",
+        "New Town (Sector-V)",
+        "Narkel Bagan",
+        "Ecospace"
+      ]
+    }
+  }
+]

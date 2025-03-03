@@ -1,0 +1,789 @@
+[
+  {
+    "route": "1",
+    "data": {
+      "routeNo": "1",
+      "from": "Avarampalayam",
+      "to": "Maruthamalai",
+      "distance": "11  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Avarampalayam",
+        "Gandhipuram",
+        "Sukravarpet",
+        "Agri University",
+        "Bharathiar University",
+        "Maruthamalai"
+      ]
+    }
+  },
+  {
+    "route": "101",
+    "data": {
+      "routeNo": "101",
+      "from": "Gandhipuram",
+      "to": "Kumitipathi",
+      "distance": "22  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Gandhipuram",
+        "Kuniamuthur",
+        "Madukkarai",
+        "Thirumalayampalayam",
+        "Kumitipathi"
+      ]
+    }
+  },
+  {
+    "route": "101A",
+    "data": {
+      "routeNo": "101A",
+      "from": "Saibaba Colony",
+      "to": "Rotikavundanur",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Saibaba Colony",
+        "Flower Market",
+        "Ukkadam",
+        "Madukkarai",
+        "Rotikavundanur"
+      ]
+    }
+  },
+  {
+    "route": "102",
+    "data": {
+      "routeNo": "102",
+      "from": "Gandhipuram",
+      "to": "Bettathapuram",
+      "distance": "25  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Gandhipuram",
+        "Thudiyalur",
+        "P.N. Palayam",
+        "Bettathapuram"
+      ]
+    }
+  },
+  {
+    "route": "102A",
+    "data": {
+      "routeNo": "102A",
+      "from": "Gandhipuram",
+      "to": "Karamadai",
+      "distance": "25  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Gandhipuram",
+        "Kavundampalayam",
+        "Thudiyalur",
+        "Nsn Palayam",
+        "P.N. Palayam",
+        "Karamadai"
+      ]
+    }
+  },
+  {
+    "route": "102B",
+    "data": {
+      "routeNo": "102B",
+      "from": "Ukkadam",
+      "to": "Karamadai",
+      "distance": "28  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Ukkadam",
+        "Thudiyalur",
+        "P.N. Palayam",
+        "Karamadai"
+      ]
+    }
+  },
+  {
+    "route": "102C",
+    "data": {
+      "routeNo": "102C",
+      "from": "Gandhipuram",
+      "to": "Cheran Nagar",
+      "distance": "46  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Gandhipuram",
+        "Tudiyalur",
+        "Karamadai",
+        "Cheran Nagar"
+      ]
+    }
+  },
+  {
+    "route": "103",
+    "data": {
+      "routeNo": "103",
+      "from": "Singanallur",
+      "to": "Veerapandipudur",
+      "distance": "20  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Singanallur",
+        "Ramanathapura",
+        "G.H.",
+        "Veerapandipudur"
+      ]
+    }
+  },
+  {
+    "route": "104",
+    "data": {
+      "routeNo": "104",
+      "from": "Ukkadam",
+      "to": "Kuppichipalayam",
+      "distance": "10  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Ukkadam",
+        "Via - Gandhipuram",
+        "Thudiyalur",
+        "P.N.Palayam",
+        "Kuppichipalayam"
+      ]
+    }
+  },
+  {
+    "route": "104A",
+    "data": {
+      "routeNo": "104A",
+      "from": "Ukkadam",
+      "to": "Thevayampalayam",
+      "distance": "10  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Ukkadam",
+        "Gandhipuram",
+        "Thudiyalur",
+        "Thevayampalayam"
+      ]
+    }
+  },
+  {
+    "route": "105",
+    "data": {
+      "routeNo": "105",
+      "from": "Ukkadam",
+      "to": "Kodangipalayam",
+      "distance": "54  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Ukkadam",
+        "Sulur",
+        "Karadivavi",
+        "Kodangipalayam"
+      ]
+    }
+  },
+  {
+    "route": "105A",
+    "data": {
+      "routeNo": "105A",
+      "from": "E.S.I.",
+      "to": "Anupatti",
+      "distance": null,
+      "totalStops": 3,
+      "stops": [
+        "E.S.I.",
+        "Sulur",
+        "Anupatti"
+      ]
+    }
+  },
+  {
+    "route": "105B",
+    "data": {
+      "routeNo": "105B",
+      "from": "Ukkadam",
+      "to": "Kongukadupudur",
+      "distance": "21  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Ukkadam",
+        "Chengathurai",
+        "Kongukadupudur"
+      ]
+    }
+  },
+  {
+    "route": "105C",
+    "data": {
+      "routeNo": "105C",
+      "from": "Gandhipuram",
+      "to": "Kamanaickenpalayam",
+      "distance": "33  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Gandhipuram",
+        "Sulur",
+        "Kamanaickenpalayam"
+      ]
+    }
+  },
+  {
+    "route": "105K",
+    "data": {
+      "routeNo": "105K",
+      "from": "Ukkadam",
+      "to": "Karadivavi",
+      "distance": "26  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Ukkadam",
+        "Ondipudur",
+        "Karadivavi"
+      ]
+    }
+  },
+  {
+    "route": "107",
+    "data": {
+      "routeNo": "107",
+      "from": "Sihs Colony",
+      "to": "Kovaipudur",
+      "distance": "17  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Sihs Colony",
+        "Selvapuram",
+        "Perur",
+        "Kovaipudur"
+      ]
+    }
+  },
+  {
+    "route": "108",
+    "data": {
+      "routeNo": "108",
+      "from": "Ukkadam",
+      "to": "Chinna Kuyili",
+      "distance": "18  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Ukkadam",
+        "Singanallur",
+        "Sulur",
+        "Chinna Kuyili"
+      ]
+    }
+  },
+  {
+    "route": "108A",
+    "data": {
+      "routeNo": "108A",
+      "from": "Gandhipuram",
+      "to": "Periya Kuyili",
+      "distance": "16  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Gandhipuram",
+        "Pappampatti",
+        "Periya Kuyili"
+      ]
+    }
+  },
+  {
+    "route": "109",
+    "data": {
+      "routeNo": "109",
+      "from": "Saibaba Colony",
+      "to": "Ondipudur",
+      "distance": "16  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Saibaba Colony",
+        "Gandhipuram",
+        "Lakshmi Mills",
+        "Peelamedu",
+        "Esi",
+        "Singanallur",
+        "Ondipudur"
+      ]
+    }
+  },
+  {
+    "route": "110A",
+    "data": {
+      "routeNo": "110A",
+      "from": "Saibaba Colony",
+      "to": "Kurumbapalayam",
+      "distance": "38  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Saibaba Colony",
+        "Gandhipuram,",
+        "Madukarai",
+        "Kurumbapalayam"
+      ]
+    }
+  },
+  {
+    "route": "110B",
+    "data": {
+      "routeNo": "110B",
+      "from": "Kurumbapalayam",
+      "to": "Singanallur",
+      "distance": "12  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kurumbapalayam",
+        "Singanallur"
+      ]
+    }
+  },
+  {
+    "route": "111",
+    "data": {
+      "routeNo": "111",
+      "from": "Gandhipuram",
+      "to": "Gandhipuram",
+      "distance": "15  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Gandhipuram",
+        "Via - Thudiyalur",
+        "Saravanampatti"
+      ]
+    }
+  },
+  {
+    "route": "111A",
+    "data": {
+      "routeNo": "111A",
+      "from": "Gandhipuram",
+      "to": "Gandhipuram",
+      "distance": "7  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Gandhipuram",
+        "Vellakinaru,",
+        "Saravanampatti"
+      ]
+    }
+  },
+  {
+    "route": "113",
+    "data": {
+      "routeNo": "113",
+      "from": "Ondipudur",
+      "to": "Keeranatham",
+      "distance": "25  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Ondipudur",
+        "Singanallur",
+        "Esi",
+        "Peelamedu",
+        "Gandhipuram",
+        "Keeranatham"
+      ]
+    }
+  },
+  {
+    "route": "114",
+    "data": {
+      "routeNo": "114",
+      "from": "Edayarpalayam",
+      "to": "Irugur",
+      "distance": "17  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Edayarpalayam",
+        "Kasi Nanje Goundampudur",
+        "Cheran Nagar",
+        "Singanallur",
+        "Irugur"
+      ]
+    }
+  },
+  {
+    "route": "115",
+    "data": {
+      "routeNo": "115",
+      "from": "Gandhipuram",
+      "to": "Gandhipuram",
+      "distance": "10  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Gandhipuram",
+        "Sitra",
+        "Kalapatti"
+      ]
+    }
+  },
+  {
+    "route": "116",
+    "data": {
+      "routeNo": "116",
+      "from": "Gandhipuram",
+      "to": "Gandhipuram",
+      "distance": "7  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Gandhipuram",
+        "Saravanampatti"
+      ]
+    }
+  },
+  {
+    "route": "117",
+    "data": {
+      "routeNo": "117",
+      "from": "Gandhipuram",
+      "to": "Gandhipuram",
+      "distance": "10  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Gandhipuram",
+        "Perur",
+        "Kovai Pudur"
+      ]
+    }
+  },
+  {
+    "route": "118",
+    "data": {
+      "routeNo": "118",
+      "from": "Gandhipuram -",
+      "to": "Gandhipuram",
+      "distance": "19  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Gandhipuram -",
+        "Kuniyamuthur",
+        "Kovaipudur",
+        "Perur",
+        "Gandhipuram"
+      ]
+    }
+  },
+  {
+    "route": "119",
+    "data": {
+      "routeNo": "119",
+      "from": "Maruthamalai",
+      "to": "Chinniampalym",
+      "distance": "46  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Maruthamalai",
+        "Chinniampalym"
+      ]
+    }
+  },
+  {
+    "route": "12D",
+    "data": {
+      "routeNo": "12D",
+      "from": "Gandhipuram",
+      "to": "Nachipalayam",
+      "distance": "18  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Gandhipuram",
+        "Ukkadam",
+        "Sundarapuram",
+        "Sidco",
+        "Eachanari",
+        "Nachipalayam"
+      ]
+    }
+  },
+  {
+    "route": "12E",
+    "data": {
+      "routeNo": "12E",
+      "from": "Town Hall",
+      "to": "Velanthavalam",
+      "distance": "26  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Town Hall",
+        "Ukkadam",
+        "Sundarapuram",
+        "Eachanari",
+        "Velanthavalam"
+      ]
+    }
+  },
+  {
+    "route": "130",
+    "data": {
+      "routeNo": "130",
+      "from": "Gandhipuram Bus Stand",
+      "to": "Ukkadam Bus Stand",
+      "distance": null,
+      "totalStops": 2,
+      "stops": [
+        "Gandhipuram Bus Stand",
+        "Ukkadam Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "13A",
+    "data": {
+      "routeNo": "13A",
+      "from": "Ukkadam",
+      "to": "Kulathur",
+      "distance": "16  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Ukkadam",
+        "Town Hall",
+        "Ramanathapuram",
+        "Singanallur",
+        "E.S.I.",
+        "Kulathur"
+      ]
+    }
+  },
+  {
+    "route": "13C",
+    "data": {
+      "routeNo": "13C",
+      "from": "Cheran Colony",
+      "to": "Ukkadam",
+      "distance": "10  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Cheran Colony",
+        "Gandhipark",
+        "Lawly Road",
+        "Ukkadam"
+      ]
+    }
+  },
+  {
+    "route": "14",
+    "data": {
+      "routeNo": "14",
+      "from": "Gandhipuram",
+      "to": "Nathegoundenpudur",
+      "distance": "22  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Gandhipuram",
+        "Selvapuram",
+        "Perur",
+        "Madampatti",
+        "Alanthurai",
+        "Nathegoundenpudur"
+      ]
+    }
+  },
+  {
+    "route": "14A",
+    "data": {
+      "routeNo": "14A",
+      "from": "Gandhipuram",
+      "to": "Semmedu",
+      "distance": "26  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Gandhipuram",
+        "Selvapuram",
+        "Perur",
+        "Pachapalayam",
+        "Alanthurai",
+        "Eruttupallam",
+        "Semmedu"
+      ]
+    }
+  },
+  {
+    "route": "14B",
+    "data": {
+      "routeNo": "14B",
+      "from": "Railway Station",
+      "to": "Molapalayam",
+      "distance": "58  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Railway Station",
+        "Selvapuram",
+        "Perur",
+        "Pachapalayam",
+        "Alanthurai",
+        "Molapalayam"
+      ]
+    }
+  },
+  {
+    "route": "14C",
+    "data": {
+      "routeNo": "14C",
+      "from": "Gandhipuram",
+      "to": "Sadivayal",
+      "distance": "29  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Gandhipuram",
+        "Selvapuram",
+        "Perur",
+        "Sadivayal"
+      ]
+    }
+  },
+  {
+    "route": "15",
+    "data": {
+      "routeNo": "15",
+      "from": "Kuniamuthur",
+      "to": "Sivananda Mills",
+      "distance": "5  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Kuniamuthur",
+        "Ukkadam",
+        "Gandhipuram",
+        "Ganapathy",
+        "Sivananda Mills"
+      ]
+    }
+  },
+  {
+    "route": "15B/7B",
+    "data": {
+      "routeNo": "15B/7B",
+      "from": "Ukkadam",
+      "to": "Anjugam Nagar",
+      "distance": "3  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Ukkadam",
+        "Gandhipuram",
+        "Anjugam Nagar"
+      ]
+    }
+  },
+  {
+    "route": "16",
+    "data": {
+      "routeNo": "16",
+      "from": "Kovilmedu",
+      "to": "Kalapatti",
+      "distance": "16  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Kovilmedu",
+        "Saibaba Colony",
+        "Gandhipuram",
+        "Lakshmi Mill",
+        "Sitra",
+        "Kalapatti"
+      ]
+    }
+  },
+  {
+    "route": "16A",
+    "data": {
+      "routeNo": "16A",
+      "from": "Velandipalayam",
+      "to": "Airport",
+      "distance": "17  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Velandipalayam",
+        "Saibaba Colony",
+        "Town Hall",
+        "Railway Station",
+        "Peelamedu",
+        "Nehru Nagar",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "16B",
+    "data": {
+      "routeNo": "16B",
+      "from": "Saibaba Colony",
+      "to": "Kalapatti",
+      "distance": "18  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Saibaba Colony",
+        "Flower Market",
+        "Town Hall",
+        "Peelamedu",
+        "Nehru Nagar",
+        "Kalapatti"
+      ]
+    }
+  },
+  {
+    "route": "16C",
+    "data": {
+      "routeNo": "16C",
+      "from": "Telungupalayam",
+      "to": "Kalapatti",
+      "distance": "12  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Telungupalayam",
+        "Kalapatti"
+      ]
+    }
+  },
+  {
+    "route": "18",
+    "data": {
+      "routeNo": "18",
+      "from": "Rathinapuri",
+      "to": "Palathurai",
+      "distance": "16  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rathinapuri",
+        "Gandhipuram",
+        "Ukkadam",
+        "Kuniamuthur",
+        "Madukkarai Market",
+        "Palathurai"
+      ]
+    }
+  },
+  {
+    "route": "19",
+    "data": {
+      "routeNo": "19",
+      "from": "Ukkadam",
+      "to": "Nanjundapuram",
+      "distance": "100  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Ukkadam",
+        "G.H.",
+        "Sungam",
+        "Ramanathapuram",
+        "Nanjundapuram"
+      ]
+    }
+  },
+  {
+    "route": "19A",
+    "data": {
+      "routeNo": "19A",
+      "from": "Saibaba Colony",
+      "to": "Vellalore",
+      "distance": "13  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Saibaba Colony",
+        "North Coimbatore",
+        "Town Hall",
+        "Town",
+        "Podanur",
+        "Vellalore"
+      ]
+    }
+  }
+]
