@@ -1,0 +1,2273 @@
+[
+  {
+    "route": "1",
+    "data": {
+      "routeNo": "1",
+      "from": "",
+      "to": "",
+      "distance": "16  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "State Bank",
+        "Car Street",
+        "Mannagudda",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Stores",
+        "Kavoor",
+        "MCF colony",
+        "Kunjathbail."
+      ]
+    }
+  },
+  {
+    "route": "10A",
+    "data": {
+      "routeNo": "10A",
+      "from": "",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Nagori",
+        "Padil",
+        "Kannurbettu",
+        "Adyar",
+        "Adyar Launch Jetty."
+      ]
+    }
+  },
+  {
+    "route": "10B",
+    "data": {
+      "routeNo": "10B",
+      "from": "",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Balmatta",
+        "Kankanady",
+        "Pumpwell",
+        "Nagori",
+        "Padil",
+        "Kannurbettu",
+        "Adyar",
+        "Adyar Launch Jetty."
+      ]
+    }
+  },
+  {
+    "route": "11A",
+    "data": {
+      "routeNo": "11A",
+      "from": "",
+      "to": "",
+      "distance": "8  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Falnir",
+        "Kankanady",
+        "Nagori",
+        "Garodi",
+        "Padil",
+        "Kannurbettu"
+      ]
+    }
+  },
+  {
+    "route": "11B",
+    "data": {
+      "routeNo": "11B",
+      "from": "",
+      "to": "",
+      "distance": "9  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Falnir",
+        "Kankanady",
+        "Nagori",
+        "Garodi",
+        "Padil",
+        "Jalligudde."
+      ]
+    }
+  },
+  {
+    "route": "12A",
+    "data": {
+      "routeNo": "12A",
+      "from": "",
+      "to": "",
+      "distance": "22  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bunts Hostel",
+        "Mallikatte",
+        "Kadri",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Kudupu",
+        "Vamanjoor",
+        "Gurupura",
+        "Kaikamba",
+        "Addoor",
+        "Polali"
+      ]
+    }
+  },
+  {
+    "route": "12B",
+    "data": {
+      "routeNo": "12B",
+      "from": "",
+      "to": "",
+      "distance": "38  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bunts Hostel",
+        "Mallikatte",
+        "Kadri",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Kudupu",
+        "Vamanjoor",
+        "Gurupura",
+        "Kaikamba",
+        "Addoor",
+        "Polali",
+        "Kolthamajal."
+      ]
+    }
+  },
+  {
+    "route": "13",
+    "data": {
+      "routeNo": "13",
+      "from": "",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "State Bank",
+        "Car Street",
+        "Mannagudda",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Stores"
+      ]
+    }
+  },
+  {
+    "route": "13A",
+    "data": {
+      "routeNo": "13A",
+      "from": "",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Car Street",
+        "Mannagudda",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Stores",
+        "Kottara."
+      ]
+    }
+  },
+  {
+    "route": "13C",
+    "data": {
+      "routeNo": "13C",
+      "from": "",
+      "to": "",
+      "distance": "28  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "Lalbagh",
+        "Ladyhill",
+        "Kuloor",
+        "Kudremukh Housing Colony",
+        "Hudco Colony",
+        "Govt. Womens polytechnic",
+        "Govt. Quarters",
+        "Kavoor",
+        "Bondel"
+      ]
+    }
+  },
+  {
+    "route": "13D",
+    "data": {
+      "routeNo": "13D",
+      "from": "",
+      "to": "",
+      "distance": "28  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "Lalbagh",
+        "Ladyhill",
+        "Kuloor",
+        "Kudremukh Housing Colony",
+        "Hudco Colony",
+        "Govt. Womens polytechnic",
+        "Govt. Quarters",
+        "Kavoor",
+        "Bondel",
+        "Padangady",
+        "Pacchanady Beggari Colony."
+      ]
+    }
+  },
+  {
+    "route": "13E",
+    "data": {
+      "routeNo": "13E",
+      "from": "",
+      "to": "",
+      "distance": "30  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Mangaladevi",
+        "Bendoorwell",
+        "Jyothi",
+        "Lalbagh",
+        "Ladyhill",
+        "Kuloor",
+        "Kudremukh Housing Colony",
+        "Hudco Colony",
+        "Govt. Womens polytechnic",
+        "Govt. Quarters",
+        "Kavoor",
+        "Bondel"
+      ]
+    }
+  },
+  {
+    "route": "14A",
+    "data": {
+      "routeNo": "14A",
+      "from": "",
+      "to": "",
+      "distance": "14  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bendoorwell",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Akashavani",
+        "K.P.T",
+        "Yeyyadi",
+        "Konchadi",
+        "Padangady",
+        "Bondel"
+      ]
+    }
+  },
+  {
+    "route": "14B",
+    "data": {
+      "routeNo": "14B",
+      "from": "",
+      "to": "",
+      "distance": "14  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "State Bank",
+        "Falnir",
+        "Bendoorwell",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Akashavani",
+        "K.P.T",
+        "Yeyyadi",
+        "Konchadi",
+        "Padangady",
+        "Bondel"
+      ]
+    }
+  },
+  {
+    "route": "14C",
+    "data": {
+      "routeNo": "14C",
+      "from": "",
+      "to": "",
+      "distance": "19  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Mangaladevi",
+        "Morgan Gate",
+        "Attavara",
+        "Yemmekere",
+        "Nandigudda",
+        "Kankanady",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Akashavani",
+        "K.P.T",
+        "Yeyyadi",
+        "Konchadi",
+        "Padangady",
+        "Bondel"
+      ]
+    }
+  },
+  {
+    "route": "15",
+    "data": {
+      "routeNo": "15",
+      "from": "",
+      "to": "",
+      "distance": "23  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Mangaladevi",
+        "Morgan Gate",
+        "Nandigudda",
+        "Kankanady",
+        "Mallikatte",
+        "Kadri Market",
+        "Nanthur",
+        "Akashavani",
+        "Bejai",
+        "KSRTC Bus Stand",
+        "Bharat Mall",
+        "Lalbagh",
+        "Ladyhill",
+        "Kuloor",
+        "Baikampady",
+        "Surathkal"
+      ]
+    }
+  },
+  {
+    "route": "15A",
+    "data": {
+      "routeNo": "15A",
+      "from": "",
+      "to": "",
+      "distance": "29  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Mangaladevi",
+        "Morgan Gate",
+        "Nandigudda",
+        "Kankanady",
+        "Mallikatte",
+        "Kadri Market",
+        "Nanthur",
+        "Akashavani",
+        "Bejai",
+        "KSRTC Bus Stand",
+        "Bharat Mall",
+        "Lalbagh",
+        "Ladyhill",
+        "Kuloor",
+        "Baikampady",
+        "Surathkal",
+        "Krishnapur",
+        "Katipalla"
+      ]
+    }
+  },
+  {
+    "route": "15B",
+    "data": {
+      "routeNo": "15B",
+      "from": "",
+      "to": "",
+      "distance": "29  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Mangaladevi",
+        "Morgan Gate",
+        "Nandigudda",
+        "Kankanady",
+        "Mallikatte",
+        "Kadri Market",
+        "Nanthur",
+        "Akashavani",
+        "Bejai",
+        "KSRTC Bus Stand",
+        "Bharat Mall",
+        "Lalbagh",
+        "Ladyhill",
+        "Kuloor",
+        "Baikampady",
+        "Surathkal",
+        "Krishnapur",
+        "Katipalla",
+        "Chelairpadavu."
+      ]
+    }
+  },
+  {
+    "route": "16",
+    "data": {
+      "routeNo": "16",
+      "from": "",
+      "to": "",
+      "distance": "9  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Mission Street",
+        "Azizzudin Road",
+        "Kandathpalli",
+        "Mandi",
+        "Gokarnath Temple",
+        "Kudroli",
+        "Bokkapatna",
+        "Boloor",
+        "Sulthan Battery."
+      ]
+    }
+  },
+  {
+    "route": "16A",
+    "data": {
+      "routeNo": "16A",
+      "from": "",
+      "to": "",
+      "distance": "8  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Car Street",
+        "Alake",
+        "Kudroli",
+        "Bokkapatna",
+        "Boloor",
+        "Sulthan Battery."
+      ]
+    }
+  },
+  {
+    "route": "17",
+    "data": {
+      "routeNo": "17",
+      "from": "",
+      "to": "",
+      "distance": "14  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Kapikad",
+        "Balebail",
+        "Kottara Cross",
+        "Kuntikana",
+        "Konchadi",
+        "Mullakadu",
+        "Kavoor",
+        "Maravoor",
+        "Kunjathbail."
+      ]
+    }
+  },
+  {
+    "route": "17A",
+    "data": {
+      "routeNo": "17A",
+      "from": "",
+      "to": "",
+      "distance": "14  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Kapikad",
+        "Balebail",
+        "Kottara Cross",
+        "Kuntikana",
+        "Konchadi",
+        "Mullakadu",
+        "Kavoor",
+        "Maravoor",
+        "Kunjathbail."
+      ]
+    }
+  },
+  {
+    "route": "17B",
+    "data": {
+      "routeNo": "17B",
+      "from": "",
+      "to": "",
+      "distance": "14  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Kapikad",
+        "Balebail",
+        "Kottara Cross",
+        "Kuntikana",
+        "Konchadi",
+        "Mullakadu",
+        "Kavoor",
+        "Maravoor",
+        "Kunjathbail."
+      ]
+    }
+  },
+  {
+    "route": "18",
+    "data": {
+      "routeNo": "18",
+      "from": "",
+      "to": "",
+      "distance": "6  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "State Bank",
+        "Pandeshwar",
+        "Hoige Bazar",
+        "Bolar",
+        "Jeppu Market",
+        "Morgan Gate"
+      ]
+    }
+  },
+  {
+    "route": "19",
+    "data": {
+      "routeNo": "19",
+      "from": "",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "State Bank",
+        "Hampankatta",
+        "Jyothi",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Bejai",
+        "K.P.T",
+        "Yeyyadi",
+        "Konchadi",
+        "Padavinangadi",
+        "Bondel",
+        "Pacchanady."
+      ]
+    }
+  },
+  {
+    "route": "1B",
+    "data": {
+      "routeNo": "1B",
+      "from": "",
+      "to": "",
+      "distance": "13  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Car Street",
+        "Mannagudda",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Stores",
+        "Kodikal"
+      ]
+    }
+  },
+  {
+    "route": "1C",
+    "data": {
+      "routeNo": "1C",
+      "from": "",
+      "to": "",
+      "distance": "7  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Hampankatta",
+        "Shedigudde",
+        "Lal Bagh",
+        "Lady Hill",
+        "Kodikal Cross",
+        "Kodikal"
+      ]
+    }
+  },
+  {
+    "route": "2",
+    "data": {
+      "routeNo": "2",
+      "from": "",
+      "to": "",
+      "distance": "16  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "State Bank",
+        "Lalbagh",
+        "Ashoknagar",
+        "Baikampady",
+        "Surathkal",
+        "Mukka"
+      ]
+    }
+  },
+  {
+    "route": "21",
+    "data": {
+      "routeNo": "21",
+      "from": "",
+      "to": "",
+      "distance": "27  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bunts Hostel",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Kaikamba",
+        "Neermarga"
+      ]
+    }
+  },
+  {
+    "route": "22",
+    "data": {
+      "routeNo": "22",
+      "from": "",
+      "to": "",
+      "distance": "24  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bunts Hostel",
+        "Mallikatte",
+        "Nanthur",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Vamanjoor",
+        "Gurupura",
+        "Kaikamba",
+        "Bajpe"
+      ]
+    }
+  },
+  {
+    "route": "22A",
+    "data": {
+      "routeNo": "22A",
+      "from": "",
+      "to": "",
+      "distance": "27  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bunts Hostel",
+        "Mallikatte",
+        "Nanthur",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Vamanjoor",
+        "Gurupura",
+        "Kaikamba",
+        "Bajpe",
+        "Bajpe Aerodrome"
+      ]
+    }
+  },
+  {
+    "route": "23",
+    "data": {
+      "routeNo": "23",
+      "from": "",
+      "to": "",
+      "distance": "10  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Balmatta",
+        "Kankanady",
+        "Pumpwell",
+        "Nagori",
+        "Garodi",
+        "Padil",
+        "Faisalnagar."
+      ]
+    }
+  },
+  {
+    "route": "27",
+    "data": {
+      "routeNo": "27",
+      "from": "",
+      "to": "",
+      "distance": "6  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "State Bank",
+        "Attavar",
+        "Nandigudda",
+        "Marnamikatta",
+        "Mangaladevi"
+      ]
+    }
+  },
+  {
+    "route": "27A",
+    "data": {
+      "routeNo": "27A",
+      "from": "",
+      "to": "",
+      "distance": "7  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "State Bank",
+        "Attavar",
+        "Nandigudda",
+        "Marnamikatta",
+        "Mangaladevi",
+        "Mulihitlu."
+      ]
+    }
+  },
+  {
+    "route": "29",
+    "data": {
+      "routeNo": "29",
+      "from": "",
+      "to": "",
+      "distance": "5  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "State Bank",
+        "Pandeshwar",
+        "Yemmekere",
+        "Bolar",
+        "Jeppu Market",
+        "Morgan Gate"
+      ]
+    }
+  },
+  {
+    "route": "2A",
+    "data": {
+      "routeNo": "2A",
+      "from": "",
+      "to": "",
+      "distance": "19  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Lalbagh",
+        "Ashoknagar",
+        "Baikampady",
+        "Surathkal",
+        "Mukka",
+        "Sasihitlu."
+      ]
+    }
+  },
+  {
+    "route": "2B",
+    "data": {
+      "routeNo": "2B",
+      "from": "",
+      "to": "",
+      "distance": "35  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Bengare",
+        "Tannirbavi",
+        "Kulur",
+        "Panamboor",
+        "Jokatta",
+        "Kaana",
+        "Port Temple",
+        "Bajpe"
+      ]
+    }
+  },
+  {
+    "route": "2C",
+    "data": {
+      "routeNo": "2C",
+      "from": "",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "State Bank",
+        "Lalbagh",
+        "Ashoknagar",
+        "Baikampady",
+        "Baikampady Industrial Estate",
+        "Jokatte"
+      ]
+    }
+  },
+  {
+    "route": "2D",
+    "data": {
+      "routeNo": "2D",
+      "from": "",
+      "to": "",
+      "distance": "13  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Lalbagh",
+        "Ashoknagar",
+        "Baikampady",
+        "Baikampady Industrial Estate",
+        "Jokatte",
+        "Parkodi."
+      ]
+    }
+  },
+  {
+    "route": "2E",
+    "data": {
+      "routeNo": "2E",
+      "from": "",
+      "to": "",
+      "distance": "20  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Kankanady",
+        "Jyothi",
+        "Lalbagh",
+        "Ashoknagar",
+        "Baikampady",
+        "Baikampady Industrial Estate",
+        "Jokatte",
+        "Kalavar",
+        "Bajpe"
+      ]
+    }
+  },
+  {
+    "route": "2F",
+    "data": {
+      "routeNo": "2F",
+      "from": "",
+      "to": "",
+      "distance": "20  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Kankanady",
+        "Jyothi",
+        "Lalbagh",
+        "Ashoknagar",
+        "Baikampady",
+        "Baikampady Industrial Estate",
+        "Jokatte",
+        "Kalavar",
+        "Bajpe"
+      ]
+    }
+  },
+  {
+    "route": "3",
+    "data": {
+      "routeNo": "3",
+      "from": "",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Falnir",
+        "Bendoorwell",
+        "Mallikatte",
+        "Kadri",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Kudupu",
+        "Vamanjoor",
+        "Moodushedde"
+      ]
+    }
+  },
+  {
+    "route": "30",
+    "data": {
+      "routeNo": "30",
+      "from": "",
+      "to": "",
+      "distance": "13  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Balmatta",
+        "Kankanady",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Bikkarnakatta",
+        "Maroli",
+        "Padil"
+      ]
+    }
+  },
+  {
+    "route": "30A",
+    "data": {
+      "routeNo": "30A",
+      "from": "",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Balmatta",
+        "Kankanady",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Bikkarnakatta",
+        "Maroli",
+        "Padil",
+        "Kannurbettu",
+        "Adyar"
+      ]
+    }
+  },
+  {
+    "route": "30B",
+    "data": {
+      "routeNo": "30B",
+      "from": "",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Balmatta",
+        "Kankanady",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Bikkarnakatta",
+        "Maroli",
+        "Padil",
+        "Kannurbettu",
+        "Adyar",
+        "Adyar Launch Jetty."
+      ]
+    }
+  },
+  {
+    "route": "31",
+    "data": {
+      "routeNo": "31",
+      "from": "",
+      "to": "",
+      "distance": "10  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "State Bank",
+        "PVS",
+        "Canara College",
+        "Empire Mall",
+        "Ballalbagh",
+        "Mannagudda",
+        "Urva Market",
+        "Shediguri."
+      ]
+    }
+  },
+  {
+    "route": "31A",
+    "data": {
+      "routeNo": "31A",
+      "from": "",
+      "to": "",
+      "distance": "5  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Canara College",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Urva Market",
+        "Ashoknagar"
+      ]
+    }
+  },
+  {
+    "route": "31B",
+    "data": {
+      "routeNo": "31B",
+      "from": "",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "State Bank",
+        "Car Street",
+        "Mannagudda",
+        "Urva Market",
+        "Ashoknagar",
+        "Dombel."
+      ]
+    }
+  },
+  {
+    "route": "33",
+    "data": {
+      "routeNo": "33",
+      "from": "",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Kapikad",
+        "Balebail",
+        "Kottara Cross",
+        "Kuntikana",
+        "Derebail",
+        "Konchadi",
+        "Akashbhavan."
+      ]
+    }
+  },
+  {
+    "route": "37",
+    "data": {
+      "routeNo": "37",
+      "from": "",
+      "to": "",
+      "distance": "13  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Balmatta",
+        "Kankanady",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Bikkarnakatta",
+        "Maroli",
+        "Padil"
+      ]
+    }
+  },
+  {
+    "route": "3A",
+    "data": {
+      "routeNo": "3A",
+      "from": "",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bendoorwell",
+        "Mallikatte",
+        "Kadri",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Kudupu",
+        "Vamanjoor",
+        "Moodushedde"
+      ]
+    }
+  },
+  {
+    "route": "3B",
+    "data": {
+      "routeNo": "3B",
+      "from": "",
+      "to": "",
+      "distance": "13  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Mangaladevi",
+        "Kankanady",
+        "Mallikatte",
+        "Kadri",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Kudupu",
+        "Vamanjoor",
+        "Moodushedde"
+      ]
+    }
+  },
+  {
+    "route": "3C",
+    "data": {
+      "routeNo": "3C",
+      "from": "",
+      "to": "",
+      "distance": "17  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Mangaldevi",
+        "Valencia",
+        "Nantoor",
+        "Kudpu Temple",
+        "Mangala Jyoti",
+        "Moodushedde"
+      ]
+    }
+  },
+  {
+    "route": "3D",
+    "data": {
+      "routeNo": "3D",
+      "from": "",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bunts Hostel",
+        "Kadri",
+        "Vamanjoor",
+        "Ulaibettu."
+      ]
+    }
+  },
+  {
+    "route": "4",
+    "data": {
+      "routeNo": "4",
+      "from": "",
+      "to": "",
+      "distance": "10  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "State Bank",
+        "Falnir",
+        "Kankanady",
+        "Bendoorwell",
+        "Mallikatte",
+        "Kadri",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Kulshekar Chowki."
+      ]
+    }
+  },
+  {
+    "route": "41A",
+    "data": {
+      "routeNo": "41A",
+      "from": "",
+      "to": "",
+      "distance": "20  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Kuloor",
+        "Baikampady",
+        "Surathkal",
+        "Krishnapur",
+        "Katipalla",
+        "Chelairpadavu."
+      ]
+    }
+  },
+  {
+    "route": "42",
+    "data": {
+      "routeNo": "42",
+      "from": "",
+      "to": "",
+      "distance": "36  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Kotekar",
+        "Beeri",
+        "Talapady"
+      ]
+    }
+  },
+  {
+    "route": "43",
+    "data": {
+      "routeNo": "43",
+      "from": "",
+      "to": "",
+      "distance": "40  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Kotekar",
+        "Beeri",
+        "Talapady",
+        "Kinya."
+      ]
+    }
+  },
+  {
+    "route": "44A",
+    "data": {
+      "routeNo": "44A",
+      "from": "",
+      "to": "",
+      "distance": "14  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Ullal",
+        "Someshwar."
+      ]
+    }
+  },
+  {
+    "route": "44B",
+    "data": {
+      "routeNo": "44B",
+      "from": "",
+      "to": "",
+      "distance": "14  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Kotekar",
+        "Eliaradavu."
+      ]
+    }
+  },
+  {
+    "route": "44C",
+    "data": {
+      "routeNo": "44C",
+      "from": "",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Ullal",
+        "Ullal Launch Jetty."
+      ]
+    }
+  },
+  {
+    "route": "44D",
+    "data": {
+      "routeNo": "44D",
+      "from": "",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Ullal",
+        "Kotepura."
+      ]
+    }
+  },
+  {
+    "route": "45",
+    "data": {
+      "routeNo": "45",
+      "from": "",
+      "to": "",
+      "distance": "22  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Krishnapur",
+        "Katipalla"
+      ]
+    }
+  },
+  {
+    "route": "45A",
+    "data": {
+      "routeNo": "45A",
+      "from": "",
+      "to": "",
+      "distance": "25  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Krishnapur",
+        "Katipalla",
+        "Chokkabettu"
+      ]
+    }
+  },
+  {
+    "route": "45B",
+    "data": {
+      "routeNo": "45B",
+      "from": "",
+      "to": "",
+      "distance": "25  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Krishnapur",
+        "Katipalla",
+        "Chokkabettu"
+      ]
+    }
+  },
+  {
+    "route": "45C",
+    "data": {
+      "routeNo": "45C",
+      "from": "",
+      "to": "",
+      "distance": "33  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Krishnapur",
+        "Katipalla",
+        "Mangalpete",
+        "Kaikamba"
+      ]
+    }
+  },
+  {
+    "route": "45D",
+    "data": {
+      "routeNo": "45D",
+      "from": "",
+      "to": "",
+      "distance": "26  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Krishnapur",
+        "Katipalla",
+        "Mangalpete",
+        "MRPL",
+        "Kuthethur."
+      ]
+    }
+  },
+  {
+    "route": "45E",
+    "data": {
+      "routeNo": "45E",
+      "from": "",
+      "to": "",
+      "distance": "23  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Krishnapur",
+        "Katipalla",
+        "Mangalpete",
+        "MRPL",
+        "Kaithakurneri."
+      ]
+    }
+  },
+  {
+    "route": "45F",
+    "data": {
+      "routeNo": "45F",
+      "from": "",
+      "to": "",
+      "distance": "33  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Krishnapur",
+        "Katipalla",
+        "Kaikamba"
+      ]
+    }
+  },
+  {
+    "route": "45G",
+    "data": {
+      "routeNo": "45G",
+      "from": "",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Mason Road",
+        "Janatha Colony."
+      ]
+    }
+  },
+  {
+    "route": "45H",
+    "data": {
+      "routeNo": "45H",
+      "from": "",
+      "to": "",
+      "distance": "22  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Krishnapur",
+        "Katipalla",
+        "Madhyapadavu."
+      ]
+    }
+  },
+  {
+    "route": "47",
+    "data": {
+      "routeNo": "47",
+      "from": "",
+      "to": "",
+      "distance": "15  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Kapikad",
+        "Balebail",
+        "Kottara Cross",
+        "Kuntikana –Kavoor",
+        "Maravoor",
+        "Bajpe"
+      ]
+    }
+  },
+  {
+    "route": "47A",
+    "data": {
+      "routeNo": "47A",
+      "from": "",
+      "to": "",
+      "distance": "15  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Kapikad",
+        "Balebail",
+        "Kottara Cross",
+        "Kuntikana",
+        "Kavoor",
+        "Maravoor",
+        "Bajpe"
+      ]
+    }
+  },
+  {
+    "route": "47B",
+    "data": {
+      "routeNo": "47B",
+      "from": "",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Kapikad",
+        "Balebail",
+        "Kottara Cross",
+        "Kuntikana –",
+        "Kavoor",
+        "Maravoor",
+        "Bajpe",
+        "Bajpe Aerodrome"
+      ]
+    }
+  },
+  {
+    "route": "47c",
+    "data": {
+      "routeNo": "47c",
+      "from": "",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Kapikad",
+        "Balebail",
+        "Kottara Cross",
+        "Kuntikana",
+        "Kavoor",
+        "Maravoor",
+        "Bajpe",
+        "Bajpe Aerodrome",
+        "Bhatrakere",
+        "Kattalsara."
+      ]
+    }
+  },
+  {
+    "route": "48",
+    "data": {
+      "routeNo": "48",
+      "from": "",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bunts Hostel",
+        "Mallikatta",
+        "Kadri",
+        "Nanthur Cross",
+        "K.P.T",
+        "Yeyyadi",
+        "Konchadi",
+        "Bondel",
+        "Kavoor",
+        "Maravoor",
+        "Bajpe"
+      ]
+    }
+  },
+  {
+    "route": "48A",
+    "data": {
+      "routeNo": "48A",
+      "from": "",
+      "to": "",
+      "distance": "20  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "State Bank",
+        "Hampankatta",
+        "Jyothi",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Saibeen Complex",
+        "Bharat Mall",
+        "KSRTC Bus Stand",
+        "Bejai",
+        "Bejai Church",
+        "Yeyyadi",
+        "Konchadi",
+        "Bondel",
+        "Kavoor",
+        "Maravoor",
+        "Bajpe"
+      ]
+    }
+  },
+  {
+    "route": "4A",
+    "data": {
+      "routeNo": "4A",
+      "from": "",
+      "to": "",
+      "distance": "34  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "State Bank",
+        "Falnir",
+        "Kankanady",
+        "Bendoorwell",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Kulshekar",
+        "Kaikamba",
+        "Neermarga",
+        "Merlapadavu."
+      ]
+    }
+  },
+  {
+    "route": "4C",
+    "data": {
+      "routeNo": "4C",
+      "from": "",
+      "to": "",
+      "distance": "30  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Falnir",
+        "Kankanady",
+        "Bendoorwell",
+        "Mallikatte",
+        "Kadri",
+        "Nanthur",
+        "Kulshekar",
+        "Kaikamba",
+        "Neermarga"
+      ]
+    }
+  },
+  {
+    "route": "5",
+    "data": {
+      "routeNo": "5",
+      "from": "",
+      "to": "",
+      "distance": "7  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bendoorwell",
+        "Kankanady",
+        "Nandigudda",
+        "Marnamikatta",
+        "Morgan Gate"
+      ]
+    }
+  },
+  {
+    "route": "51",
+    "data": {
+      "routeNo": "51",
+      "from": "",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Deralakatte",
+        "Mangalore University",
+        "Konaje"
+      ]
+    }
+  },
+  {
+    "route": "51A",
+    "data": {
+      "routeNo": "51A",
+      "from": "",
+      "to": "",
+      "distance": "25  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Deralakatte",
+        "Mangalore University",
+        "Konaje",
+        "Inoli."
+      ]
+    }
+  },
+  {
+    "route": "53",
+    "data": {
+      "routeNo": "53",
+      "from": "",
+      "to": "",
+      "distance": "26  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Store",
+        "Kottara Chowki",
+        "Kuloor",
+        "Panambur",
+        "Surathkal",
+        "Kana",
+        "Krishnapur",
+        "Katipalla",
+        "Soorinje",
+        "Tibar."
+      ]
+    }
+  },
+  {
+    "route": "53A",
+    "data": {
+      "routeNo": "53A",
+      "from": "",
+      "to": "",
+      "distance": "25  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kankanady",
+        "Pumpwell",
+        "Nanthur",
+        "Kadri",
+        "Kuloor",
+        "Surathkal",
+        "Chokkabettu",
+        "Katipalla",
+        "Soorinje",
+        "Tibar."
+      ]
+    }
+  },
+  {
+    "route": "54",
+    "data": {
+      "routeNo": "54",
+      "from": "",
+      "to": "",
+      "distance": "56  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Beeri",
+        "Maddur",
+        "Natekal",
+        "Manjanady",
+        "Thaudugoli."
+      ]
+    }
+  },
+  {
+    "route": "54A",
+    "data": {
+      "routeNo": "54A",
+      "from": "",
+      "to": "",
+      "distance": "19  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Deralakatte",
+        "Natekal",
+        "Manjanady",
+        "Thaudugoli."
+      ]
+    }
+  },
+  {
+    "route": "55",
+    "data": {
+      "routeNo": "55",
+      "from": "",
+      "to": "",
+      "distance": "33  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "State Bank",
+        "Balmatta",
+        "Jyothi",
+        "Kankanady",
+        "Pumpwell",
+        "Thokkottu",
+        "Kuthar",
+        "Deralakatte",
+        "Natekal",
+        "Konaje",
+        "Fajir",
+        "Harekal",
+        "Pavoor."
+      ]
+    }
+  },
+  {
+    "route": "59",
+    "data": {
+      "routeNo": "59",
+      "from": "",
+      "to": "",
+      "distance": "16  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "State Bank",
+        "K.S. Rao Road",
+        "PVS",
+        "Empire Mall",
+        "Ballalbagh",
+        "Lalbagh",
+        "Ladyhill",
+        "Kuloor",
+        "Baikampady",
+        "Chitrapur",
+        "Hosabettu",
+        "Surathkal"
+      ]
+    }
+  },
+  {
+    "route": "60",
+    "data": {
+      "routeNo": "60",
+      "from": "",
+      "to": "",
+      "distance": "8  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Anandanagar",
+        "Nandanapura",
+        "Malemar",
+        "Ladyhill",
+        "Bejai Museum",
+        "Kadri Temple",
+        "Kankanadi",
+        "Valencia",
+        "Gorigudde"
+      ]
+    }
+  },
+  {
+    "route": "61",
+    "data": {
+      "routeNo": "61",
+      "from": "",
+      "to": "",
+      "distance": "13  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Kodikal",
+        "Kodikal Cross",
+        "Lady Hill",
+        "Bejai Museum",
+        "Kadri Temple",
+        "pumpwell",
+        "Padeel",
+        "Kankanadi"
+      ]
+    }
+  },
+  {
+    "route": "62A",
+    "data": {
+      "routeNo": "62A",
+      "from": "",
+      "to": "",
+      "distance": "37  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Padil Railway Station",
+        "K.P.T",
+        "Bondel",
+        "Kavoor",
+        "Kulur",
+        "Kaikamba",
+        "Kaatipalla"
+      ]
+    }
+  },
+  {
+    "route": "64",
+    "data": {
+      "routeNo": "64",
+      "from": "",
+      "to": "",
+      "distance": "38  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Moodushedde",
+        "Vamanjuru",
+        "Kudpu Temple",
+        "Govt. Dairy Bikarnakatte",
+        "Nantoor",
+        "K.P.T. Yeyyady",
+        "Maryhill",
+        "Bondel",
+        "Kavoor",
+        "Kulur",
+        "Panamboor",
+        "Chitrapur Temple",
+        "Hosabettu",
+        "Suratkal Chokkabettu",
+        "Kaatipalla",
+        "Mangalapete",
+        "Kuthethoor"
+      ]
+    }
+  },
+  {
+    "route": "6A",
+    "data": {
+      "routeNo": "6A",
+      "from": "",
+      "to": "",
+      "distance": "8  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bendoorwell",
+        "Mallikatte",
+        "Kadri",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Shaktinagar."
+      ]
+    }
+  },
+  {
+    "route": "6C",
+    "data": {
+      "routeNo": "6C",
+      "from": "",
+      "to": "",
+      "distance": "7  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Bunts Hostel",
+        "Mallikatte",
+        "Kadri",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Shaktinagar."
+      ]
+    }
+  },
+  {
+    "route": "6D",
+    "data": {
+      "routeNo": "6D",
+      "from": "",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "State Bank",
+        "Falnir",
+        "Kankanady",
+        "Bendoorwell",
+        "Mallikatte",
+        "Kadri",
+        "Bikkarnakatta",
+        "Kulshekar",
+        "Shaktinagar."
+      ]
+    }
+  },
+  {
+    "route": "7",
+    "data": {
+      "routeNo": "7",
+      "from": "",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "State Bank",
+        "Car Street",
+        "Alake",
+        "Mannagudda",
+        "Ladyhill",
+        "Chilimbi",
+        "Urva Stores"
+      ]
+    }
+  },
+  {
+    "route": "9A",
+    "data": {
+      "routeNo": "9A",
+      "from": "",
+      "to": "",
+      "distance": "14  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "State Bank",
+        "Pandeshwar",
+        "Jeppu",
+        "Morgan Gate",
+        "Jeppupatna",
+        "Ekkur",
+        "Mugeru",
+        "Bajal",
+        "Bajal Pakkaladka",
+        "J.M. Road."
+      ]
+    }
+  },
+  {
+    "route": "9B",
+    "data": {
+      "routeNo": "9B",
+      "from": "",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "State Bank",
+        "Jyothi",
+        "Pumpwell",
+        "Ekkur",
+        "Mugeru",
+        "Bajal",
+        "Bajal Pakkaladka",
+        "J.M. Road."
+      ]
+    }
+  }
+]

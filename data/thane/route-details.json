@@ -1,0 +1,1315 @@
+[
+  {
+    "route": "10",
+    "data": {
+      "routeNo": "10",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "4  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Hari Niwas",
+        "Makhmali Talao",
+        "St Workshop",
+        "Khopat",
+        "Cadbury Junction",
+        "Vartak Nagar",
+        "Shivai Nagar",
+        "Upavan Lake"
+      ]
+    }
+  },
+  {
+    "route": "100",
+    "data": {
+      "routeNo": "100",
+      "from": "Kalwa Depot",
+      "to": "",
+      "distance": "5  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Kalwa Bridge",
+        "Rto",
+        "Jambhli Naka",
+        "Thane Rly Stn (W)",
+        "Malhar Cinema",
+        "Teen Haath Naka",
+        "Mulund Check Naka",
+        "Passport Office"
+      ]
+    }
+  },
+  {
+    "route": "102",
+    "data": {
+      "routeNo": "102",
+      "from": "Mulund Rly Stn (W)",
+      "to": "Lokmanya Nagar",
+      "distance": "3  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Mulund Kamgar Hospital",
+        "Mulund Check Naka",
+        "Passport Office",
+        "Kamgar Hospital",
+        "Yashodhan Nagar"
+      ]
+    }
+  },
+  {
+    "route": "103",
+    "data": {
+      "routeNo": "103",
+      "from": "Mulund Rly Stn (W)",
+      "to": "",
+      "distance": "6  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Mulund Kamgar Hospital",
+        "Mulund Check Naka",
+        "Passport Office",
+        "J.B.Sawant Company",
+        "Sathe Nagar"
+      ]
+    }
+  },
+  {
+    "route": "104",
+    "data": {
+      "routeNo": "104",
+      "from": "Mulund Rly Stn (W)",
+      "to": "",
+      "distance": "9  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Mulund Kamgar Hospital",
+        "Mulund Check Naka",
+        "Passport Office",
+        "Wagle Circle",
+        "Ram Nagar"
+      ]
+    }
+  },
+  {
+    "route": "109",
+    "data": {
+      "routeNo": "109",
+      "from": "",
+      "to": "",
+      "distance": "7  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Gawanpada",
+        "Mulund Rly Stn (E)",
+        "Eastern Express Highway Check Naka",
+        "Teen Haath Naka",
+        "Nitin Company",
+        "Cadbury Junction",
+        "Vartak Nagar",
+        "Shivai Nagar",
+        "Devdaya Nagar"
+      ]
+    }
+  },
+  {
+    "route": "11",
+    "data": {
+      "routeNo": "11",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "4  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Hari Niwas",
+        "Makhmali Talao",
+        "St Workshop",
+        "Khopat",
+        "Pratap Cinema",
+        "Naralipada",
+        "Oswal Park",
+        "Gandhi Nagar",
+        "Neelkanth Terminal"
+      ]
+    }
+  },
+  {
+    "route": "111",
+    "data": {
+      "routeNo": "111",
+      "from": "",
+      "to": "",
+      "distance": "10  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Kopri Bridge",
+        "Malhar Cinema",
+        "Teen Haath Naka",
+        "Mulund Check Naka",
+        "Passport Office",
+        "Wagle Circle",
+        "Ram Nagar"
+      ]
+    }
+  },
+  {
+    "route": "112",
+    "data": {
+      "routeNo": "112",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "1  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Golden Dyes Junction"
+      ]
+    }
+  },
+  {
+    "route": "115",
+    "data": {
+      "routeNo": "115",
+      "from": "Mulund Rly Stn (W)",
+      "to": "",
+      "distance": "6  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Dumping Road",
+        "Mulund Check Naka",
+        "Passport Office",
+        "Kamgar Hospital",
+        "Indira Nagar",
+        "Lokmanya Nagar",
+        "Yashodhan Nagar",
+        "Kores Company,",
+        "Runwal Complex"
+      ]
+    }
+  },
+  {
+    "route": "12",
+    "data": {
+      "routeNo": "12",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "3  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Oswal Park",
+        "Gandhi Nagar",
+        "Vasant Vihar"
+      ]
+    }
+  },
+  {
+    "route": "120",
+    "data": {
+      "routeNo": "120",
+      "from": "",
+      "to": "Vrindavan Society",
+      "distance": "5  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Gawanpada",
+        "Mulund Rly Stn (W)",
+        "Mulund Kamgar Hospital",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Hari Niwas",
+        "Makhmali Talao",
+        "St Workshop",
+        "Castle Mill"
+      ]
+    }
+  },
+  {
+    "route": "121",
+    "data": {
+      "routeNo": "121",
+      "from": "",
+      "to": "",
+      "distance": "9  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Gawanpada",
+        "Mulund Rly Stn (W)",
+        "Mulund Kamgar Hospital",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Nitin Company",
+        "Cadbury Junction",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada",
+        "Azad Nagar"
+      ]
+    }
+  },
+  {
+    "route": "13",
+    "data": {
+      "routeNo": "13",
+      "from": "Thane Rly Stn (W)",
+      "to": "Kalwa Depot",
+      "distance": "1  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Jambhli Naka",
+        "Rto",
+        "Kalwa Bridge"
+      ]
+    }
+  },
+  {
+    "route": "14",
+    "data": {
+      "routeNo": "14",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "2  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Teen Haath Naka",
+        "Nitin Company",
+        "Cadbury Junction",
+        "Vartak Nagar"
+      ]
+    }
+  },
+  {
+    "route": "15",
+    "data": {
+      "routeNo": "15",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "2  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Jambhli Naka",
+        "Rto",
+        "Kalwa Bridge",
+        "Kalwa Depot",
+        "Vitava"
+      ]
+    }
+  },
+  {
+    "route": "16",
+    "data": {
+      "routeNo": "16",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "4  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Jambhli Naka",
+        "Ambedkar Road",
+        "Khopat",
+        "Cadbury Junction",
+        "Vartak Nagar",
+        "Shivai Nagar",
+        "Yeoor Village"
+      ]
+    }
+  },
+  {
+    "route": "17",
+    "data": {
+      "routeNo": "17",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "1  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Jambhli Naka",
+        "Ambedkar Road",
+        "Khopat",
+        "Cadbury Junction"
+      ]
+    }
+  },
+  {
+    "route": "20",
+    "data": {
+      "routeNo": "20",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "1  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Hari Niwas",
+        "Gurukul Society",
+        "Nitin Company",
+        "Louiswadi"
+      ]
+    }
+  },
+  {
+    "route": "23",
+    "data": {
+      "routeNo": "23",
+      "from": "Lokmanya Nagar",
+      "to": "Vrindavan Society",
+      "distance": "7  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Yashodhan Nagar",
+        "Kamgar Hospital",
+        "Passport Office",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Hari Niwas",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill"
+      ]
+    }
+  },
+  {
+    "route": "24",
+    "data": {
+      "routeNo": "24",
+      "from": "Lokmanya Nagar",
+      "to": "Rutu Park",
+      "distance": "8  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Yashodhan Nagar",
+        "Kamgar Hospital",
+        "Passport Office",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Hari Niwas",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill",
+        "Vrindavan Society"
+      ]
+    }
+  },
+  {
+    "route": "26",
+    "data": {
+      "routeNo": "26",
+      "from": "Lokmanya Nagar",
+      "to": "Majiwada",
+      "distance": "8  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Yashodhan Nagar",
+        "Kamgar Hospital",
+        "Passport Office",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Hari Niwas",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka"
+      ]
+    }
+  },
+  {
+    "route": "27",
+    "data": {
+      "routeNo": "27",
+      "from": "Thane Rly Stn (W)",
+      "to": "Majiwada",
+      "distance": "2  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka"
+      ]
+    }
+  },
+  {
+    "route": "30",
+    "data": {
+      "routeNo": "30",
+      "from": "",
+      "to": "",
+      "distance": "6  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Mukand Company",
+        "Vitava",
+        "Kalwa Depot",
+        "Kalwa Bridge",
+        "Rto",
+        "Jambhli Naka",
+        "Thane Rly Stn (W)",
+        "Kopri Bridge",
+        "Bara Bunglow",
+        "Prem Nagar"
+      ]
+    }
+  },
+  {
+    "route": "31",
+    "data": {
+      "routeNo": "31",
+      "from": "Vrindavan Society",
+      "to": "",
+      "distance": "4  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Castle Mill",
+        "Jambhli Naka",
+        "Thane Rly Stn (W)",
+        "Kopri Bridge",
+        "Bara Bunglow",
+        "Prem Nagar"
+      ]
+    }
+  },
+  {
+    "route": "35",
+    "data": {
+      "routeNo": "35",
+      "from": "",
+      "to": "Lokmanya Nagar",
+      "distance": "8  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Kharegaon Naka",
+        "Kalwa Bridge",
+        "Rto",
+        "Jambhli Naka",
+        "Thane Rly Stn (W)",
+        "Hari Niwas",
+        "Almeda Road",
+        "Nitin Company",
+        "Cadbury Junction",
+        "Vartak Nagar",
+        "Kores Company",
+        "Yashodhan Nagar"
+      ]
+    }
+  },
+  {
+    "route": "36",
+    "data": {
+      "routeNo": "36",
+      "from": "",
+      "to": "Lokmanya Nagar",
+      "distance": "7  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kharegaon Naka",
+        "Kalwa Bridge",
+        "Rto",
+        "Jambhli Naka",
+        "Thane Rly Stn (W)",
+        "Hari Niwas",
+        "Almeda Rd",
+        "Nitin Company",
+        "Kamgar Hospital",
+        "Indira Nagar"
+      ]
+    }
+  },
+  {
+    "route": "37",
+    "data": {
+      "routeNo": "37",
+      "from": "",
+      "to": "",
+      "distance": "5  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Jambhli Naka",
+        "Ambedkar Road",
+        "Khopat",
+        "Cadbury Junction",
+        "Vartak Nagar",
+        "Kores Company",
+        "Runwal Complex"
+      ]
+    }
+  },
+  {
+    "route": "38",
+    "data": {
+      "routeNo": "38",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "1  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Gadkari Rangayatan",
+        "Jambhli Naka",
+        "Rto",
+        "Kalwa Bridge"
+      ]
+    }
+  },
+  {
+    "route": "39",
+    "data": {
+      "routeNo": "39",
+      "from": "Thane Rly Stn (W)",
+      "to": "Parsik Nagar",
+      "distance": "2  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Jambhli Naka",
+        "Rto",
+        "Kalwa Bridge",
+        "Kharegaon Naka"
+      ]
+    }
+  },
+  {
+    "route": "40",
+    "data": {
+      "routeNo": "40",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "2  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Jambhli Naka",
+        "Rto",
+        "Kalwa Bridge",
+        "Kharegaon Naka"
+      ]
+    }
+  },
+  {
+    "route": "41",
+    "data": {
+      "routeNo": "41",
+      "from": "Parsik Nagar",
+      "to": "",
+      "distance": "7  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kharegaon Naka",
+        "Kalwa Bridge",
+        "Rto",
+        "Jambhli Naka",
+        "Thane Rly Stn (W)",
+        "Malhar Cinema",
+        "Teen Haath Naka",
+        "Mulund Check Naka",
+        "Passport Office",
+        "Wagle Circle"
+      ]
+    }
+  },
+  {
+    "route": "43",
+    "data": {
+      "routeNo": "43",
+      "from": "",
+      "to": "",
+      "distance": "7  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Kharegaon Naka",
+        "Kalwa Bridge",
+        "Rto",
+        "Jambhli Naka",
+        "Thane Rly Stn (W)",
+        "Malhar Cinema",
+        "Teen Haath Naka",
+        "Mulund Check Naka",
+        "Passport Office"
+      ]
+    }
+  },
+  {
+    "route": "46",
+    "data": {
+      "routeNo": "46",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "1  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Jambhli Naka",
+        "Rto",
+        "Kalwa Bridge",
+        "Rabodi"
+      ]
+    }
+  },
+  {
+    "route": "47",
+    "data": {
+      "routeNo": "47",
+      "from": "Thane Rly Stn (W)",
+      "to": "Shruti Park",
+      "distance": "3  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Hari Niwas",
+        "Makhmali Talao",
+        "St Workshop",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi"
+      ]
+    }
+  },
+  {
+    "route": "50",
+    "data": {
+      "routeNo": "50",
+      "from": "Thane Rly Stn (W)",
+      "to": "Gaymukh",
+      "distance": "9  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka",
+        "Kasarvadavli Naka",
+        "Owala"
+      ]
+    }
+  },
+  {
+    "route": "51",
+    "data": {
+      "routeNo": "51",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "6  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka"
+      ]
+    }
+  },
+  {
+    "route": "52",
+    "data": {
+      "routeNo": "52",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "5  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada"
+      ]
+    }
+  },
+  {
+    "route": "53",
+    "data": {
+      "routeNo": "53",
+      "from": "",
+      "to": "Owala",
+      "distance": "13  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Indira Nagar",
+        "Kamgar Hospital",
+        "Nitin Company",
+        "Hari Niwas",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill",
+        "Vrindavan Society",
+        "Rutu Park",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka",
+        "Kasarvadavli"
+      ]
+    }
+  },
+  {
+    "route": "54",
+    "data": {
+      "routeNo": "54",
+      "from": "Thane Rly Stn (W)",
+      "to": "Kasarvadavli",
+      "distance": "8  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka",
+        "Kasarvadavli Naka"
+      ]
+    }
+  },
+  {
+    "route": "55",
+    "data": {
+      "routeNo": "55",
+      "from": "Thane Rly Stn (W)",
+      "to": "Azad Nagar",
+      "distance": "4  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada"
+      ]
+    }
+  },
+  {
+    "route": "56",
+    "data": {
+      "routeNo": "56",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "5  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Hari Niwas",
+        "Makhmali Talao",
+        "St Workshop",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada",
+        "Khevra Circle"
+      ]
+    }
+  },
+  {
+    "route": "57",
+    "data": {
+      "routeNo": "57",
+      "from": "",
+      "to": "",
+      "distance": "22  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Kopri Bridge",
+        "Teen Haath Naka",
+        "Nitin Company",
+        "Cadbury Junction",
+        "Majiwada",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka",
+        "Kasarvadavli",
+        "Owala",
+        "Gaimukh",
+        "Kajupada",
+        "Fountain Hotel",
+        "Kashimira",
+        "Silver Park"
+      ]
+    }
+  },
+  {
+    "route": "58",
+    "data": {
+      "routeNo": "58",
+      "from": "Lokmanya Nagar",
+      "to": "",
+      "distance": "26  K.M.",
+      "totalStops": 21,
+      "stops": [
+        "Yashodhan Nagar",
+        "Kamgar Hospital",
+        "Passport Office",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Hari Niwas",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka",
+        "Kasarvadavli",
+        "Owala",
+        "Gaimukh",
+        "Kajupada",
+        "Fountain Hotel",
+        "Kashimira",
+        "Silver Park"
+      ]
+    }
+  },
+  {
+    "route": "59",
+    "data": {
+      "routeNo": "59",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "3  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Oswal Park",
+        "Gandhi Nagar",
+        "Vasant Vihar"
+      ]
+    }
+  },
+  {
+    "route": "6",
+    "data": {
+      "routeNo": "6",
+      "from": "",
+      "to": "Vrindavan Society",
+      "distance": "5  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Indira Nagar",
+        "Kamgar Hospital",
+        "Nitin Company",
+        "Hari Niwas",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill"
+      ]
+    }
+  },
+  {
+    "route": "60",
+    "data": {
+      "routeNo": "60",
+      "from": "",
+      "to": "",
+      "distance": "24  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Indira Nagar",
+        "Kamgar Hospital",
+        "Nitin Company",
+        "Hari Niwas",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka",
+        "Kasarvadavli",
+        "Owala",
+        "Gaimukh",
+        "Kajupada",
+        "Fountain Hotel",
+        "Kashimira",
+        "Silver Park"
+      ]
+    }
+  },
+  {
+    "route": "62",
+    "data": {
+      "routeNo": "62",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "5  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada",
+        "Kapurbawdi",
+        "Manpada",
+        "Azad Nagar"
+      ]
+    }
+  },
+  {
+    "route": "70",
+    "data": {
+      "routeNo": "70",
+      "from": "",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Kalwa Bridge",
+        "Kharegaon Naka",
+        "Parsik Nagar",
+        "Reti Bunder",
+        "Mumbra Rly Stn",
+        "Bharat Gears Co",
+        "Kalyan Phata"
+      ]
+    }
+  },
+  {
+    "route": "75",
+    "data": {
+      "routeNo": "75",
+      "from": "",
+      "to": "",
+      "distance": "29  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Bharat Gears Co",
+        "Mumbra Rly Stn",
+        "Reti Bunder",
+        "Parsik Nagar",
+        "Kharegaon Naka",
+        "Kalwa Bridge",
+        "Rto",
+        "Castle Mill",
+        "Majiwada",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka",
+        "Kasarvadavli",
+        "Owala",
+        "Gaimukh",
+        "Kajupada",
+        "Fountain Hotel",
+        "Kashimira",
+        "Silver Park"
+      ]
+    }
+  },
+  {
+    "route": "8",
+    "data": {
+      "routeNo": "8",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "3  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Naupada Station Road",
+        "Teen Haath Naka",
+        "Nitin Company",
+        "Cadbury Junction",
+        "Vartak Nagar"
+      ]
+    }
+  },
+  {
+    "route": "82",
+    "data": {
+      "routeNo": "82",
+      "from": "Lokmanya Nagar",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Yashodhan Nagar",
+        "Kamgar Hospital",
+        "Passport Office",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Hari Niwas",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada"
+      ]
+    }
+  },
+  {
+    "route": "85",
+    "data": {
+      "routeNo": "85",
+      "from": "Mulund Rly Stn (W)",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Mulund Kamgar Hospital",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Nitin Company",
+        "Cadbury Junction",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Balkum",
+        "Poorna"
+      ]
+    }
+  },
+  {
+    "route": "87",
+    "data": {
+      "routeNo": "87",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "15  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Jambhli Naka",
+        "Rto",
+        "Kalwa Bridge",
+        "Kharegaon Naka",
+        "Parsik Nagar",
+        "Reti Bunder",
+        "Bhiwandi Bypass Toll Naka",
+        "Mankoli",
+        "Anjur Village"
+      ]
+    }
+  },
+  {
+    "route": "9",
+    "data": {
+      "routeNo": "9",
+      "from": "Thane Rly Stn (W)",
+      "to": "Shivai Nagar",
+      "distance": "2  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Jambhli Naka",
+        "Ambedkar Road",
+        "Khopat",
+        "Cadbury Junction",
+        "Vartak Nagar"
+      ]
+    }
+  },
+  {
+    "route": "90",
+    "data": {
+      "routeNo": "90",
+      "from": "Lokmanya Nagar",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Indira Nagar",
+        "Kamgar Hospital",
+        "Passport Office",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Malhar Cinema",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Balkum",
+        "Bayer Company",
+        "Air Force Stn"
+      ]
+    }
+  },
+  {
+    "route": "91",
+    "data": {
+      "routeNo": "91",
+      "from": "",
+      "to": "",
+      "distance": "8  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Passport Office",
+        "Mulund Check Naka",
+        "Teen Haath Naka",
+        "Malhar Cinema",
+        "Thane Rly Stn (W)",
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Balkum"
+      ]
+    }
+  },
+  {
+    "route": "93",
+    "data": {
+      "routeNo": "93",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "4  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Jambhli Naka",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Balkum"
+      ]
+    }
+  },
+  {
+    "route": "95",
+    "data": {
+      "routeNo": "95",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "6  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Hari Niwas",
+        "Makhmali Talao",
+        "St Workshop",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Dhokali",
+        "Air Force Stn"
+      ]
+    }
+  },
+  {
+    "route": "96",
+    "data": {
+      "routeNo": "96",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "4  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Hari Niwas",
+        "Makhmali Talao",
+        "St Workshop",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Shruti Park",
+        "Dhokali"
+      ]
+    }
+  },
+  {
+    "route": "98",
+    "data": {
+      "routeNo": "98",
+      "from": "Thane Rly Stn (W)",
+      "to": "",
+      "distance": "6  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Jambhli Naka",
+        "Charai",
+        "Makhmali Talao",
+        "St Workshop",
+        "Castle Mill",
+        "Majiwada Naka",
+        "Kapurbawdi",
+        "Dhokali",
+        "Air Force Stn"
+      ]
+    }
+  },
+  {
+    "route": "AC-125",
+    "data": {
+      "routeNo": "AC-125",
+      "from": "Kasarvadavli",
+      "to": "Andheri Rly Stn (E)",
+      "distance": "32  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Kasarvadavli",
+        "Waghbil Naka",
+        "Patlipada",
+        "Manpada",
+        "Kapurbawdi",
+        "Majiwada",
+        "Cadbury Junction",
+        "Nitin Company",
+        "Teen Hath Naka",
+        "Mulund Check Naka",
+        "Bhandup Pumping Centre",
+        "Powai",
+        "Seepz",
+        "Chakala",
+        "Andheri Rly Stn (E)"
+      ]
+    }
+  },
+  {
+    "route": "AC-58",
+    "data": {
+      "routeNo": "AC-58",
+      "from": "Thane Rly Stn (W)",
+      "to": "Mira Road Station",
+      "distance": "24  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Thane Rly Stn (W)",
+        "Gaondevi",
+        "Naupada",
+        "Teen Hath Naka",
+        "Nitin Company",
+        "Cadbury Junction",
+        "Majiwada",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka",
+        "Kasarwadavli",
+        "Owala",
+        "Gaymukh",
+        "Kajupada",
+        "Fountain Hotel",
+        "Kashimira",
+        "Silver Park",
+        "Mira Road Station"
+      ]
+    }
+  },
+  {
+    "route": "AC-65",
+    "data": {
+      "routeNo": "AC-65",
+      "from": "",
+      "to": "Borivali Rly Stn (E)",
+      "distance": "27  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Thane Rly Stn (E)",
+        "Kopri Bridge",
+        "Teen Haath Naka",
+        "Nitin Company",
+        "Cadbury Junction",
+        "Majiwada",
+        "Kapurbawdi",
+        "Manpada",
+        "Patlipada",
+        "Waghbil Naka",
+        "Kasarvadavli",
+        "Owala",
+        "Gaymukh",
+        "Kajupada",
+        "Fountain Hotel",
+        "Kashimira",
+        "Dahisar Check Naka",
+        "National Park",
+        "Borivali Rly Stn (E)"
+      ]
+    }
+  }
+]

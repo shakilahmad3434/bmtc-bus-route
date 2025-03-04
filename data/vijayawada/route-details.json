@@ -1,0 +1,1499 @@
+[
+  {
+    "route": "1",
+    "data": {
+      "routeNo": "1",
+      "from": "Ibrahimpatnam",
+      "to": "Poranki",
+      "distance": "24  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Ibrahimpatnam",
+        "Swathi Bus Stop",
+        "Kummari Palem",
+        "KR Market Bus Stop",
+        "Railway Stn",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Kamayyathoppu Centre Bus Stop",
+        "Poranki"
+      ]
+    }
+  },
+  {
+    "route": "10",
+    "data": {
+      "routeNo": "10",
+      "from": "Railway Station",
+      "to": "Penamaluru",
+      "distance": "12  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Railway Stn",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Kanur",
+        "Poranki",
+        "Penamaluru"
+      ]
+    }
+  },
+  {
+    "route": "10 C",
+    "data": {
+      "routeNo": "10 C",
+      "from": "Railway Station",
+      "to": "Chodavaram",
+      "distance": "11  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Railway Stn",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Kanur",
+        "Poranki",
+        "Chodavaram"
+      ]
+    }
+  },
+  {
+    "route": "11",
+    "data": {
+      "routeNo": "11",
+      "from": "Milk Project",
+      "to": "",
+      "distance": "17  K.M.",
+      "totalStops": 29,
+      "stops": [
+        "Milk Project",
+        "KR Market Bus Stop",
+        "Tummalapalli Kalkshetram",
+        "Bus Stand",
+        "Old Bus Stand",
+        "Challapalli Bungalow Bus Stop",
+        "Lenine Center",
+        "Besent Road",
+        "Rama Mandiram",
+        "Vijayatalkies",
+        "Kothavantena",
+        "Sitarampuram Bus Stop",
+        "Chuttugunta Bus Stop",
+        "Maruthi Nagar Bus Stop",
+        "SRR Bus Stop",
+        "Machavaram Anjaneya Swamy Temple Bus Stop",
+        "Machavaram Down Bus Stop",
+        "Padavalarevu",
+        "Gunadala Church",
+        "Gunadala Center Bus Stop",
+        "Gunadala Vanthena Bus Stop",
+        "ESI Bus Stop",
+        "APGENCO , Vidyut Soudha, Vijayawada",
+        "Ring Road Bus Stop",
+        "Ramavarappadu Bus station",
+        "Ramesh Hospital Stop",
+        "Benz Circle",
+        "Patamata",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "116",
+    "data": {
+      "routeNo": "116",
+      "from": "Kaleswararao Market",
+      "to": "Gannavaram Centre Bus Stop",
+      "distance": "21  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "KR Market Bus Stop",
+        "Ramavarappadu Bus Stop",
+        "Nidamanuru Center Bus Stop",
+        "Gannavaram Centre Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "11H",
+    "data": {
+      "routeNo": "11H",
+      "from": "Kabela",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 29,
+      "stops": [
+        "Kabela",
+        "KR Market Bus Stop",
+        "Tummalapalli Kalkshetram",
+        "Bus Stand",
+        "Old Bus Stand",
+        "Challapalli Bungalow Bus Stop",
+        "Lenine Center",
+        "Besent Road",
+        "Rama Mandiram",
+        "Vijayatalkies",
+        "Kothavantena",
+        "Sitarampuram Bus Stop",
+        "Chuttugunta Bus Stop",
+        "Maruthi Nagar Bus Stop",
+        "SRR Bus Stop",
+        "Machavaram Anjaneya Swamy Temple Bus Stop",
+        "Machavaram Down Bus Stop",
+        "Padavalarevu",
+        "Gunadala Church",
+        "Gunadala Center Bus Stop",
+        "Gunadala Vanthena Bus Stop",
+        "ESI Bus Stop",
+        "APGENCO , Vidyut Soudha, Vijayawada",
+        "Ring Road Bus Stop",
+        "Ramavarappadu Bus station",
+        "Ramesh Hospital Stop",
+        "Benz Circle",
+        "Patamata",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "121",
+    "data": {
+      "routeNo": "121",
+      "from": "",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Railway Stn",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Kamayyathoppu Centre Bus Stop",
+        "Poranki",
+        "Madduru"
+      ]
+    }
+  },
+  {
+    "route": "122",
+    "data": {
+      "routeNo": "122",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": "19  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Kamayyathoppu Centre Bus Stop",
+        "Poranki",
+        "Madduru"
+      ]
+    }
+  },
+  {
+    "route": "123",
+    "data": {
+      "routeNo": "123",
+      "from": "Shabadh",
+      "to": "Kankipadu Bus Station",
+      "distance": "15  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Shabadh",
+        "Benz Circle",
+        "Kankipadu Bus Station"
+      ]
+    }
+  },
+  {
+    "route": "14 E",
+    "data": {
+      "routeNo": "14 E",
+      "from": "",
+      "to": "Satyanarayanapuram Colony",
+      "distance": "11  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Elaprolu",
+        "Satyanarayanapuram Colony"
+      ]
+    }
+  },
+  {
+    "route": "14 S",
+    "data": {
+      "routeNo": "14 S",
+      "from": "Wagon Workshop Colony",
+      "to": "Madhura Nagar",
+      "distance": "12  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Wagon Workshop Colony",
+        "Madhura Nagar"
+      ]
+    }
+  },
+  {
+    "route": "140",
+    "data": {
+      "routeNo": "140",
+      "from": "",
+      "to": "Uppaluru Bust Stop",
+      "distance": "17  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Vrsec",
+        "Uppaluru Bust Stop"
+      ]
+    }
+  },
+  {
+    "route": "141",
+    "data": {
+      "routeNo": "141",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": "19  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "KR Market Bus Stop",
+        "Railway Stn",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Vrsec",
+        "Uppaluru Bust Stop"
+      ]
+    }
+  },
+  {
+    "route": "144",
+    "data": {
+      "routeNo": "144",
+      "from": "Kondapalli",
+      "to": "",
+      "distance": "20  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Kondapalli",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Benz Circle",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "145",
+    "data": {
+      "routeNo": "145",
+      "from": "Kondapalli",
+      "to": "Nidamanuru Center Bus Stop",
+      "distance": "26  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kondapalli",
+        "Pnbs",
+        "Eluru Road",
+        "Nidamanuru Center Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "150",
+    "data": {
+      "routeNo": "150",
+      "from": "Kondapalli",
+      "to": "Kankipadu (Metro)",
+      "distance": "33  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Kondapali",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Benz Circle",
+        "Vrsec",
+        "Kankipadu Bus Station"
+      ]
+    }
+  },
+  {
+    "route": "152",
+    "data": {
+      "routeNo": "152",
+      "from": "",
+      "to": "Kavuluru Bus Stop",
+      "distance": "12  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Railway Stn",
+        "Kavuluru Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "154",
+    "data": {
+      "routeNo": "154",
+      "from": "Kaleswararao Market",
+      "to": "Kankipadu (Metro)",
+      "distance": "18  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "KR Market Bus Stop",
+        "Post Office Bus stop",
+        "Kankipadu Bus Station"
+      ]
+    }
+  },
+  {
+    "route": "188",
+    "data": {
+      "routeNo": "188",
+      "from": "Kondapalli",
+      "to": "",
+      "distance": "32  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Kondapalli",
+        "Eluru Road",
+        "Gannavaram Centre Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "1G",
+    "data": {
+      "routeNo": "1G",
+      "from": "",
+      "to": "Kankipadu Bus Station",
+      "distance": "22  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kummari Palem",
+        "Bhavani Puram",
+        "Railway Stn",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Kanur",
+        "Poranki",
+        "Kankipadu Bus Station"
+      ]
+    }
+  },
+  {
+    "route": "2",
+    "data": {
+      "routeNo": "2",
+      "from": "Kaleswararao Market",
+      "to": "Ramavarrapadu",
+      "distance": "8  K.M.",
+      "totalStops": 24,
+      "stops": [
+        "KR Market Bus Stop",
+        "Tummalapalli Kalkshetram",
+        "Bus Stand",
+        "Old Bus Stand",
+        "Challapalli Bungalow Bus Stop",
+        "Lenine Center",
+        "Besent Road",
+        "Rama Mandiram",
+        "Vijayatalkies",
+        "Kothavantena",
+        "Sitarampuram Bus Stop",
+        "Chuttugunta Bus Stop",
+        "Maruthi Nagar Bus Stop",
+        "SRR Bus Stop",
+        "Machavaram Anjaneya Swamy Temple Bus Stop",
+        "Machavaram Down Bus Stop",
+        "Padavalarevu",
+        "Gunadala Church",
+        "Gunadala Center Bus Stop",
+        "Gunadala Vanthena Bus Stop",
+        "ESI Bus Stop",
+        "APGENCO , Vidyut Soudha, Vijayawada",
+        "Ring Road Bus Stop",
+        "Ramavarappadu Bus station"
+      ]
+    }
+  },
+  {
+    "route": "20",
+    "data": {
+      "routeNo": "20",
+      "from": "",
+      "to": "Mangalagiri",
+      "distance": "13  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Madhuranagar",
+        "Mangalagiri"
+      ]
+    }
+  },
+  {
+    "route": "201",
+    "data": {
+      "routeNo": "201",
+      "from": "Kaleswararao Market",
+      "to": "Orugalla",
+      "distance": "61  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Orugalla"
+      ]
+    }
+  },
+  {
+    "route": "201 T",
+    "data": {
+      "routeNo": "201 T",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": "31  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Telprolu"
+      ]
+    }
+  },
+  {
+    "route": "203 C",
+    "data": {
+      "routeNo": "203 C",
+      "from": "Kaleswararao Market",
+      "to": "Podduturu",
+      "distance": "3  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Podduturu"
+      ]
+    }
+  },
+  {
+    "route": "203 K",
+    "data": {
+      "routeNo": "203 K",
+      "from": "Kaleswararao Market",
+      "to": "Konduru",
+      "distance": "18  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Konduru"
+      ]
+    }
+  },
+  {
+    "route": "203 T",
+    "data": {
+      "routeNo": "203 T",
+      "from": "Kaleswararao Market",
+      "to": "Ttenneru",
+      "distance": "3  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Ttenneru"
+      ]
+    }
+  },
+  {
+    "route": "208",
+    "data": {
+      "routeNo": "208",
+      "from": "Kaleswararao Market",
+      "to": "Agirapalli",
+      "distance": "25  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Agirapalli"
+      ]
+    }
+  },
+  {
+    "route": "209",
+    "data": {
+      "routeNo": "209",
+      "from": "Kaleswararao Market",
+      "to": "Valluru Palem",
+      "distance": "24  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Valluru Palem"
+      ]
+    }
+  },
+  {
+    "route": "209 A",
+    "data": {
+      "routeNo": "209 A",
+      "from": "Kaleswararao Market",
+      "to": "Royyuru",
+      "distance": "19  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Royyuru"
+      ]
+    }
+  },
+  {
+    "route": "209 T",
+    "data": {
+      "routeNo": "209 T",
+      "from": "Kaleswararao Market",
+      "to": "Thotlavalluru",
+      "distance": "27  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Thotlavalluru"
+      ]
+    }
+  },
+  {
+    "route": "211",
+    "data": {
+      "routeNo": "211",
+      "from": "Kaleswararao Market",
+      "to": "Kollvenu",
+      "distance": "21  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Kollvenu"
+      ]
+    }
+  },
+  {
+    "route": "212",
+    "data": {
+      "routeNo": "212",
+      "from": "Kaleswararao Market",
+      "to": "Chikkavaram",
+      "distance": "3  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Chikkavaram"
+      ]
+    }
+  },
+  {
+    "route": "212 M",
+    "data": {
+      "routeNo": "212 M",
+      "from": "Kaleswararao Market",
+      "to": "Mudiraju Palem",
+      "distance": "3  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Mudiraju Palem"
+      ]
+    }
+  },
+  {
+    "route": "212 P",
+    "data": {
+      "routeNo": "212 P",
+      "from": "Kaleswararao Market",
+      "to": "Gannavaram (Via P Patnam)",
+      "distance": "20  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Gannavaram (Via P Patnam)"
+      ]
+    }
+  },
+  {
+    "route": "212 S",
+    "data": {
+      "routeNo": "212 S",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": "20  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Gannavaram (Via S.Gudem)"
+      ]
+    }
+  },
+  {
+    "route": "215 S",
+    "data": {
+      "routeNo": "215 S",
+      "from": "Railway Station",
+      "to": "Nutakki",
+      "distance": "11  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Railway Station",
+        "Nutakki"
+      ]
+    }
+  },
+  {
+    "route": "218 M",
+    "data": {
+      "routeNo": "218 M",
+      "from": "Busstand",
+      "to": "Mailavaram",
+      "distance": "27  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Busstand",
+        "Mailavaram"
+      ]
+    }
+  },
+  {
+    "route": "220",
+    "data": {
+      "routeNo": "220",
+      "from": "Kaleswararao Market",
+      "to": "Tennaru",
+      "distance": "3  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Tennaru"
+      ]
+    }
+  },
+  {
+    "route": "222",
+    "data": {
+      "routeNo": "222",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": "29  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Vuyyuru"
+      ]
+    }
+  },
+  {
+    "route": "223 M",
+    "data": {
+      "routeNo": "223 M",
+      "from": "Kaleswararao Market",
+      "to": "Manikonda",
+      "distance": "9  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Manikonda"
+      ]
+    }
+  },
+  {
+    "route": "226",
+    "data": {
+      "routeNo": "226",
+      "from": "Busstand",
+      "to": "Chiravuru",
+      "distance": "10  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Busstand",
+        "Chiravuru"
+      ]
+    }
+  },
+  {
+    "route": "23",
+    "data": {
+      "routeNo": "23",
+      "from": "Kaleswararao Market",
+      "to": "Penamaluru",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Kanur",
+        "Poranki",
+        "Penamaluru"
+      ]
+    }
+  },
+  {
+    "route": "23 K",
+    "data": {
+      "routeNo": "23 K",
+      "from": "Kaleswararao Market",
+      "to": "Kesaraneni Vari Palem",
+      "distance": "18  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Kanur",
+        "Poranki",
+        "Kesaraneni Vari Palem"
+      ]
+    }
+  },
+  {
+    "route": "239",
+    "data": {
+      "routeNo": "239",
+      "from": "Kaleswararao Market",
+      "to": "Kanasanepalli",
+      "distance": "3  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Kanasanepalli"
+      ]
+    }
+  },
+  {
+    "route": "241",
+    "data": {
+      "routeNo": "241",
+      "from": "Kankipadu Bus Station",
+      "to": "Gannavaram Centre Bus Stop",
+      "distance": null,
+      "totalStops": 2,
+      "stops": [
+        "Kankipadu,",
+        "Gannavaram Centre Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "248",
+    "data": {
+      "routeNo": "248",
+      "from": "Agirapalli",
+      "to": "Kankipadu (Metro)",
+      "distance": "25  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Agirapalli",
+        "Post Office Bus stop",
+        "Kankipadu (Metro)"
+      ]
+    }
+  },
+  {
+    "route": "250 V",
+    "data": {
+      "routeNo": "250 V",
+      "from": "Kaleswararao Market",
+      "to": "Vemanda",
+      "distance": "17  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Poranki",
+        "Vemanda"
+      ]
+    }
+  },
+  {
+    "route": "252",
+    "data": {
+      "routeNo": "252",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": "41  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Ramavarappadu Bus Stop",
+        "Gannavaram Centre Bus Stop",
+        "Hanuman Junction"
+      ]
+    }
+  },
+  {
+    "route": "252 B",
+    "data": {
+      "routeNo": "252 B",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": "42  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Post Office Bus stop",
+        "Benz Circle",
+        "Ramavarappadu Bus Stop",
+        "Gannavaram Centre Bus Stop",
+        "Hanuman Junction"
+      ]
+    }
+  },
+  {
+    "route": "257",
+    "data": {
+      "routeNo": "257",
+      "from": "Railway Station",
+      "to": "",
+      "distance": "4  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Railway Stn",
+        "Pwd Ground",
+        "Post Office Bus stop",
+        "Peda Ogirala"
+      ]
+    }
+  },
+  {
+    "route": "26 H",
+    "data": {
+      "routeNo": "26 H",
+      "from": "Hb Colony",
+      "to": "Auto Nagar Bus Stand",
+      "distance": "10  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Hb Colony",
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "266",
+    "data": {
+      "routeNo": "266",
+      "from": "Vijayawada",
+      "to": "",
+      "distance": "25  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Vijayawada",
+        "Kanchika Charla"
+      ]
+    }
+  },
+  {
+    "route": "28 B",
+    "data": {
+      "routeNo": "28 B",
+      "from": "Panja",
+      "to": "",
+      "distance": "24  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Panja",
+        "Railway Stn",
+        "Bunglow",
+        "Pwd Grounds",
+        "Benz Circle",
+        "Ramesh Hospital Stop",
+        "Vinayak Theatre",
+        "Ntr Health Univ",
+        "Ramavarappadu Bus Stop",
+        "Maruthi Nagar",
+        "Vijaya Talkies",
+        "Railway Stn",
+        "Panja"
+      ]
+    }
+  },
+  {
+    "route": "28 E",
+    "data": {
+      "routeNo": "28 E",
+      "from": "Panja",
+      "to": "",
+      "distance": "18  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Panja",
+        "Railway Stn",
+        "Vijaya Talkies",
+        "Maruthi Nagar",
+        "Ramavarappadu Bus Stop",
+        "Vinayak Theatre",
+        "Ramesh Hospital Stop",
+        "Benz Circle",
+        "Pwd Grounds",
+        "Railway Stn",
+        "Panja"
+      ]
+    }
+  },
+  {
+    "route": "29",
+    "data": {
+      "routeNo": "29",
+      "from": "Kaleswararao Market",
+      "to": "Auto Nagar Bus Stand",
+      "distance": "6  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "2K",
+    "data": {
+      "routeNo": "2K",
+      "from": "Kaleswararao Market",
+      "to": "Kanuru",
+      "distance": "8  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Kanuru"
+      ]
+    }
+  },
+  {
+    "route": "3",
+    "data": {
+      "routeNo": "3",
+      "from": "Kabela",
+      "to": "Government Press",
+      "distance": "242  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Kabela",
+        "Government Press"
+      ]
+    }
+  },
+  {
+    "route": "305 M",
+    "data": {
+      "routeNo": "305 M",
+      "from": "Vijayawada",
+      "to": "Veerulapadu",
+      "distance": "57  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Vijayawada",
+        "Moghuluru",
+        "Veerulapadu"
+      ]
+    }
+  },
+  {
+    "route": "308",
+    "data": {
+      "routeNo": "308",
+      "from": "Vijayawada",
+      "to": "",
+      "distance": "40  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Vijayawada",
+        "Nunna",
+        "Chinoutpalli",
+        "Nuzividu"
+      ]
+    }
+  },
+  {
+    "route": "309",
+    "data": {
+      "routeNo": "309",
+      "from": "",
+      "to": "Jamalapuram",
+      "distance": "56  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Ibrahimpatam",
+        "Vijayawada",
+        "Jamalapuram"
+      ]
+    }
+  },
+  {
+    "route": "309 R",
+    "data": {
+      "routeNo": "309 R",
+      "from": "",
+      "to": "Vijayawada",
+      "distance": "95  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Ibrahimpatam",
+        "Kanchikacharla",
+        "Jamalapuram",
+        "Milavaram",
+        "Vijayawada"
+      ]
+    }
+  },
+  {
+    "route": "31",
+    "data": {
+      "routeNo": "31",
+      "from": "Milk Project",
+      "to": "Auto Nagar Bus Stand",
+      "distance": "10  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Milk Project",
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Old Bus Stand",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "31 A",
+    "data": {
+      "routeNo": "31 A",
+      "from": "Milk Project",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Milk Project",
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Old Bus Stand",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Auto Nagar Bus Stand",
+        "Kamayyathoppu Centre Bus Stop",
+        "Tadigadapa"
+      ]
+    }
+  },
+  {
+    "route": "31 H",
+    "data": {
+      "routeNo": "31 H",
+      "from": "Hb Colony",
+      "to": "Auto Nagar Bus Stand",
+      "distance": "10  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Hb Colony",
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Old Bus Stand",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "333",
+    "data": {
+      "routeNo": "333",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": null,
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Pamarru"
+      ]
+    }
+  },
+  {
+    "route": "350",
+    "data": {
+      "routeNo": "350",
+      "from": "Vijayawada",
+      "to": "",
+      "distance": null,
+      "totalStops": 2,
+      "stops": [
+        "Vijayawada",
+        "Milavaram"
+      ]
+    }
+  },
+  {
+    "route": "3D",
+    "data": {
+      "routeNo": "3D",
+      "from": "Milk Project",
+      "to": "Devi Nagar",
+      "distance": "3  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Milk Project",
+        "Devi Nagar"
+      ]
+    }
+  },
+  {
+    "route": "41 V",
+    "data": {
+      "routeNo": "41 V",
+      "from": "Vombay Colony",
+      "to": "Auto Nagar Bus Stand",
+      "distance": "5  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Vombay Colony",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "47 H",
+    "data": {
+      "routeNo": "47 H",
+      "from": "Railway Station",
+      "to": "Chinna Kakani",
+      "distance": "23  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Railway Station",
+        "Pnbs",
+        "Varadhi",
+        "Manipal Hospital",
+        "Mangalagiri",
+        "Chinna Kakani"
+      ]
+    }
+  },
+  {
+    "route": "47 N",
+    "data": {
+      "routeNo": "47 N",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": "14  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Varadhi",
+        "Manipal Hospital",
+        "Mangalagiri",
+        "Nri Hospital"
+      ]
+    }
+  },
+  {
+    "route": "47 V",
+    "data": {
+      "routeNo": "47 V",
+      "from": "Railway Station",
+      "to": "Mangalagiri",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Railway Station",
+        "Pnbs",
+        "Varadhi",
+        "Manipal Hospital",
+        "Mangalagiri"
+      ]
+    }
+  },
+  {
+    "route": "48 K",
+    "data": {
+      "routeNo": "48 K",
+      "from": "Nsb Nagar",
+      "to": "Auto Nagar",
+      "distance": "2  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Nsb Nagar",
+        "Auto Nagar"
+      ]
+    }
+  },
+  {
+    "route": "48 N",
+    "data": {
+      "routeNo": "48 N",
+      "from": "Auto Nagar Bus Stand",
+      "to": "Nunna",
+      "distance": "7  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Auto Nagar Bus Stand",
+        "Post Office Bus stop",
+        "Nunna"
+      ]
+    }
+  },
+  {
+    "route": "49",
+    "data": {
+      "routeNo": "49",
+      "from": "Kaleswararao Market",
+      "to": "Nunna",
+      "distance": "5  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Nunna"
+      ]
+    }
+  },
+  {
+    "route": "49 M",
+    "data": {
+      "routeNo": "49 M",
+      "from": "Kaleswararao Market",
+      "to": "Managalapuram",
+      "distance": null,
+      "totalStops": 2,
+      "stops": [
+        "Kaleswararao Market",
+        "Managalapuram"
+      ]
+    }
+  },
+  {
+    "route": "49 P",
+    "data": {
+      "routeNo": "49 P",
+      "from": "Kaleswararao Market",
+      "to": "Kunda Vari Kandrika",
+      "distance": "7  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Kunda Vari Kandrika"
+      ]
+    }
+  },
+  {
+    "route": "5",
+    "data": {
+      "routeNo": "5",
+      "from": "Kabela",
+      "to": "Auto Nagar Bus Stand",
+      "distance": "16  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Kabela",
+        "KR Market Bus Stop",
+        "Tummalapalli Kalkshetram",
+        "Bus Stand",
+        "Old Bus Stand",
+        "Nakkal Road",
+        "Besent Road",
+        "Pushpa Hotel",
+        "Ramesh Hospital Stop",
+        "Benz Circle",
+        "Patamata",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "5 SG",
+    "data": {
+      "routeNo": "5 SG",
+      "from": "Railway Station",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Railway Station",
+        "Old Bus Stand",
+        "Nakkal Road",
+        "Besent Road",
+        "Pushpa Hotel",
+        "Ramesh Hospital Stop",
+        "Gurunanak Colony",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "54",
+    "data": {
+      "routeNo": "54",
+      "from": "Railway Station",
+      "to": "Auto Nagar Bus Stand",
+      "distance": "12  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Railway Stn",
+        "Vijaya Talkies",
+        "Maruthi Nagar",
+        "Ramavarappadu Bus Stop",
+        "Vinayak Theatre",
+        "Ramesh Hospital Stop",
+        "Benz Circle",
+        "Patamata",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "55",
+    "data": {
+      "routeNo": "55",
+      "from": "Kaleswararao Market",
+      "to": "Kanuru",
+      "distance": "11  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Pwd Grounds",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Terminal",
+        "Kamayyathoppu Centre Bus Stop",
+        "Kanuru"
+      ]
+    }
+  },
+  {
+    "route": "5G",
+    "data": {
+      "routeNo": "5G",
+      "from": "Kaleswararao Market",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "KR Market Bus Stop",
+        "Tummalapalli Kalkshetram",
+        "Bus Stand",
+        "Old Bus Stand",
+        "Nakkal Road",
+        "Besent Road",
+        "Pushpa Hotel",
+        "Ramesh Hospital Stop",
+        "Gurunanak Colony",
+        "Auto Nagar Bus Stand"
+      ]
+    }
+  },
+  {
+    "route": "77",
+    "data": {
+      "routeNo": "77",
+      "from": "Kaleswararao Market",
+      "to": "Ramavarrapadu",
+      "distance": "7  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kaleswararao Market",
+        "Pnbs",
+        "Eluru Road",
+        "Ramavarrapadu"
+      ]
+    }
+  },
+  {
+    "route": "7A",
+    "data": {
+      "routeNo": "7A",
+      "from": "Kaleswararao Market",
+      "to": "Pedda Puli Paka",
+      "distance": "9  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Kaleswararao Market",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Pedda Puli Paka"
+      ]
+    }
+  },
+  {
+    "route": "7R",
+    "data": {
+      "routeNo": "7R",
+      "from": "Milk Project",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Milk Project",
+        "KR Market Bus Stop",
+        "Pnbs",
+        "Old Bus Stand",
+        "Bandar Locks Bus Stop",
+        "Igmc Stadium",
+        "Benz Circle",
+        "Patamata",
+        "Autonagar Gate",
+        "Yanamala Kuduru"
+      ]
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "route": "AYALI CHOWK TO GILL",
+    "data": {
+      "routeNo": "AYALI CHOWK TO GILL",
+      "from": "Ayali Chowk",
+      "to": "",
+      "distance": "16  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Ayali Chowk",
+        "Mbd Mall",
+        "J-Block",
+        "Aggar Nagar",
+        "Verka Milk Plant",
+        "P.A.U",
+        "New Court Complex",
+        "Bharat Nagar Chowk",
+        "Bus Stand",
+        "Gill Chowk",
+        "I.T.I",
+        "G.N.E College"
+      ]
+    }
+  },
+  {
+    "route": "BUS STAND TO GURUDWARA  MANJII SAHIB (ALAMGIR)",
+    "data": {
+      "routeNo": "BUS STAND TO GURUDWARA  MANJII SAHIB (ALAMGIR)",
+      "from": "Bus Stand",
+      "to": "",
+      "distance": "11  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Bus Stand",
+        "Bus Stand",
+        "Gill Chowk",
+        "Arora Palace",
+        "I.T.I",
+        "Gill Village",
+        "Gurudwara Manjii Sahib (Alamgir)"
+      ]
+    }
+  },
+  {
+    "route": "KOHARA  TO AYALI  KHURD",
+    "data": {
+      "routeNo": "KOHARA  TO AYALI  KHURD",
+      "from": "",
+      "to": "Ayali  Khurd",
+      "distance": "29  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Kohara",
+        "Jandali",
+        "Uchii Mangli",
+        "Choti Mundian",
+        "Veer Palace",
+        "Jamalpur Police Colony",
+        "Samrala Chowk",
+        "Transport Nagar",
+        "Oswal Hospital",
+        "Partap Chowk",
+        "Gill Chowk",
+        "Bus Stand",
+        "Bharat Nagar Chowk",
+        "Fountain Chowk",
+        "Dandi Swami Chowk",
+        "Dmc Hospital",
+        "Kali Mata Mandir",
+        "Partap Singh Wala.",
+        "Ayali  Khurd"
+      ]
+    }
+  },
+  {
+    "route": "METRO TO GREEN CITY",
+    "data": {
+      "routeNo": "METRO TO GREEN CITY",
+      "from": "Metro",
+      "to": "Green City",
+      "distance": "53  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Metro",
+        "Jassian Chowk",
+        "Jalandhar Bye Pass",
+        "Chavni Mohalla",
+        "Clock Tower",
+        "Railway Station",
+        "Bharat Nagar Chowk",
+        "Bus Stand. Aroma Market",
+        "Dugri",
+        "Green City"
+      ]
+    }
+  },
+  {
+    "route": "SAHNEWAL TO MEHARBAN",
+    "data": {
+      "routeNo": "SAHNEWAL TO MEHARBAN",
+      "from": "Sahnewal",
+      "to": "",
+      "distance": "24  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Sahnewal",
+        "Sahnewal",
+        "Jugiana",
+        "Dhandari",
+        "Giaspura Chowk",
+        "Dholewal Chowk",
+        "Vishkarma Chowk",
+        "Clock Tower",
+        "Jalandhar Bypass",
+        "Dana Mandii Chowk",
+        "Shivpuri Chowk",
+        "Basti Jodewal",
+        "Guru Vihar",
+        "Meharban."
+      ]
+    }
+  }
+]

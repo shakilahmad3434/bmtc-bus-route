@@ -1,0 +1,463 @@
+[
+  {
+    "route": "1",
+    "data": {
+      "routeNo": "1",
+      "from": "Todi",
+      "to": "Badi-Chopar",
+      "distance": "18  K.M.",
+      "totalStops": 24,
+      "stops": [
+        "Todi",
+        "Harmada",
+        "Nindar Mod",
+        "Jodla",
+        "Road No 14 Vki",
+        "Road No 12 Vki",
+        "Road No 9 Vki",
+        "Road No 8 Vki",
+        "Road No 5 Vki",
+        "Road No 1 Vki",
+        "Murlipura School",
+        "Khetan Hospital",
+        "Dher K Balaji",
+        "Bhavani Niketan College",
+        "Chomu Pulia",
+        "Amba Bari",
+        "Pani Pench",
+        "T.B. Hospital, Jaipur",
+        "Pital Factory",
+        "Pareek College",
+        "Mayank Takij",
+        "Chandpole",
+        "Choti - Chopar",
+        "Badi-Chopar"
+      ]
+    }
+  },
+  {
+    "route": "10",
+    "data": {
+      "routeNo": "10",
+      "from": "Galta Gate",
+      "to": "Galta Gate",
+      "distance": "19  K.M.",
+      "totalStops": 25,
+      "stops": [
+        "Galta Gate",
+        "Transport Nagar (Tp)",
+        "Satsai College",
+        "Mama Ki Hotel",
+        "Puliya No. 1",
+        "Panchwati Circle",
+        "Lbs College",
+        "Jda Circle",
+        "Rambhag Circle",
+        "High-Court Circle",
+        "Shankar Bhawan",
+        "Nandpuri – Sodala",
+        "Sodala",
+        "Esi Dispensary – Hasanpura",
+        "Hasanpura",
+        "Jaipur Club",
+        "Railway Station Jaiipur (Jaipur Junction )",
+        "Polo Victory",
+        "Sindhi Camp",
+        "Chandpole",
+        "Choti-Chopar",
+        "Badi-Chopar",
+        "Ramganj",
+        "Surajpole",
+        "Galta Gate"
+      ]
+    }
+  },
+  {
+    "route": "12",
+    "data": {
+      "routeNo": "12",
+      "from": "Badi Chopad",
+      "to": "Badi Chopad",
+      "distance": "26  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Badi Chopad",
+        "Sanganeri Gate",
+        "Ghatgate",
+        "Tp Nagar",
+        "Kho-Nagoria",
+        "Rto",
+        "Motuka Phatak",
+        "Jagatpura Rob",
+        "Jhalana",
+        "Gandhi Nagar Mode",
+        "Rambhag",
+        "Ajmeri Gate",
+        "Sanganeri Gate",
+        "Badi Chopad"
+      ]
+    }
+  },
+  {
+    "route": "1A",
+    "data": {
+      "routeNo": "1A",
+      "from": "Vki (Road No. 17)",
+      "to": "Badi Chopar",
+      "distance": "12  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Vki (Road No. 17)",
+        "Chomu Pulia",
+        "Amba Badi",
+        "Pani Pej",
+        "Pittal Factory",
+        "Chandpoul",
+        "Choti Chopar",
+        "Badi Chopar"
+      ]
+    }
+  },
+  {
+    "route": "2",
+    "data": {
+      "routeNo": "2",
+      "from": "Bankrota",
+      "to": "Chandpole",
+      "distance": "14  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Bankrota",
+        "Kesupura",
+        "Kamla Nehru Nagar",
+        "Power House",
+        "Hirapura Bypass",
+        "Dcm",
+        "Kings Road",
+        "Purani Chungi",
+        "Shyam Nagar",
+        "New Sanganer Mod",
+        "Sodala",
+        "Esi Dispensary",
+        "Majdoor Nagar",
+        "Civil Line Chauraha",
+        "Hathroi",
+        "Shalimar",
+        "Polo Victory",
+        "Gpo",
+        "Sindhi Camp",
+        "Chandpole"
+      ]
+    }
+  },
+    {
+      "route": "1",
+      "data": {
+        "routeNo": "1",
+        "from": "Todi",
+        "to": "Badi-Chopar",
+        "distance": "18  K.M.",
+        "totalStops": 24,
+        "stops": [
+          "Todi",
+          "Harmada",
+          "Nindar Mod",
+          "Jodla",
+          "Road No 14 Vki",
+          "Road No 12 Vki",
+          "Road No 9 Vki",
+          "Road No 8 Vki",
+          "Road No 5 Vki",
+          "Road No 1 Vki",
+          "Murlipura School",
+          "Khetan Hospital",
+          "Dher K Balaji",
+          "Bhavani Niketan College",
+          "Chomu Pulia",
+          "Amba Bari",
+          "Pani Pench",
+          "T.B. Hospital, Jaipur",
+          "Pital Factory",
+          "Pareek College",
+          "Mayank Takij",
+          "Chandpole",
+          "Choti - Chopar",
+          "Badi-Chopar"
+        ]
+      }
+    },
+    {
+      "route": "10",
+      "data": {
+        "routeNo": "10",
+        "from": "Galta Gate",
+        "to": "Galta Gate",
+        "distance": "19  K.M.",
+        "totalStops": 25,
+        "stops": [
+          "Galta Gate",
+          "Transport Nagar (Tp)",
+          "Satsai College",
+          "Mama Ki Hotel",
+          "Puliya No. 1",
+          "Panchwati Circle",
+          "Lbs College",
+          "Jda Circle",
+          "Rambhag Circle",
+          "High-Court Circle",
+          "Shankar Bhawan",
+          "Nandpuri – Sodala",
+          "Sodala",
+          "Esi Dispensary – Hasanpura",
+          "Hasanpura",
+          "Jaipur Club",
+          "Railway Station Jaiipur (Jaipur Junction )",
+          "Polo Victory",
+          "Sindhi Camp",
+          "Chandpole",
+          "Choti-Chopar",
+          "Badi-Chopar",
+          "Ramganj",
+          "Surajpole",
+          "Galta Gate"
+        ]
+      }
+    },
+    {
+      "route": "12",
+      "data": {
+        "routeNo": "12",
+        "from": "Badi Chopad",
+        "to": "Badi Chopad",
+        "distance": "26  K.M.",
+        "totalStops": 14,
+        "stops": [
+          "Badi Chopad",
+          "Sanganeri Gate",
+          "Ghatgate",
+          "Tp Nagar",
+          "Kho-Nagoria",
+          "Rto",
+          "Motuka Phatak",
+          "Jagatpura Rob",
+          "Jhalana",
+          "Gandhi Nagar Mode",
+          "Rambhag",
+          "Ajmeri Gate",
+          "Sanganeri Gate",
+          "Badi Chopad"
+        ]
+      }
+    },
+    {
+      "route": "1A",
+      "data": {
+        "routeNo": "1A",
+        "from": "Vki (Road No. 17)",
+        "to": "Badi Chopar",
+        "distance": "12  K.M.",
+        "totalStops": 8,
+        "stops": [
+          "Vki (Road No. 17)",
+          "Chomu Pulia",
+          "Amba Badi",
+          "Pani Pej",
+          "Pittal Factory",
+          "Chandpoul",
+          "Choti Chopar",
+          "Badi Chopar"
+        ]
+      }
+    },
+    {
+      "route": "2",
+      "data": {
+        "routeNo": "2",
+        "from": "Bankrota",
+        "to": "Chandpole",
+        "distance": "14  K.M.",
+        "totalStops": 20,
+        "stops": [
+          "Bankrota",
+          "Kesupura",
+          "Kamla Nehru Nagar",
+          "Power House",
+          "Hirapura Bypass",
+          "Dcm",
+          "Kings Road",
+          "Purani Chungi",
+          "Shyam Nagar",
+          "New Sanganer Mod",
+          "Sodala",
+          "Esi Dispensary",
+          "Majdoor Nagar",
+          "Civil Line Chauraha",
+          "Hathroi",
+          "Shalimar",
+          "Polo Victory",
+          "Gpo",
+          "Sindhi Camp",
+          "Chandpole"
+        ]
+      }
+    },
+    {
+      "route": "Sub-Urban 11",
+      "data": {
+        "routeNo": "Sub-Urban 11",
+        "from": "Siwad",
+        "to": "Goner",
+        "distance": "41  K.M.",
+        "totalStops": 18,
+        "stops": [
+          "Siwad",
+          "Panchawala",
+          "Meenawala",
+          "Khatipura",
+          "N.B.C",
+          "Railway Station",
+          "Chandpole",
+          "Choti Chopad",
+          "Ajmeri Gate",
+          "Tonk Fatak",
+          "Durgapura",
+          "Sanganer Thana",
+          "Pratap Nagar",
+          "India Gate",
+          "12 Meel",
+          "Ashawala",
+          "Bhatawala",
+          "Goner"
+        ]
+      }
+    },
+    {
+      "route": "Sub-Urban 14",
+      "data": {
+        "routeNo": "Sub-Urban 14",
+        "from": "Jhotwara",
+        "to": "Bassi",
+        "distance": "39  K.M.",
+        "totalStops": 9,
+        "stops": [
+          "Jhotwara",
+          "Khatipura",
+          "Vaishali Nagar",
+          "Sodala",
+          "Rambagh",
+          "Ajmeri Gate",
+          "Transport Nagar",
+          "Kanota",
+          "Bassi"
+        ]
+      }
+    },
+    {
+      "route": "Sub-Urban 15",
+      "data": {
+        "routeNo": "Sub-Urban 15",
+        "from": "Chandpoul",
+        "to": "Chomu",
+        "distance": "28  K.M.",
+        "totalStops": 4,
+        "stops": [
+          "Chandpoul",
+          "Rampura",
+          "Jetpura",
+          "Chomu"
+        ]
+      }
+    },
+    {
+      "route": "Sub-Urban 16",
+      "data": {
+        "routeNo": "Sub-Urban 16",
+        "from": "Ajmeri Gate",
+        "to": "Chaksu",
+        "distance": "42  K.M.",
+        "totalStops": 7,
+        "stops": [
+          "Ajmeri Gate",
+          "Sanganer Police Station",
+          "12 Meel",
+          "Bilwa",
+          "Shivdas Pura",
+          "Sheetla",
+          "Chaksu"
+        ]
+      }
+    },
+    {
+      "route": "Sub-Urban 18",
+      "data": {
+        "routeNo": "Sub-Urban 18",
+        "from": "Chomupuliya",
+        "to": "Kalwad",
+        "distance": "30  K.M.",
+        "totalStops": 12,
+        "stops": [
+          "Chomupuliya",
+          "Jhotwara",
+          "Khatipura",
+          "Vaishali Nagar",
+          "Chitrakut",
+          "Heerapura",
+          "Bhankrota",
+          "Mahapura Mod",
+          "Mahapura",
+          "Jhai",
+          "Mahendra Sez",
+          "Kalwad"
+        ]
+      }
+    },
+    {
+      "route": "Sub-Urban 26",
+      "data": {
+        "routeNo": "Sub-Urban 26",
+        "from": "Chandpoul",
+        "to": "Bagru",
+        "distance": "39  K.M.",
+        "totalStops": 10,
+        "stops": [
+          "Chandpoul",
+          "Sodala",
+          "Purani Chungi",
+          "Dcm",
+          "Heerapura",
+          "Bhankrota",
+          "Bad Ke Balaji",
+          "Dahmi Kala",
+          "Sanjhariya",
+          "Bagru"
+        ]
+      }
+    },
+    {
+      "route": "Sub-Urban 27",
+      "data": {
+        "routeNo": "Sub-Urban 27",
+        "from": "Goner",
+        "to": "Vatika",
+        "distance": "53  K.M.",
+        "totalStops": 14,
+        "stops": [
+          "Goner",
+          "Luniyawas",
+          "Tp Nagar",
+          "Ghatgate",
+          "Ajmeri Gate",
+          "Tonk Fatak",
+          "Durgapura",
+          "Sanganer Thana",
+          "Pratap Nagar",
+          "India Gate",
+          "12 Meel",
+          "Ashawala",
+          "Bhatawala",
+          "Vatika"
+        ]
+      }
+    }
+  
+]

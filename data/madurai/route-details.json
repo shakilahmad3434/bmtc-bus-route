@@ -1,0 +1,879 @@
+[
+  {
+    "route": "10",
+    "data": {
+      "routeNo": "10",
+      "from": "Periar",
+      "to": "Avaniapuram",
+      "distance": "4  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Periar",
+        "Therku Vasal",
+        "Villapuram",
+        "Avaniapuram"
+      ]
+    }
+  },
+  {
+    "route": "10A",
+    "data": {
+      "routeNo": "10A",
+      "from": "Periar",
+      "to": "Airport",
+      "distance": "9  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Periar",
+        "Therku Vasal",
+        "Villapuram",
+        "Avaniapuram",
+        "Perungudi",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "10BB",
+    "data": {
+      "routeNo": "10BB",
+      "from": "Parambupatti",
+      "to": "Periar",
+      "distance": "7  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Parambupatti",
+        "Perungudi",
+        "Avaniapuram",
+        "Periar"
+      ]
+    }
+  },
+  {
+    "route": "10BB/1",
+    "data": {
+      "routeNo": "10BB/1",
+      "from": "Perungudi",
+      "to": "Arapalayam",
+      "distance": "10  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Perungudi",
+        "Avaniapuram",
+        "Periar Nilayam",
+        "Arasaradi",
+        "Arapalayam"
+      ]
+    }
+  },
+  {
+    "route": "10D",
+    "data": {
+      "routeNo": "10D",
+      "from": "Arapalayam",
+      "to": "Avaniapuram",
+      "distance": "6  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Arapalayam",
+        "Arasaradi",
+        "Periar",
+        "Villapuram",
+        "Avaniapuram"
+      ]
+    }
+  },
+  {
+    "route": "10H",
+    "data": {
+      "routeNo": "10H",
+      "from": "Thiruparakundram",
+      "to": "Periar",
+      "distance": "8  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Thiruparakundram",
+        "Avaniapuram",
+        "Periar"
+      ]
+    }
+  },
+  {
+    "route": "10J",
+    "data": {
+      "routeNo": "10J",
+      "from": "Arapalayam",
+      "to": "Airport",
+      "distance": "12  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Arapalayam",
+        "Periar",
+        "Villapuram",
+        "Avaniapuram",
+        "Perungudi",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "10L",
+    "data": {
+      "routeNo": "10L",
+      "from": "Periar",
+      "to": "Pokkuvarathu Nagar",
+      "distance": "8  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Periar",
+        "Therkuvasal",
+        "Avaniapuram",
+        "Mandela Nagar",
+        "Pokkuvarathu Nagar"
+      ]
+    }
+  },
+  {
+    "route": "10LA",
+    "data": {
+      "routeNo": "10LA",
+      "from": "Arapalayam",
+      "to": "Pokkuvarathu Nagar",
+      "distance": "11  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Arapalayam",
+        "Periar",
+        "Therkuvasal",
+        "Villapuram",
+        "Avaniapuram",
+        "Mandela Nagar",
+        "Pokkuvarathu Nagar"
+      ]
+    }
+  },
+  {
+    "route": "10R",
+    "data": {
+      "routeNo": "10R",
+      "from": "Periar",
+      "to": "Mandela Nagar",
+      "distance": "9  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Periar",
+        "Villapuram",
+        "Avaniapuram",
+        "Perungudi",
+        "Mandela Nagar"
+      ]
+    }
+  },
+  {
+    "route": "11",
+    "data": {
+      "routeNo": "11",
+      "from": "Peruar",
+      "to": "Thapal Thanthi Nagar",
+      "distance": "2  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Peruar",
+        "Therkuvasal",
+        "Goripalayam",
+        "Thapal Thanthi Nagar"
+      ]
+    }
+  },
+  {
+    "route": "11A",
+    "data": {
+      "routeNo": "11A",
+      "from": "Arapalayam",
+      "to": "Mahatma Gandhi Nagar",
+      "distance": "7  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Arapalayam",
+        "Periar Bs",
+        "Therkuvasal",
+        "Goripalayam",
+        "Narimedu",
+        "Mahatma Gandhi Nagar"
+      ]
+    }
+  },
+  {
+    "route": "11B",
+    "data": {
+      "routeNo": "11B",
+      "from": "Periar",
+      "to": "Mahatma Gandhi Nagar",
+      "distance": "5  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Periar",
+        "Therkuvasal",
+        "Goripalayam",
+        "Narimedu",
+        "Mahatma Gandhi Nagar"
+      ]
+    }
+  },
+  {
+    "route": "11E",
+    "data": {
+      "routeNo": "11E",
+      "from": "Periar",
+      "to": "Mahatma Gandhi Nagar",
+      "distance": "5  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Periar",
+        "Therkuvasal",
+        "Goripalauam",
+        "Narimedu",
+        "Krishnapuram Colony",
+        "Mahatma Gandhi Nagar"
+      ]
+    }
+  },
+  {
+    "route": "12/2B",
+    "data": {
+      "routeNo": "12/2B",
+      "from": "Kochadai",
+      "to": "Thapal Thanthi Nagar",
+      "distance": "5  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Kochadai",
+        "Arapalayam",
+        "Simmakkal",
+        "Goripalayam",
+        "Thapal Thanthi Nagar"
+      ]
+    }
+  },
+  {
+    "route": "12/2C",
+    "data": {
+      "routeNo": "12/2C",
+      "from": "Meenakshi Amman Nagar",
+      "to": "Kochadai",
+      "distance": "11  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Meenakshi Amman Nagar",
+        "Surya Nagar",
+        "Pudhur",
+        "Court",
+        "Goripalayam",
+        "Simmakal",
+        "Arapalayam",
+        "Kalavasal",
+        "Kochadai"
+      ]
+    }
+  },
+  {
+    "route": "12E",
+    "data": {
+      "routeNo": "12E",
+      "from": "Kochadai",
+      "to": "Theppakulam",
+      "distance": "8  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Kochadai",
+        "Arapalayam",
+        "Periar",
+        "Therkuvasal",
+        "Theppakulam"
+      ]
+    }
+  },
+  {
+    "route": "12G",
+    "data": {
+      "routeNo": "12G",
+      "from": "Viratipatthu",
+      "to": "Meenakshi Amman Nagar",
+      "distance": "11  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Viratipatthu",
+        "Arapalayam",
+        "Simmakkal",
+        "Goripalayam",
+        "Pudhur",
+        "Surveyor Colony",
+        "Meenakshi Amman Nagar"
+      ]
+    }
+  },
+  {
+    "route": "12N",
+    "data": {
+      "routeNo": "12N",
+      "from": "Mattuthavani",
+      "to": "Kochadai/Thuvariman",
+      "distance": "14  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Mattuthavani",
+        "Court",
+        "Anna Bus Stand",
+        "Simmakkal",
+        "Periar",
+        "Kochadai/Thuvariman"
+      ]
+    }
+  },
+  {
+    "route": "13",
+    "data": {
+      "routeNo": "13",
+      "from": "Peruar",
+      "to": "Samanatham",
+      "distance": "6  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Peruar",
+        "Nelpettai",
+        "Sinthamani",
+        "Samanatham"
+      ]
+    }
+  },
+  {
+    "route": "13B",
+    "data": {
+      "routeNo": "13B",
+      "from": "Mattuthavani",
+      "to": "Karuvakudi",
+      "distance": "8  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Mattuthavani",
+        "Anna Bus Stand",
+        "Sinthamani",
+        "Nedunkulam",
+        "Thavatharanendhal",
+        "Karuvakudi"
+      ]
+    }
+  },
+  {
+    "route": "13B/1",
+    "data": {
+      "routeNo": "13B/1",
+      "from": "Mattuthavani",
+      "to": "Thavatharanendhal",
+      "distance": "8  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Mattuthavani",
+        "Anna Bus Stand",
+        "Sinthamani",
+        "Nedunkulam",
+        "Thavatharanendhal"
+      ]
+    }
+  },
+  {
+    "route": "14",
+    "data": {
+      "routeNo": "14",
+      "from": "Tirunagar",
+      "to": "Anna Nagar",
+      "distance": "11  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Tirunagar",
+        "Thiruparankundram",
+        "Therkuvasal",
+        "Nelpettai",
+        "Gh",
+        "Anna Bus Stand",
+        "Suguna Store",
+        "Anna Nagar"
+      ]
+    }
+  },
+  {
+    "route": "14B",
+    "data": {
+      "routeNo": "14B",
+      "from": "Tirunagar",
+      "to": "Mattuthavani",
+      "distance": "13  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Tirunagar",
+        "Harveypatti",
+        "Thiruparankundram",
+        "Pasumalai",
+        "Palanganatham",
+        "Vasanthanagar",
+        "Therkuvasal",
+        "Mahal",
+        "Nelpettai",
+        "Gh",
+        "Anna Nilayam",
+        "Kk Nagar",
+        "Mattuthavani"
+      ]
+    }
+  },
+  {
+    "route": "14BB",
+    "data": {
+      "routeNo": "14BB",
+      "from": "Mahalakshmi Colony",
+      "to": "Mattuthavani",
+      "distance": "14  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Mahalakshmi Colony",
+        "Thirunagar",
+        "Harveypatti",
+        "Thiruparankundram",
+        "Pasumalai",
+        "Palanganatham",
+        "Vasanthanagar",
+        "Therkuvasal",
+        "Mahal",
+        "Nelpettai",
+        "Gh",
+        "Anna Nilayam",
+        "Kk Nagar",
+        "Mattuthavani"
+      ]
+    }
+  },
+  {
+    "route": "14D",
+    "data": {
+      "routeNo": "14D",
+      "from": "Periar",
+      "to": "Pamban Nagar",
+      "distance": "13  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Periar",
+        "Anna Bus Stand",
+        "Therku Vasal",
+        "Thiruparankundram",
+        "Pamban Nagar"
+      ]
+    }
+  },
+  {
+    "route": "14E",
+    "data": {
+      "routeNo": "14E",
+      "from": "Thiruvalluvar Nagar",
+      "to": "Mattuthavani",
+      "distance": "13  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Thiruvalluvar Nagar",
+        "Thirunagar",
+        "Harveypatti",
+        "Thiruparankundram",
+        "Pasumalai",
+        "Palanganatham",
+        "Vasanthanagar",
+        "Therkuvasal",
+        "Mahal",
+        "Nelpettai",
+        "Gh",
+        "Anna Nilayam",
+        "Kk Nagar",
+        "Mattuthavani"
+      ]
+    }
+  },
+  {
+    "route": "14F",
+    "data": {
+      "routeNo": "14F",
+      "from": "Thiruvalluvar Nagar",
+      "to": "Pudhur",
+      "distance": "12  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Thiruvalluvar Nagar",
+        "Thirunagar",
+        "Harveypatti",
+        "Thiruparankundram",
+        "Pasumalai",
+        "Palanganatham",
+        "Vasanthanagar",
+        "Therkuvasal",
+        "Mahal",
+        "Nelpettai",
+        "Goripalayam",
+        "Thallakulam",
+        "Pudhur"
+      ]
+    }
+  },
+  {
+    "route": "14P",
+    "data": {
+      "routeNo": "14P",
+      "from": "Thapal Thanthi Nagar",
+      "to": "Nilayur",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Thapal Thanthi Nagar",
+        "Anna Bus Stand",
+        "Therku Vasal",
+        "Thiruparankundram",
+        "Nilayur"
+      ]
+    }
+  },
+  {
+    "route": "14S",
+    "data": {
+      "routeNo": "14S",
+      "from": "Seenivasa Colony",
+      "to": "Mattuthavani",
+      "distance": "15  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Seenivasa Colony",
+        "Thirunagar",
+        "Harveypatti",
+        "Thiruparankundram",
+        "Pasumalai",
+        "Palanganatham",
+        "Vasanthanagar",
+        "Therkuvasal",
+        "Mahal",
+        "Nelpettai",
+        "Gh",
+        "Anna Nilayam",
+        "Kk Nagar",
+        "Mattuthavani"
+      ]
+    }
+  },
+  {
+    "route": "14V",
+    "data": {
+      "routeNo": "14V",
+      "from": "Thirunagar",
+      "to": "Vandiyur",
+      "distance": "14  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Thirunagar",
+        "Thiruparankundram",
+        "Palanganatham",
+        "Periar",
+        "Therku Vasal",
+        "Keela Vasal",
+        "Nelpettai",
+        "Gh",
+        "Anna Bs",
+        "Arvind Eye Hospital",
+        "Anna Nagar",
+        "Vandiyur"
+      ]
+    }
+  },
+  {
+    "route": "15",
+    "data": {
+      "routeNo": "15",
+      "from": "Peruar",
+      "to": "Silaiman",
+      "distance": "10  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Peruar",
+        "Therkuvasal",
+        "Theppakulam",
+        "Viraganoor Ring Road",
+        "Silaiman"
+      ]
+    }
+  },
+  {
+    "route": "15C",
+    "data": {
+      "routeNo": "15C",
+      "from": "Periar",
+      "to": "Keeladi",
+      "distance": "11  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Periar",
+        "Therkuvasal",
+        "Theppakulam",
+        "Viraganoor Ring Road",
+        "Silaiman",
+        "Keeladi"
+      ]
+    }
+  },
+  {
+    "route": "15E",
+    "data": {
+      "routeNo": "15E",
+      "from": "Periar",
+      "to": "Akaramjothipuram",
+      "distance": "9  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Periar",
+        "Silaiman",
+        "Akaramjothipuram"
+      ]
+    }
+  },
+  {
+    "route": "15F",
+    "data": {
+      "routeNo": "15F",
+      "from": "Periar",
+      "to": "Mankudi",
+      "distance": "9  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Periar",
+        "Silaiman",
+        "Konthagai",
+        "Mankudi"
+      ]
+    }
+  },
+  {
+    "route": "15H",
+    "data": {
+      "routeNo": "15H",
+      "from": "Periar",
+      "to": "Ilandhaikulam",
+      "distance": "10  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Periar",
+        "Therkuvasal",
+        "Theppakulam",
+        "Silaiman",
+        "Ilandhaikulam"
+      ]
+    }
+  },
+  {
+    "route": "15K",
+    "data": {
+      "routeNo": "15K",
+      "from": "Periar",
+      "to": "Kalakarakadai",
+      "distance": "16  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Periar",
+        "Therkuvasal",
+        "Keela Vasal",
+        "Theppakulam",
+        "Silaiman",
+        "Manalur",
+        "Kalakarakadai"
+      ]
+    }
+  },
+  {
+    "route": "15V",
+    "data": {
+      "routeNo": "15V",
+      "from": "Periar",
+      "to": "Varichiyur",
+      "distance": "17  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Periar",
+        "Theppakulam",
+        "Silaiman",
+        "Varichiyur"
+      ]
+    }
+  },
+  {
+    "route": "16",
+    "data": {
+      "routeNo": "16",
+      "from": "Anna Bs",
+      "to": "Avaniapuram",
+      "distance": "5  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Anna Bs",
+        "Keelavasal",
+        "Therku Vasal",
+        "Villa Puram",
+        "Avaniapuram"
+      ]
+    }
+  },
+  {
+    "route": "16A",
+    "data": {
+      "routeNo": "16A",
+      "from": "Mattuthavani",
+      "to": "Avaniapuram",
+      "distance": "10  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Mattuthavani",
+        "Anna Nagar",
+        "Theppakulam",
+        "Keelavasal",
+        "Therku Vasal",
+        "Villapuram",
+        "Avaniapuram"
+      ]
+    }
+  },
+  {
+    "route": "16AA",
+    "data": {
+      "routeNo": "16AA",
+      "from": "Mattuthavani",
+      "to": "Mandela Nagar",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Mattuthavani",
+        "Anna Bs",
+        "Therkuvasal",
+        "Avaniapuram",
+        "Mandela Nagar"
+      ]
+    }
+  },
+  {
+    "route": "16AF",
+    "data": {
+      "routeNo": "16AF",
+      "from": "Thiruparankundram",
+      "to": "Vandiyur",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Thiruparankundram",
+        "Avaniapuram",
+        "Theppakulam",
+        "Anna Nagar",
+        "Vandiyur"
+      ]
+    }
+  },
+  {
+    "route": "16AM",
+    "data": {
+      "routeNo": "16AM",
+      "from": "Mattuthavani",
+      "to": "Avaniapuram",
+      "distance": "8  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Mattuthavani",
+        "Anna Bs",
+        "Therkuvasal",
+        "Villapuram",
+        "Avaniapuram"
+      ]
+    }
+  },
+  {
+    "route": "16AU",
+    "data": {
+      "routeNo": "16AU",
+      "from": "Thiruparankundram",
+      "to": "Vandiyur",
+      "distance": "12  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Thiruparankundram",
+        "Avaniapuram",
+        "Therkuvasal",
+        "Keelavasal",
+        "Theppakulam",
+        "Vandiyur"
+      ]
+    }
+  },
+  {
+    "route": "16AV",
+    "data": {
+      "routeNo": "16AV",
+      "from": "Avaniapuram",
+      "to": "Vandiyur",
+      "distance": "8  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Avaniapuram",
+        "Anna Bs",
+        "Theppakulam",
+        "Vandiyur"
+      ]
+    }
+  },
+  {
+    "route": "16B",
+    "data": {
+      "routeNo": "16B",
+      "from": "Perungudi",
+      "to": "Mattuthavani",
+      "distance": "12  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Perungudi",
+        "Avaniapuram",
+        "Anna Nilayam",
+        "Mattuthavani"
+      ]
+    }
+  },
+  {
+    "route": "16BP",
+    "data": {
+      "routeNo": "16BP",
+      "from": "Perungudi",
+      "to": "Pudhur",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Perungudi",
+        "Avaniapuram",
+        "Therkuvasal",
+        "Thallakulam",
+        "Pudhur"
+      ]
+    }
+  },
+  {
+    "route": "16C",
+    "data": {
+      "routeNo": "16C",
+      "from": "Avaniapuram",
+      "to": "Pudhur",
+      "distance": "8  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Avaniapuram",
+        "Keelavasal",
+        "Goripalayam",
+        "Thallakulam",
+        "Pudhur"
+      ]
+    }
+  }
+]

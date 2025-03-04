@@ -1,0 +1,1977 @@
+[
+  {
+    "route": "10a",
+    "data": {
+      "routeNo": "10a",
+      "from": "Visakhapatnam Airport",
+      "to": "R K Beach",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Visakhapatnam Airport",
+        "Nad",
+        "Gurudwara",
+        "Rtc Complex",
+        "R K Beach"
+      ]
+    }
+  },
+  {
+    "route": "10K",
+    "data": {
+      "routeNo": "10K",
+      "from": "Rtc Complex",
+      "to": "Kailashagiri",
+      "distance": "9  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rtc Complex",
+        "Jagadamba",
+        "Rk Beach",
+        "Vuda Park",
+        "Tenneti Park",
+        "Kailashagiri"
+      ]
+    }
+  },
+  {
+    "route": "111",
+    "data": {
+      "routeNo": "111",
+      "from": "Kuramanapalem",
+      "to": "Tagarapuvalasa",
+      "distance": "44  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Kuramanapalem",
+        "Gajuwaka",
+        "Nad",
+        "Gurudwara",
+        "Zoo Park",
+        "Madurwada",
+        "Tagarapuvalasa"
+      ]
+    }
+  },
+  {
+    "route": "12D",
+    "data": {
+      "routeNo": "12D",
+      "from": "Rtc Complex",
+      "to": "Devarapalle",
+      "distance": "52  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Pendurthi",
+        "Kothavalasa",
+        "Anandapuram",
+        "Devarapalle"
+      ]
+    }
+  },
+  {
+    "route": "12K",
+    "data": {
+      "routeNo": "12K",
+      "from": "Town Kotharoad",
+      "to": "Kothavalasa",
+      "distance": "39  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Town Kotharoad",
+        "Railway Station,",
+        "Kancharapalem,",
+        "Nad,",
+        "Gpt,",
+        "Pendurthi",
+        "Kothavalasa"
+      ]
+    }
+  },
+  {
+    "route": "14",
+    "data": {
+      "routeNo": "14",
+      "from": "Venkojipalem",
+      "to": "Ohpo",
+      "distance": "16  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Venkojipalem",
+        "Mvp Colony,",
+        "Pedda Waltair",
+        "Au Outgate,",
+        "Jagadamba,",
+        "Town Kotharoad",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "14A",
+    "data": {
+      "routeNo": "14A",
+      "from": "Arilova Colony",
+      "to": "Ohpo",
+      "distance": "19  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Arilova Colony",
+        "Venkojipalem,",
+        "Mvp Colony,",
+        "Au Out Gate,",
+        "Jagadamba,",
+        "Kotha road bus station",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "16",
+    "data": {
+      "routeNo": "16",
+      "from": "Purna Market",
+      "to": "Yarada",
+      "distance": "8  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Purna Market",
+        "Convent Junction",
+        "Scindia",
+        "Naval Base",
+        "Yarada"
+      ]
+    }
+  },
+  {
+    "route": "1T",
+    "data": {
+      "routeNo": "1T",
+      "from": "Vuda Park",
+      "to": "Kapulatunglam",
+      "distance": "17  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Vuda Park",
+        "Rk Beach",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Kapulatunglam"
+      ]
+    }
+  },
+  {
+    "route": "20A",
+    "data": {
+      "routeNo": "20A",
+      "from": "Hb Colony",
+      "to": "Ohpo",
+      "distance": "14  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Hb Colony",
+        "Seethamma Dhara Bus Stop",
+        "Satyam Junction",
+        "Rtc",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "211",
+    "data": {
+      "routeNo": "211",
+      "from": "Railway Station",
+      "to": "Vizianagaram",
+      "distance": "47  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Railway Station",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Madhurawada",
+        "Tagarapuvalasa",
+        "Vizianagaram"
+      ]
+    }
+  },
+  {
+    "route": "222",
+    "data": {
+      "routeNo": "222",
+      "from": "Rtc Complex",
+      "to": "Tagarapuvalasa",
+      "distance": "29  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Madhurawada",
+        "Anandapuram",
+        "Tagarapuvalasa"
+      ]
+    }
+  },
+  {
+    "route": "25D/M",
+    "data": {
+      "routeNo": "25D/M",
+      "from": "Ohpo",
+      "to": "Midhilapuri Colony",
+      "distance": "23  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ohpo",
+        "Jagadamba",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Carshed",
+        "Midhilapuri Colony"
+      ]
+    }
+  },
+  {
+    "route": "25D/V",
+    "data": {
+      "routeNo": "25D/V",
+      "from": "Ohpo",
+      "to": "",
+      "distance": "21  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Ohpo",
+        "Jagadamba",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Carshed"
+      ]
+    }
+  },
+  {
+    "route": "25E",
+    "data": {
+      "routeNo": "25E",
+      "from": "Ohpo",
+      "to": "Kommadi",
+      "distance": "28  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ohpo",
+        "Jagadamba",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Madhurawada",
+        "Kommadi"
+      ]
+    }
+  },
+  {
+    "route": "25G",
+    "data": {
+      "routeNo": "25G",
+      "from": "Ohpo",
+      "to": "Ganesh Nagar",
+      "distance": "25  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ohpo",
+        "Jagadamba",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Madhurawada",
+        "Ganesh Nagar"
+      ]
+    }
+  },
+  {
+    "route": "25IT",
+    "data": {
+      "routeNo": "25IT",
+      "from": "Rtc Complex",
+      "to": "It Park",
+      "distance": "14  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Carshed",
+        "Midhilapuri Colony",
+        "It Park"
+      ]
+    }
+  },
+  {
+    "route": "25J",
+    "data": {
+      "routeNo": "25J",
+      "from": "Railway Station",
+      "to": "Sevanagar",
+      "distance": "15  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Railway Station",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Madhurawada",
+        "Sevanagar"
+      ]
+    }
+  },
+  {
+    "route": "25K",
+    "data": {
+      "routeNo": "25K",
+      "from": "Ohpo",
+      "to": "Bakkannapalem",
+      "distance": "26  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ohpo",
+        "Jagadamba",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Madhurawada",
+        "Bakkannapalem"
+      ]
+    }
+  },
+  {
+    "route": "25M",
+    "data": {
+      "routeNo": "25M",
+      "from": "Ohpo",
+      "to": "Marikavalasa",
+      "distance": "23  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Ohpo",
+        "Jagadamba",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Madhurawada"
+      ]
+    }
+  },
+  {
+    "route": "25P",
+    "data": {
+      "routeNo": "25P",
+      "from": "Ratnagiri Hb Colony",
+      "to": "Ohpo",
+      "distance": "23  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ratnagiri Hb Colony",
+        "Pm Palem",
+        "Endada",
+        "Maddilapalem",
+        "Rtc Complex",
+        "Jagadamba",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "25R",
+    "data": {
+      "routeNo": "25R",
+      "from": "Railway Station",
+      "to": "Gurajadanagar",
+      "distance": "16  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Railway Station",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Pm Palem",
+        "Gurajadanagar"
+      ]
+    }
+  },
+  {
+    "route": "25S",
+    "data": {
+      "routeNo": "25S",
+      "from": "Ohpo",
+      "to": "Nagarapalem",
+      "distance": "37  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ohpo",
+        "Jagadamba",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Carshed",
+        "Nagarapalem"
+      ]
+    }
+  },
+  {
+    "route": "28",
+    "data": {
+      "routeNo": "28",
+      "from": "Rk Beach",
+      "to": "Simhachalam Bus Station",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Rk Beach",
+        "Jagadamba,",
+        "Rtc Complex,",
+        "Nad,",
+        "Gopalapatnam Bus Stop"
+      ]
+    }
+  },
+  {
+    "route": "28A/28K",
+    "data": {
+      "routeNo": "28A/28K",
+      "from": "Rk Beach",
+      "to": "Pendurthy/Kottavalasa",
+      "distance": "23  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rk Beach",
+        "Gpt,",
+        "Nad,",
+        "Rtc,",
+        "Jagadamba,",
+        "Collector Office",
+        "Pendurthy/Kottavalasa"
+      ]
+    }
+  },
+  {
+    "route": "28A/D",
+    "data": {
+      "routeNo": "28A/D",
+      "from": "Rk Beach",
+      "to": "Denderu",
+      "distance": "27  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Rk Beach",
+        "Jagadamba",
+        "Rtc",
+        "Railway Station",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Pendurthi",
+        "Denderu"
+      ]
+    }
+  },
+  {
+    "route": "28A/P",
+    "data": {
+      "routeNo": "28A/P",
+      "from": "Rtc Complex",
+      "to": "Ravalammapalem",
+      "distance": "26  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Railway Station",
+        "Kancharapalem",
+        "Nad",
+        "Gpt",
+        "Pendurthi",
+        "Ravalammapalem"
+      ]
+    }
+  },
+  {
+    "route": "28C",
+    "data": {
+      "routeNo": "28C",
+      "from": "Rk Beach",
+      "to": "Chintalagraharam",
+      "distance": "17  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rk Beach",
+        "Jagadamba",
+        "Rtc Complex",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Vepagunta",
+        "Chintalagraharam"
+      ]
+    }
+  },
+  {
+    "route": "28J",
+    "data": {
+      "routeNo": "28J",
+      "from": "Rk Beach",
+      "to": "Sujatanagar",
+      "distance": "17  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rk Beach",
+        "Jagadamba",
+        "Rtc Complex",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Vepagunta",
+        "Sujatanagar"
+      ]
+    }
+  },
+  {
+    "route": "28P",
+    "data": {
+      "routeNo": "28P",
+      "from": "Rk Beach",
+      "to": "Sabbavaram",
+      "distance": "28  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rk Beach",
+        "Jagadamba",
+        "Rtc Complex",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Pendurthi",
+        "Sabbavaram"
+      ]
+    }
+  },
+  {
+    "route": "28R",
+    "data": {
+      "routeNo": "28R",
+      "from": "Rk Beach",
+      "to": "Simhachalam Bus Station",
+      "distance": "13  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rk Beach",
+        "Jagadamba",
+        "Rtc",
+        "Railway Station",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Simhachalam Bus Station"
+      ]
+    }
+  },
+  {
+    "route": "28Z/H",
+    "data": {
+      "routeNo": "28Z/H",
+      "from": "Zilla Parishad",
+      "to": "Simhachalam Hills",
+      "distance": "16  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Zilla Parishad",
+        "Jagadamba",
+        "Rtc",
+        "Gurudwar",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Simhachalam Hills"
+      ]
+    }
+  },
+  {
+    "route": "300C",
+    "data": {
+      "routeNo": "300C",
+      "from": "Rtc Complex",
+      "to": "Chodavaram",
+      "distance": "46  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rtc Complex",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Pendurthi",
+        "Sabbavaram",
+        "Chodavaram"
+      ]
+    }
+  },
+  {
+    "route": "300M",
+    "data": {
+      "routeNo": "300M",
+      "from": "Rtc Complex",
+      "to": "Madugula",
+      "distance": "62  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Nad,",
+        "Gopalapatnam,",
+        "Pendurthi,",
+        "Sabbavaram,",
+        "Chodavaram",
+        "Madugula"
+      ]
+    }
+  },
+  {
+    "route": "328",
+    "data": {
+      "routeNo": "328",
+      "from": "K.Kotapad",
+      "to": "Rk Beach",
+      "distance": "66  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "K.Kotapad",
+        "Jagadamba",
+        "Rtc Complex",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Pendurthi",
+        "Rk Beach"
+      ]
+    }
+  },
+  {
+    "route": "333",
+    "data": {
+      "routeNo": "333",
+      "from": "Town Kotharoad",
+      "to": "Devarapalle",
+      "distance": "50  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Town Kotharoad",
+        "Convent",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Pendurthi",
+        "Kothavalasa",
+        "Devarapalle"
+      ]
+    }
+  },
+  {
+    "route": "333K",
+    "data": {
+      "routeNo": "333K",
+      "from": "Town Kotharoad",
+      "to": "K.Kotapad",
+      "distance": "36  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Town Kotharoad",
+        "Convent",
+        "Kancharapalem",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Pendurthi",
+        "K.Kotapad"
+      ]
+    }
+  },
+  {
+    "route": "36",
+    "data": {
+      "routeNo": "36",
+      "from": "Collector Office",
+      "to": "Mindi",
+      "distance": "16  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Collector Office",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Bhpv",
+        "Mindi"
+      ]
+    }
+  },
+  {
+    "route": "38",
+    "data": {
+      "routeNo": "38",
+      "from": "Rtc Complex",
+      "to": "Gajuwaka",
+      "distance": "17  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara,",
+        "Nad,",
+        "Bhpv",
+        "Gajuwaka"
+      ]
+    }
+  },
+  {
+    "route": "38A",
+    "data": {
+      "routeNo": "38A",
+      "from": "Rtc Complex",
+      "to": "Mindi",
+      "distance": "16  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Mindi"
+      ]
+    }
+  },
+  {
+    "route": "38B",
+    "data": {
+      "routeNo": "38B",
+      "from": "Rtc Complex",
+      "to": "Bhanojithota",
+      "distance": "18  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara",
+        "Nad",
+        "Sheelanagar",
+        "Bhanojithota"
+      ]
+    }
+  },
+  {
+    "route": "38C",
+    "data": {
+      "routeNo": "38C",
+      "from": "Rtc Complex",
+      "to": "Sundarayya Colony",
+      "distance": "20  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Sundarayya Colony"
+      ]
+    }
+  },
+  {
+    "route": "38D",
+    "data": {
+      "routeNo": "38D",
+      "from": "Rtc Complex",
+      "to": "Nadupur Dairy Colony",
+      "distance": "22  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Pedagantyada",
+        "Nadupur Dairy Colony"
+      ]
+    }
+  },
+  {
+    "route": "38H",
+    "data": {
+      "routeNo": "38H",
+      "from": "Rtc Complex",
+      "to": "Gantyada Hb Colony",
+      "distance": "51  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Rtc Complex",
+        "Visakhapatnam Airport",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Pedagantyada",
+        "Gantyada Hb Colony"
+      ]
+    }
+  },
+  {
+    "route": "38IT",
+    "data": {
+      "routeNo": "38IT",
+      "from": "Kurmannapalem",
+      "to": "It Park",
+      "distance": "34  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Kurmannapalem",
+        "Gajuwaka",
+        "Nad",
+        "Gurudwara",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Carshed",
+        "It Park"
+      ]
+    }
+  },
+  {
+    "route": "38J",
+    "data": {
+      "routeNo": "38J",
+      "from": "Rtc Complex",
+      "to": "Janata Colony",
+      "distance": "26  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Scindia",
+        "Janata Colony"
+      ]
+    }
+  },
+  {
+    "route": "38K",
+    "data": {
+      "routeNo": "38K",
+      "from": "Rtc Complex",
+      "to": "Steelplant Sector 5",
+      "distance": "25  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Steelplant Sector 5"
+      ]
+    }
+  },
+  {
+    "route": "38M",
+    "data": {
+      "routeNo": "38M",
+      "from": "Marikavalasa",
+      "to": "Kurmannapalem",
+      "distance": "33  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Marikavalasa",
+        "Madhurawada",
+        "Maddilapalem",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Kurmannapalem"
+      ]
+    }
+  },
+  {
+    "route": "38N",
+    "data": {
+      "routeNo": "38N",
+      "from": "Rtc Complex",
+      "to": "Nadupuru",
+      "distance": "21  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Pedagantyada",
+        "Nadupuru"
+      ]
+    }
+  },
+  {
+    "route": "38R",
+    "data": {
+      "routeNo": "38R",
+      "from": "Maddilapalem",
+      "to": "Rambilli",
+      "distance": "54  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Maddilapalem",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Parawada",
+        "Rambilli"
+      ]
+    }
+  },
+  {
+    "route": "38T",
+    "data": {
+      "routeNo": "38T",
+      "from": "Rtc Complex",
+      "to": "Steelplant Sector 11",
+      "distance": "27  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Kurmannaplem",
+        "Steelplant Sector 11"
+      ]
+    }
+  },
+  {
+    "route": "38Y",
+    "data": {
+      "routeNo": "38Y",
+      "from": "Rtc Complex",
+      "to": "Duvvada Railway Station",
+      "distance": "24  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Duvvada Railway Station"
+      ]
+    }
+  },
+  {
+    "route": "400",
+    "data": {
+      "routeNo": "400",
+      "from": "Rtc Complex",
+      "to": "Kurmannapalem",
+      "distance": "16  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rtc Complex",
+        "Railway Station",
+        "Scindia",
+        "Malkapuram",
+        "Gajuwaka",
+        "Kurmannapalem"
+      ]
+    }
+  },
+  {
+    "route": "400H",
+    "data": {
+      "routeNo": "400H",
+      "from": "Maddilapalem",
+      "to": "Gantyada Hb Colony",
+      "distance": "31  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Maddilapalem",
+        "Rtc",
+        "Railway Station",
+        "Scindia",
+        "Gajuwaka",
+        "Pedagantyada",
+        "Gantyada Hb Colony"
+      ]
+    }
+  },
+  {
+    "route": "400K",
+    "data": {
+      "routeNo": "400K",
+      "from": "Maddilapalem",
+      "to": "Duvvada Railway Station",
+      "distance": "21  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Maddilapalem",
+        "Rtc",
+        "Railway Station",
+        "Scindia",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Duvvada Railway Station"
+      ]
+    }
+  },
+  {
+    "route": "400N",
+    "data": {
+      "routeNo": "400N",
+      "from": "Rtc Complex",
+      "to": "Vadacheepurupalli",
+      "distance": "85  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Rtc Complex",
+        "Railway Station",
+        "Scindia",
+        "Malkapuram",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Sector 11",
+        "Parawada",
+        "Ntpc",
+        "Vadacheepurupalli"
+      ]
+    }
+  },
+  {
+    "route": "400S",
+    "data": {
+      "routeNo": "400S",
+      "from": "Maddilapalem",
+      "to": "Narava",
+      "distance": "25  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Maddilapalem",
+        "Rtc Complex",
+        "Railway Station",
+        "Scindia",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Narava"
+      ]
+    }
+  },
+  {
+    "route": "400Y",
+    "data": {
+      "routeNo": "400Y",
+      "from": "Maddilapalem",
+      "to": "Yelamanchili",
+      "distance": "55  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Maddilapalem",
+        "Rtc",
+        "Railway Station",
+        "Scindia",
+        "Gajuwaka",
+        "Achutapuram",
+        "Yelamanchili"
+      ]
+    }
+  },
+  {
+    "route": "48",
+    "data": {
+      "routeNo": "48",
+      "from": "Madhavadhara",
+      "to": "Mn Club",
+      "distance": "9  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Madhavadhara",
+        "Muralinagar",
+        "Kailasapuram",
+        "Akkayyapalem",
+        "Rtc Complex",
+        "Jagadamba",
+        "Mn Club"
+      ]
+    }
+  },
+  {
+    "route": "48A",
+    "data": {
+      "routeNo": "48A",
+      "from": "Madhavadhara",
+      "to": "Ohpo",
+      "distance": "17  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Madhavadhara",
+        "Muralinagar",
+        "Kailasapuram",
+        "Akkayapalem",
+        "Rtc Complex",
+        "Town Kotharoad",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "500",
+    "data": {
+      "routeNo": "500",
+      "from": "Rtc Complex",
+      "to": "Anakapalle",
+      "distance": "38  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwar",
+        "Nad",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Aganampudi",
+        "Anakapalle"
+      ]
+    }
+  },
+  {
+    "route": "500A",
+    "data": {
+      "routeNo": "500A",
+      "from": "Maddilapalem",
+      "to": "Addaroad",
+      "distance": "77  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Maddilapalem",
+        "Gurudwar",
+        "Nad",
+        "Gajuwaka",
+        "Kurmannaplem",
+        "Anakapalli",
+        "Elamanchili",
+        "Addaroad"
+      ]
+    }
+  },
+  {
+    "route": "500A/C",
+    "data": {
+      "routeNo": "500A/C",
+      "from": "Rtc Complex",
+      "to": "Achutapuram",
+      "distance": "52  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwar",
+        "Nad",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Anakapalle",
+        "Achutapuram"
+      ]
+    }
+  },
+  {
+    "route": "500P",
+    "data": {
+      "routeNo": "500P",
+      "from": "Anakapalle",
+      "to": "Pm Palem",
+      "distance": "45  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Anakapalle",
+        "Kurmannapalem",
+        "Gajuwaka",
+        "Scindia",
+        "Convent",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Carshed",
+        "Pm Palem"
+      ]
+    }
+  },
+  {
+    "route": "500Y",
+    "data": {
+      "routeNo": "500Y",
+      "from": "Rtc Complex",
+      "to": "Yelamanchili",
+      "distance": "59  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwar",
+        "Nad",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Anakapalle",
+        "Yelamanchili"
+      ]
+    }
+  },
+  {
+    "route": "505",
+    "data": {
+      "routeNo": "505",
+      "from": "Simhachalam",
+      "to": "Scindia",
+      "distance": "22  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Simhachalam",
+        "Gopalapatnam Bus Stop",
+        "Nad",
+        "Kancharapalem",
+        "Convent Jn",
+        "Naval Dockyard",
+        "Scindia"
+      ]
+    }
+  },
+  {
+    "route": "52D",
+    "data": {
+      "routeNo": "52D",
+      "from": "Ravindra Nagar",
+      "to": "Ohpo",
+      "distance": "17  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ravindra Nagar",
+        "Adarsha Nagar",
+        "Maddilapalem",
+        "Rtc",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "52E",
+    "data": {
+      "routeNo": "52E",
+      "from": "Yendada Village",
+      "to": "Ohpo",
+      "distance": "25  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Yendada Village",
+        "Rushikonda",
+        "Endada",
+        "Maddilapalem",
+        "Rtc",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "52S/52V",
+    "data": {
+      "routeNo": "52S/52V",
+      "from": "Sagar Nagar",
+      "to": "Ohpo",
+      "distance": "18  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Sagar Nagar",
+        "Visalakshi Nagar",
+        "Maddilapalem",
+        "Rtc",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "540",
+    "data": {
+      "routeNo": "540",
+      "from": "Mvp Complex",
+      "to": "Simhachalam",
+      "distance": "14  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Mvp Complex",
+        "Maddilapalem",
+        "Gurudwara",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Simhachalam"
+      ]
+    }
+  },
+  {
+    "route": "540M",
+    "data": {
+      "routeNo": "540M",
+      "from": "Mvp Complex",
+      "to": "Gajuwaka",
+      "distance": "18  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Mvp Complex",
+        "Maddilapalem",
+        "Gurudwara",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka"
+      ]
+    }
+  },
+  {
+    "route": "541",
+    "data": {
+      "routeNo": "541",
+      "from": "Maddilapalem",
+      "to": "Kothavalasa",
+      "distance": "39  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Maddilapalem",
+        "Gurudwara",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Vepagunta",
+        "Pendurthi",
+        "Kothavalasa"
+      ]
+    }
+  },
+  {
+    "route": "55",
+    "data": {
+      "routeNo": "55",
+      "from": "Simhachalam",
+      "to": "Scindia",
+      "distance": "19  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Simhachalam",
+        "Gopalapatnam Bus Stop",
+        "Nad",
+        "Bhpv",
+        "Gajuwaka",
+        "Malkapuram",
+        "Scindia"
+      ]
+    }
+  },
+  {
+    "route": "555",
+    "data": {
+      "routeNo": "555",
+      "from": "Rtc Complex",
+      "to": "Chodavaram",
+      "distance": "47  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Gurudwar",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Pendurthi",
+        "Sabbavaram",
+        "Chodavaram"
+      ]
+    }
+  },
+  {
+    "route": "55K",
+    "data": {
+      "routeNo": "55K",
+      "from": "Kothavalasa",
+      "to": "Scindia",
+      "distance": "43  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Kothavalasa",
+        "Pendurthi",
+        "Gopalapatnam Bus Stop",
+        "Nad",
+        "Gajuwaka",
+        "Malkapuram",
+        "Scindia"
+      ]
+    }
+  },
+  {
+    "route": "55T",
+    "data": {
+      "routeNo": "55T",
+      "from": "Scindia",
+      "to": "Tagarapuvalasa",
+      "distance": "44  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Scindia",
+        "Malkapuram Gajuwaka",
+        "Nad",
+        "Gopalpatnam",
+        "Pendurthy",
+        "Anandapuram",
+        "Tagarapuvalasa"
+      ]
+    }
+  },
+  {
+    "route": "55V",
+    "data": {
+      "routeNo": "55V",
+      "from": "Vepada",
+      "to": "Scindia",
+      "distance": "48  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Vepada",
+        "Simhachalam",
+        "Gopalapatnam Bus Stop",
+        "Nad",
+        "Gajuwaka",
+        "Malkapuram",
+        "Scindia"
+      ]
+    }
+  },
+  {
+    "route": "5D",
+    "data": {
+      "routeNo": "5D",
+      "from": "Town Kotharoad",
+      "to": "Dabbanda",
+      "distance": "23  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Town Kotharoad",
+        "Convent",
+        "Kancharapalem",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Pendurthi",
+        "Dabbanda"
+      ]
+    }
+  },
+  {
+    "route": "6",
+    "data": {
+      "routeNo": "6",
+      "from": "Simhachalam",
+      "to": "Ohpo",
+      "distance": "21  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Simhachalam",
+        "Gopalapatnam Bus Stop",
+        "Nad",
+        "Kancharapalem",
+        "Convent Junction",
+        "Town Kotharoad",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "60",
+    "data": {
+      "routeNo": "60",
+      "from": "Simhachalam",
+      "to": "Ohpo",
+      "distance": "23  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Simhachalam",
+        "Adavivaram",
+        "Maddilapalem",
+        "Rtc Complex",
+        "Jagadamba",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "600",
+    "data": {
+      "routeNo": "600",
+      "from": "Anakapalle",
+      "to": "Simhachalam",
+      "distance": "34  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Anakapalle",
+        "Aganampudi",
+        "Kurmannapalem",
+        "Gajuwaka",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Simhachalam"
+      ]
+    }
+  },
+  {
+    "route": "600C",
+    "data": {
+      "routeNo": "600C",
+      "from": "Rtc Complex",
+      "to": "Anakapalle",
+      "distance": "34  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rtc Complex",
+        "Railway Station",
+        "Convent",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Aganampudi",
+        "Anakapalle"
+      ]
+    }
+  },
+  {
+    "route": "60C",
+    "data": {
+      "routeNo": "60C",
+      "from": "Arilova Colony",
+      "to": "Ohpo",
+      "distance": "16  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Arilova Colony",
+        "Maddilapalem",
+        "Rtc Complex",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Ohpo"
+      ]
+    }
+  },
+  {
+    "route": "60R",
+    "data": {
+      "routeNo": "60R",
+      "from": "Rk Beach",
+      "to": "Arilova Colony",
+      "distance": "8  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Rk Beach",
+        "Jagadamba",
+        "Rtc Complex",
+        "Maddilapalem",
+        "Arilova Colony"
+      ]
+    }
+  },
+  {
+    "route": "63",
+    "data": {
+      "routeNo": "63",
+      "from": "Rk Beach",
+      "to": "Dibbapalem",
+      "distance": "15  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rk Beach",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Pedagantyada"
+      ]
+    }
+  },
+  {
+    "route": "64A",
+    "data": {
+      "routeNo": "64A",
+      "from": "Collector Office",
+      "to": "Swayambuvaram",
+      "distance": "31  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Collector Office",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Swayambuvaram"
+      ]
+    }
+  },
+  {
+    "route": "65F",
+    "data": {
+      "routeNo": "65F",
+      "from": "Fishing Harbour",
+      "to": "Gangavaram",
+      "distance": "45  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Fishing Harbour",
+        "Collector Office",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Pedagantyada",
+        "Dibbapalem",
+        "Gangavaram"
+      ]
+    }
+  },
+  {
+    "route": "68/68K",
+    "data": {
+      "routeNo": "68/68K",
+      "from": "Rk Beach",
+      "to": "",
+      "distance": "38  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rk Beach",
+        "Jagadamba",
+        "Asilmetta",
+        "Maddilapalem",
+        "Arilova",
+        "Simhachalam",
+        "Kothavalasa"
+      ]
+    }
+  },
+  {
+    "route": "69",
+    "data": {
+      "routeNo": "69",
+      "from": "Arilova Colony",
+      "to": "Railway Station",
+      "distance": "5  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Arilova Colony",
+        "Hb Colony",
+        "Seethamma Dhara Bus Stop",
+        "Satyam Junction",
+        "Rtc Complex"
+      ]
+    }
+  },
+  {
+    "route": "6A/H",
+    "data": {
+      "routeNo": "6A/H",
+      "from": "Rtc Complex",
+      "to": "Simhachalam Hills",
+      "distance": "13  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rtc Complex",
+        "Railway Station",
+        "Kancharapalem",
+        "Nad",
+        "Gopalapatnam Bus Stop",
+        "Simhachalam Hills"
+      ]
+    }
+  },
+  {
+    "route": "6B",
+    "data": {
+      "routeNo": "6B",
+      "from": "Ohpo",
+      "to": "Chintagatla",
+      "distance": "30  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ohpo",
+        "Town Kotharoad",
+        "Convent",
+        "Nad",
+        "Sheelanagar",
+        "Narava",
+        "Chintagatla"
+      ]
+    }
+  },
+  {
+    "route": "700",
+    "data": {
+      "routeNo": "700",
+      "from": "Simhachalam",
+      "to": "Vizianagaram",
+      "distance": "45  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Simhachalam",
+        "Adavivaram",
+        "Shontyam",
+        "Anandapuram",
+        "Padmanabham",
+        "Vizianagaram"
+      ]
+    }
+  },
+  {
+    "route": "744",
+    "data": {
+      "routeNo": "744",
+      "from": "Collector Office",
+      "to": "Dosuru",
+      "distance": "110  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Collector Office",
+        "Jagadamba",
+        "Town Kotha Road",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Parawada",
+        "Dosuru"
+      ]
+    }
+  },
+  {
+    "route": "77",
+    "data": {
+      "routeNo": "77",
+      "from": "Collector Office",
+      "to": "Thanam",
+      "distance": "29  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Collector Office",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Convent",
+        "Scidia",
+        "Gajuwaka",
+        "Thanam"
+      ]
+    }
+  },
+  {
+    "route": "77T",
+    "data": {
+      "routeNo": "77T",
+      "from": "Collector Office",
+      "to": "Thadi",
+      "distance": "30  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Collector Office",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Thadi"
+      ]
+    }
+  },
+  {
+    "route": "844",
+    "data": {
+      "routeNo": "844",
+      "from": "Collector Office",
+      "to": "Kollivanipalem",
+      "distance": "46  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Collector Office",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Parawada",
+        "Kollivanipalem"
+      ]
+    }
+  },
+  {
+    "route": "888",
+    "data": {
+      "routeNo": "888",
+      "from": "Anakapalle",
+      "to": "Tagarapuvalasa",
+      "distance": "52  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Anakapalle",
+        "Pendurthy",
+        "Sontyam",
+        "Anandapuram",
+        "Tagarapuvalasa"
+      ]
+    }
+  },
+  {
+    "route": "900",
+    "data": {
+      "routeNo": "900",
+      "from": "Maddilapalem",
+      "to": "Railway Station",
+      "distance": "28  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Maddilapalem",
+        "Mvp Colony",
+        "Waltair",
+        "Rtc Complex",
+        "Railway Station"
+      ]
+    }
+  },
+  {
+    "route": "900K",
+    "data": {
+      "routeNo": "900K",
+      "from": "Rtc Complex",
+      "to": "Bhimili",
+      "distance": "47  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Rtc Complex",
+        "Waltair",
+        "Mvp Colony",
+        "Rushikonda",
+        "Gitam",
+        "Mangamaripeta",
+        "Ins Kalinga",
+        "Bhimili"
+      ]
+    }
+  },
+  {
+    "route": "900R",
+    "data": {
+      "routeNo": "900R",
+      "from": "Rtc Complex",
+      "to": "Rushikonda",
+      "distance": "48  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Rtc Complex",
+        "Ins Kalinga",
+        "Sagar Nagar",
+        "Rtc",
+        "Rushikonda"
+      ]
+    }
+  },
+  {
+    "route": "900T",
+    "data": {
+      "routeNo": "900T",
+      "from": "Rtc Complex",
+      "to": "Tagarapuvalasa",
+      "distance": "50  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Rtc Complex",
+        "Waltair",
+        "Mvp Colony",
+        "Rushikonda",
+        "Gitam",
+        "Mangamaripeta",
+        "Ins Kalinga",
+        "Tagarapuvalasa"
+      ]
+    }
+  },
+  {
+    "route": "99",
+    "data": {
+      "routeNo": "99",
+      "from": "Collector Office",
+      "to": "Gajuwaka",
+      "distance": "13  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Collector Office",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Malkapuram",
+        "Gajuwaka"
+      ]
+    }
+  },
+  {
+    "route": "999",
+    "data": {
+      "routeNo": "999",
+      "from": "Rtc Complex",
+      "to": "Bhimili",
+      "distance": "31  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rtc Complex",
+        "Maddilapalem",
+        "Endada",
+        "Madhurwada",
+        "Anandapuram",
+        "Bhimili"
+      ]
+    }
+  },
+  {
+    "route": "99A/C",
+    "data": {
+      "routeNo": "99A/C",
+      "from": "Collector Office",
+      "to": "Chodavaram",
+      "distance": "53  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Collector Office",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Kurmannapalem",
+        "Anakapalle",
+        "Chodavaram"
+      ]
+    }
+  },
+  {
+    "route": "99K",
+    "data": {
+      "routeNo": "99K",
+      "from": "Collector Office",
+      "to": "Kurmannapalem",
+      "distance": "18  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Collector Office",
+        "Jagadamba",
+        "Town Kotharoad",
+        "Convent",
+        "Scindia",
+        "Gajuwaka",
+        "Kurmannapalem"
+      ]
+    }
+  }
+]

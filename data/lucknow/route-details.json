@@ -1,0 +1,993 @@
+[
+  {
+    "route": "11",
+    "data": {
+      "routeNo": "11",
+      "from": "Scooter India",
+      "to": "B.B.D.",
+      "distance": "29  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Scooter India",
+        "Thana Krishna Nagar",
+        "Alambagh Chauraha",
+        "Charbagh",
+        "Vidhansabha",
+        "Sikandarbagh",
+        "Dalibagh",
+        "Uptron",
+        "Ambedkar Park",
+        "C.M.S. Gomtinagar",
+        "Thana Gomtinagar",
+        "Patrakarpuram",
+        "Haniman Chauraha",
+        "Chinhat",
+        "B.B.D."
+      ]
+    }
+  },
+  {
+    "route": "11 A.C",
+    "data": {
+      "routeNo": "11 A.C",
+      "from": "",
+      "to": "S.G.P.G.I",
+      "distance": "29  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Bbd",
+        "Chinhat",
+        "Polytechnic",
+        "H.A.L.",
+        "Nishatganj",
+        "Sikandarbagh Chauraha",
+        "Hazratganj",
+        "Burlington Chauraha",
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Awadh Hospital",
+        "Sardar Patel Dental College",
+        "S.G.P.G.I"
+      ]
+    }
+  },
+  {
+    "route": "11 B",
+    "data": {
+      "routeNo": "11 B",
+      "from": "",
+      "to": "Alambagh",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Awadh Hospital",
+        "Sardar Patel Dental College",
+        "S.G.P.G.I"
+      ]
+    }
+  },
+  {
+    "route": "11 C",
+    "data": {
+      "routeNo": "11 C",
+      "from": "Charbagh",
+      "to": "Sardar Patel Dental College",
+      "distance": "22  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Awadh Hospital",
+        "Eldeco Housing Society",
+        "Rajendra Singh Marg",
+        "Sardar Patel Dental College"
+      ]
+    }
+  },
+  {
+    "route": "11 D",
+    "data": {
+      "routeNo": "11 D",
+      "from": "Charbagh",
+      "to": "",
+      "distance": "15  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Awadh Hospital",
+        "Vrindavan Yojna",
+        "South City Block 18 Turn",
+        "Baba Saheb Ambedkar University"
+      ]
+    }
+  },
+  {
+    "route": "11 E",
+    "data": {
+      "routeNo": "11 E",
+      "from": "Charbagh",
+      "to": "Vrindavan Yojna",
+      "distance": "26  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Awadh Hospital",
+        "Suhani Kheda",
+        "Vrindavan Yojna",
+        "Girdhar Kunj Turn",
+        "Gopal Kunj",
+        "Gopesh Kunj Chauraha"
+      ]
+    }
+  },
+  {
+    "route": "11 G",
+    "data": {
+      "routeNo": "11 G",
+      "from": "Sec",
+      "to": "Alambagh",
+      "distance": "13  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Sec",
+        "4 Mord",
+        "Sikandarbagh Chauraha",
+        "Charbagh",
+        "Alambagh"
+      ]
+    }
+  },
+  {
+    "route": "11 LU",
+    "data": {
+      "routeNo": "11 LU",
+      "from": "Mohanlalganj Bas",
+      "to": "Lucknow University",
+      "distance": "21  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Mohanlalganj Bas",
+        "S.G.P.G.I",
+        "Lucknow University"
+      ]
+    }
+  },
+  {
+    "route": "11A",
+    "data": {
+      "routeNo": "11A",
+      "from": "Malhaur Railway Station",
+      "to": "S.G.P.G.I",
+      "distance": "52  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Malhaur Railway Station",
+        "Dewine Heart",
+        "Viram Khand",
+        "C.M.S.",
+        "Gomtinagar",
+        "Dalibagh",
+        "Hazratganj",
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Awadh Hospital",
+        "Sardar Patel Dental College",
+        "S.G.P.G.I"
+      ]
+    }
+  },
+  {
+    "route": "12",
+    "data": {
+      "routeNo": "12",
+      "from": "",
+      "to": "Scooter India",
+      "distance": "28  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "B.B.D.",
+        "Chinhat",
+        "Polytechnic",
+        "H.A.L.",
+        "Nishatganj",
+        "Sikandarbagh Chauraha",
+        "Hazratganj",
+        "Burlington Chauraha",
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Thana Krishna Nagar",
+        "Scooter India"
+      ]
+    }
+  },
+  {
+    "route": "13",
+    "data": {
+      "routeNo": "13",
+      "from": "Charbagh",
+      "to": "Kati Bagiya",
+      "distance": "22  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Charbagh",
+        "Scooter India",
+        "Kati Bagiya"
+      ]
+    }
+  },
+  {
+    "route": "15",
+    "data": {
+      "routeNo": "15",
+      "from": "Charbagh",
+      "to": "",
+      "distance": "6  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Langda Fatak",
+        "Manak Nagar Railway Crossing",
+        "Rdso"
+      ]
+    }
+  },
+  {
+    "route": "23",
+    "data": {
+      "routeNo": "23",
+      "from": "Gudamba",
+      "to": "Rajni Khand",
+      "distance": "22  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Gudamba",
+        "Vikas Nagar",
+        "Nishat Ganj",
+        "Sikandarbagh Chauraha",
+        "Hazratganj",
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Bara Birwa",
+        "L.D.A. Colony",
+        "Pasi Qila Chauraha",
+        "Rajni Khand"
+      ]
+    }
+  },
+  {
+    "route": "23 B",
+    "data": {
+      "routeNo": "23 B",
+      "from": "Integral University",
+      "to": "Sadrauna",
+      "distance": "25  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Integral University",
+        "Kanshi Ram Yojna",
+        "Sadrauna"
+      ]
+    }
+  },
+  {
+    "route": "23 T",
+    "data": {
+      "routeNo": "23 T",
+      "from": "Integral University",
+      "to": "T.S. Mishra Hospital",
+      "distance": "85  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Integral University",
+        "P.S. Gudamba",
+        "Kanshi Ram Yojna",
+        "T.S. Mishra Hospital"
+      ]
+    }
+  },
+  {
+    "route": "24",
+    "data": {
+      "routeNo": "24",
+      "from": "Engineering College",
+      "to": "Scooter India",
+      "distance": "28  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Engineering College",
+        "Munshi Pulia",
+        "Indira Nagar",
+        "Nishatganj",
+        "Sikandar Bagh Chauraha",
+        "Hazratganj",
+        "Burlington Chauraha",
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Thana Krishna Nagar",
+        "Scooter India"
+      ]
+    }
+  },
+  {
+    "route": "24 A",
+    "data": {
+      "routeNo": "24 A",
+      "from": "Alambagh",
+      "to": "Picnic Spot",
+      "distance": "15  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Alambagh Chauraha",
+        "Alambagh Bus Station",
+        "Charbagh",
+        "Hazratganj",
+        "Nishat Ganj",
+        "Gol Market",
+        "Indira Nagar",
+        "Munshi Pulia",
+        "Manas Vihar Colony",
+        "Picnic Spot"
+      ]
+    }
+  },
+  {
+    "route": "24 B",
+    "data": {
+      "routeNo": "24 B",
+      "from": "P.S Indira Nagar",
+      "to": "Schootar India",
+      "distance": "20  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "P.S Indira Nagar",
+        "Kkc",
+        "Air Port",
+        "Schootar India"
+      ]
+    }
+  },
+  {
+    "route": "25",
+    "data": {
+      "routeNo": "25",
+      "from": "Charbagh",
+      "to": "Chandrawal",
+      "distance": "15  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Charbagh",
+        "Thana Alambagh",
+        "Jail Road",
+        "Bangla Bazar",
+        "Pasi Qila",
+        "Bijnaur",
+        "Azad Engineering College",
+        "Chandrawal"
+      ]
+    }
+  },
+  {
+    "route": "25 A:",
+    "data": {
+      "routeNo": "25 A:",
+      "from": "Charbagh",
+      "to": "Mati",
+      "distance": "15  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Charbagh",
+        "Thana Alambagh",
+        "Jail Road",
+        "Bangla Bazar",
+        "Pasi Qila",
+        "Bijnaur",
+        "Mati"
+      ]
+    }
+  },
+  {
+    "route": "31",
+    "data": {
+      "routeNo": "31",
+      "from": "Alambagh",
+      "to": "",
+      "distance": "17  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Alambagh Chauraha",
+        "Alambagh Bus Station",
+        "Charbagh",
+        "Hazratganj",
+        "Nishat Ganj",
+        "Gol Market",
+        "Kapoor Thala",
+        "Engineering College",
+        "Iim"
+      ]
+    }
+  },
+  {
+    "route": "31 A",
+    "data": {
+      "routeNo": "31 A",
+      "from": "Charbagh",
+      "to": "Air Force",
+      "distance": "20  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Charbagh",
+        "Sikandarbagh",
+        "Engineering College",
+        "Air Force"
+      ]
+    }
+  },
+  {
+    "route": "33",
+    "data": {
+      "routeNo": "33",
+      "from": "Engineering College",
+      "to": "Scooter India",
+      "distance": "23  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Engineering College",
+        "Kapoor Thala",
+        "Gol Market",
+        "Nishatganj",
+        "Sikandarbagh Chauraha",
+        "Hazratganj",
+        "Burlington Chauraha",
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Krishna Nagar Thana",
+        "Scooter India"
+      ]
+    }
+  },
+  {
+    "route": "33 A.C",
+    "data": {
+      "routeNo": "33 A.C",
+      "from": "Engineering College",
+      "to": "Scooter India",
+      "distance": "23  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Engineering College",
+        "Kapoor Thala",
+        "Gol Market",
+        "Nishatganj",
+        "Sikandarbagh Chauraha",
+        "Hazratganj",
+        "Burlington Chauraha",
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Krishna Nagar Thana",
+        "Scooter India"
+      ]
+    }
+  },
+  {
+    "route": "33 B",
+    "data": {
+      "routeNo": "33 B",
+      "from": "Indralok Colony",
+      "to": "Sahara States",
+      "distance": "16  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Indralok Colony",
+        "Charbagh",
+        "Kapoor Thala",
+        "Engineering College",
+        "Sahara States"
+      ]
+    }
+  },
+  {
+    "route": "33 C",
+    "data": {
+      "routeNo": "33 C",
+      "from": "Charbagh",
+      "to": "C.D.R.I Chauraha",
+      "distance": "17  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Charbagh",
+        "Engineering College",
+        "C.D.R.I Chauraha"
+      ]
+    }
+  },
+  {
+    "route": "33 M",
+    "data": {
+      "routeNo": "33 M",
+      "from": "",
+      "to": "Madiyawn Ganw",
+      "distance": "10  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Charbagh",
+        "Engineering College",
+        "Madiyawn Ganw"
+      ]
+    }
+  },
+  {
+    "route": "33 NON A.C",
+    "data": {
+      "routeNo": "33 NON A.C",
+      "from": "Engineering College",
+      "to": "Scooter India",
+      "distance": "23  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Engineering College",
+        "Kapoor Thala",
+        "Gol Market",
+        "Nishatganj",
+        "Sikandarbagh Chauraha",
+        "Hazratganj",
+        "Burlington Chauraha",
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Krishna Nagar Thana",
+        "Scooter India"
+      ]
+    }
+  },
+  {
+    "route": "33 PGI",
+    "data": {
+      "routeNo": "33 PGI",
+      "from": "Engineering College",
+      "to": "Mohanlalganj Bas",
+      "distance": "26  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Engineering College",
+        "Gpo",
+        "South City",
+        "Mohanlalganj Bas"
+      ]
+    }
+  },
+  {
+    "route": "33 S",
+    "data": {
+      "routeNo": "33 S",
+      "from": "Bhtauli Chauraha",
+      "to": "Dr. Shakuntla Mishra",
+      "distance": "11  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Bhtauli Chauraha",
+        "Engineering College",
+        "Dr. Shakuntla Mishra"
+      ]
+    }
+  },
+  {
+    "route": "33 SAKHI",
+    "data": {
+      "routeNo": "33 SAKHI",
+      "from": "Ind Area",
+      "to": "Engineering College",
+      "distance": "9  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Ind Area",
+        "Gol Market",
+        "Engineering College"
+      ]
+    }
+  },
+  {
+    "route": "34",
+    "data": {
+      "routeNo": "34",
+      "from": "Alambagh",
+      "to": "",
+      "distance": "12  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Alambagh",
+        "Charbagh",
+        "Hazratganj",
+        "Nishat Ganj",
+        "Mahanagar Boys",
+        "Kapoor Thala",
+        "Puraniya Chauraha",
+        "Keshav Nagar"
+      ]
+    }
+  },
+  {
+    "route": "34 IT",
+    "data": {
+      "routeNo": "34 IT",
+      "from": "Charbagh",
+      "to": "Itaunja",
+      "distance": "28  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Charbagh",
+        "Engineering College",
+        "Itaunja"
+      ]
+    }
+  },
+  {
+    "route": "35",
+    "data": {
+      "routeNo": "35",
+      "from": "Charbagh",
+      "to": "Bakshi Ka Talab",
+      "distance": "19  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Charbagh",
+        "Burlington Chauraha",
+        "Odeon Cenema",
+        "Kaisar Bagh Bus Station",
+        "Daliganj",
+        "Madiyaon",
+        "Bakshi Ka Talab"
+      ]
+    }
+  },
+  {
+    "route": "35 I",
+    "data": {
+      "routeNo": "35 I",
+      "from": "Charbagh",
+      "to": "Maanpur",
+      "distance": "31  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Charbagh",
+        "B.K.T",
+        "Maanpur"
+      ]
+    }
+  },
+  {
+    "route": "35 LU",
+    "data": {
+      "routeNo": "35 LU",
+      "from": "Charbagh",
+      "to": "Tehsil Mod",
+      "distance": "32  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Charbagh",
+        "Kaisarbagh",
+        "Bakshi Ka Talab",
+        "Tehsil Mod"
+      ]
+    }
+  },
+  {
+    "route": "35A",
+    "data": {
+      "routeNo": "35A",
+      "from": "Charbagh",
+      "to": "Raitha",
+      "distance": "25  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Charbagh",
+        "Burlington Chauraha",
+        "Odeon Cenema",
+        "Kaisar Bagh Bus Station",
+        "Daliganj",
+        "Madiyaon",
+        "Chakkarpurva",
+        "Raitha"
+      ]
+    }
+  },
+  {
+    "route": "41",
+    "data": {
+      "routeNo": "41",
+      "from": "Dubagga",
+      "to": "Viraj Khand",
+      "distance": "17  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Dubagga",
+        "It Chauraha",
+        "Viraj Khand"
+      ]
+    }
+  },
+  {
+    "route": "41 LU",
+    "data": {
+      "routeNo": "41 LU",
+      "from": "Dubagga",
+      "to": "Viraj Khand",
+      "distance": "17  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Dubagga",
+        "Hal",
+        "Viraj Khand"
+      ]
+    }
+  },
+  {
+    "route": "43 A",
+    "data": {
+      "routeNo": "43 A",
+      "from": "Dubagga",
+      "to": "Bhitauli",
+      "distance": "10  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Dubagga",
+        "Iim Turn",
+        "Bhitauli"
+      ]
+    }
+  },
+  {
+    "route": "43 B",
+    "data": {
+      "routeNo": "43 B",
+      "from": "Charbagh",
+      "to": "Baharu",
+      "distance": "17  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Charbagh",
+        "Dubagga",
+        "Baharu"
+      ]
+    }
+  },
+  {
+    "route": "44",
+    "data": {
+      "routeNo": "44",
+      "from": "Alambagh",
+      "to": "Andhe Ki Chowki",
+      "distance": "17  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Alambagh Chauraha",
+        "Charbagh",
+        "Basmandi",
+        "Lal Kuwan",
+        "Husainganj",
+        "Barlington Chauraha",
+        "Odeon Cinema",
+        "Kaisarbagh Bus Station",
+        "Ghandhi Bhawan",
+        "Medical College",
+        "Balaganj Chauraha",
+        "Andhe Ki Chowki"
+      ]
+    }
+  },
+  {
+    "route": "45",
+    "data": {
+      "routeNo": "45",
+      "from": "Viraj Khand",
+      "to": "Pasi Qila",
+      "distance": "24  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Viraj Khand",
+        "Gomtinagar",
+        "Lohia Hospital",
+        "Polytechnic",
+        "H.A.L. Nishatganj",
+        "Sikandarbagh Chauraha",
+        "Hazratganj",
+        "Burlington Chauraha",
+        "Charbagh",
+        "Alambagh Chauraha",
+        "Barabirwa",
+        "Parag Dairy",
+        "Pasi Qila"
+      ]
+    }
+  },
+  {
+    "route": "46",
+    "data": {
+      "routeNo": "46",
+      "from": "S.G.P.G.I",
+      "to": "",
+      "distance": "24  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Sgpgi",
+        "Telibagh Nahar",
+        "Jail Road",
+        "Anand Nagar",
+        "Thana Alambagh",
+        "Charbagh Bus Station",
+        "Husainganj",
+        "Shubham Cinema",
+        "Kaisarbahg Bus Station",
+        "Shaheed Smarak",
+        "Chowk",
+        "Thakur Ganj",
+        "Dubagga"
+      ]
+    }
+  },
+  {
+    "route": "46 A",
+    "data": {
+      "routeNo": "46 A",
+      "from": "Dubagga",
+      "to": "Mohanlalganj Bas.",
+      "distance": "24  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Dubagga",
+        "S.G.P.G.I",
+        "Mohanlalganj Bas."
+      ]
+    }
+  },
+  {
+    "route": "65 T",
+    "data": {
+      "routeNo": "65 T",
+      "from": "Rajajipuram",
+      "to": "Kuwar Global School",
+      "distance": "16  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Rajajipuram",
+        "Hal",
+        "Kuwar Global School"
+      ]
+    }
+  },
+  {
+    "route": "65 V",
+    "data": {
+      "routeNo": "65 V",
+      "from": "Rajajipuram",
+      "to": "Viraj Khand",
+      "distance": "14  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Rajajipuram",
+        "G.P.O",
+        "Viraj Khand"
+      ]
+    }
+  },
+  {
+    "route": "66",
+    "data": {
+      "routeNo": "66",
+      "from": "Gol Market",
+      "to": "Kakori Mod Tiraha",
+      "distance": "23  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Gol Market",
+        "Nishat Ganj",
+        "Sikandarbagh Chauraha",
+        "Hazratganj",
+        "Burlington Chauraha",
+        "Charbagh",
+        "Mawaiya",
+        "Eveready",
+        "Ranjeet Singh Building",
+        "Lic Office",
+        "Mis Chauraha",
+        "Rajajipuram Tempo Stand",
+        "C.M.S.",
+        "Buddheshwar Chauraha",
+        "Pink City",
+        "Rajkiya Bal Grah",
+        "Rajkiya Drishtibadhit College",
+        "Viklang Punarvas Kendra",
+        "Kakori Mod Tiraha"
+      ]
+    }
+  },
+  {
+    "route": "66 A",
+    "data": {
+      "routeNo": "66 A",
+      "from": "Kakori",
+      "to": "Engineering College",
+      "distance": "23  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Kakori",
+        "Charbagh",
+        "Engineering College"
+      ]
+    }
+  },
+  {
+    "route": "66 LU",
+    "data": {
+      "routeNo": "66 LU",
+      "from": "Rajajipuram",
+      "to": "Engineering College",
+      "distance": "13  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Rajajipuram",
+        "Charbagh",
+        "Engineering College"
+      ]
+    }
+  },
+  {
+    "route": "66 M",
+    "data": {
+      "routeNo": "66 M",
+      "from": "Tempo Stand Rajajipuram",
+      "to": "Mohaan",
+      "distance": "21  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Tempo Stand Rajajipuram",
+        "Fatheganj",
+        "Mohaan"
+      ]
+    }
+  },
+  {
+    "route": "68",
+    "data": {
+      "routeNo": "68",
+      "from": "Gol Market",
+      "to": "Rajajipuram",
+      "distance": "14  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Gol Market",
+        "Nishat Ganj",
+        "Sikandarbagh Chauraha",
+        "Hazratganj",
+        "Burlington Chauraha",
+        "Charbagh",
+        "Mawaiya",
+        "Eveready",
+        "Meena Bakery Chauraha",
+        "Lda Rajajipuram",
+        "Kothari Bandhu Park",
+        "Mis Chauraha",
+        "Rajajipuram Tempo Stand"
+      ]
+    }
+  },
+  {
+    "route": "69",
+    "data": {
+      "routeNo": "69",
+      "from": "Swarnim Public School",
+      "to": "Engineering College",
+      "distance": "14  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Swarnim Public School",
+        "G.P.O",
+        "Kapoor Thala",
+        "Engineering College"
+      ]
+    }
+  }
+]

@@ -1,0 +1,8609 @@
+[
+  {
+    "route": "1",
+    "data": {
+      "routeNo": "1",
+      "from": "Ramnagar -",
+      "to": "Garia Rd",
+      "distance": "23  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Ramnagar -",
+        "B.N.R. Office",
+        "Panbazar",
+        "Hastings",
+        "Belvedere Rd",
+        "Zoo Garden Baker Rd",
+        "Hazra Rd",
+        "S.P.Mukherjee Rd",
+        "Rash Behari Ave",
+        "Gariahat",
+        "Ballygunge Station",
+        "Kasba Rd",
+        "Haltu Main Rd",
+        "Palbazar (Jadavpur)",
+        "Garia Rd"
+      ]
+    }
+  },
+  {
+    "route": "1 Mini",
+    "data": {
+      "routeNo": "1 Mini",
+      "from": "Bandhaghat",
+      "to": "Howrah",
+      "distance": "8  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Bandhaghat",
+        "Dharamtala.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "1- feb Private",
+    "data": {
+      "routeNo": "1- feb Private",
+      "from": "Sealdah",
+      "to": "Fatehpur",
+      "distance": "9  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Sealdah",
+        "Fatehpur"
+      ]
+    }
+  },
+  {
+    "route": "10",
+    "data": {
+      "routeNo": "10",
+      "from": "Ballygunge Stn.",
+      "to": "Howrah Stn.",
+      "distance": "11  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Ballygunge Stn.",
+        "Rash Behari Ave",
+        "Gariahat Rd",
+        "Syed Amir Ali Ave",
+        "Suhrwardy Ave",
+        "Dr. Sundari Mohan Ave",
+        "Acharya J.C. Bose Rd",
+        "Sealdah Fly Over",
+        "Mahatma Gandhi Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "10 Mini",
+    "data": {
+      "routeNo": "10 Mini",
+      "from": "Ballykhal",
+      "to": "Howrah",
+      "distance": "12  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Ballykhal",
+        "Belur.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "101",
+    "data": {
+      "routeNo": "101",
+      "from": "Garia",
+      "to": "B.B.D. Bag",
+      "distance": "12  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Garia",
+        "Jadavpur.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "102",
+    "data": {
+      "routeNo": "102",
+      "from": "Ramgarh",
+      "to": "B.B.D. Bag",
+      "distance": "11  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Ramgarh",
+        "Jadavpur",
+        "Gariahat.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "103",
+    "data": {
+      "routeNo": "103",
+      "from": "Jadavpur",
+      "to": "B.B.D. Bag",
+      "distance": "9  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Jadavpur",
+        "Ballygung Phari",
+        "Minto Park.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "104",
+    "data": {
+      "routeNo": "104",
+      "from": "Jodhpur Park",
+      "to": "B.B.D. Bag",
+      "distance": "7  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Jodhpur Park",
+        "Gariahat",
+        "Gurusaday Rd.",
+        "Lower Circular Road.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "105",
+    "data": {
+      "routeNo": "105",
+      "from": "Dhakuria",
+      "to": "B.B.D. Bag",
+      "distance": "7  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Dhakuria",
+        "Rash Behari Avenue.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "106",
+    "data": {
+      "routeNo": "106",
+      "from": "Santoshpur",
+      "to": "B.B.D. Bag",
+      "distance": "10  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Santoshpur",
+        "Sulekha",
+        "Jadavpur",
+        "Kalamandir.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "107",
+    "data": {
+      "routeNo": "107",
+      "from": "Gariahat",
+      "to": "Howrah",
+      "distance": "13  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Gariahat",
+        "Minto Park",
+        "Dharamtala.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "108",
+    "data": {
+      "routeNo": "108",
+      "from": "Kasba (Rathtala)",
+      "to": "Howrah",
+      "distance": "17  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kasba (Rathtala)",
+        "Gariahat",
+        "Mullick Bazar.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "109",
+    "data": {
+      "routeNo": "109",
+      "from": "Ekdalia Park -",
+      "to": "B.B.D. Bag",
+      "distance": "7  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ekdalia Park -",
+        "Ballygunge Stn.",
+        "Gurusaday Dutta Rd.",
+        "Minto Park",
+        "Rabindra Sadan",
+        "Park Street.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "11",
+    "data": {
+      "routeNo": "11",
+      "from": "Rathtala (Belgharia)",
+      "to": "Howrah Stn",
+      "distance": "14  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Rathtala (Belgharia)",
+        "B.T. Rd",
+        "Sinthi More",
+        "Chiria More",
+        "Hemanta Setu",
+        "Shyambazar",
+        "Acharya Profulla Ch. Rd",
+        "Sealdah",
+        "Mahatma Gandhi Rd",
+        "Howrah Stn"
+      ]
+    }
+  },
+  {
+    "route": "11 Mini",
+    "data": {
+      "routeNo": "11 Mini",
+      "from": "Belur Math",
+      "to": "Dharamtala",
+      "distance": "12  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Belur Math",
+        "Bandhaghat",
+        "Howrah.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "110",
+    "data": {
+      "routeNo": "110",
+      "from": "Bekbagan",
+      "to": "Howrah",
+      "distance": "12  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Bekbagan",
+        "Park Circus",
+        "Dharamtala.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "111",
+    "data": {
+      "routeNo": "111",
+      "from": "Lake Road",
+      "to": "Howrah",
+      "distance": "14  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Lake Road",
+        "Dharamtala",
+        "Rabindra Sadan.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "112",
+    "data": {
+      "routeNo": "112",
+      "from": "Naktala",
+      "to": "Howrah",
+      "distance": "20  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Naktala",
+        "Ranikuthi",
+        "Hazra",
+        "Dharamtalla.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "113",
+    "data": {
+      "routeNo": "113",
+      "from": "Harinavi",
+      "to": "B.B.D. Bag",
+      "distance": "21  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Harinavi",
+        "Rajpur",
+        "Narendrapur",
+        "Garia",
+        "Naktala",
+        "Tollygung",
+        "Kalighat.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "114",
+    "data": {
+      "routeNo": "114",
+      "from": "Kudghat",
+      "to": "B.B.D. Bag",
+      "distance": "10  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Kudghat",
+        "Tollygung",
+        "R.B. Ave.",
+        "Hazra",
+        "Harish Mukherjee Rd.",
+        "Park Street.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "115",
+    "data": {
+      "routeNo": "115",
+      "from": "Bijoygarh",
+      "to": "B.B.D. Bag",
+      "distance": "11  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Bijoygarh",
+        "Netaji Nagar.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "116",
+    "data": {
+      "routeNo": "116",
+      "from": "Lakegarden",
+      "to": "B.B.D. Bag",
+      "distance": "9  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Lakegarden",
+        "Rash Behari Avenue",
+        "Kalighat",
+        "Hazra.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "117",
+    "data": {
+      "routeNo": "117",
+      "from": "Tollygung",
+      "to": "Howrah",
+      "distance": "17  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Tollygung",
+        "Esplanade.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "118",
+    "data": {
+      "routeNo": "118",
+      "from": "Dey S Medical",
+      "to": "Howrah",
+      "distance": "27  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Dey S Medical",
+        "S.P. Mukherjee Road.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "119",
+    "data": {
+      "routeNo": "119",
+      "from": "Thakurpukur",
+      "to": "B.B.D. Bag",
+      "distance": "15  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Thakurpukur",
+        "Joka.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "11A",
+    "data": {
+      "routeNo": "11A",
+      "from": "Dum Dum Stn.",
+      "to": "Howrah Stn.",
+      "distance": "21  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Dum Dum Stn.",
+        "Dum Dum Stn.Rd",
+        "B.T. Rd",
+        "Shyambazar",
+        "Acharya Prafulla Ch. Rd",
+        "Manicktala Bazar",
+        "Beadon St.",
+        "Rabindra Sarani",
+        "Ganesh Talkies",
+        "Kalikrishna Tagore St.",
+        "Strand Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "11A Mini",
+    "data": {
+      "routeNo": "11A Mini",
+      "from": "Behala",
+      "to": "Howrah",
+      "distance": "17  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Behala",
+        "Kalighat.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "12",
+    "data": {
+      "routeNo": "12",
+      "from": "Jhilmil",
+      "to": "Badartala",
+      "distance": "25  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Jhilmil",
+        "E.M. By Pass",
+        "Kankurgachi",
+        "Maniktala",
+        "Sealdah",
+        "Moulali",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "Esplanade",
+        "Strand Rd",
+        "Hastings",
+        "Kidderpore Bridge.Cir. Garden Reach Rd",
+        "B.N.R. Office",
+        "Hide Rd",
+        "Jinjiria Bazar",
+        "Badartala"
+      ]
+    }
+  },
+  {
+    "route": "12 Private",
+    "data": {
+      "routeNo": "12 Private",
+      "from": "Raja Bazar",
+      "to": "Jhilmil (Salt Lake)",
+      "distance": "15  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Raja Bazar",
+        "Ultadanga",
+        "Phulbagan.",
+        "Jhilmil (Salt Lake)"
+      ]
+    }
+  },
+  {
+    "route": "120",
+    "data": {
+      "routeNo": "120",
+      "from": "Behala Chourasta",
+      "to": "B.B.D. Bag",
+      "distance": "16  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Behala Chourasta",
+        "Mominpur",
+        "Ekbalpur",
+        "Taratala",
+        "Zoological Gardens.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "121",
+    "data": {
+      "routeNo": "121",
+      "from": "Joka",
+      "to": "Bandstand",
+      "distance": "13  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Joka",
+        "Taratalla",
+        "Mominpur",
+        "Esplanade.",
+        "Bandstand"
+      ]
+    }
+  },
+  {
+    "route": "122",
+    "data": {
+      "routeNo": "122",
+      "from": "Jadavpur -",
+      "to": "Purbachal (Salt Lake)",
+      "distance": "11  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Jadavpur -",
+        "Sealdah",
+        "Beliaghata.",
+        "Purbachal (Salt Lake)"
+      ]
+    }
+  },
+  {
+    "route": "123",
+    "data": {
+      "routeNo": "123",
+      "from": "Metiaburuz",
+      "to": "Howrah Station",
+      "distance": "20  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Metiaburuz",
+        "Dharamtalla",
+        "Kidderpore.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "124",
+    "data": {
+      "routeNo": "124",
+      "from": "Golf Green",
+      "to": "B.B.D. Bag",
+      "distance": "12  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Golf Green",
+        "Deshapriya Park",
+        "Minto Park",
+        "Landsdowne",
+        "Park Street",
+        "Dharamtala.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "125",
+    "data": {
+      "routeNo": "125",
+      "from": "Deys Medical",
+      "to": "B.B.D. Bag",
+      "distance": "5  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Deys Medical",
+        "Rabindra Sadan",
+        "Park Street.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "126",
+    "data": {
+      "routeNo": "126",
+      "from": "Batanagar",
+      "to": "Howrah",
+      "distance": "19  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Batanagar",
+        "Kidderpore",
+        "Esplanade.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "128",
+    "data": {
+      "routeNo": "128",
+      "from": "Picnic Garden",
+      "to": "Howrah Station",
+      "distance": "6  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Picnic Garden",
+        "Park Circus.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "129",
+    "data": {
+      "routeNo": "129",
+      "from": "Parnasree",
+      "to": "Howrah Station",
+      "distance": "10  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Parnasree",
+        "Mominpur",
+        "Esplanade.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "129 Mini",
+    "data": {
+      "routeNo": "129 Mini",
+      "from": "Rabindranagar",
+      "to": "Howrah Station",
+      "distance": "10  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Rabindranagar",
+        "Taratala",
+        "Esplanade.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "12A",
+    "data": {
+      "routeNo": "12A",
+      "from": "Howrah Stn.",
+      "to": "Rajabagan",
+      "distance": "21  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Howrah Stn.",
+        "Howrah Bridge",
+        "Brabourne Rd",
+        "India Exchange Place",
+        "Old Court House St.",
+        "Esplanade",
+        "Strand Rd",
+        "Kidderpore Bridge",
+        "Cir. Garden Reach Rd",
+        "B.N.R. Office",
+        "Garden Reach Rd",
+        "Paharpore Rd",
+        "Rajabagan"
+      ]
+    }
+  },
+  {
+    "route": "12B",
+    "data": {
+      "routeNo": "12B",
+      "from": "Esplanade",
+      "to": "Akraphatak",
+      "distance": "16  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Esplanade",
+        "Strand Rd",
+        "Watgunge St.",
+        "Cir. Garden Reach Rd",
+        "B.N.R. Office",
+        "Garden Reach Rd",
+        "Metiabruz",
+        "Ankara Rd",
+        "Akraphatak"
+      ]
+    }
+  },
+  {
+    "route": "12C",
+    "data": {
+      "routeNo": "12C",
+      "from": "Howrah Stn.",
+      "to": "Pailan",
+      "distance": "31  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Howrah Stn.",
+        "Howrah Bridge",
+        "Strand Rd",
+        "Koilaghat St.",
+        "B.B.D. Bag",
+        "Old Court House St",
+        "Esplanade",
+        "Kidderpore Rd",
+        "Kidderpore Bridge",
+        "Babu Bazar",
+        "Garden Reach Rd",
+        "Hide Rd",
+        "Brace Bridge",
+        "Taratala Rd",
+        "Diamond Harbour Rd",
+        "Behala",
+        "Sakherbazar",
+        "B.N.R.",
+        "Pailan"
+      ]
+    }
+  },
+  {
+    "route": "12C/1",
+    "data": {
+      "routeNo": "12C/1",
+      "from": "Sarsuna",
+      "to": "Howrah",
+      "distance": "23  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Sarsuna",
+        "Bakultala",
+        "Behala Chowrasta",
+        "Race Course",
+        "Chowranghee",
+        "Esplanade",
+        "B.B.D. Bag.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "12C/1A",
+    "data": {
+      "routeNo": "12C/1A",
+      "from": "Joka",
+      "to": "Howrah",
+      "distance": "23  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Joka",
+        "Behala",
+        "Park St",
+        "B.B.D. Bag.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "12C/2",
+    "data": {
+      "routeNo": "12C/2",
+      "from": "Dum Dum Park",
+      "to": "Howrah Stn.",
+      "distance": "14  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Dum Dum Park",
+        "Bangur Ave",
+        "V.I.P. Rd",
+        "Kankurgachi",
+        "Phoolbagan",
+        "Maniktala",
+        "Raja Rammohan Sn.",
+        "B.B. Ganguly St",
+        "M.G. Rd Crossing",
+        "Esplanade",
+        "B.B.D. Bag.",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "12D",
+    "data": {
+      "routeNo": "12D",
+      "from": "Howrah Stn.",
+      "to": "Thakurpukur",
+      "distance": "16  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Howrah Stn.",
+        "Howrah Bridge",
+        "Strand Rd",
+        "Koilaghat St.",
+        "B.B.D. Bag",
+        "Esplanade",
+        "Kidderpore Rd",
+        "Diamond Harbour Rd",
+        "Mominpur",
+        "Majherhat",
+        "Behala",
+        "Thakurpukur"
+      ]
+    }
+  },
+  {
+    "route": "13",
+    "data": {
+      "routeNo": "13",
+      "from": "Parnasree Colony",
+      "to": "Sealdah",
+      "distance": "13  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Parnasree Colony",
+        "Jinjiria Bazar",
+        "Taratala Rd",
+        "Diamond Harbour Rd",
+        "Mominpur",
+        "Kidderpore Rd",
+        "Esplanade.",
+        "B.B.D. Bag",
+        "B.B. Ganguly St.",
+        "College St.",
+        "Sealdah"
+      ]
+    }
+  },
+  {
+    "route": "13 Mini",
+    "data": {
+      "routeNo": "13 Mini",
+      "from": "Ranihati (Howrah)",
+      "to": "Rajabazar",
+      "distance": "12  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Ranihati (Howrah)",
+        "Howrah",
+        "Manicktala.",
+        "Rajabazar"
+      ]
+    }
+  },
+  {
+    "route": "130",
+    "data": {
+      "routeNo": "130",
+      "from": "Bijoygarh",
+      "to": "Howrah",
+      "distance": "19  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Bijoygarh",
+        "Bagha Jatin",
+        "Jadavpur.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "131",
+    "data": {
+      "routeNo": "131",
+      "from": "Joka",
+      "to": "Howrah",
+      "distance": "17  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Joka",
+        "Behala Chaurasta",
+        "Kidderpore.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "132",
+    "data": {
+      "routeNo": "132",
+      "from": "Budge Budge",
+      "to": "Band Stand",
+      "distance": "13  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Budge Budge",
+        "Kalipur",
+        "Dharamtala.",
+        "Band Stand"
+      ]
+    }
+  },
+  {
+    "route": "133",
+    "data": {
+      "routeNo": "133",
+      "from": "Haridebpur",
+      "to": "Dum Dum Park",
+      "distance": "17  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Haridebpur",
+        "Esplanade",
+        "Ultadanga.",
+        "Dum Dum Park"
+      ]
+    }
+  },
+  {
+    "route": "133 Mini",
+    "data": {
+      "routeNo": "133 Mini",
+      "from": "Haridebpur",
+      "to": "Babughat",
+      "distance": "33  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Haridebpur",
+        "S.P. Mukherjee Road.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "133/1 Mini",
+    "data": {
+      "routeNo": "133/1 Mini",
+      "from": "Babughat",
+      "to": "New Barackpur",
+      "distance": "39  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Babughat",
+        "Sodhpur",
+        "B.T. Road.",
+        "New Barackpur"
+      ]
+    }
+  },
+  {
+    "route": "134",
+    "data": {
+      "routeNo": "134",
+      "from": "Karunamoyee",
+      "to": "Phulbagan",
+      "distance": "23  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Karunamoyee",
+        "Taratala",
+        "Sealdah.",
+        "Phulbagan"
+      ]
+    }
+  },
+  {
+    "route": "135",
+    "data": {
+      "routeNo": "135",
+      "from": "Jadavpur",
+      "to": "Howrah Station",
+      "distance": "10  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Jadavpur",
+        "Anwar Shah Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "136",
+    "data": {
+      "routeNo": "136",
+      "from": "Bannerjee Hat",
+      "to": "Milk Colony",
+      "distance": "17  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Bannerjee Hat",
+        "Park St.",
+        "College Street.",
+        "Milk Colony"
+      ]
+    }
+  },
+  {
+    "route": "137",
+    "data": {
+      "routeNo": "137",
+      "from": "Prince Anwar Shah Road",
+      "to": "Nimtala",
+      "distance": "10  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Prince Anwar Shah Road",
+        "C.R. Avenue.",
+        "Nimtala"
+      ]
+    }
+  },
+  {
+    "route": "138",
+    "data": {
+      "routeNo": "138",
+      "from": "Jadavpur",
+      "to": "Airport",
+      "distance": "18  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Jadavpur",
+        "Park Circus",
+        "Ultadanga",
+        "Laketown.",
+        "Airport"
+      ]
+    }
+  },
+  {
+    "route": "139",
+    "data": {
+      "routeNo": "139",
+      "from": "Chetla",
+      "to": "Bagbazar",
+      "distance": "11  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Chetla",
+        "Gopal Nagar",
+        "College St.",
+        "Shyambazar.",
+        "Bagbazar"
+      ]
+    }
+  },
+  {
+    "route": "13A",
+    "data": {
+      "routeNo": "13A",
+      "from": "Mirza Housing Estate",
+      "to": "B.B.D. Bag",
+      "distance": "12  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Mirza Housing Estate",
+        "Jinjiria Bazar",
+        "Taratala Rd",
+        "Mominpur",
+        "Kidderpore Rd",
+        "Harish Mukherjee Rd",
+        "Esplanade.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "13B",
+    "data": {
+      "routeNo": "13B",
+      "from": "Rabindra Nagar",
+      "to": "A.J. Block Salt Lake (Sech Bhavan)",
+      "distance": "40  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Rabindra Nagar",
+        "Philips",
+        "D.H. Rd",
+        "Mominpur",
+        "Kidderpore",
+        "Esplanade",
+        "B.B.D. Bag",
+        "C.R. Ave",
+        "Vivekananda Rd",
+        "Kankurgachi",
+        "V.I.P. Rd",
+        "Ultadanga",
+        "Bengal Chemical",
+        "Stadium.",
+        "A.J. Block Salt Lake (Sech Bhavan)"
+      ]
+    }
+  },
+  {
+    "route": "13C",
+    "data": {
+      "routeNo": "13C",
+      "from": "Ramnagar",
+      "to": "Jadavpur",
+      "distance": "16  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Ramnagar",
+        "Taratala",
+        "Kalighat",
+        "Rashbehari",
+        "Ballygunj Phari",
+        "Gariahat",
+        "S.C. Mullick Rd",
+        "Jadavpur"
+      ]
+    }
+  },
+  {
+    "route": "13D",
+    "data": {
+      "routeNo": "13D",
+      "from": "Behala",
+      "to": "Salt Lake",
+      "distance": "14  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Behala",
+        "Circular Rd",
+        "Salt Lake"
+      ]
+    }
+  },
+  {
+    "route": "14",
+    "data": {
+      "routeNo": "14",
+      "from": "Behala",
+      "to": "Esplanade",
+      "distance": "13  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Behala",
+        "Rai Bahadur Rd",
+        "Buro Sibtalla Main Rd",
+        "S.N. Roy Rd",
+        "Tollygunge Circular Rd",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "Asutosh Mukherjee Rd",
+        "Chowranghee.",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "14/1",
+    "data": {
+      "routeNo": "14/1",
+      "from": "Bengal Chemical",
+      "to": "Rabindra Sadan",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Bengal Chemical",
+        "Maniktala Main Rd",
+        "A.P.C. Rd",
+        "Sealdah",
+        "M.G. Rd",
+        "Chittaranjan Ave",
+        "B.B. Ganguly St.",
+        "B.B.D. Bag",
+        "Esplanade.",
+        "Rabindra Sadan"
+      ]
+    }
+  },
+  {
+    "route": "15",
+    "data": {
+      "routeNo": "15",
+      "from": "Ultadanga Stn. -",
+      "to": "Howrah Stn.",
+      "distance": "20  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Ultadanga Stn. -",
+        "Ultadanga Main Rd",
+        "Arabinda Setu",
+        "Grey St.",
+        "Extn.",
+        "Arabinda Sarani",
+        "Sovabazar",
+        "B.K. Paul Ave",
+        "Ahiritola St.",
+        "Nimtalla Ghat St.",
+        "Strand Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "15 Mini",
+    "data": {
+      "routeNo": "15 Mini",
+      "from": "Munshi Hat",
+      "to": "Howrah",
+      "distance": "19  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Munshi Hat",
+        "Baragachhia.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "151",
+    "data": {
+      "routeNo": "151",
+      "from": "Airport",
+      "to": "B.B.D. Bag",
+      "distance": "12  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Airport",
+        "V.I.P. Rd.",
+        "Kankurgachi",
+        "Bagmari",
+        "Manicktala",
+        "Central Avenue.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "152",
+    "data": {
+      "routeNo": "152",
+      "from": "Baguihati (Hatiara)",
+      "to": "B.B.D. Bag",
+      "distance": "4  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Baguihati (Hatiara)",
+        "Ultadanga",
+        "Manicktala.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "153",
+    "data": {
+      "routeNo": "153",
+      "from": "Laketown",
+      "to": "B.B.D. Bag",
+      "distance": "7  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Laketown",
+        "Kankurgachi",
+        "Bagmari",
+        "Manicktala.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "154",
+    "data": {
+      "routeNo": "154",
+      "from": "Airport",
+      "to": "Babughat",
+      "distance": "13  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Airport",
+        "Dum Dum Rd.",
+        "Shyambazar",
+        "C.R. Avenue",
+        "B.B.D. Bag.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "156",
+    "data": {
+      "routeNo": "156",
+      "from": "Salt Lake -",
+      "to": "B.B.D. Bag",
+      "distance": "7  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Salt Lake -",
+        "Kankurgachi",
+        "Manicktala",
+        "Girish Park.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "158",
+    "data": {
+      "routeNo": "158",
+      "from": "Dakhineswar -",
+      "to": "Babughat",
+      "distance": "14  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Dakhineswar -",
+        "B.T. Road",
+        "Raja Rammohan Sarani.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "159",
+    "data": {
+      "routeNo": "159",
+      "from": "Dunlop -",
+      "to": "B.B.D. Bag",
+      "distance": "12  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Dunlop -",
+        "B.T. Road",
+        "C.R. Avenue.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "15A",
+    "data": {
+      "routeNo": "15A",
+      "from": "Chetla -",
+      "to": "B.B.D. Bag",
+      "distance": "20  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Chetla -",
+        "Alipur Rd",
+        "Judges Court Rd",
+        "Kalighat Bridge",
+        "Hazra Rd",
+        "Bondel Rd",
+        "Rifle Range Rd",
+        "Dilkhusa St.",
+        "Darga Rd",
+        "Sundari Mohan Ave",
+        "Acharya J.C. Bose Rd",
+        "B.B.D. Bag",
+        "S.N. Banerjee Rd",
+        "Esplanade",
+        "Octerlony Rd",
+        "Old Court House St.",
+        "From B.B.D. Bag Lalbazar St.",
+        "B.B. Ganguly St.",
+        "Sealdah Stn."
+      ]
+    }
+  },
+  {
+    "route": "16",
+    "data": {
+      "routeNo": "16",
+      "from": "Dhakuria",
+      "to": "Shibpur (Tram Depot)",
+      "distance": "11  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Dhakuria",
+        "Gariahat Rd",
+        "Hazra Rd",
+        "Ritchie Rd",
+        "Promothesh Barua Sarani",
+        "Acharya J.C. Bose Rd",
+        "Sealdah Fly Over",
+        "Mahatma Gandhi Rd",
+        "Howrah Stn.",
+        "Howrah Maidan",
+        "G.T. Rd (South).",
+        "Shibpur (Tram Depot)"
+      ]
+    }
+  },
+  {
+    "route": "16 Mini",
+    "data": {
+      "routeNo": "16 Mini",
+      "from": "Domjoor",
+      "to": "Howrah",
+      "distance": "6  K.M.",
+      "totalStops": 2,
+      "stops": [
+        "Domjoor",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "160",
+    "data": {
+      "routeNo": "160",
+      "from": "Sinthimore",
+      "to": "Bekbagan",
+      "distance": "6  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Sinthimore",
+        "C.R. Avenue.",
+        "Bekbagan"
+      ]
+    }
+  },
+  {
+    "route": "162",
+    "data": {
+      "routeNo": "162",
+      "from": "Talapark -",
+      "to": "Khidirpur",
+      "distance": "11  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Talapark -",
+        "Shyambazar",
+        "Rammohan Sarani.",
+        "Khidirpur"
+      ]
+    }
+  },
+  {
+    "route": "163",
+    "data": {
+      "routeNo": "163",
+      "from": "Shyambazar",
+      "to": "B.B.D. Bag",
+      "distance": "4  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Shyambazar",
+        "C.R. Avenue",
+        "Bowbazar.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "164",
+    "data": {
+      "routeNo": "164",
+      "from": "Tobin Road",
+      "to": "B.B.D. Bag",
+      "distance": "8  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Tobin Road",
+        "Sinthee More",
+        "Shyambazar",
+        "C.R. Avenue.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "165",
+    "data": {
+      "routeNo": "165",
+      "from": "Phulbagan",
+      "to": "B.B.D. Bag",
+      "distance": "18  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Phulbagan",
+        "Manicktala",
+        "Kankurgachi.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "167",
+    "data": {
+      "routeNo": "167",
+      "from": "Salt Lake",
+      "to": "B.B.D. Bag",
+      "distance": "7  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Salt Lake",
+        "Beliaghata",
+        "M.G. Road.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "168",
+    "data": {
+      "routeNo": "168",
+      "from": "Nagerbazar",
+      "to": "Howrah",
+      "distance": "16  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Nagerbazar",
+        "Shyambazar",
+        "Ganesh Talkies",
+        "Posta.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "169",
+    "data": {
+      "routeNo": "169",
+      "from": "Salt Lake -",
+      "to": "Alipore Zoo",
+      "distance": "5  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Salt Lake -",
+        "Kankurgachi",
+        "Sealdah.",
+        "Alipore Zoo"
+      ]
+    }
+  },
+  {
+    "route": "17",
+    "data": {
+      "routeNo": "17",
+      "from": "Chetla - .",
+      "to": "Brabourne Rd",
+      "distance": "11  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Chetla - .",
+        "Chetla Central Rd",
+        "Alipur Rd",
+        "Judge S Court Rd",
+        "Diamond Harbour Rd",
+        "Kidderpore Rd",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Brabourne Rd"
+      ]
+    }
+  },
+  {
+    "route": "17 Mini",
+    "data": {
+      "routeNo": "17 Mini",
+      "from": "Howrah Stn",
+      "to": "Karunamoyee",
+      "distance": "33  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Howrah Stn",
+        "Howrah",
+        "Ultadanga.",
+        "Karunamoyee"
+      ]
+    }
+  },
+  {
+    "route": "170",
+    "data": {
+      "routeNo": "170",
+      "from": "Salt Lake -",
+      "to": "Jadavpur",
+      "distance": "16  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Salt Lake -",
+        "Kankurgachi",
+        "Phulbagan.",
+        "Jadavpur"
+      ]
+    }
+  },
+  {
+    "route": "171",
+    "data": {
+      "routeNo": "171",
+      "from": "Salt Lake (Karunamoyee)",
+      "to": "Howrah Station",
+      "distance": "26  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Salt Lake (Karunamoyee)",
+        "Kankurgachi",
+        "Phulbagan.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "172",
+    "data": {
+      "routeNo": "172",
+      "from": "Teghoria",
+      "to": "Howrah",
+      "distance": "19  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Teghoria",
+        "Baguiati",
+        "Ultadanga",
+        "Khanna",
+        "Manicktala.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "173",
+    "data": {
+      "routeNo": "173",
+      "from": "Salt Lake (Purbachal)",
+      "to": "New Alipore",
+      "distance": "11  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Salt Lake (Purbachal)",
+        "Beliaghata",
+        "Sealdah.",
+        "New Alipore"
+      ]
+    }
+  },
+  {
+    "route": "174",
+    "data": {
+      "routeNo": "174",
+      "from": "Dum Dum St. Mary S",
+      "to": "Howrah",
+      "distance": "17  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Dum Dum St. Mary S",
+        "Shyambazar",
+        "Bowbazar",
+        "High Court.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "175",
+    "data": {
+      "routeNo": "175",
+      "from": "Alipore Zoo",
+      "to": "New Barackpore",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Alipore Zoo",
+        "Ultadanga",
+        "Airport",
+        "Birati.",
+        "New Barackpore"
+      ]
+    }
+  },
+  {
+    "route": "176",
+    "data": {
+      "routeNo": "176",
+      "from": "Dum Dum Cantt",
+      "to": "Babughat",
+      "distance": "12  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Dum Dum Cantt",
+        "Shyambazar",
+        "Sealdah",
+        "Bowbazar",
+        "High Court.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "177",
+    "data": {
+      "routeNo": "177",
+      "from": "Shyambazar",
+      "to": "Golpark",
+      "distance": "11  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Shyambazar",
+        "Sealdah",
+        "Bekbagan.",
+        "Golpark"
+      ]
+    }
+  },
+  {
+    "route": "178",
+    "data": {
+      "routeNo": "178",
+      "from": "Rajabazar",
+      "to": "Alipore Court",
+      "distance": "10  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Rajabazar",
+        "Sealdah",
+        "Kalighat.",
+        "Alipore Court"
+      ]
+    }
+  },
+  {
+    "route": "179",
+    "data": {
+      "routeNo": "179",
+      "from": "Shampa Mirzanagar",
+      "to": "Talapark",
+      "distance": "4  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Shampa Mirzanagar",
+        "Dharamtala",
+        "College Street.",
+        "Talapark"
+      ]
+    }
+  },
+  {
+    "route": "17A",
+    "data": {
+      "routeNo": "17A",
+      "from": "Golf Green",
+      "to": "Howrah Stn.",
+      "distance": "17  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Golf Green",
+        "Gol Park",
+        "Southern Ave",
+        "Rash Behari Ave",
+        "Jatin Das Setu",
+        "Chetla Central Rd",
+        "Alipur Rd",
+        "Judges Court Rd",
+        "Alipur Court",
+        "Zoo",
+        "Hastings",
+        "Esplanade",
+        "B.B.D. Bag",
+        "Brabourne Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "17B",
+    "data": {
+      "routeNo": "17B",
+      "from": "Baghajatin",
+      "to": "Howrah",
+      "distance": "58  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Baghajatin",
+        "Raja S.C. Mullick Rd",
+        "Gariahat",
+        "Rashbehari Ave",
+        "Hazra More",
+        "Gopalnagar",
+        "Police Court",
+        "Bhawani Bhavan",
+        "Alipur",
+        "D.L. Khan Rd",
+        "Red Rd",
+        "Esplanade",
+        "B.B.D. Bag",
+        "Brabourne Rd",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "18",
+    "data": {
+      "routeNo": "18",
+      "from": "Sarsuna",
+      "to": "Esplanade",
+      "distance": "26  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Sarsuna",
+        "Bakultala",
+        "Biren Roy Rd",
+        "Diamond Harbour Rd",
+        "Behala",
+        "Roy Bahadur Rd",
+        "New Alipur",
+        "Tollygunge Cir. Rd",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "Hazra Rd",
+        "Harish Mukherjee Rd",
+        "Red Rd",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "18 Mini",
+    "data": {
+      "routeNo": "18 Mini",
+      "from": "Kona",
+      "to": "Dharamtala",
+      "distance": "11  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Kona",
+        "Salkia",
+        "Howrah",
+        "Mission Row.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "180",
+    "data": {
+      "routeNo": "180",
+      "from": "Belghoria",
+      "to": "Howrah",
+      "distance": "20  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Belghoria",
+        "B.T. Rd.",
+        "Shyambazar",
+        "Posta.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "181",
+    "data": {
+      "routeNo": "181",
+      "from": "Ariadaha",
+      "to": "Babughat",
+      "distance": "12  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Ariadaha",
+        "Shyambazar",
+        "C.R. Avenue.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "182",
+    "data": {
+      "routeNo": "182",
+      "from": "New Barrackpur",
+      "to": "Band Stand",
+      "distance": "28  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "New Barrackpur",
+        "Sajirhat",
+        "Sodhpur",
+        "Dunlop",
+        "Shyambazar",
+        "Manicktala.",
+        "Band Stand"
+      ]
+    }
+  },
+  {
+    "route": "183",
+    "data": {
+      "routeNo": "183",
+      "from": "Sodhpur",
+      "to": "Babughat",
+      "distance": "34  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Sodhpur",
+        "B.T. Rd.",
+        "Shyambazar",
+        "B.B.D. Bag.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "184",
+    "data": {
+      "routeNo": "184",
+      "from": "Birati",
+      "to": "B.B.D. Bag",
+      "distance": "15  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Birati",
+        "Ultadanga",
+        "Kankurgachi",
+        "Bagmari.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "185",
+    "data": {
+      "routeNo": "185",
+      "from": "Nimta",
+      "to": "Howrah Station",
+      "distance": "15  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Nimta",
+        "Dunlop",
+        "Shyambazar",
+        "Sealdah",
+        "M.G. Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "18A",
+    "data": {
+      "routeNo": "18A",
+      "from": "B.B.D. Bag",
+      "to": "Dakghar",
+      "distance": "16  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "B.B.D. Bag",
+        "Esplanade",
+        "Kidderpore Rd",
+        "Diamond Harbour Rd",
+        "Mominpur",
+        "Behala Chowrasta.",
+        "Dakghar"
+      ]
+    }
+  },
+  {
+    "route": "18B",
+    "data": {
+      "routeNo": "18B",
+      "from": "Sarsuna",
+      "to": "Sealdah",
+      "distance": "15  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Sarsuna",
+        "Rai Bahadur Rd",
+        "New Alipur Govinda Auddy Rd",
+        "(Rasoi Co.)",
+        "Chetla Central Rd",
+        "Burdwan Rd",
+        "S.C. Bose Rd",
+        "A.J.C. Bose Rd",
+        "Sealdah"
+      ]
+    }
+  },
+  {
+    "route": "18C",
+    "data": {
+      "routeNo": "18C",
+      "from": "Kasba (Bose Pukur)",
+      "to": "Sarsuna",
+      "distance": "55  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Kasba (Bose Pukur)",
+        "D.H. Rd",
+        "Sealdah",
+        "Phulbagan",
+        "Salt Lake.",
+        "Sarsuna"
+      ]
+    }
+  },
+  {
+    "route": "18D",
+    "data": {
+      "routeNo": "18D",
+      "from": "Sarsuna",
+      "to": "Howrah",
+      "distance": "22  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Sarsuna",
+        "D.H. Rd",
+        "Park St",
+        "Esplanade",
+        "B.B.D. Bag.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "1A",
+    "data": {
+      "routeNo": "1A",
+      "from": "Netaji Subhas Dock",
+      "to": "Santoshpur (Jadavpur)",
+      "distance": "10  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Netaji Subhas Dock",
+        "Hide Rd",
+        "Babu Bazar",
+        "Kidderpore",
+        "Ekbalpur",
+        "Zoo Garden",
+        "Hazra Rd",
+        "S.P.Mukherjee Rd",
+        "Deshpran Sasmal Rd",
+        "Prince Anwar Shah Rd",
+        "Raja Subodh Mallick Rd",
+        "Jadavpur Stn. Sukanta Setu.",
+        "Santoshpur (Jadavpur)"
+      ]
+    }
+  },
+  {
+    "route": "1A Mini",
+    "data": {
+      "routeNo": "1A Mini",
+      "from": "Satyabala",
+      "to": "Esplanade",
+      "distance": "9  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Satyabala",
+        "Howrah",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "1B",
+    "data": {
+      "routeNo": "1B",
+      "from": "Garia Station",
+      "to": "Ramnagar",
+      "distance": "44  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Garia Station",
+        "Jadavpur",
+        "Golpark",
+        "Rashbehari",
+        "Taratala.",
+        "Ramnagar"
+      ]
+    }
+  },
+  {
+    "route": "2",
+    "data": {
+      "routeNo": "2",
+      "from": "Rabindra Sadan",
+      "to": "Paikpara",
+      "distance": "14  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Rabindra Sadan",
+        "Govt. Place East",
+        "Old Court House St.",
+        "Lal Bazar St.",
+        "B.B. Ganguly St. And College St.",
+        "Lenin Sarani",
+        "Rafi Ahmed Kidwai Rd",
+        "S.N. Banerjee Rd",
+        "Nirmal Chandra St.",
+        "College St.",
+        "Bidhan Sarani",
+        "Shyambazar",
+        "R.G. Kar Rd",
+        "Belgachia Rd",
+        "Indra Biswas Rd",
+        "Raja Manindra Rd",
+        "Paikpara"
+      ]
+    }
+  },
+  {
+    "route": "2 Mini",
+    "data": {
+      "routeNo": "2 Mini",
+      "from": "Salkia",
+      "to": "Dharamtala",
+      "distance": "16  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Salkia",
+        "Howrah",
+        "B.B.D. Bag.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "20",
+    "data": {
+      "routeNo": "20",
+      "from": "Andul",
+      "to": "Ultadanga",
+      "distance": "16  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Andul",
+        "Manicktala",
+        "Khanna.",
+        "Ultadanga"
+      ]
+    }
+  },
+  {
+    "route": "201",
+    "data": {
+      "routeNo": "201",
+      "from": "Salt Lake Karunamayee",
+      "to": "Belgharia",
+      "distance": "32  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Salt Lake Karunamayee",
+        "Salt Lake",
+        "Ultadanga Main Rd",
+        "Aurobinda Setu",
+        "Aurobinda Sarani",
+        "Acharya P.C. Rd",
+        "Shyambazar",
+        "B.T. Rd",
+        "Chiriamore",
+        "Sinthimore",
+        "Dunlop Bridge.",
+        "Belgharia"
+      ]
+    }
+  },
+  {
+    "route": "202",
+    "data": {
+      "routeNo": "202",
+      "from": "Tapsia (Beckgbagan)",
+      "to": "Nager Bazar",
+      "distance": "45  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Tapsia (Beckgbagan)",
+        "Gate No.4",
+        "Syed Amir Ali Ave",
+        "Park Circus",
+        "Park St.",
+        "Acharya J.C. Bose Rd",
+        "Elliot Rd",
+        "Rafi Ahmed Kidwai Rd",
+        "Lenin Sarani",
+        "Esplanade",
+        "B.B.D. Bag",
+        "B.B. Ganguly St.",
+        "Raja Rammohan Sarani",
+        "Maniktala",
+        "Acharya P.C. Roy Rd",
+        "B.T. Rd",
+        "Chiriamore",
+        "Dum Dum Rd",
+        "Nager Bazar"
+      ]
+    }
+  },
+  {
+    "route": "203",
+    "data": {
+      "routeNo": "203",
+      "from": "Tantipara (Baranagar)",
+      "to": "Alipur Zoo",
+      "distance": "18  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Tantipara (Baranagar)",
+        "P.W.D. Rd",
+        "Tantipara",
+        "Baranagar Bazar",
+        "Kashipur",
+        "Shyambazar",
+        "Chittaranjan Ave",
+        "B.B.D. Bag",
+        "Esplanade",
+        "Chowranghee",
+        "Harish Mukherjee Rd",
+        "Alipur Zoo"
+      ]
+    }
+  },
+  {
+    "route": "204",
+    "data": {
+      "routeNo": "204",
+      "from": "Sealdah (Raja Bazar)",
+      "to": "Alipur Court",
+      "distance": "16  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Sealdah (Raja Bazar)",
+        "Acharya P.C. Rd",
+        "Sealdah Flyover",
+        "Acharya J.C. Bose Rd",
+        "Begbagan",
+        "Beltala",
+        "Sarat Bose Rd",
+        "Hazra More",
+        "Kalighat",
+        "Gopalnagar.",
+        "Alipur Court"
+      ]
+    }
+  },
+  {
+    "route": "204/1",
+    "data": {
+      "routeNo": "204/1",
+      "from": "Rajabazar",
+      "to": "Chetla",
+      "distance": "9  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Rajabazar",
+        "Moulali",
+        "Park Circus",
+        "Ballygunge Phari.",
+        "Chetla"
+      ]
+    }
+  },
+  {
+    "route": "205",
+    "data": {
+      "routeNo": "205",
+      "from": "Bansdroni",
+      "to": "Babughat",
+      "distance": "31  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Bansdroni",
+        "Netaji Subhas Ch.Rd",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "Hazra Rd",
+        "Elgin Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "Old Court House St",
+        "B.B.D. Bag.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "206",
+    "data": {
+      "routeNo": "206",
+      "from": "Santoshpur",
+      "to": "Baishali.",
+      "distance": "63  K.M.",
+      "totalStops": 21,
+      "stops": [
+        "Santoshpur",
+        "Santoshpur Rd",
+        "Jadavpur Stn. Rd",
+        "Raja Subodh Mallick Rd",
+        "Gariahat Rd",
+        "Promotesh Barua Sarani",
+        "Acharya J.C. Bose Rd",
+        "Jawharlal Nehru Rd",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Moulali",
+        "Sealdah",
+        "Rajabazar",
+        "Phulbagan",
+        "C.I.T. Rd",
+        "P.N. Bank Cross Rd",
+        "No.2 Second Ave",
+        "Hospital",
+        "Police Stn.",
+        "Purta Bhawan",
+        "Baishali."
+      ]
+    }
+  },
+  {
+    "route": "207",
+    "data": {
+      "routeNo": "207",
+      "from": "Salt Lake (A.J. Block Tank No.7)",
+      "to": "Salt Lake (A.J. Block Tank No.7)",
+      "distance": null,
+      "totalStops": 1,
+      "stops": [
+        "Salt Lake (A.J. Block Tank No.7)"
+      ]
+    }
+  },
+  {
+    "route": "208",
+    "data": {
+      "routeNo": "208",
+      "from": "Kundghat",
+      "to": "Babughat",
+      "distance": "6  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Kundghat",
+        "Tollygunge Fari",
+        "Hazra Crossing",
+        "Elgin Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "Old Court House St",
+        "B.B.D. Bag.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "20A",
+    "data": {
+      "routeNo": "20A",
+      "from": "Salt Lake",
+      "to": "Bakultala",
+      "distance": "28  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Salt Lake",
+        "Kankurgachi",
+        "Beadon St.",
+        "Howrah.",
+        "Bakultala"
+      ]
+    }
+  },
+  {
+    "route": "21",
+    "data": {
+      "routeNo": "21",
+      "from": "Barisha (Sil Para) -",
+      "to": "Sealdah",
+      "distance": "20  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Barisha (Sil Para) -",
+        "Diamond Harbour Rd",
+        "Biren Roy Rd",
+        "(East)",
+        "Santosh Rai Rd",
+        "Tollygunge Circular Rd",
+        "Deshpran Sasmal Rd",
+        "Shyamaprasad Mukherjee Rd",
+        "Hazra Rd",
+        "Harish Mukherjee Rd",
+        "Cathedral Rd",
+        "Jawaharlal Nehru Rd",
+        "Esplanade",
+        "B.B.D. Bag",
+        "B.B. Ganguly St.",
+        "Mahatma Gandhi Rd",
+        "Sealdah"
+      ]
+    }
+  },
+  {
+    "route": "21 Mini",
+    "data": {
+      "routeNo": "21 Mini",
+      "from": "Sakher Bazar",
+      "to": "Howrah",
+      "distance": "14  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Sakher Bazar",
+        "Behala Chowrasta.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "21/1",
+    "data": {
+      "routeNo": "21/1",
+      "from": "Barisha",
+      "to": "B.B.D. Bag",
+      "distance": "27  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Barisha",
+        "Taratala",
+        "New Alipur",
+        "Bhawanipur.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "210",
+    "data": {
+      "routeNo": "210",
+      "from": "Calcutta -",
+      "to": "Raichak (Express Service)",
+      "distance": null,
+      "totalStops": 6,
+      "stops": [
+        "Calcutta -",
+        "Thakurpukur",
+        "Amtala",
+        "Sarisha Hat",
+        "C.P.T. Colony.",
+        "Raichak (Express Service)"
+      ]
+    }
+  },
+  {
+    "route": "211",
+    "data": {
+      "routeNo": "211",
+      "from": "Ahiritola",
+      "to": "Khoribari",
+      "distance": "14  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Ahiritola",
+        "Aurobinda Setu",
+        "Ultadanga Rly.Stn.",
+        "Lake Town",
+        "Baguiati",
+        "Podra",
+        "Rajarhat Stn.",
+        "Rekjwar.",
+        "Khoribari"
+      ]
+    }
+  },
+  {
+    "route": "211/A/1",
+    "data": {
+      "routeNo": "211/A/1",
+      "from": "Rajabazar (Langolpota)",
+      "to": "Ahiritola",
+      "distance": "38  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Rajabazar (Langolpota)",
+        "Baguihati",
+        "Lokenath Temple",
+        "Ultadanga",
+        "C.I.T. Rd",
+        "Sealdah",
+        "College St.",
+        "Ahiritola"
+      ]
+    }
+  },
+  {
+    "route": "211A",
+    "data": {
+      "routeNo": "211A",
+      "from": "Ahiritola -",
+      "to": "Patharghata",
+      "distance": "82  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Ahiritola -",
+        "C.R. Ave",
+        "Grey St. Crossing",
+        "Ultadanga Bridge",
+        "Lake Town",
+        "Basumati",
+        "Salua",
+        "Kali Park",
+        "Robin Palli",
+        "Kamarbari",
+        "Bishnupur",
+        "Beltala",
+        "Kamarhati.",
+        "Patharghata"
+      ]
+    }
+  },
+  {
+    "route": "212",
+    "data": {
+      "routeNo": "212",
+      "from": "Palbazar",
+      "to": "Babughat",
+      "distance": "12  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Palbazar",
+        "Kasba Rd",
+        "D. Park",
+        "Sarat Bose Rd",
+        "Elgin Rd",
+        "Jawaharlal Nehru Rd",
+        "Chowranghee",
+        "Park St",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "213",
+    "data": {
+      "routeNo": "213",
+      "from": "Ghatak Pukur -",
+      "to": "Babughat (Band Stand)",
+      "distance": null,
+      "totalStops": 6,
+      "stops": [
+        "Ghatak Pukur -",
+        "Tapsia",
+        "Moulali",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani.",
+        "Babughat (Band Stand)"
+      ]
+    }
+  },
+  {
+    "route": "214",
+    "data": {
+      "routeNo": "214",
+      "from": "New Barrackpur",
+      "to": "Babughat (Band Stand)",
+      "distance": "29  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "New Barrackpur",
+        "Sajirhat",
+        "Sodepur",
+        "B.T. Rd",
+        "Shyambazar",
+        "C.R. Ave",
+        "Mission Row",
+        "B.B.D. Bag",
+        "Hare St.",
+        "Strand Rd",
+        "Babughat (Band Stand)"
+      ]
+    }
+  },
+  {
+    "route": "215",
+    "data": {
+      "routeNo": "215",
+      "from": "Lake Town",
+      "to": "Howrah Fire Station",
+      "distance": "19  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Lake Town",
+        "V.I.P. Rd",
+        "Dakshindari",
+        "Ultadanga",
+        "Kankurgachi",
+        "Bagmari",
+        "Maniktala More",
+        "College St.",
+        "M.G. Rd",
+        "Mullick Fatak.",
+        "Howrah Fire Station"
+      ]
+    }
+  },
+  {
+    "route": "215A",
+    "data": {
+      "routeNo": "215A",
+      "from": "Salt Lake (Karunamayee)",
+      "to": "Howrah Stn.",
+      "distance": "27  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Salt Lake (Karunamayee)",
+        "Ultadanga Stn.",
+        "Aurobinda Setu",
+        "Khanna Cinema",
+        "Hatibagan",
+        "Aurobinda Sarani",
+        "Sovabazar",
+        "Posta.",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "217",
+    "data": {
+      "routeNo": "217",
+      "from": "Narayanpur",
+      "to": "Babughat",
+      "distance": "17  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Narayanpur",
+        "Baguiati",
+        "V.I.P. Rd",
+        "Sealdah",
+        "M.G. Rd",
+        "College St.",
+        "Nirmal Chatterjee St.",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "Esplanade.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "217A",
+    "data": {
+      "routeNo": "217A",
+      "from": "Narayanpur",
+      "to": "Babughat",
+      "distance": "18  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Narayanpur",
+        "Baguiati",
+        "V.I.P. Rd",
+        "Bidhan Sarani",
+        "Manicktala",
+        "Vivekananda Rd",
+        "Nirmal Chatterjee St.",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "218",
+    "data": {
+      "routeNo": "218",
+      "from": "Uttarbhag",
+      "to": "Babughat",
+      "distance": "56  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Uttarbhag",
+        "Baruipur",
+        "Gobindapur",
+        "Harinavi",
+        "Rajpur",
+        "Narendrapur",
+        "Kamalgachi",
+        "Garia",
+        "Ganguly Bagan",
+        "Bagha Jatin",
+        "Jadavpur",
+        "Gariahat Rd",
+        "Park Circus",
+        "Mullick Bazar",
+        "Moulali",
+        "S.N. Banerjee Rd",
+        "Esplanade.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "219",
+    "data": {
+      "routeNo": "219",
+      "from": "Nagerbazar",
+      "to": "Howrah Fire Stn.",
+      "distance": "17  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Nagerbazar",
+        "Jessore Rd",
+        "Duttabagan",
+        "Belgachia",
+        "Bidhan Sarani",
+        "M.G. Rd",
+        "Howrah Bridge.",
+        "Howrah Fire Stn."
+      ]
+    }
+  },
+  {
+    "route": "221",
+    "data": {
+      "routeNo": "221",
+      "from": "Nagerbazar",
+      "to": "Golpark",
+      "distance": "44  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Nagerbazar",
+        "Jessore Rd",
+        "Lake Town",
+        "V.I.P. Rd",
+        "Beleghata Rd",
+        "Sealdah",
+        "A.J.C. Bose Rd",
+        "Sarat Bose Rd",
+        "Lake Rd",
+        "Golpark"
+      ]
+    }
+  },
+  {
+    "route": "222",
+    "data": {
+      "routeNo": "222",
+      "from": "Bonhooghly -",
+      "to": "Behala Chourasta",
+      "distance": "18  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Bonhooghly -",
+        "Sinthimore",
+        "Chiriamore",
+        "B.T. Rd",
+        "Shyambazar",
+        "C.R. Ave",
+        "Kidderpore",
+        "Diamond Harbour Rd",
+        "Taratolla",
+        "Behala.",
+        "Behala Chourasta"
+      ]
+    }
+  },
+  {
+    "route": "223",
+    "data": {
+      "routeNo": "223",
+      "from": "Newbarrackpur (Kathalitala)",
+      "to": "Park Circus",
+      "distance": "23  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Newbarrackpur (Kathalitala)",
+        "Jessore Rd",
+        "Nagerbazar",
+        "Lake Town",
+        "V.I.P. Rd",
+        "A.J.C. Bose Rd",
+        "New C.I.T. Rd",
+        "Surabarddi Ave",
+        "Park Circus"
+      ]
+    }
+  },
+  {
+    "route": "224",
+    "data": {
+      "routeNo": "224",
+      "from": "Ghatakpukur -",
+      "to": "Tapsia - Thakurpukur",
+      "distance": "10  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Ghatakpukur -",
+        "E.M. Bypass",
+        "Joramandir",
+        "Beleghata Main Rd",
+        "Minto Park",
+        "Sarat Bose Rd",
+        "Southern Ave",
+        "Russa Rd",
+        "B.L. Shah Rd",
+        "Siriti More",
+        "Behala Chowrasta.",
+        "Tapsia - Thakurpukur"
+      ]
+    }
+  },
+  {
+    "route": "225",
+    "data": {
+      "routeNo": "225",
+      "from": "Ultadanga -",
+      "to": "Puror Bazar",
+      "distance": "33  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Ultadanga -",
+        "V.I.P. Rd",
+        "Barasat Rd",
+        "Habra",
+        "Machlandapur",
+        "Tentulia",
+        "Katiahat.",
+        "Puror Bazar"
+      ]
+    }
+  },
+  {
+    "route": "225A",
+    "data": {
+      "routeNo": "225A",
+      "from": "Ultadanga -",
+      "to": "Hakimpur",
+      "distance": "45  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Ultadanga -",
+        "V.I.P. Rd",
+        "Barasat Rd",
+        "Habra",
+        "Machlandapur",
+        "Sarupnagar",
+        "Bithari.",
+        "Hakimpur"
+      ]
+    }
+  },
+  {
+    "route": "227",
+    "data": {
+      "routeNo": "227",
+      "from": "Dum Dum Air Port",
+      "to": "S.E. Rly. (Gardenreach)",
+      "distance": "19  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Dum Dum Air Port",
+        "Jessore Rd",
+        "A.P.C. Rd",
+        "Sealdah",
+        "Acharya J.C. Bose Rd",
+        "Kidderpore.",
+        "S.E. Rly. (Gardenreach)"
+      ]
+    }
+  },
+  {
+    "route": "228",
+    "data": {
+      "routeNo": "228",
+      "from": "Mohamaryatolla",
+      "to": "Babughat",
+      "distance": "13  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Mohamaryatolla",
+        "Garia",
+        "Naktala",
+        "Ranikuthi",
+        "Tollygunge Fari",
+        "Hazra Jn.",
+        "Alipur Court",
+        "Zoo Garden",
+        "A.J.C. Bose Rd",
+        "Fort William.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "230",
+    "data": {
+      "routeNo": "230",
+      "from": "Kamarhati -",
+      "to": "Police Training School.",
+      "distance": "15  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Kamarhati -",
+        "Shyambazar",
+        "A.P.C. Rd",
+        "Sealdah",
+        "Mullick Bazar",
+        "Minto Park",
+        "Rabindra Sadan",
+        "Police Training School."
+      ]
+    }
+  },
+  {
+    "route": "230/1",
+    "data": {
+      "routeNo": "230/1",
+      "from": "Ariadaha -",
+      "to": "Howrah",
+      "distance": "22  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Ariadaha -",
+        "Dakshineswar",
+        "Dunlop Bridge",
+        "B.T. Rd",
+        "Shyambazar",
+        "A.P.C. Rd",
+        "Sealdah",
+        "M.G. Rd",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "233",
+    "data": {
+      "routeNo": "233",
+      "from": "Baruipur -",
+      "to": "Babughat",
+      "distance": "28  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Baruipur -",
+        "Amtala",
+        "D.H. Rd",
+        "Mominpur",
+        "Judges Court Rd",
+        "Bhabani Bhawan",
+        "Alipur Zoo",
+        "Kidderpore Rd",
+        "Duffrin Rd",
+        "Mayo Rd",
+        "Kingsway.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "234",
+    "data": {
+      "routeNo": "234",
+      "from": "Belgharia -",
+      "to": "Golf Green",
+      "distance": "26  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Belgharia -",
+        "B.T. Rd",
+        "Shyambazar",
+        "A.P.C. Rd",
+        "Sealdah",
+        "Moulali",
+        "Beckbagan",
+        "A.J.C. Bose Rd",
+        "Sarat Bose Rd",
+        "Gariahat Rd",
+        "Jadavpur Police Stn.",
+        "Anwar Shah Rd",
+        "Golf Green"
+      ]
+    }
+  },
+  {
+    "route": "235",
+    "data": {
+      "routeNo": "235",
+      "from": "Amtala",
+      "to": "Salt Lake",
+      "distance": "19  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Amtala",
+        "D.H. Rd",
+        "Kidderpore",
+        "Rabindra Sadan",
+        "A.J.C. Bose Rd",
+        "Moulali",
+        "Sealdah",
+        "Rajabazar",
+        "Narkeldanga Main Rd",
+        "Subhas Sarobar",
+        "Salt Lake Stadium.",
+        "Salt Lake"
+      ]
+    }
+  },
+  {
+    "route": "237",
+    "data": {
+      "routeNo": "237",
+      "from": "Birati",
+      "to": "Babughat",
+      "distance": "73  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Birati",
+        "Birati Rly. Stn.",
+        "Aurobinda Park",
+        "Jessore Rd Jn.",
+        "Dum Dum Gate No.1",
+        "Military Camp",
+        "V.I.P. Rd",
+        "Lake Town",
+        "Ultadanga",
+        "Kankurgachi Bus Stand",
+        "Mahatma Gandhi Rd",
+        "Chittaranjan Ave Jn.",
+        "L.I.C. Building & Raj Bhaban.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "239",
+    "data": {
+      "routeNo": "239",
+      "from": "Chingrihata",
+      "to": "Babughat",
+      "distance": "11  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Chingrihata",
+        "Beleghata Main Rd",
+        "A.J.C. Bose Rd",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "Esplanade.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "239A",
+    "data": {
+      "routeNo": "239A",
+      "from": "G.D. Block (Salt Lake)",
+      "to": "Babughat",
+      "distance": "32  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "G.D. Block (Salt Lake)",
+        "Fifth Ave",
+        "Brdway",
+        "H-A & H-B Block",
+        "1-A & 1-B Block",
+        "Kadapara",
+        "Phulbagan",
+        "Sealdah",
+        "A.J.C. Bose Rd",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "24",
+    "data": {
+      "routeNo": "24",
+      "from": "Tapsia (Tangra)",
+      "to": "Bandaghat (Howrah)",
+      "distance": "8  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Tapsia (Tangra)",
+        "Huges Rd",
+        "Christopher Rd",
+        "Kamardanga Rd",
+        "Pottery Rd",
+        "Radhanath Chowdhury Rd",
+        "Palmer Bazar",
+        "Munshi Bazar",
+        "Beliaghata Rd",
+        "Sealdah",
+        "Mahatma Gandhi Rd",
+        "Howrah Stn.",
+        "Howrah Court",
+        "G.T. Rd",
+        "(North)",
+        "Haragunj Rd",
+        "Bandaghat (Howrah)"
+      ]
+    }
+  },
+  {
+    "route": "24 Mini",
+    "data": {
+      "routeNo": "24 Mini",
+      "from": "Bagangor",
+      "to": "Howrah",
+      "distance": "5  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Bagangor",
+        "Champatola",
+        "Sankrail.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "240",
+    "data": {
+      "routeNo": "240",
+      "from": "Jadavpur Thana",
+      "to": "Bagbazar",
+      "distance": "16  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Jadavpur Thana",
+        "Gariahat",
+        "Syed Amir Ali Ave",
+        "C.I.T. Rd",
+        "Moulali",
+        "Sealdah",
+        "M.G. Rd",
+        "College St.",
+        "Bidhan Sarani",
+        "Shyambazar.",
+        "Bagbazar"
+      ]
+    }
+  },
+  {
+    "route": "241",
+    "data": {
+      "routeNo": "241",
+      "from": "Santoshpur Rly. Stn.",
+      "to": "Bandstand",
+      "distance": "62  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Santoshpur Rly. Stn.",
+        "Metiaburuz Puratan Station",
+        "Ghosh Para",
+        "Akra Fatak",
+        "Bartala",
+        "Strand Rd",
+        "Watgunge St.",
+        "Cir. Garden Reach Rd",
+        "B.N.R. Office",
+        "Garden Reach Rd",
+        "Metiabruz",
+        "Ankara Rd",
+        "Bandstand"
+      ]
+    }
+  },
+  {
+    "route": "241A",
+    "data": {
+      "routeNo": "241A",
+      "from": "Alipur",
+      "to": "Dharamtalla",
+      "distance": "22  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Alipur",
+        "Rabindra Sadan",
+        "Park St.",
+        "Dharamtalla"
+      ]
+    }
+  },
+  {
+    "route": "242",
+    "data": {
+      "routeNo": "242",
+      "from": "Cossipur",
+      "to": "Babughat",
+      "distance": "18  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Cossipur",
+        "Cossipur Rd",
+        "Bagbazar",
+        "Chittaranjan Ave",
+        "Mission Row",
+        "Bentinck St.",
+        "Esplanade.",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "247",
+    "data": {
+      "routeNo": "247",
+      "from": "Brotocharigram",
+      "to": "Babughat",
+      "distance": null,
+      "totalStops": 2,
+      "stops": [
+        "Brotocharigram",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "248",
+    "data": {
+      "routeNo": "248",
+      "from": "Esplanade",
+      "to": "Haroa",
+      "distance": "52  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Esplanade",
+        "Bidhannagar Stn.",
+        "Dum Dum Park",
+        "Jessore Rd",
+        "Madhyamgram",
+        "Barasat",
+        "Champadali More",
+        "Pairagachi",
+        "Kadambagachi",
+        "Golabari",
+        "Beleghata",
+        "Kartikpur",
+        "Berachampa.",
+        "Haroa"
+      ]
+    }
+  },
+  {
+    "route": "249",
+    "data": {
+      "routeNo": "249",
+      "from": "Esplanade",
+      "to": "Habra (Express Service)",
+      "distance": "48  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Esplanade",
+        "Bidhannagar Stn.",
+        "Dum Dum Park",
+        "Jessore Rd",
+        "Madhyamgram",
+        "Barasat",
+        "Champadali More",
+        "Dattapukur",
+        "Guma",
+        "Bira",
+        "Asokenagar Chowrasta",
+        "Nalanda More",
+        "Kachua More.",
+        "Habra (Express Service)"
+      ]
+    }
+  },
+  {
+    "route": "24A",
+    "data": {
+      "routeNo": "24A",
+      "from": "Tapsia/Choubhaga",
+      "to": "Bandhaghat (Howrah)",
+      "distance": "10  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Tapsia/Choubhaga",
+        "Huges Rd",
+        "Christopher Rd",
+        "Baishalee Housing Estate",
+        "Palmer Bazar",
+        "Redhanath Chowdhury Rd",
+        "Pottery Rd",
+        "Munshi Bazar",
+        "Beliaghata Rd",
+        "Sealdah Stn.",
+        "Moulali",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "Esplanade",
+        "B.B.D. Bag",
+        "Howrah Stn.",
+        "Howrah Court",
+        "G.T. Rd",
+        "Haragunj Rd",
+        "Bandhaghat (Howrah)"
+      ]
+    }
+  },
+  {
+    "route": "24B",
+    "data": {
+      "routeNo": "24B",
+      "from": "Tapsia (Chowbagha)",
+      "to": "Howrah Maidan",
+      "distance": "10  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Tapsia (Chowbagha)",
+        "Matpukur",
+        "Dhapa",
+        "Deben De Rd",
+        "Tangra Housing Estate",
+        "Sealdah",
+        "M.G. Rd",
+        "Howrah Station.",
+        "Howrah Maidan"
+      ]
+    }
+  },
+  {
+    "route": "25",
+    "data": {
+      "routeNo": "25",
+      "from": "Salt Lake",
+      "to": "Malipanchghora (Howrah)",
+      "distance": "7  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Salt Lake",
+        "Sovabazar",
+        "Posta.",
+        "Malipanchghora (Howrah)"
+      ]
+    }
+  },
+  {
+    "route": "250",
+    "data": {
+      "routeNo": "250",
+      "from": "Esplanade",
+      "to": "Bonogram (Express)",
+      "distance": "48  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Esplanade",
+        "Bidhannagar Stn.",
+        "Dum Dum Park",
+        "Jessore Rd",
+        "Madhyamgram",
+        "Barasat",
+        "Champadali More",
+        "Dattapukur",
+        "Guma",
+        "Bira",
+        "Asokenagar Chowrasta",
+        "Nalanda More",
+        "Kachua More",
+        "Habra",
+        "Gaighata",
+        "Chandpara Bazar.",
+        "Bonogram (Express)"
+      ]
+    }
+  },
+  {
+    "route": "251",
+    "data": {
+      "routeNo": "251",
+      "from": "Sealdah",
+      "to": "Chandaneshwar (Express)",
+      "distance": "18  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Sealdah",
+        "Bamunghat",
+        "Kataltala",
+        "Karaidanga",
+        "Bhojerhat",
+        "Paglarhat",
+        "Boralighat",
+        "Ghatakpukur",
+        "Jagulgachi",
+        "Bodra More",
+        "Narkel Beria",
+        "Sodalia.",
+        "Chandaneshwar (Express)"
+      ]
+    }
+  },
+  {
+    "route": "252",
+    "data": {
+      "routeNo": "252",
+      "from": "Hasnabad",
+      "to": "Esplanade (Express)",
+      "distance": "101  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Hasnabad",
+        "V.I.P. Rd",
+        "Jessore Rd",
+        "Belgachia",
+        "Patipukur",
+        "Nager Bazar",
+        "Barasat",
+        "Kadambagachi",
+        "Golabari",
+        "Beleghata",
+        "Berachampa",
+        "Kholapota",
+        "Basirhat.",
+        "Esplanade (Express)"
+      ]
+    }
+  },
+  {
+    "route": "253",
+    "data": {
+      "routeNo": "253",
+      "from": "Bashirhat",
+      "to": "Esplanade (Express)",
+      "distance": "135  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Bashirhat",
+        "V.I.P. Rd",
+        "Jessore Rd",
+        "Belgachia",
+        "Patipukur",
+        "Nager Bazar",
+        "Barasat",
+        "Kadambagachi",
+        "Golabari",
+        "Beleghata",
+        "Berachampa",
+        "Kholapota",
+        "Basirhat.",
+        "Esplanade (Express)"
+      ]
+    }
+  },
+  {
+    "route": "254",
+    "data": {
+      "routeNo": "254",
+      "from": "Salt Lake",
+      "to": "Howrah Maidan",
+      "distance": "9  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Salt Lake",
+        "Sealdah",
+        "M.G. Rd",
+        "Bura Bazar.",
+        "Howrah Maidan"
+      ]
+    }
+  },
+  {
+    "route": "257",
+    "data": {
+      "routeNo": "257",
+      "from": "Thakurpukur -",
+      "to": "Dharmatala",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Thakurpukur -",
+        "Tollygunge Terminus",
+        "Kalighat",
+        "S.P. Mukherjee Rd",
+        "Dharmatala"
+      ]
+    }
+  },
+  {
+    "route": "26",
+    "data": {
+      "routeNo": "26",
+      "from": "Banksara",
+      "to": "Howrah",
+      "distance": "9  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Banksara",
+        "Brabourne Road",
+        "Dharamtala.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "26/1",
+    "data": {
+      "routeNo": "26/1",
+      "from": "Chanditala",
+      "to": "Sodepur",
+      "distance": "45  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Chanditala",
+        "Dankuni",
+        "Dakhineswar",
+        "Dunlop",
+        "B.B.D. Bag.",
+        "Sodepur"
+      ]
+    }
+  },
+  {
+    "route": "27",
+    "data": {
+      "routeNo": "27",
+      "from": "Park Circus",
+      "to": "Bankra",
+      "distance": "9  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Park Circus",
+        "Dharamtala",
+        "Howrah Dasnagar.",
+        "Bankra"
+      ]
+    }
+  },
+  {
+    "route": "28",
+    "data": {
+      "routeNo": "28",
+      "from": "Amdanga",
+      "to": "Khanna Cinema",
+      "distance": "29  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Amdanga",
+        "Jalsha",
+        "Sethpukur",
+        "Maligram",
+        "Bandaghat",
+        "Idga.",
+        "Khanna Cinema"
+      ]
+    }
+  },
+  {
+    "route": "29",
+    "data": {
+      "routeNo": "29",
+      "from": "Tikiapara",
+      "to": "Salt Lake",
+      "distance": "24  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Tikiapara",
+        "Howrah",
+        "Hatibagan",
+        "Ultadanga.",
+        "Salt Lake"
+      ]
+    }
+  },
+  {
+    "route": "2B",
+    "data": {
+      "routeNo": "2B",
+      "from": "Ballygunge Stn.",
+      "to": "Bagbazar",
+      "distance": "23  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Ballygunge Stn.",
+        "Govt. Place East",
+        "Old Court House St.",
+        "Lal Bazar St.",
+        "B.B. Ganguly St.",
+        "College St.",
+        "Lenin Sarani",
+        "Rafi Ahmed Kidwai Rd",
+        "S.N. Banerjee Rd",
+        "Nirmal Chandra St.",
+        "Bidhan Sarani",
+        "Shyambazar",
+        "Bhupen Bose Ave",
+        "Girish Ave",
+        "B.B.D. Bag",
+        "Bagbazar"
+      ]
+    }
+  },
+  {
+    "route": "3",
+    "data": {
+      "routeNo": "3",
+      "from": "Bagbazar",
+      "to": "Kidderpur",
+      "distance": "12  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Bagbazar",
+        "Acharya Prafulla Ch. Rd",
+        "Maniktala Bazar",
+        "Rajabazar",
+        "Sealdah Stn.",
+        "Maulali",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "Chowranghee Rd",
+        "Ashutosh Mukherjee Rd",
+        "Hazra Rd (Kalighat)",
+        "Judge S Court Rd And Diamond Harbour Rd",
+        "Kidderpur"
+      ]
+    }
+  },
+  {
+    "route": "3 Mini",
+    "data": {
+      "routeNo": "3 Mini",
+      "from": "Kadamtala",
+      "to": "Dharamtala",
+      "distance": "11  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kadamtala",
+        "Mission Row",
+        "B.B.D. Bag.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "3 Private",
+    "data": {
+      "routeNo": "3 Private",
+      "from": "Bagbazar",
+      "to": "Srirampur",
+      "distance": "34  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Bagbazar",
+        "B.T. Rd",
+        "Dakhineswar",
+        "Uttar Para",
+        "Hind Motor",
+        "Mahesh",
+        "Srirampur.",
+        "Srirampur"
+      ]
+    }
+  },
+  {
+    "route": "30",
+    "data": {
+      "routeNo": "30",
+      "from": "Esplanade (Babu Ghat) -",
+      "to": "Madhyamgram",
+      "distance": "32  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Esplanade (Babu Ghat) -",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Moulali",
+        "Sealdah Stn.",
+        "Acharya Prafulla Ch. Rd",
+        "Ultadanga Rd",
+        "Raja Dinendra St.",
+        "Shyambazar",
+        "Belgachia",
+        "Patipukur",
+        "Jessore Rd",
+        "Nager Bazar.",
+        "Madhyamgram"
+      ]
+    }
+  },
+  {
+    "route": "30 Mini",
+    "data": {
+      "routeNo": "30 Mini",
+      "from": "Jagadishpur",
+      "to": "Dharamtala",
+      "distance": "14  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Jagadishpur",
+        "Salkia",
+        "Howrah.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "30A",
+    "data": {
+      "routeNo": "30A",
+      "from": "Esplanade (Babu Ghat) -",
+      "to": "Sinthee (Bangiya Unmad Ashram)",
+      "distance": "9  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Esplanade (Babu Ghat) -",
+        "Chittaranjan Ave",
+        "Jatindra Mohan Ave",
+        "Bagbazar",
+        "Shyambazar",
+        "B.T. Rd",
+        "Chiria More",
+        "Sinthee More",
+        "Beni Colony",
+        "Kalicharan Ghosh Rd",
+        "Sinthee (Bangiya Unmad Ashram)"
+      ]
+    }
+  },
+  {
+    "route": "30B",
+    "data": {
+      "routeNo": "30B",
+      "from": "Esplanade (Babu Ghat)",
+      "to": "Dum Dum Airport",
+      "distance": "16  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Esplanade (Babu Ghat)",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Moulali",
+        "Sealdah",
+        "Acharya Prafulla Ch. Rd",
+        "Shyambazar",
+        "Hemanta Setu",
+        "B.T. Rd",
+        "Chiria More",
+        "Dum Dum Rd",
+        "Nager Bazar",
+        "Jessore Rd",
+        "Dum Dum Airport"
+      ]
+    }
+  },
+  {
+    "route": "30B/1",
+    "data": {
+      "routeNo": "30B/1",
+      "from": "Dum Dum Airport",
+      "to": "Howrah Stn.",
+      "distance": "69  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Dum Dum Airport",
+        "Radhasree",
+        "P.K. Guha Rd",
+        "R.N. Guha Rd",
+        "Nagerbazar",
+        "Dum Dum Stn.",
+        "Subhas More",
+        "Shyambazar",
+        "Maniktala",
+        "Rabindra Kanan",
+        "Posta Bazar.",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "30C",
+    "data": {
+      "routeNo": "30C",
+      "from": "Esplanade (Babu Ghat)",
+      "to": "Hatiara (Baguiati)",
+      "distance": "55  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Esplanade (Babu Ghat)",
+        "Chittaranjan Ave",
+        "Jatindra Mohan Ave",
+        "Shyambazar",
+        "R.G. Kar Rd",
+        "Belgachia Rd",
+        "Jessore Rd",
+        "Shatgachi",
+        "Narendranath Rd",
+        "Baguiati",
+        "Hatiara (Baguiati)"
+      ]
+    }
+  },
+  {
+    "route": "30C/1",
+    "data": {
+      "routeNo": "30C/1",
+      "from": "Babughat",
+      "to": "Hatiara",
+      "distance": "13  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Babughat",
+        "Esplanade",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Moulali",
+        "Sealdah",
+        "Rajabazar",
+        "Ultadanga Station.",
+        "Hatiara"
+      ]
+    }
+  },
+  {
+    "route": "30D",
+    "data": {
+      "routeNo": "30D",
+      "from": "Esplanade (Babu Ghat)",
+      "to": "Dum Dum Cantonment",
+      "distance": "18  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Esplanade (Babu Ghat)",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd Moulali",
+        "Sealdah",
+        "Acharya Prafulla Ch. Rd",
+        "Ultadanga Rd",
+        "Raja Dinendra St.",
+        "Shyambazar",
+        "Belgachia",
+        "Patipukur",
+        "Jessore Rd",
+        "Bangur Colony",
+        "Jessop No.1 Gate.",
+        "Dum Dum Cantonment"
+      ]
+    }
+  },
+  {
+    "route": "30F",
+    "data": {
+      "routeNo": "30F",
+      "from": "Sreerampur",
+      "to": "Salt Lake (At Present Runs Upto Dakshineswar)",
+      "distance": "56  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Sreerampur",
+        "Uttarpara",
+        "Bally",
+        "Vivekananda Bridge",
+        "Nagerbazar",
+        "Ultadanga",
+        "Baisakhi",
+        "Tank No.7",
+        "Bidyut Bhaban",
+        "Stadium.",
+        "Salt Lake (At Present Runs Upto Dakshineswar)"
+      ]
+    }
+  },
+  {
+    "route": "31A",
+    "data": {
+      "routeNo": "31A",
+      "from": "Kamardanga",
+      "to": "Howrah",
+      "distance": "22  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kamardanga",
+        "Ichhapur",
+        "Kadamtala.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "32",
+    "data": {
+      "routeNo": "32",
+      "from": "Esplanade",
+      "to": "Dakshineswar",
+      "distance": "30  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Lyons Range",
+        "Brabourne Rd",
+        "Mahatma Gandhi Rd",
+        "Kalakar St.",
+        "Jadu Mullick Rd",
+        "B.K. Paul Ave",
+        "Jatindra Mohan Ave",
+        "Bhupen Bose Ave",
+        "Shyambazar",
+        "Galif St.",
+        "Chitpore Bridge",
+        "Cossipore Rd",
+        "Gopal Lal Thakur Rd",
+        "Deshbandhu Rd",
+        "Alambazar",
+        "Surya Sen Rd",
+        "Dakshineswar"
+      ]
+    }
+  },
+  {
+    "route": "320",
+    "data": {
+      "routeNo": "320",
+      "from": "Alipur Zoo",
+      "to": "Alipur Zoo",
+      "distance": null,
+      "totalStops": 1,
+      "stops": [
+        "Alipur Zoo"
+      ]
+    }
+  },
+  {
+    "route": "32A",
+    "data": {
+      "routeNo": "32A",
+      "from": "Dakshineswar",
+      "to": "Salt Lake Stadium",
+      "distance": "37  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Dakshineswar",
+        "Dunlop",
+        "B.T. Rd",
+        "Shyambazar",
+        "Aurobinda Setu",
+        "P.N. Bank",
+        "Vidyasagar",
+        "Labani",
+        "Phalguni.",
+        "Salt Lake Stadium"
+      ]
+    }
+  },
+  {
+    "route": "33",
+    "data": {
+      "routeNo": "33",
+      "from": "Chetla",
+      "to": "Manicktala",
+      "distance": "14  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Chetla",
+        "Alipur Rd",
+        "Judges Court Rd",
+        "Kalighat Bridge",
+        "Hazra Rd",
+        "Bondel Rd",
+        "Rifle Range Rd",
+        "Dilkhusa St.",
+        "Darga Rd",
+        "Sundari Mohan Ave",
+        "Acharya J.C. Bose Rd",
+        "Sealdah.",
+        "Manicktala"
+      ]
+    }
+  },
+  {
+    "route": "33A",
+    "data": {
+      "routeNo": "33A",
+      "from": "Paikpara",
+      "to": "Park Circus Maidan",
+      "distance": "15  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Paikpara",
+        "Raja Manindra Rd",
+        "Belgachia Rd",
+        "R.G. Kar Rd",
+        "Shyambazar",
+        "A.P.C. Rd",
+        "Sealdah",
+        "A.J.C. Bose Rd",
+        "Dr.Sundari Mohan Ave",
+        "Park Circus Maidan"
+      ]
+    }
+  },
+  {
+    "route": "34",
+    "data": {
+      "routeNo": "34",
+      "from": "Esplanade",
+      "to": "Ariadaha (Dakshineswar)",
+      "distance": "31  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Esplanade",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Nirmal Ch. St.",
+        "College St.",
+        "B.B.D. Bag",
+        "B.B. Ganguly St.",
+        "College St.)",
+        "Bidhan Sarani",
+        "Shyambazar",
+        "B.T. Rd",
+        "Tobin Rd",
+        "Kashinath Dutta Rd",
+        "Gopal Lal Thakur Rd",
+        "Alam Bazar",
+        "Desh Bandhu Rd",
+        "Surja Sen Rd",
+        "Ariadaha (Dakshineswar)"
+      ]
+    }
+  },
+  {
+    "route": "34B",
+    "data": {
+      "routeNo": "34B",
+      "from": "Esplanade",
+      "to": "Dunlop Bridge",
+      "distance": "8  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Esplanade",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd Nirmal Ch. St.",
+        "College St.",
+        "Bidhan Sarani",
+        "Shyambazar",
+        "B.T. Rd",
+        "Kashinath Dutta Rd",
+        "Gopal Lal Thakur Rd",
+        "Dunlop Bridge"
+      ]
+    }
+  },
+  {
+    "route": "34B/1",
+    "data": {
+      "routeNo": "34B/1",
+      "from": "Texmaco -",
+      "to": "Esplanade",
+      "distance": "13  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Texmaco -",
+        "B.T. Rd",
+        "A.P.C. Rd",
+        "Sealdah",
+        "Acharya J.C. Bose Rd",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "34C",
+    "data": {
+      "routeNo": "34C",
+      "from": "Esplanade",
+      "to": "Baranagar (Napara)",
+      "distance": "10  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Esplanade",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Moulali",
+        "Sealdah",
+        "Acharya Prafulla Ch. Rd",
+        "Shyambazar",
+        "B.T. Rd",
+        "Kashinath Dutta Rd",
+        "Gopal Lal Thakur Rd",
+        "Baranagar (Napara)"
+      ]
+    }
+  },
+  {
+    "route": "35",
+    "data": {
+      "routeNo": "35",
+      "from": "Joramandir (Beleghata)",
+      "to": "Sealdah Stn.",
+      "distance": "2  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Joramandir (Beleghata)",
+        "Beliaghata Main Rd",
+        "Rashmoni Bazar",
+        "Beleghata Rd",
+        "Sealdah Stn."
+      ]
+    }
+  },
+  {
+    "route": "35A",
+    "data": {
+      "routeNo": "35A",
+      "from": "Joramandir (Beleghata)",
+      "to": "Howrah Stn.",
+      "distance": "7  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Joramandir (Beleghata)",
+        "Beleghata Main Rd",
+        "Rashmoni Bazar",
+        "Beleghata Rd",
+        "Sealdah Fly Over",
+        "M.G. Rd",
+        "Raja Ram Mohan Roy Sarani",
+        "B.B. Ganguly St.",
+        "Mission Row Extn.",
+        "B.B.D. Bag",
+        "Koilaghat St.",
+        "Strand Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "35B",
+    "data": {
+      "routeNo": "35B",
+      "from": "Beleghata (C.I.T. Building)",
+      "to": "Sealdah Stn",
+      "distance": "6  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Beleghata (C.I.T. Building)",
+        "C.I.T. Rd",
+        "Beleghata Main Rd",
+        "Beleghata Rd",
+        "Sealdah Stn"
+      ]
+    }
+  },
+  {
+    "route": "35C",
+    "data": {
+      "routeNo": "35C",
+      "from": "Salt Lake",
+      "to": "Babughat",
+      "distance": "70  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Salt Lake",
+        "Philips Complex",
+        "Mahish Bathan",
+        "C.A. Island",
+        "Vidyasagar",
+        "Labony",
+        "Purbachal",
+        "Tank No.13",
+        "Brdway",
+        "Kbkc Block",
+        "C.I.T. E.M By Pass Crossing",
+        "Joramandir",
+        "Sealdah",
+        "Bowbazar",
+        "B.B.D. Bag",
+        "Hare St.",
+        "Strand Rd",
+        "Babughat"
+      ]
+    }
+  },
+  {
+    "route": "36",
+    "data": {
+      "routeNo": "36",
+      "from": "(Shuttle) Phulbagan",
+      "to": "B.B.D. Bag",
+      "distance": "15  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "(Shuttle) Phulbagan",
+        "A.P.C. Rd",
+        "Surya Sen St.",
+        "M.G. Rd",
+        "Sealdah",
+        "Raja Rammohan Sarani",
+        "B.B. Ganguly St.",
+        "Chittaranjan Ave",
+        "R.N. Mukherjee Rd",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "36 Govt",
+    "data": {
+      "routeNo": "36 Govt",
+      "from": "Sealdah",
+      "to": "Subhas Sarovor",
+      "distance": "5  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Sealdah",
+        "Acharya Prafulla Ch. Rd",
+        "Raja Bazar",
+        "Gas St.",
+        "Narikeldanga Main Rd",
+        "C.I.T. Rd",
+        "(Nandi House).",
+        "Subhas Sarovor"
+      ]
+    }
+  },
+  {
+    "route": "37",
+    "data": {
+      "routeNo": "37",
+      "from": "Dhakuria",
+      "to": "Howrah Stn.",
+      "distance": "14  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Dhakuria",
+        "Prince Anwar Shah Rd",
+        "Tollygunge Cir. Rd",
+        "New Alipore",
+        "Majher Hat Bridge",
+        "Diamond Harbour Rd",
+        "Kidderpore Rd",
+        "Duffrin Rd",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "India Exchange Place",
+        "Brabourne Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "37A",
+    "data": {
+      "routeNo": "37A",
+      "from": "Golf Green",
+      "to": "Howrah Stn.",
+      "distance": "12  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Golf Green",
+        "Prince Anwar Shah Rd",
+        "Dhakuria",
+        "Gariahat Rd",
+        "Rash Behari Ave",
+        "Gopalnagar",
+        "Alipore Zoo",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag.",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "38",
+    "data": {
+      "routeNo": "38",
+      "from": "Sealdah Stn. -",
+      "to": "Matpukur (Dhapa)",
+      "distance": "5  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Sealdah Stn. -",
+        "Beleghata Rd",
+        "Munshi Bazar",
+        "Palmer Bazar",
+        "Radhanath Chowdhury Rd",
+        "Tangra Rd",
+        "Huges Rd",
+        "Debendra De Rd",
+        "Matpukur (Dhapa)"
+      ]
+    }
+  },
+  {
+    "route": "38B",
+    "data": {
+      "routeNo": "38B",
+      "from": "Salt Lake",
+      "to": "Howrah",
+      "distance": "17  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Salt Lake",
+        "Arabindo Setu",
+        "Hatibagan",
+        "Grey St.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "39",
+    "data": {
+      "routeNo": "39",
+      "from": "High Court",
+      "to": "Picnic Garden",
+      "distance": "9  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "High Court",
+        "B.B.D. Bag",
+        "Old Court House St.",
+        "Esplanade",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Moulali",
+        "Dr. Sundari Mohan Ave",
+        "Darga Rd",
+        "Tiljala.",
+        "Picnic Garden"
+      ]
+    }
+  },
+  {
+    "route": "39A",
+    "data": {
+      "routeNo": "39A",
+      "from": "Picnic Garden",
+      "to": "Salt Lake",
+      "distance": "39  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Picnic Garden",
+        "Ballygunge Farry",
+        "Park Circus",
+        "Park St",
+        "Mallick Bazar",
+        "Moulali",
+        "Sealdah",
+        "Raja Bazar",
+        "B.C. Roy Children Hospital",
+        "36 Bus Stand",
+        "Purbachal.",
+        "Salt Lake"
+      ]
+    }
+  },
+  {
+    "route": "3A",
+    "data": {
+      "routeNo": "3A",
+      "from": "Sealdah",
+      "to": "Thakurpukur",
+      "distance": "29  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Sealdah",
+        "Sealdah Stn.",
+        "Mahatma Gandhi Rd",
+        "Raja Rammohan Sarani",
+        "B.B. Ganguly St.",
+        "B.B.D. Bag",
+        "Old Court House St.",
+        "Strand Rd",
+        "Kidderpore",
+        "Mominpur",
+        "Behala",
+        "Sakherbazar",
+        "Diamond Harbour Rd",
+        "Thakurpukur"
+      ]
+    }
+  },
+  {
+    "route": "3A Mini",
+    "data": {
+      "routeNo": "3A Mini",
+      "from": "Kamardanga",
+      "to": "Dharamtala",
+      "distance": "10  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Kamardanga",
+        "Howrah Kadamtala.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "3A/1",
+    "data": {
+      "routeNo": "3A/1",
+      "from": "Kankurgachi (C.I.T. Scheme)",
+      "to": "Behala",
+      "distance": "17  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Kankurgachi (C.I.T. Scheme)",
+        "Narkeldanga",
+        "Dr. M.N. Chatterjee Sarani",
+        "Raja Bazar",
+        "A.P.C. Rd",
+        "Sealdah",
+        "M.G. Rd",
+        "Raja Rammohan Sarani",
+        "B.B. Ganguly St.",
+        "B.B.D. Bag",
+        "Old Court House St.",
+        "Esplanade",
+        "Strand Rd",
+        "Napier Rd",
+        "Kidderpore",
+        "Mominpur.",
+        "Behala"
+      ]
+    }
+  },
+  {
+    "route": "3B",
+    "data": {
+      "routeNo": "3B",
+      "from": "Belgachia (Milk Colony)",
+      "to": "New Alipur",
+      "distance": "68  K.M.",
+      "totalStops": 21,
+      "stops": [
+        "Belgachia (Milk Colony)",
+        "Shyambazar",
+        "Acharya Prafulla Ch. Rd",
+        "Maniktala Bazar",
+        "Vivekananda Rd",
+        "Raja Rammohan Sarani",
+        "B.B.Ganguly St",
+        "B.B.D. Bag",
+        "Esplanade",
+        "Chowranghee Rd",
+        "Nirmal Ch. St",
+        "S.N.Banerjee Rd",
+        "Lenin Sarani",
+        "Acharya J.C.Bose Rd",
+        "Belvedere Rd",
+        "Zoo Garden",
+        "Baker Rd",
+        "Alipur Judges Court Rd",
+        "Chetla",
+        "Mayerpur Rd",
+        "New Alipur"
+      ]
+    }
+  },
+  {
+    "route": "3C",
+    "data": {
+      "routeNo": "3C",
+      "from": "Esplanade",
+      "to": "Belgharia Rly. Stn.",
+      "distance": "15  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Esplanade",
+        "B.B.Ganguly St",
+        "Sealdah Fly Over",
+        "Maniktala",
+        "Shyambazar",
+        "Nager Bazar",
+        "Birati.",
+        "Belgharia Rly. Stn."
+      ]
+    }
+  },
+  {
+    "route": "3C/1",
+    "data": {
+      "routeNo": "3C/1",
+      "from": "Kasba (Bose Pukur)",
+      "to": "Nager Bazar",
+      "distance": "32  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Kasba (Bose Pukur)",
+        "Gariahat",
+        "Minto Park",
+        "Park St.",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Nirmal Ch. St.",
+        "B.B. Ganguly St.",
+        "Raja Rammohan Sarani",
+        "Maniktala Bazar",
+        "Acharya P.C. Rd",
+        "Shyambazar",
+        "Jessore Rd",
+        "Bangur Satgachi.",
+        "Nager Bazar"
+      ]
+    }
+  },
+  {
+    "route": "3D",
+    "data": {
+      "routeNo": "3D",
+      "from": "Belgachia (Milk Colony) -",
+      "to": "Behala (Old Dog Race Course)",
+      "distance": "17  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Belgachia (Milk Colony) -",
+        "Shyambazar",
+        "Bidhan Sarani",
+        "College St.",
+        "Nirmal Ch. St.",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "B.B.D. Bag",
+        "Esplanade",
+        "Chowranghee Rd",
+        "Acharya J.C.Bose Rd",
+        "Belvedere Rd",
+        "Zoo Garden",
+        "Baker Rd",
+        "Alipur Judges Court Rd",
+        "Diamond Harbour Rd",
+        "Behala (Old Dog Race Course)"
+      ]
+    }
+  },
+  {
+    "route": "3D/1",
+    "data": {
+      "routeNo": "3D/1",
+      "from": "Milk Colony",
+      "to": "Behala (Sakher Bazar)",
+      "distance": "17  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Milk Colony",
+        "Maniktala",
+        "A.P.C. Rd",
+        "Sealdah",
+        "Moulali",
+        "Beckbagan.",
+        "Behala (Sakher Bazar)"
+      ]
+    }
+  },
+  {
+    "route": "40",
+    "data": {
+      "routeNo": "40",
+      "from": "Thakurpukur",
+      "to": "B.B.D. Bag (Babughat)",
+      "distance": "12  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Thakurpukur",
+        "M.G. Rd",
+        "B.L. Shah Rd",
+        "Tollygunge Cir. Rd",
+        "New Alipur",
+        "Diamond Harbour Rd",
+        "Kidderpore Rd",
+        "Red Rd",
+        "B.B.D. Bag (Babughat)"
+      ]
+    }
+  },
+  {
+    "route": "40575",
+    "data": {
+      "routeNo": "40575",
+      "from": "Ballygunge Stn.",
+      "to": "Esplanade",
+      "distance": "10  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Ballygunge Stn.",
+        "Ekdalia Rd",
+        "Rash Behari Ave",
+        "Sarat Bose Rd",
+        "A.J.C. Bose Rd",
+        "Chowranghee",
+        "B.B.D. Bag",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "40A",
+    "data": {
+      "routeNo": "40A",
+      "from": "Nepalganj Hat",
+      "to": "B.B.D. Bag (Babughat)",
+      "distance": "7  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Nepalganj Hat",
+        "Bageswar",
+        "Sajneberia",
+        "Kebardanga More",
+        "B.L. Shah Rd",
+        "Mahabir Tolla More",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "Ashutosh Mukherjee Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "B.B.D. Bag (Babughat)"
+      ]
+    }
+  },
+  {
+    "route": "41",
+    "data": {
+      "routeNo": "41",
+      "from": "Regent Estate",
+      "to": "Esplanade (Babughat)",
+      "distance": "17  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Regent Estate",
+        "Bagha Jatin Bazar",
+        "Raja Subodh Mallick Rd",
+        "Jadavpur",
+        "Dhakuria",
+        "Gariahat",
+        "Syed Amir Ali Ave",
+        "Circus Ave",
+        "Acharya J.C. Bose Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "Old Court House St",
+        "B.B.D. Bag.",
+        "Esplanade (Babughat)"
+      ]
+    }
+  },
+  {
+    "route": "41/1",
+    "data": {
+      "routeNo": "41/1",
+      "from": "Gachtala",
+      "to": "B.B.D. Bag",
+      "distance": "61  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Gachtala",
+        "Netaji Nagar",
+        "Gandhi Colony",
+        "Bijoygar",
+        "Regent Estate",
+        "Bagha Jatin Bazar",
+        "Raja Subodh Mullick Rd",
+        "Jadavpur",
+        "Dhakuria",
+        "Gariahat Rd",
+        "Promothes Barua Sn.",
+        "A.J.C. Bose Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "Old Court House St",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "41/1A",
+    "data": {
+      "routeNo": "41/1A",
+      "from": "Tollygunge Tram Depot (Metro Rail Stn.)",
+      "to": "Salt Lake (Tank No.8)",
+      "distance": "86  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Tollygunge Tram Depot (Metro Rail Stn.)",
+        "N.S. Rd",
+        "Netaji Nagar",
+        "Bansdroni",
+        "Naktala",
+        "Garia",
+        "Baisnab Ghata",
+        "Park Circus",
+        "Mallick Bazar",
+        "Moulali",
+        "Sealdah",
+        "Maniktala",
+        "Bagmari",
+        "C.I.T. Rd",
+        "Ultadanga",
+        "Purta Bhawan",
+        "Baisali.",
+        "Salt Lake (Tank No.8)"
+      ]
+    }
+  },
+  {
+    "route": "41/A",
+    "data": {
+      "routeNo": "41/A",
+      "from": "Bijoygarh",
+      "to": "Esplanade (Babughat)",
+      "distance": "31  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Bijoygarh",
+        "Gandhi Colony",
+        "Netaji Nagar",
+        "Netaji Subhas Rd",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "High Court.",
+        "Esplanade (Babughat)"
+      ]
+    }
+  },
+  {
+    "route": "41/B",
+    "data": {
+      "routeNo": "41/B",
+      "from": "Gachtala (Tollygunge)",
+      "to": "High Court",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Gachtala (Tollygunge)",
+        "Netaji Subhas Ch. Bose Rd",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "High Court.",
+        "High Court"
+      ]
+    }
+  },
+  {
+    "route": "42",
+    "data": {
+      "routeNo": "42",
+      "from": "Park Circus",
+      "to": "B.N.R. Office (Bichalighat)",
+      "distance": "10  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Park Circus",
+        "Surwardi Ave",
+        "Bondel Rd",
+        "Hazra Rd",
+        "S.P. Mukherjee Rd",
+        "Tollygunge Cir. Rd",
+        "New Alipur",
+        "Taratala",
+        "Hide Rd",
+        "B.N.R. Office (Bichalighat)"
+      ]
+    }
+  },
+  {
+    "route": "42108",
+    "data": {
+      "routeNo": "42108",
+      "from": "Metiabruz",
+      "to": "Makardaha.",
+      "distance": "9  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Metiabruz",
+        "Howrah",
+        "Makardaha."
+      ]
+    }
+  },
+  {
+    "route": "42109",
+    "data": {
+      "routeNo": "42109",
+      "from": "Bankra",
+      "to": "Bankra",
+      "distance": null,
+      "totalStops": 1,
+      "stops": [
+        "Bankra"
+      ]
+    }
+  },
+  {
+    "route": "42A",
+    "data": {
+      "routeNo": "42A",
+      "from": "Gas Turbine",
+      "to": "Badartala",
+      "distance": "7  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Gas Turbine",
+        "Majerhat Bridge",
+        "Kidderpore.",
+        "Badartala"
+      ]
+    }
+  },
+  {
+    "route": "42B",
+    "data": {
+      "routeNo": "42B",
+      "from": "Park Circus",
+      "to": "Bichalighat",
+      "distance": "11  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Park Circus",
+        "Gariahat Rd",
+        "Prince Anwar Shah Rd",
+        "Taratala Rd",
+        "Garden Reach.",
+        "Bichalighat"
+      ]
+    }
+  },
+  {
+    "route": "42C",
+    "data": {
+      "routeNo": "42C",
+      "from": "Park Circus",
+      "to": "Purbachal Housing Estate (Salt Lake)",
+      "distance": "10  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Park Circus",
+        "Dr. Sundari Mohan Ave",
+        "Moulali",
+        "Sealdah",
+        "Maniktala",
+        "Ultadanga",
+        "P.N. Bank",
+        "Labony",
+        "Phalguni.",
+        "Purbachal Housing Estate (Salt Lake)"
+      ]
+    }
+  },
+  {
+    "route": "43",
+    "data": {
+      "routeNo": "43",
+      "from": "Esplanade",
+      "to": "Bonhooghly (Baranagar)",
+      "distance": "8  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Esplanade",
+        "Bentinck St.",
+        "Rabindra Sarani",
+        "Cossipore Rd",
+        "Baranagar Bazar",
+        "Gopal Lal Thakur Rd",
+        "Bonhooghly (Baranagar)"
+      ]
+    }
+  },
+  {
+    "route": "44",
+    "data": {
+      "routeNo": "44",
+      "from": "Baguiati",
+      "to": "Howrah Stn.",
+      "distance": "13  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Baguiati",
+        "V.I.P. Rd",
+        "Bangur",
+        "Lake Town",
+        "Narkeldanga Main Rd",
+        "Acharya Prafulla Ch. Rd",
+        "Sealdah",
+        "Mahatma Gandhi Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "44A",
+    "data": {
+      "routeNo": "44A",
+      "from": "Jhilmil (Salt Lake)",
+      "to": "Howrah Stn.",
+      "distance": "11  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Jhilmil (Salt Lake)",
+        "V.I.P. Rd",
+        "Ultadanga Station Rd",
+        "Aurobinda Setu",
+        "Acharya Prafulla Chandra Rd",
+        "Sealdah",
+        "Mahatma Gandhi Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "45",
+    "data": {
+      "routeNo": "45",
+      "from": "Dum Dum Airport",
+      "to": "Padmasree Cinema (Baisnab Ghata)",
+      "distance": "31  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Dum Dum Airport",
+        "V.I.P. Rd",
+        "Baguiati",
+        "Bangur",
+        "Lake Town",
+        "Ultadanga Housing Estate",
+        "Beleghata Main Rd",
+        "Sealdah",
+        "Moulali",
+        "Sundarimohan Ave",
+        "Surrawardy Ave",
+        "Syed Amir Ali Ave",
+        "Gariahat Rd",
+        "Dhakuria",
+        "Jadavpur",
+        "Bagha Jatin",
+        "Ganguly Bagan",
+        "Ram Garh.",
+        "Padmasree Cinema (Baisnab Ghata)"
+      ]
+    }
+  },
+  {
+    "route": "45A",
+    "data": {
+      "routeNo": "45A",
+      "from": "Dum Dum Airport -",
+      "to": "Garia Stn.",
+      "distance": "45  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Dum Dum Airport -",
+        "V.I.P. Rd",
+        "Baguiati",
+        "Bangur",
+        "Lake Town",
+        "Ultadanga Housing Estate",
+        "Beleghata Main Rd",
+        "Sealdah",
+        "Moulali",
+        "Sundarimohan Ave",
+        "Surrawardy Ave",
+        "Syed Amir Ali Ave",
+        "Gariahat Rd",
+        "Dhakuria",
+        "Jadavpur",
+        "Bagha Jatin",
+        "Ganguly Bagan",
+        "Garia",
+        "Garia Stn. Rd",
+        "Garia Stn."
+      ]
+    }
+  },
+  {
+    "route": "45B",
+    "data": {
+      "routeNo": "45B",
+      "from": "Sealdah",
+      "to": "Garia Station",
+      "distance": "14  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Sealdah",
+        "Moulali",
+        "Lansdowne",
+        "Rashbehari",
+        "Deshpransashmal Rd",
+        "Anwar Shah Rd",
+        "Jadavpur.",
+        "Garia Station"
+      ]
+    }
+  },
+  {
+    "route": "46",
+    "data": {
+      "routeNo": "46",
+      "from": "Esplanade",
+      "to": "Dum Dum Air Port",
+      "distance": "29  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Esplanade",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Nirmal Ch. St.",
+        "College St.",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Lalbazar",
+        "B.B.Ganguly St.",
+        "Bidhan Sarani",
+        "Vivekananda Rd",
+        "Maniktala Main Rd",
+        "V.I.P. Rd",
+        "Ultadanga",
+        "Lake Town",
+        "Bangur",
+        "Baguiati",
+        "Nagendranath Rd",
+        "Satgachi",
+        "Nager Bazar",
+        "Jessore Rd",
+        "Dum Dum Air Port"
+      ]
+    }
+  },
+  {
+    "route": "46A",
+    "data": {
+      "routeNo": "46A",
+      "from": "Esplanade",
+      "to": "Karunamayee Estate (Salt Lake)",
+      "distance": "16  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Esplanade",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Nirmal Ch. St.",
+        "College St.",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Lalbazar",
+        "B.B.Ganguly St.",
+        "Bidhan Sarani",
+        "Vivekananda Rd",
+        "Maniktala Main Rd",
+        "V.I.P. Rd",
+        "Gate No.1",
+        "P.N. Bank",
+        "Pumping House.",
+        "Karunamayee Estate (Salt Lake)"
+      ]
+    }
+  },
+  {
+    "route": "46B",
+    "data": {
+      "routeNo": "46B",
+      "from": "Babughat",
+      "to": "Salt Lake (Aj Block Sector-Ii)",
+      "distance": "103  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Babughat",
+        "Esplanade",
+        "Moulali",
+        "Acharya P.C. Rd",
+        "Sealdah",
+        "Rajabazar",
+        "Phulbagan",
+        "Kadapara",
+        "Subhas Sarobar",
+        "Purbachal",
+        "Cross Rd No.10",
+        "Sixth Ave",
+        "Block G.P. And G.E.",
+        "Karunamoyee",
+        "Purta Bhawan",
+        "Cross Rd No.6.",
+        "Salt Lake (Aj Block Sector-Ii)"
+      ]
+    }
+  },
+  {
+    "route": "47",
+    "data": {
+      "routeNo": "47",
+      "from": "Lake Town",
+      "to": "Dhakuria",
+      "distance": "62  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Lake Town",
+        "Jessore Rd",
+        "Belgachia",
+        "R.G. Kar Rd",
+        "Shyambazar",
+        "Raja Dinendra St.",
+        "Ultadanga Rd",
+        "Acharya Prafulla Ch. Rd",
+        "Sealdah Stn.",
+        "Raja Rammohan Sn.",
+        "B.B. Ganguly St.",
+        "B.B.D. Bag",
+        "C.R. Ave",
+        "Chowranghee",
+        "Lalalajpat Rai Sn.",
+        "Sarat Bose Rd",
+        "Rash Behari Ave",
+        "Gariahat Rd",
+        "Golpark.",
+        "Dhakuria"
+      ]
+    }
+  },
+  {
+    "route": "47/1",
+    "data": {
+      "routeNo": "47/1",
+      "from": "Salt Lake -",
+      "to": "Tollygunge Metro Rail",
+      "distance": "58  K.M.",
+      "totalStops": 21,
+      "stops": [
+        "Salt Lake -",
+        "K.B.K.C - Block",
+        "Purbachal",
+        "Phalguni/Sraboni",
+        "Cross Rd No.1",
+        "Vidyasagar",
+        "Second Ave",
+        "E.M. Bypass",
+        "Bengal Chemical",
+        "Kankurgachi",
+        "Maniktala Main Rd",
+        "A.P.C. Rd",
+        "M.G. Rd",
+        "Raja Rammohan Sarani",
+        "B.B. Ganguly St.",
+        "B.B.D. Bag",
+        "Elgin Rd",
+        "Rash Behari Ave",
+        "S.P. Mukherjee Rd",
+        "Tollygunge.",
+        "Tollygunge Metro Rail"
+      ]
+    }
+  },
+  {
+    "route": "47A",
+    "data": {
+      "routeNo": "47A",
+      "from": "Lake Town",
+      "to": "Dhakuria",
+      "distance": "58  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Lake Town",
+        "Jessore Rd",
+        "Belgachia",
+        "R.G. Kar Rd",
+        "Shyambazar",
+        "Acharya Prafulla Ch. Rd",
+        "Sealdah Stn.",
+        "B.B. Ganguly St.",
+        "B.B.D. Bag",
+        "Chowranghee Rd",
+        "Elgin Rd",
+        "Sarat Bose Rd",
+        "Rash Behari Ave",
+        "Southern Ave",
+        "Golpark.",
+        "Dhakuria"
+      ]
+    }
+  },
+  {
+    "route": "47B",
+    "data": {
+      "routeNo": "47B",
+      "from": "Lake Town",
+      "to": "Super Market (Prince Anwar Shah Rd)",
+      "distance": "53  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Lake Town",
+        "Tollygunge Phari",
+        "Charu Market",
+        "Harish Mukherjee Rd",
+        "Chowranghee Rd",
+        "C.R. Ave",
+        "Jessore Rd",
+        "Belgachia",
+        "R.G. Kar Rd",
+        "Shyambazar",
+        "Raja Dinendra St.",
+        "Ultadanga Rd",
+        "Acharya Prafulla Ch. Rd",
+        "Sealdah Stn.",
+        "Raja Rammohan Sn.",
+        "B.B. Ganguly St.",
+        "B.B.D. Bag",
+        "Super Market (Prince Anwar Shah Rd)"
+      ]
+    }
+  },
+  {
+    "route": "4A",
+    "data": {
+      "routeNo": "4A",
+      "from": "Tollygunge (Kundghat)",
+      "to": "Esplanade",
+      "distance": "9  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Tollygunge (Kundghat)",
+        "Chandi Ghosh Rd",
+        "Baburam Ghosh Rd",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "Ashutosh Mukherjee Rd",
+        "Chowranghee Rd",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "4A Mini",
+    "data": {
+      "routeNo": "4A Mini",
+      "from": "Kudghat",
+      "to": "B.B.D. Bag",
+      "distance": "10  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Kudghat",
+        "Harish Mukherjee Rd.",
+        "Park Street.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "4B",
+    "data": {
+      "routeNo": "4B",
+      "from": "Esplanade",
+      "to": "Baranagore",
+      "distance": "11  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Esplanade",
+        "Bentinck St.",
+        "Lal Bazar St.",
+        "Chittaranjan Ave",
+        "Vivekananda Rd",
+        "Bagbazar",
+        "Cossipore Rd",
+        "Baranagore"
+      ]
+    }
+  },
+  {
+    "route": "4C",
+    "data": {
+      "routeNo": "4C",
+      "from": "Haridevpur",
+      "to": "B.B.D. Bag",
+      "distance": "29  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Haridevpur",
+        "Karunamoyee",
+        "Siriti",
+        "Mahabirtala",
+        "Dipti Cinema Tollygunge",
+        "R.B. Ave",
+        "Hazra Rd",
+        "Elgin Rd",
+        "Park St.",
+        "Via Esplanade.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "5",
+    "data": {
+      "routeNo": "5",
+      "from": "Garia",
+      "to": "Howrah Stn.",
+      "distance": "17  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Garia",
+        "Raja Subodh Mallick Rd",
+        "Jadavpur",
+        "Dhakuria",
+        "Gariahat Rd",
+        "Rash Behari Ave",
+        "Austosh Mukherjee Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Koilaghata St.",
+        "Strand Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "5 Mini",
+    "data": {
+      "routeNo": "5 Mini",
+      "from": "Japanese Gate (Howrah)",
+      "to": "Salt Lake",
+      "distance": "3  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Japanese Gate (Howrah)",
+        "Ultadanga",
+        "Grey Street.",
+        "Salt Lake"
+      ]
+    }
+  },
+  {
+    "route": "6",
+    "data": {
+      "routeNo": "6",
+      "from": "Garia",
+      "to": "Howrah Stn.",
+      "distance": "16  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Garia",
+        "Baishnabghata",
+        "Naktala",
+        "Bansdroni",
+        "Netaji Nagar",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Brabourne Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "6 (Shuttl",
+    "data": {
+      "routeNo": "6 (Shuttl",
+      "from": "Garia",
+      "to": "Rashbehari",
+      "distance": "7  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Garia",
+        "Tollygung Tram Depot.",
+        "Rashbehari"
+      ]
+    }
+  },
+  {
+    "route": "6 Mini",
+    "data": {
+      "routeNo": "6 Mini",
+      "from": "B. Garden",
+      "to": "Dharamtala",
+      "distance": null,
+      "totalStops": 4,
+      "stops": [
+        "B. Garden",
+        "Shibpur Tramdepot",
+        "Howrah.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "61A",
+    "data": {
+      "routeNo": "61A",
+      "from": "Danesh Sheikh Lane",
+      "to": "Dharamtala",
+      "distance": "14  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Danesh Sheikh Lane",
+        "Howrah",
+        "B.B.D. Bag.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "66",
+    "data": {
+      "routeNo": "66",
+      "from": "Belghoria",
+      "to": "Howrah P.St.",
+      "distance": "8  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Belghoria",
+        "Shyambazar",
+        "Manicktala.",
+        "Howrah P.St."
+      ]
+    }
+  },
+  {
+    "route": "66/1",
+    "data": {
+      "routeNo": "66/1",
+      "from": "Rathtala",
+      "to": "Howrah",
+      "distance": "21  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Rathtala",
+        "Dunlop",
+        "B.T. Rd.",
+        "Shyambazar.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "7",
+    "data": {
+      "routeNo": "7",
+      "from": "Hazra Park",
+      "to": "Sarsuna",
+      "distance": "9  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Hazra Park",
+        "S.P. Mukherjee Rd",
+        "Deshapran Sasmal Rd",
+        "Tollygunge Cir. Rd",
+        "N.R. Sarkar Ave",
+        "D.H. Rd",
+        "Biren Roy Rd (West)",
+        "Sarsuna Main Rd",
+        "Sarsuna"
+      ]
+    }
+  },
+  {
+    "route": "7 Mini",
+    "data": {
+      "routeNo": "7 Mini",
+      "from": "Amtala",
+      "to": "Shyambazar",
+      "distance": "11  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Amtala",
+        "Howrah",
+        "Posta.",
+        "Shyambazar"
+      ]
+    }
+  },
+  {
+    "route": "71",
+    "data": {
+      "routeNo": "71",
+      "from": "Salt Lake",
+      "to": "Howrah Maidan",
+      "distance": "11  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Salt Lake",
+        "Kankurgachi",
+        "Maniktala",
+        "Sealdah",
+        "M.G. Rd",
+        "Via Burrabazar.",
+        "Howrah Maidan"
+      ]
+    }
+  },
+  {
+    "route": "71C",
+    "data": {
+      "routeNo": "71C",
+      "from": "Dharamtalla",
+      "to": "Howrah Maidan",
+      "distance": "3  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Dharamtalla",
+        "Brabourne Rd",
+        "Howrah Maidan"
+      ]
+    }
+  },
+  {
+    "route": "75",
+    "data": {
+      "routeNo": "75",
+      "from": "Esplanade (Babughat)",
+      "to": "Roypur",
+      "distance": "20  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Esplanade (Babughat)",
+        "Khukiram Bose Rd",
+        "Kidderpore Rd",
+        "Diamond Harbour Rd",
+        "Mominpur",
+        "Thakurpukur Bazar",
+        "Mullickpur Pukurathithi",
+        "Gaja",
+        "Bisa-Lakshitala",
+        "Roypur"
+      ]
+    }
+  },
+  {
+    "route": "76",
+    "data": {
+      "routeNo": "76",
+      "from": "Esplanade (Babughat)",
+      "to": "Diamond Harbour (Petrol Pump)",
+      "distance": "57  K.M.",
+      "totalStops": 23,
+      "stops": [
+        "Esplanade (Babughat)",
+        "Chowranghee Rd",
+        "Cathedral Rd",
+        "Harish Mukherjee Rd",
+        "Hazra Rd",
+        "Judges Court Rd",
+        "Alipore Rd",
+        "Mominpore",
+        "Diamond Harbour Rd",
+        "Behala",
+        "Sakher Bazar",
+        "Amtala",
+        "Sirakol",
+        "Sarisha",
+        "Usthi Rd",
+        "Buripukur",
+        "Bagaria",
+        "Sree Chanda",
+        "Usthihat",
+        "Taldanga",
+        "Masahat",
+        "Dostipur",
+        "Diamond Harbour (Petrol Pump)"
+      ]
+    }
+  },
+  {
+    "route": "76A",
+    "data": {
+      "routeNo": "76A",
+      "from": "Esplanade",
+      "to": "Budge Budge Rly. Stn.",
+      "distance": "28  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Esplanade",
+        "Rabindra Sadan",
+        "Kidderpore",
+        "Diamond Harbour Rd",
+        "Behala",
+        "Amtala",
+        "Bakrahat",
+        "Bouali",
+        "Birla More",
+        "Chverdana Bazar.",
+        "Budge Budge Rly. Stn."
+      ]
+    }
+  },
+  {
+    "route": "77",
+    "data": {
+      "routeNo": "77",
+      "from": "Esplanade",
+      "to": "Achipur",
+      "distance": "35  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Esplanade",
+        "Chowranghee Rd",
+        "National Library Ave",
+        "Zoo Garden",
+        "Ekbalpur",
+        "Diamond Harbour Rd",
+        "Behala",
+        "Maheshtala",
+        "Moinagore",
+        "Nungi",
+        "Budge Budge",
+        "Chverdana",
+        "Pujali",
+        "Kalipur.",
+        "Achipur"
+      ]
+    }
+  },
+  {
+    "route": "77A",
+    "data": {
+      "routeNo": "77A",
+      "from": "Esplanade",
+      "to": "Birlapur",
+      "distance": "52  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Esplanade",
+        "Chowranghee Rd",
+        "National Library Ave",
+        "Zoo Garden",
+        "Ekbalpur",
+        "Diamond Harbour Rd",
+        "Taratolla Rd",
+        "Brace Bridge",
+        "Mollar Gate",
+        "Sarkar Pul",
+        "Santoshpur",
+        "Dak-Ghar",
+        "Budge Budge Rd",
+        "Bata Nagar",
+        "Chverdana",
+        "Mullickpur",
+        "Mathorepur",
+        "Birlapur"
+      ]
+    }
+  },
+  {
+    "route": "77B",
+    "data": {
+      "routeNo": "77B",
+      "from": "Esplanade",
+      "to": "Batanagar",
+      "distance": "44  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Esplanade",
+        "Red Rd",
+        "Kidderpore Rd",
+        "Babubazar",
+        "Hide Rd",
+        "Jinjiriabazar",
+        "Mollar Gate",
+        "Sarkar Pul",
+        "Santoshpur",
+        "Dak-Ghar",
+        "Budge Budge Rd",
+        "Bata Nagar",
+        "Batanagar"
+      ]
+    }
+  },
+  {
+    "route": "77C",
+    "data": {
+      "routeNo": "77C",
+      "from": "Achipur (Budge Budge)",
+      "to": "Shyambazar",
+      "distance": "23  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Achipur (Budge Budge)",
+        "Budge Budge Rd",
+        "Taratolla Rd",
+        "Majerhat",
+        "Alipur Court",
+        "Acharya J.C. Bose Rd",
+        "Moulali",
+        "Sealdah.",
+        "Rajabazar",
+        "Shyambazar"
+      ]
+    }
+  },
+  {
+    "route": "78",
+    "data": {
+      "routeNo": "78",
+      "from": "Raja Dinendra St. & Arabinda Sarani Jn.",
+      "to": "Barrackpur",
+      "distance": "71  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Raja Dinendra St. & Arabinda Sarani Jn.",
+        "Acharya P.C. Rd",
+        "Hemanta Setu",
+        "B.T. Rd",
+        "Sinthi",
+        "Dunlop Bridge",
+        "Kamarhati",
+        "Panihati",
+        "Sodepur",
+        "Khardha",
+        "Titagarh.",
+        "Barrackpur"
+      ]
+    }
+  },
+  {
+    "route": "78/1",
+    "data": {
+      "routeNo": "78/1",
+      "from": "Babughat",
+      "to": "Rahara Bazar",
+      "distance": "71  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Babughat",
+        "Lenin Sarani",
+        "S.N.Banerjee Rd",
+        "Nirmal Ch. St.",
+        "College St.",
+        "Bidhan Sarani",
+        "Shyambazar",
+        "B.T. Rd",
+        "Sinthi",
+        "Dunlop Bridge",
+        "Kamarhati",
+        "Panihati",
+        "Sodepur Stn.",
+        "Nilganj Rd",
+        "Rahara Bazar"
+      ]
+    }
+  },
+  {
+    "route": "78/2",
+    "data": {
+      "routeNo": "78/2",
+      "from": "Babughat",
+      "to": "Parthapur",
+      "distance": "18  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Babughat",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Moulali",
+        "Sealdah",
+        "A.P.C. Bose Rd",
+        "Shyambazar",
+        "B.T. Rd",
+        "Sodepur Station.",
+        "Parthapur"
+      ]
+    }
+  },
+  {
+    "route": "78A",
+    "data": {
+      "routeNo": "78A",
+      "from": "Gouribari",
+      "to": "Ghola",
+      "distance": "31  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Gouribari",
+        "Dinendra St.& Arabinda Sarani Jn.",
+        "Acharya P.C. Rd",
+        "Hemanta Setu",
+        "B.T. Rd",
+        "Sinthi",
+        "Dunlop Bridge",
+        "Kamarhati",
+        "Panihati",
+        "(Rashmoni More",
+        "Sodepur Stn.",
+        "Barasat Rd",
+        "Madhyamgram",
+        "Jessore Rd).",
+        "Ghola"
+      ]
+    }
+  },
+  {
+    "route": "78A/3",
+    "data": {
+      "routeNo": "78A/3",
+      "from": "Gopalpur",
+      "to": "Salt Lake (Kbkc )",
+      "distance": "18  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Gopalpur",
+        "Ultadanga",
+        "Vip Rd",
+        "Madhyamgram",
+        "Barasat",
+        "Asokenagar",
+        "Habra",
+        "Gobordanga.",
+        "Salt Lake (Kbkc )"
+      ]
+    }
+  },
+  {
+    "route": "78B",
+    "data": {
+      "routeNo": "78B",
+      "from": "Shyambazar",
+      "to": "Ghola",
+      "distance": "20  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Shyambazar",
+        "Raja Dinendra St. & Aurodinda Sarani Jn.",
+        "Acharya P.C. Rd",
+        "Hemanta Setu",
+        "B.T. Rd",
+        "Belgharia",
+        "Kamarhati",
+        "Panihati",
+        "Rashmoni More",
+        "Sodepur Stn.",
+        "Barasat Rd",
+        "H.B. Town.",
+        "Ghola"
+      ]
+    }
+  },
+  {
+    "route": "78C",
+    "data": {
+      "routeNo": "78C",
+      "from": "Esplanade (Babughat)",
+      "to": "Belghoria Stn.",
+      "distance": "13  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Esplanade (Babughat)",
+        "Lenin Sn.",
+        "S.N. Banerjee Rd",
+        "Rafi Ahmed Kidwai Rd",
+        "Nirmal Ch. St.",
+        "College St.",
+        "Bidhan Sarani",
+        "Shyambazar",
+        "Hemanta Setu",
+        "B.T. Rd",
+        "Belghoria Stn."
+      ]
+    }
+  },
+  {
+    "route": "78C/1",
+    "data": {
+      "routeNo": "78C/1",
+      "from": "Ariadaha -",
+      "to": "G.D. Block Homoeopathy College Sector-Iii (Salt Lake)",
+      "distance": "34  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Ariadaha -",
+        "Kamarhati Municipality",
+        "Chiria More",
+        "Dum Dum Junc.",
+        "Nager Bazar",
+        "Lake Town",
+        "V.I.P. Rd",
+        "Salt Lake",
+        "P.N. Bank",
+        "Polo Ave",
+        "Baishali",
+        "Tank No.7",
+        "Tank No.8",
+        "Karunamayee.",
+        "G.D. Block Homoeopathy College Sector-Iii (Salt Lake)"
+      ]
+    }
+  },
+  {
+    "route": "79",
+    "data": {
+      "routeNo": "79",
+      "from": "Shyambazar",
+      "to": "Itindaghat",
+      "distance": "96  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Shyambazar",
+        "Belgachia",
+        "Patipukur",
+        "Jessore Rd",
+        "Nager Bazar",
+        "Barasat",
+        "Kadambagachi",
+        "Golabari",
+        "Beleghata",
+        "Berachampa",
+        "Kholapota",
+        "Basirhat.",
+        "Itindaghat"
+      ]
+    }
+  },
+  {
+    "route": "79A",
+    "data": {
+      "routeNo": "79A",
+      "from": "Shyambazar",
+      "to": "Baduria",
+      "distance": "28  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Shyambazar",
+        "Belgachia",
+        "Patipukur",
+        "Jessore Rd",
+        "Nager Bazar",
+        "Barasat",
+        "Berachampa.",
+        "Baduria"
+      ]
+    }
+  },
+  {
+    "route": "79B",
+    "data": {
+      "routeNo": "79B",
+      "from": "Esplanade (Babughat) -",
+      "to": "Barasat",
+      "distance": "33  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Esplanade (Babughat) -",
+        "Lenin Sarani",
+        "Moulali",
+        "Sealdah Flyover",
+        "Acharya Prafulla Ch. Rd",
+        "Shyambazar",
+        "Belgachia",
+        "Patipukur",
+        "Jessore Rd",
+        "Nager Bazar",
+        "Dum Dum Air Port",
+        "Birati",
+        "Michael Nagar",
+        "B.T. College",
+        "Madhyamgram Crossing",
+        "Barasat"
+      ]
+    }
+  },
+  {
+    "route": "79C",
+    "data": {
+      "routeNo": "79C",
+      "from": "Shyambazar",
+      "to": "Hasnabad",
+      "distance": "96  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Shyambazar",
+        "Belgachia",
+        "Patipukur",
+        "Jessore Rd",
+        "Nager Bazar",
+        "Barasat",
+        "Kadambagachi",
+        "Golabari",
+        "Beleghata",
+        "Berachampa",
+        "Kholapota",
+        "Basirhat.",
+        "Hasnabad"
+      ]
+    }
+  },
+  {
+    "route": "79D",
+    "data": {
+      "routeNo": "79D",
+      "from": "Esplanade (Babughat)",
+      "to": "Michael Nagar",
+      "distance": "25  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Esplanade (Babughat)",
+        "Lenin Sarani",
+        "Moulali",
+        "Sealdah Flyover",
+        "Acharya Prafulla Ch. Rd",
+        "Shyambazar",
+        "Belgachia",
+        "Patipukur",
+        "Jessore Rd",
+        "Nager Bazar",
+        "Dum Dum Air Port",
+        "Birati",
+        "Michael Nagar.",
+        "Michael Nagar"
+      ]
+    }
+  },
+  {
+    "route": "8",
+    "data": {
+      "routeNo": "8",
+      "from": "Ramlal Bazar -",
+      "to": "Howrah Stn.",
+      "distance": "16  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Ramlal Bazar -",
+        "Kasba Rd",
+        "Rash Behari Ave",
+        "Gariahat Rd",
+        "Hazra Rd",
+        "Sarat Bose Rd",
+        "Acharya J.C. Bose Rd",
+        "Elliot Rd",
+        "Royd St.",
+        "Rafi Ahmed Kidwai Rd",
+        "S.N. Banerjee Rd",
+        "Esplanade",
+        "B.B.D. Bag",
+        "Koilaghata St.",
+        "Strand Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "8 Mini",
+    "data": {
+      "routeNo": "8 Mini",
+      "from": "Shibpur",
+      "to": "Dharamtala",
+      "distance": null,
+      "totalStops": 3,
+      "stops": [
+        "Shibpur",
+        "Howrah.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "80",
+    "data": {
+      "routeNo": "80",
+      "from": "Esplanade - Garia",
+      "to": "Bapulibazar",
+      "distance": "127  K.M.",
+      "totalStops": 24,
+      "stops": [
+        "Esplanade - Garia",
+        "Red Rd",
+        "D.L. Khan Rd",
+        "Alipur",
+        "Baker Rd",
+        "Hazra Rd",
+        "Baishnabghata",
+        "Naktala",
+        "Bansdroni",
+        "Netaji Nagar",
+        "Deshapran Sasmal Rd",
+        "Garia",
+        "Narendrapur",
+        "Rajpur",
+        "Harinavi",
+        "Malancha Bazar",
+        "Baruipur",
+        "Surjipur",
+        "Sarberia",
+        "Padmer Hat",
+        "Dakshin Barasat",
+        "Bohra",
+        "Joynagar.",
+        "Bapulibazar"
+      ]
+    }
+  },
+  {
+    "route": "80A",
+    "data": {
+      "routeNo": "80A",
+      "from": "Esplanade",
+      "to": "Canning",
+      "distance": "121  K.M.",
+      "totalStops": 19,
+      "stops": [
+        "Esplanade",
+        "Red Rd",
+        "D.L. Khan Rd",
+        "Alipur",
+        "Baker Rd",
+        "Hazra Rd",
+        "Baishnabghata",
+        "Naktala",
+        "Bansdroni",
+        "Netaji Nagar",
+        "Deshapran Sasmal Rd",
+        "Garia",
+        "Narendrapur",
+        "Rajpur",
+        "Harinavi",
+        "Malancha Bazar",
+        "Baruipur",
+        "Ramnagar.",
+        "Canning"
+      ]
+    }
+  },
+  {
+    "route": "80B",
+    "data": {
+      "routeNo": "80B",
+      "from": "Esplanade",
+      "to": "Harinavi",
+      "distance": "41  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Esplanade",
+        "Raja Subodh Mallick Rd",
+        "Jadavpur",
+        "Dhakuria",
+        "Gariahat Rd",
+        "Rash Behari Ave",
+        "Austosh Mukherjee Rd",
+        "Chowranghee Rd",
+        "Sonarpur",
+        "Boral.",
+        "Harinavi"
+      ]
+    }
+  },
+  {
+    "route": "80C",
+    "data": {
+      "routeNo": "80C",
+      "from": "Canning",
+      "to": "Chonokhali",
+      "distance": null,
+      "totalStops": 3,
+      "stops": [
+        "Canning",
+        "Chobokhali",
+        "Chonokhali"
+      ]
+    }
+  },
+  {
+    "route": "80D",
+    "data": {
+      "routeNo": "80D",
+      "from": "Champahati",
+      "to": "Esplanade",
+      "distance": "58  K.M.",
+      "totalStops": 14,
+      "stops": [
+        "Champahati",
+        "Harinavi",
+        "Narendrapur",
+        "Garia",
+        "Raja S.C. Mullick Rd",
+        "Golpark",
+        "Raja Subodh Mallick Rd",
+        "Jadavpur",
+        "Dhakuria",
+        "Gariahat Rd",
+        "Rash Behari Ave",
+        "Austosh Mukherjee Rd",
+        "Chowranghee Rd",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "81",
+    "data": {
+      "routeNo": "81",
+      "from": "Barasat",
+      "to": "Barrackpore",
+      "distance": "13  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Barasat",
+        "Barrackpore Court.",
+        "Barrackpore"
+      ]
+    }
+  },
+  {
+    "route": "83",
+    "data": {
+      "routeNo": "83",
+      "from": "Esplanade (Babughat)",
+      "to": "Falta",
+      "distance": "5  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Esplanade (Babughat)",
+        "Duffrin Rd",
+        "Kidderpore Bridge",
+        "Diamond Harbour Rd",
+        "Mominpur",
+        "Amtala",
+        "Dastipur.",
+        "Falta"
+      ]
+    }
+  },
+  {
+    "route": "83A",
+    "data": {
+      "routeNo": "83A",
+      "from": "Esplanade (Babughat)",
+      "to": "Amratala",
+      "distance": "58  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Esplanade (Babughat)",
+        "Kidderpore",
+        "Diamond Harbour Rd",
+        "Amtala",
+        "Sirakol",
+        "Sherpur.",
+        "Amratala"
+      ]
+    }
+  },
+  {
+    "route": "8B",
+    "data": {
+      "routeNo": "8B",
+      "from": "Jadavpur",
+      "to": "Howrah Stn.",
+      "distance": "18  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Jadavpur",
+        "Raja Subodh Mallick Rd",
+        "Dhakuria",
+        "Gariahat Rd",
+        "Rash Behari Ave",
+        "Sarat Bose Rd",
+        "Acharya J.C. Bose Rd",
+        "Sealdah Fly Over",
+        "Acharya Prafulla Ch. Rd",
+        "Maniktala Bazar",
+        "Vivekananda Rd",
+        "Ganesh Talkies",
+        "Kali Krishna Tagore St",
+        "Strand Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "9",
+    "data": {
+      "routeNo": "9",
+      "from": "Ultadanga",
+      "to": "Rabindra Sadan",
+      "distance": "8  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Ultadanga",
+        "Ultadanga Main Rd",
+        "Aurobindo Setu",
+        "A.P.C. Rd",
+        "Chittaranjan Ave",
+        "Esplanade",
+        "Rabindra Sadan"
+      ]
+    }
+  },
+  {
+    "route": "9 Govt",
+    "data": {
+      "routeNo": "9 Govt",
+      "from": "Manicktala Junction",
+      "to": "Sechbhavan (Salt Lake)",
+      "distance": "7  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Manicktala Junction",
+        "Manicktala Main Rd",
+        "Kankurgachi",
+        "V.I.P. Rd",
+        "Nazrul Islam Sn.",
+        "Labony.",
+        "Sechbhavan (Salt Lake)"
+      ]
+    }
+  },
+  {
+    "route": "9 Mini",
+    "data": {
+      "routeNo": "9 Mini",
+      "from": "Ramrajatala",
+      "to": "Rajabazar",
+      "distance": "12  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Ramrajatala",
+        "Howrah",
+        "Ganesh Talkies",
+        "Manicktala.",
+        "Rajabazar"
+      ]
+    }
+  },
+  {
+    "route": "91",
+    "data": {
+      "routeNo": "91",
+      "from": "Shyambazar -",
+      "to": "Bhangar",
+      "distance": "87  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Shyambazar -",
+        "Belgachia",
+        "Jessore Rd",
+        "Kaikhali",
+        "Narayanpur",
+        "Rajar Hat",
+        "Bishnupur",
+        "Lauhati.",
+        "Bhangar"
+      ]
+    }
+  },
+  {
+    "route": "91A",
+    "data": {
+      "routeNo": "91A",
+      "from": "Shyambazar",
+      "to": "Bhojerhat (Via Bhangar)",
+      "distance": "51  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Shyambazar",
+        "Belgachia",
+        "Jessore Rd",
+        "Kaikhali",
+        "Narayanpur",
+        "Rajar Hat",
+        "Bishnupur",
+        "Lauhati Haroa Rd",
+        "Bhojerhat (Via Bhangar)"
+      ]
+    }
+  },
+  {
+    "route": "91C",
+    "data": {
+      "routeNo": "91C",
+      "from": "Shyambazar",
+      "to": "Lauhati",
+      "distance": "23  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Shyambazar",
+        "Khanna Cinema",
+        "Ultadanga",
+        "Baguihati",
+        "Lokenath Baba Temple.",
+        "Lauhati"
+      ]
+    }
+  },
+  {
+    "route": "93",
+    "data": {
+      "routeNo": "93",
+      "from": "Shyambazar",
+      "to": "Kharibari (Badu)",
+      "distance": "14  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Shyambazar",
+        "R.G. Kar Rd",
+        "Belgachia Rd",
+        "Jessore Rd",
+        "Madhyamgram.",
+        "Kharibari (Badu)"
+      ]
+    }
+  },
+  {
+    "route": "93A",
+    "data": {
+      "routeNo": "93A",
+      "from": "Kharibari",
+      "to": "Salt Lake Stadium",
+      "distance": "79  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Kharibari",
+        "Kanchantala",
+        "Madhupur Rd",
+        "Kadamgachi",
+        "Taki Rd",
+        "Barasat",
+        "Madhyamgram",
+        "Birati",
+        "Air Port Gate No.1",
+        "V.I.P. Rd",
+        "Ultadanga.",
+        "Salt Lake Stadium"
+      ]
+    }
+  },
+  {
+    "route": "9A",
+    "data": {
+      "routeNo": "9A",
+      "from": "Santoshpur",
+      "to": "Hazra Park",
+      "distance": "17  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Santoshpur",
+        "E.M. By Pass",
+        "Bijon Setu",
+        "Gariahat",
+        "Rash Behari Ave",
+        "Hazra Park"
+      ]
+    }
+  },
+  {
+    "route": "9A (Shutt",
+    "data": {
+      "routeNo": "9A (Shutt",
+      "from": "Sechbhavan",
+      "to": "Sealdah",
+      "distance": "4  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Sechbhavan",
+        "Bagmari",
+        "Maniktala",
+        "Rajabazar.",
+        "Sealdah"
+      ]
+    }
+  },
+  {
+    "route": "9B",
+    "data": {
+      "routeNo": "9B",
+      "from": "Jadavpur (Rly.Stn)",
+      "to": "Esplanade",
+      "distance": "47  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Jadavpur (Rly.Stn)",
+        "Jadavpur Stn. Rd",
+        "Raja Subodh Mullick Rd",
+        "Dhakuria",
+        "Golpark",
+        "Southern Ave",
+        "Sarat Bose Rd",
+        "Jagadish Bose Rd",
+        "Chowranghee Rd",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "9B (Shutt",
+    "data": {
+      "routeNo": "9B (Shutt",
+      "from": "Santoshpur",
+      "to": "Hazra",
+      "distance": "5  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Santoshpur",
+        "E.M. Bypass",
+        "Bijon Setu",
+        "Rashbehari.",
+        "Hazra"
+      ]
+    }
+  },
+  {
+    "route": "C-1",
+    "data": {
+      "routeNo": "C-1",
+      "from": "Howrah Danesh Sekh Lane",
+      "to": "Patuli",
+      "distance": "22  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Howrah Danesh Sekh Lane",
+        "Vidyasagar Setu",
+        "Rabindra Sadan",
+        "Esplanade",
+        "Moulali",
+        "Cit Road",
+        "4 No. Bridge",
+        "Em Bypass",
+        "Patuli"
+      ]
+    }
+  },
+  {
+    "route": "C-10",
+    "data": {
+      "routeNo": "C-10",
+      "from": "Sinthi More",
+      "to": "Danesh Sekh Lane(Howrah)",
+      "distance": "23  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Sinthi More",
+        "Shyamabazar",
+        "Central Avenue",
+        "Bbd Bag",
+        "Rabindra Sadan",
+        "Vidyasagar Setu",
+        "Maurigram",
+        "Andul",
+        "Danesh Sekh Lane(Howrah)"
+      ]
+    }
+  },
+  {
+    "route": "C-11",
+    "data": {
+      "routeNo": "C-11",
+      "from": "Domjur -",
+      "to": "Tala Park",
+      "distance": "42  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Domjur -",
+        "Solop",
+        "Dasnagar",
+        "Howrah Station",
+        "Mahatma Gandhi Road",
+        "Sealdah",
+        "Shyambazar",
+        "Tala Park"
+      ]
+    }
+  },
+  {
+    "route": "C-12",
+    "data": {
+      "routeNo": "C-12",
+      "from": "7 Tanks",
+      "to": "Garia Station",
+      "distance": "43  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "7 Tanks",
+        "Paikpara",
+        "B T Road",
+        "Shyambazar",
+        "A.P.C. Road",
+        "Moulali",
+        "Cit Road",
+        "4 No. Bridge",
+        "Topsia",
+        "Em Bypass",
+        "Kasba",
+        "Patuli",
+        "Garia Station"
+      ]
+    }
+  },
+  {
+    "route": "C-13",
+    "data": {
+      "routeNo": "C-13",
+      "from": "Bijaygarh -",
+      "to": "Howrah Station",
+      "distance": "9  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Bijaygarh -",
+        "Prince Anwar Shah Road",
+        "Bhawanipore",
+        "Park Street",
+        "Esplanade",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "C-14/1",
+    "data": {
+      "routeNo": "C-14/1",
+      "from": "Tollygunge",
+      "to": "Madhyamgram",
+      "distance": "26  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Tollygunge",
+        "Rashbehari Avenue",
+        "Gariahat",
+        "Kasba",
+        "Em Bypass",
+        "Vip Road",
+        "Jessore Road",
+        "Madhyamgram"
+      ]
+    }
+  },
+  {
+    "route": "C-16",
+    "data": {
+      "routeNo": "C-16",
+      "from": "Gallif Street",
+      "to": "Garia Station",
+      "distance": "16  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Gallif Street",
+        "Ultadanga",
+        "Salt Lake",
+        "Nicco Park",
+        "Ruby Hospital",
+        "Garia Station"
+      ]
+    }
+  },
+  {
+    "route": "C-2",
+    "data": {
+      "routeNo": "C-2",
+      "from": "Tollygunge",
+      "to": "Karunamayee",
+      "distance": "7  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Tollygunge",
+        "Jafabpur Fari",
+        "Sukanta Setu",
+        "E.M. Bypass",
+        "Purbachal",
+        "Sechbagan",
+        "Karunamayee"
+      ]
+    }
+  },
+  {
+    "route": "C-3",
+    "data": {
+      "routeNo": "C-3",
+      "from": "Garia",
+      "to": "Birati",
+      "distance": "42  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Garia",
+        "Sukanta Setu",
+        "E.M. Bypass",
+        "Kasba Golpark",
+        "Ultadanga",
+        "Airport Gate 1",
+        "Sarat Colony",
+        "Birati"
+      ]
+    }
+  },
+  {
+    "route": "C-4",
+    "data": {
+      "routeNo": "C-4",
+      "from": "Joka",
+      "to": "Patuli",
+      "distance": "16  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Joka",
+        "Haridebpur",
+        "Tollygunge Tram Depot",
+        "Rashbehari More",
+        "Gariahat",
+        "Kasba",
+        "Peerless Hospital",
+        "Patuli"
+      ]
+    }
+  },
+  {
+    "route": "C-5",
+    "data": {
+      "routeNo": "C-5",
+      "from": "Garia Station",
+      "to": "Howrah Station",
+      "distance": "40  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Garia Station",
+        "Sukanta Setu",
+        "Peerless Hospital",
+        "Golpark",
+        "Dhakuria",
+        "Amrd",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "Bbd Bag",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "C-5/1",
+    "data": {
+      "routeNo": "C-5/1",
+      "from": "Mukundarpur",
+      "to": "Strand Road",
+      "distance": "21  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Mukundarpur",
+        "Em Bypass",
+        "Kasba",
+        "Rashbehari Avenue",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "Strand Road"
+      ]
+    }
+  },
+  {
+    "route": "C-5/2",
+    "data": {
+      "routeNo": "C-5/2",
+      "from": "Howrah Station",
+      "to": "Howrah Station",
+      "distance": null,
+      "totalStops": 1,
+      "stops": [
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "C-6",
+    "data": {
+      "routeNo": "C-6",
+      "from": "Botanical Garden",
+      "to": "Gallif Street",
+      "distance": "13  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Botanical Garden",
+        "Shibpur Bataitala",
+        "Vidyasagar Setu",
+        "Rabindra Sadan",
+        "Esplanade",
+        "College Street",
+        "Shyambazar",
+        "Gallif Street"
+      ]
+    }
+  },
+  {
+    "route": "C-7",
+    "data": {
+      "routeNo": "C-7",
+      "from": "Gardenreach",
+      "to": "Howrah Station",
+      "distance": "26  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Gardenreach",
+        "Ramnagar",
+        "Bnr",
+        "Khidderpore",
+        "Esplanade",
+        "Bbd Bag",
+        "Strand Road",
+        "Brabourne Road",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "C-8",
+    "data": {
+      "routeNo": "C-8",
+      "from": "Tollygunge",
+      "to": "Nicco Park",
+      "distance": "75  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Tollygunge",
+        "S.P. Mukherjee Road",
+        "Rashbehari Avenue",
+        "Em Bypass",
+        "Baisakhi",
+        "Karunamayee",
+        "Nicco Park"
+      ]
+    }
+  },
+  {
+    "route": "L1",
+    "data": {
+      "routeNo": "L1",
+      "from": "Ramlal Bazar (Haltu) - B",
+      "to": ".B.D. Bag",
+      "distance": "17  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Ramlal Bazar (Haltu) - B",
+        "Garfa Rd",
+        "Haltu Main Rd",
+        "Kasba Main Rd",
+        "Rash Behari Ave",
+        "Sarat Bose Rd",
+        "Hazra Rd",
+        "Harish Mukherjee Rd",
+        "Acharya J.C. Bose Rd",
+        "Chowringee Rd",
+        "Esplanade.",
+        ".B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "L14A",
+    "data": {
+      "routeNo": "L14A",
+      "from": "Esplanade -",
+      "to": "Vidyasagar Samity (Salt Lake)",
+      "distance": "9  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Esplanade -",
+        "B.B.D. Bag",
+        "Esplanade",
+        "Lenin Sarani",
+        "S.N. Banerjee Rd",
+        "Nirmal Ch. St.",
+        "College St.",
+        "Bidhan Sarani",
+        "Vivekananda Rd",
+        "Manicktala Bazar",
+        "Manicktala Main Rd",
+        "Kankurgachi 3a Stand",
+        "Durgapur Bridge Via-No.1 Gate",
+        "B.B. Ganguly St",
+        "Vidyasagar Samity (Salt Lake)"
+      ]
+    }
+  },
+  {
+    "route": "L14B",
+    "data": {
+      "routeNo": "L14B",
+      "from": "Karunamayee Estate (Salt Lake)",
+      "to": "Esplanade",
+      "distance": "12  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Karunamayee Estate (Salt Lake)",
+        "Pumping House",
+        "P.N. Bank",
+        "Gate No.1",
+        "Ultadanga Main Rd",
+        "Aurobindo Setu",
+        "Grey St.",
+        "Extension Acharya P.C. Rd",
+        "Avedananda Rd",
+        "Bidhan Sarani",
+        "College St.",
+        "Nirmal Ch. St.",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "B.B. Ganguly St.",
+        "B.B.D. Bag",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "L14C",
+    "data": {
+      "routeNo": "L14C",
+      "from": "Bagbazar",
+      "to": "Salt Lake Depot",
+      "distance": "26  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Bagbazar",
+        "A.P.C. Rd",
+        "Khanna Cinema",
+        "Ultadanga Main Rd",
+        "Hud Co.",
+        "P.N. Bank",
+        "Ave No.1",
+        "Baisakhi",
+        "Water Tank No.9",
+        "Karunamayee.",
+        "Salt Lake Depot"
+      ]
+    }
+  },
+  {
+    "route": "L16",
+    "data": {
+      "routeNo": "L16",
+      "from": "Tangra Housing Estate -",
+      "to": "Shibpur (Botanical Garden)",
+      "distance": "56  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Tangra Housing Estate -",
+        "R.N. Chowdhury Rd",
+        "Palmer Bazar Rd",
+        "Beliaghata Main Rd",
+        "Acharyya J.C. Bose Rd",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "Rafi Ahmed Kidwai Rd",
+        "Nirmal Ch. St.",
+        "College St.",
+        "M.G. Rd",
+        "Howrah Stn.",
+        "G.T. Rd",
+        "(South) College Rd",
+        "Ganesh Ch. Ave",
+        "Shibpur (Botanical Garden)"
+      ]
+    }
+  },
+  {
+    "route": "L19",
+    "data": {
+      "routeNo": "L19",
+      "from": "Esplanade -",
+      "to": "Metiabruz",
+      "distance": "15  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Esplanade -",
+        "Dufferin Rd",
+        "Pranabananda Sn.",
+        "Kidderpore Rd",
+        "Cir. Garden Reach Rd",
+        "Dumayun Ave",
+        "B.N.R. Office",
+        "Paharpur Rd",
+        "Akhra Rd",
+        "Metiabruz"
+      ]
+    }
+  },
+  {
+    "route": "L20",
+    "data": {
+      "routeNo": "L20",
+      "from": "Esplanade -",
+      "to": "Barrackpur (Court)",
+      "distance": "12  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Esplanade -",
+        "Chittaranjan Ave",
+        "Jatindra Mohan Ave",
+        "Bhupen Bose Ave",
+        "Shyambazar",
+        "B.T. Rd Via Lalkuthi Junction.",
+        "Barrackpur (Court)"
+      ]
+    }
+  },
+  {
+    "route": "L20A",
+    "data": {
+      "routeNo": "L20A",
+      "from": "Ultadanga",
+      "to": "Barasat",
+      "distance": "35  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Ultadanga",
+        "Arabinda Setu",
+        "A.P.C. Rd",
+        "B.T. Rd",
+        "Barrackpore Stn.",
+        "Mohanpur",
+        "Nilgunj Bazar",
+        "Akrampur.",
+        "Barasat"
+      ]
+    }
+  },
+  {
+    "route": "L20B",
+    "data": {
+      "routeNo": "L20B",
+      "from": "Esplanade",
+      "to": "Barasat",
+      "distance": "142  K.M.",
+      "totalStops": 32,
+      "stops": [
+        "Esplanade",
+        "Victoria House",
+        "(C.R. Ave)",
+        "Bow Bazar",
+        "Mahajati Sadan",
+        "Beadon St.",
+        "Grey St.",
+        "Shyambazar",
+        "R.G. Kar Medical College",
+        "Belgachia",
+        "Paikpara",
+        "Dutta Bagan",
+        "Patipukur",
+        "Lake Town",
+        "Bangur Ave",
+        "Nager Bazar",
+        "Clive Colony",
+        "Gora Bazar",
+        "H.M.V. Gate",
+        "Airport Gate No. 1",
+        "Birati",
+        "Michael Nagar",
+        "B.T. College",
+        "Doltala",
+        "Madhyamgram",
+        "Fourpoint Crossing",
+        "Dak Bangalow",
+        "Dakshinpara",
+        "Sethpukur",
+        "Colony More (Nabapalli)",
+        "Haritala.",
+        "Barasat"
+      ]
+    }
+  },
+  {
+    "route": "L22",
+    "data": {
+      "routeNo": "L22",
+      "from": "Sibrampur Oxytown",
+      "to": "Esplanade.",
+      "distance": "23  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Sibrampur Oxytown",
+        "Behala Sakherbazar",
+        "Diamond Harbour Rd",
+        "Taratala Rd",
+        "Brace Bridge",
+        "Hide Rd",
+        "Garden Reach Rd",
+        "Babu Bazar",
+        "Kidderpore Bridge",
+        "Kidderpore Rd",
+        "Strand Rd",
+        "Esplanade."
+      ]
+    }
+  },
+  {
+    "route": "L238",
+    "data": {
+      "routeNo": "L238",
+      "from": "Barasat",
+      "to": "Howrah Fire Stn.",
+      "distance": "26  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Barasat",
+        "Dak Bunglow",
+        "Madhyamgram",
+        "Michael Nagar",
+        "Air Port Gate No.1 & 2",
+        "Baguiati",
+        "Dum Dum Park",
+        "Bidhan Nagar Stn.",
+        "Khanna Cinema",
+        "Bidhan Sarani",
+        "Manicktala",
+        "Girish Park",
+        "Burrabazar",
+        "Howrah Station.",
+        "Howrah Fire Stn."
+      ]
+    }
+  },
+  {
+    "route": "L30B",
+    "data": {
+      "routeNo": "L30B",
+      "from": "Esplanade",
+      "to": "Dum Dum Airport",
+      "distance": "16  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Esplanade",
+        "Chittaranjan Ave",
+        "J.M. Ave",
+        "Bhupen Bose Ave",
+        "Shyambazar",
+        "Hemanta Setu",
+        "B.T. Rd",
+        "Chiria More",
+        "Dum Dum Rd",
+        "Nager Bazar",
+        "Jessore Rd",
+        "Dum Dum Airport"
+      ]
+    }
+  },
+  {
+    "route": "L31",
+    "data": {
+      "routeNo": "L31",
+      "from": "Esplanade",
+      "to": "Sreerampur",
+      "distance": "18  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Esplanade",
+        "B.B.D. Bag",
+        "Brabourne Rd",
+        "Howrah Stn.",
+        "Dobson Rd",
+        "Abani Dutta Rd",
+        "G.T. Rd",
+        "Netaji Subhas Ave",
+        "Sreerampur"
+      ]
+    }
+  },
+  {
+    "route": "L38A",
+    "data": {
+      "routeNo": "L38A",
+      "from": "Sealdah",
+      "to": "Ghatakpukur",
+      "distance": "2  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Sealdah",
+        "Beleghata Rd",
+        "Munshi Bazar",
+        "Palmer Bazar",
+        "Radhanath Chowdhury Rd",
+        "Tangra Rd",
+        "Huges Rd",
+        "Tapsia.",
+        "Ghatakpukur"
+      ]
+    }
+  },
+  {
+    "route": "L38B",
+    "data": {
+      "routeNo": "L38B",
+      "from": "Salt Lake Depot",
+      "to": "Howrah Stn.",
+      "distance": "22  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Salt Lake Depot",
+        "Karunamoyee",
+        "Sechbhaban",
+        "Bikash Bhaban",
+        "Purta Bhaban",
+        "Crp Camps",
+        "Tank No.14",
+        "P.N. Bank",
+        "Ultadanga",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "L3C",
+    "data": {
+      "routeNo": "L3C",
+      "from": "Bangur",
+      "to": "Esplanade",
+      "distance": "48  K.M.",
+      "totalStops": 17,
+      "stops": [
+        "Bangur",
+        "Jessore Rd",
+        "Lake Town",
+        "V.I.P. Rd",
+        "Ultadanga",
+        "Kankurgachi",
+        "Phulbagan",
+        "Narkeldanga Main Rd",
+        "Dr. M.N.Chatterjee Sarani",
+        "Rajabazar",
+        "Sealdah",
+        "M.G. Rd",
+        "College St.",
+        "B.B.Ganguly St.",
+        "C.R. Ave",
+        "B.B.D. Bag",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "L3E",
+    "data": {
+      "routeNo": "L3E",
+      "from": "Esplanade",
+      "to": "Amtala",
+      "distance": "21  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Esplanade",
+        "Dufferin Rd",
+        "Casurina Ave",
+        "Kidderpur Rd",
+        "D.H. Rd",
+        "Thakurpukur 3a Bus Stand",
+        "Pailan",
+        "Bhasa",
+        "Bakrahati",
+        "Bishnupur.",
+        "Amtala"
+      ]
+    }
+  },
+  {
+    "route": "L75A",
+    "data": {
+      "routeNo": "L75A",
+      "from": "Behala",
+      "to": "Bakrahat",
+      "distance": "14  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Behala",
+        "Diamond Harbour Rd",
+        "Bibirhat.",
+        "Bakrahat"
+      ]
+    }
+  },
+  {
+    "route": "L75A Private",
+    "data": {
+      "routeNo": "L75A Private",
+      "from": "Diamond Harbour Rd",
+      "to": "Bakrahat",
+      "distance": "10  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Diamond Harbour Rd",
+        "Bibirhat.",
+        "Bakrahat"
+      ]
+    }
+  },
+  {
+    "route": "L7A",
+    "data": {
+      "routeNo": "L7A",
+      "from": "Sarsuna",
+      "to": "Howrah Stn.",
+      "distance": "33  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Sarsuna",
+        "Sarsuna Main Rd",
+        "Biren Roy Rd",
+        "Diamond Harbour Rd",
+        "Kidderpore Bridge",
+        "Pranabananda Sn.",
+        "Duffrin Rd",
+        "Esplanade",
+        "Rani Rashmoni Rd",
+        "Old Court Housest.",
+        "B.B.D. Bag",
+        "Brabourne Rd",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "L7B",
+    "data": {
+      "routeNo": "L7B",
+      "from": "Shibrampur (Oxy-Town)",
+      "to": "Esplanade",
+      "distance": "17  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Shibrampur (Oxy-Town)",
+        "Biren Roy Rd",
+        "D.H. Rd",
+        "Judge Court Rd",
+        "Hazra Rd",
+        "Harish Mukherjee Rd",
+        "Chowranghee",
+        "B.B.D. Bag.",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "L9",
+    "data": {
+      "routeNo": "L9",
+      "from": "Golpark",
+      "to": "Bagbazar",
+      "distance": "24  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Golpark",
+        "Southern Ave",
+        "Sarat Bose Rd",
+        "A.J.C. Bose Rd",
+        "Chowranghee Rd",
+        "Esplanade",
+        "C.R. Ave",
+        "Bagbazar"
+      ]
+    }
+  },
+  {
+    "route": "L91B",
+    "data": {
+      "routeNo": "L91B",
+      "from": "Shyambazar (Shyam Park)",
+      "to": "Rajarhat",
+      "distance": "16  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Shyambazar (Shyam Park)",
+        "Raja Dinendra St.",
+        "Aurobinda Sethu",
+        "Ultadanga",
+        "V.I.P. Rd",
+        "Airport Gate No.1",
+        "Kaikhali",
+        "Chiriamore",
+        "Narayanpur Bortala.",
+        "Rajarhat"
+      ]
+    }
+  },
+  {
+    "route": "L9A",
+    "data": {
+      "routeNo": "L9A",
+      "from": "Rabindra Sadan",
+      "to": "Dunlop Bridge",
+      "distance": "8  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rabindra Sadan",
+        "Esplanade",
+        "C.R. Ave",
+        "A.P.C. Rd",
+        "Shyambazar",
+        "B.T. Rd",
+        "Dunlop Bridge"
+      ]
+    }
+  },
+  {
+    "route": "S1",
+    "data": {
+      "routeNo": "S1",
+      "from": "Kasba Depot",
+      "to": "Howrah Station",
+      "distance": "12  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Kasba Depot",
+        "E.M. Bypass Connector",
+        "Rash Behari Ave.",
+        "S.P. Mukherjee Rd",
+        "Ashutosh Mukherjee Rd",
+        "Chowringhee Rd",
+        "B.B.D. Bag",
+        "Koilaghata St.",
+        "Strand Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "S10",
+    "data": {
+      "routeNo": "S10",
+      "from": "Dum Dum Air Port",
+      "to": "Esplanade / B.B.D. Bag",
+      "distance": "16  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Dum Dum Air Port",
+        "Jessore Rd",
+        "Nager Bazar",
+        "Dum Dum Rd",
+        "B.T. Rd",
+        "Shyambazar",
+        "Bhupen Bose Ave.",
+        "Jotindra Mohan Ave.",
+        "Chittaranjan Ave.",
+        "B.B. Ganguly Street.",
+        "Esplanade / B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "S11",
+    "data": {
+      "routeNo": "S11",
+      "from": "Esplanade",
+      "to": "Barrackpur Court",
+      "distance": "20  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Esplanade",
+        "Chittaranjan Ave.",
+        "Jatindra Mohan Ave.",
+        "Bhupe Bose Ave.",
+        "Shyambazar",
+        "B.T. Rd Lalkuthi Junction.",
+        "B.B.D. Bag",
+        "Barrackpur Court"
+      ]
+    }
+  },
+  {
+    "route": "S12",
+    "data": {
+      "routeNo": "S12",
+      "from": "Joramandir",
+      "to": "Howrah Stn.",
+      "distance": "30  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Joramandir",
+        "Beleghata Main Rd",
+        "Sealdah",
+        "Moulali",
+        "Lenin Sarani",
+        "Chowringhee Rd",
+        "Rani Rashmoni Ave.",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Koilaghata St.",
+        "Strand Rd",
+        "Subodh Mullick Sq.",
+        "East Ganesh Ave.",
+        "R.N. Mukherjee Rd",
+        "B.B.D. Bag.",
+        "Howrah Stn."
+      ]
+    }
+  },
+  {
+    "route": "S13",
+    "data": {
+      "routeNo": "S13",
+      "from": "Santoshpur (Maheshtala)",
+      "to": "Howrah Station",
+      "distance": "21  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Santoshpur (Maheshtala)",
+        "Duffrin Rd",
+        "Chowringhee Rd",
+        "A.J.C. Bose Rd",
+        "Kidderpore Rd",
+        "D.H. Rd",
+        "Taratala Rd",
+        "Budge Budge Rd",
+        "B.B.D. Bag.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "S135",
+    "data": {
+      "routeNo": "S135",
+      "from": "Baisnabghata",
+      "to": "Howrah F.S.",
+      "distance": "20  K.M.",
+      "totalStops": 4,
+      "stops": [
+        "Baisnabghata",
+        "Dharmatala",
+        "B.B.D. Bag.",
+        "Howrah F.S."
+      ]
+    }
+  },
+  {
+    "route": "S14",
+    "data": {
+      "routeNo": "S14",
+      "from": "Salt Lake (Karunamayee Estate)",
+      "to": "Garia",
+      "distance": "39  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Salt Lake (Karunamayee Estate)",
+        "Pump House",
+        "Labony",
+        "P.N. Bank",
+        "Gate No.1",
+        "Najrul Islam Sarani",
+        "Ultadanga Housing Estate",
+        "Beleghata Main Road",
+        "Sealdah",
+        "Moulali",
+        "Sundarimohan Ave.",
+        "Surrawardy Ave.",
+        "Syed Amir Ali Avenue",
+        "Gariahat Rd",
+        "Dhakuria",
+        "Jadavpur",
+        "Bagha Jatin",
+        "Ganguly Bagan",
+        "Ram Garh",
+        "Garia"
+      ]
+    }
+  },
+  {
+    "route": "S15",
+    "data": {
+      "routeNo": "S15",
+      "from": "Rajarhat",
+      "to": "Dhakuria",
+      "distance": "40  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Rajarhat",
+        "Kazi Nazrul Islam Sarani",
+        "Ultadanga Main Rd",
+        "A.P.C. Rd",
+        "Vivekananda Rd",
+        "Bidhan Sarani",
+        "College St.",
+        "Nirmal Ch. St.",
+        "Ganesh Ch. Ave.",
+        "Mission Row Extn.",
+        "B.B.D. Bag",
+        "Old Court House St.",
+        "Rani Rashmoni Ave.",
+        "C.R. Ave.",
+        "Esplanade",
+        "Chowringhee Rd",
+        "A.J.C. Bose Rd",
+        "Ballygunge Phari",
+        "Promothes Barua Sn.",
+        "Gurusaday Rd",
+        "Gariahat Road.",
+        "Dhakuria"
+      ]
+    }
+  },
+  {
+    "route": "S16",
+    "data": {
+      "routeNo": "S16",
+      "from": "Salt Lake Labony",
+      "to": "Thakurpukur",
+      "distance": "79  K.M.",
+      "totalStops": 23,
+      "stops": [
+        "Salt Lake Labony",
+        "Sech Bhawan",
+        "C.A. Market",
+        "Ultadanga",
+        "V.I.P. Crossing",
+        "C.I.T. Rd",
+        "Phulbagan",
+        "Narkeldanga Main Rd",
+        "A.P.C. Rd",
+        "Sealdah",
+        "M.G. Rd",
+        "B.B. Ganguly St",
+        "C.R. Ave.",
+        "B.B.D. Bag",
+        "Old Court House St.",
+        "Esplanade",
+        "Chowringhee",
+        "A.J.C. Bose Rd",
+        "Kidderpore Bridge",
+        "D.H. Rd",
+        "Behala",
+        "Barisha.",
+        "Thakurpukur"
+      ]
+    }
+  },
+  {
+    "route": "S17",
+    "data": {
+      "routeNo": "S17",
+      "from": "Chetla",
+      "to": "Ariadah",
+      "distance": "24  K.M.",
+      "totalStops": 15,
+      "stops": [
+        "Chetla",
+        "Rash Behari Ave.",
+        "Hazra Rd",
+        "Harish Mukherjee Rd",
+        "Esplanade",
+        "Lenin Sarani",
+        "College St.",
+        "Shyambazar",
+        "B.T. Rd",
+        "Tobin Rd",
+        "Kashinath Dutta Rd",
+        "Gopal Lal Tagore Rd",
+        "Alambazar",
+        "Dakshineswar.",
+        "Ariadah"
+      ]
+    }
+  },
+  {
+    "route": "S18",
+    "data": {
+      "routeNo": "S18",
+      "from": "Salt Lake State Bus Depot",
+      "to": "Howrah Station",
+      "distance": "61  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Salt Lake State Bus Depot",
+        "Rupayan",
+        "Karunamayee",
+        "Baisakhi",
+        "P.N. Bank",
+        "E.M. Bypass",
+        "Bengal Chemical",
+        "Kankurgachi",
+        "Manicktala",
+        "Vivekananda Rd",
+        "Ganesh Talkies",
+        "Strand Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "S19",
+    "data": {
+      "routeNo": "S19",
+      "from": "Jadavpur 8b Stand",
+      "to": "Ultadanga State Bus Terminus",
+      "distance": "11  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Jadavpur 8b Stand",
+        "Raja S.C. Mullick Rd",
+        "Gariahat Jn.",
+        "Ballygungu Stn.",
+        "E.M. Bypass",
+        "Broadway Ave.",
+        "Falguni",
+        "Labony",
+        "P.N. Bank.",
+        "Ultadanga State Bus Terminus"
+      ]
+    }
+  },
+  {
+    "route": "S2",
+    "data": {
+      "routeNo": "S2",
+      "from": "Kundghat",
+      "to": "Howrah Station",
+      "distance": "14  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Kundghat",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "A. Mukherjee Rd",
+        "Chowringhee Rd",
+        "B.B.D. Bag",
+        "Koilaghata St.",
+        "Strand Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "S20",
+    "data": {
+      "routeNo": "S20",
+      "from": "Garia Railway Station",
+      "to": "Tollygunge Metro Rly. Station",
+      "distance": "7  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Garia Railway Station",
+        "Garia Stn. Rd",
+        "Garia Jn.",
+        "Naktala",
+        "Bansdroni",
+        "Ranikuthi.",
+        "Tollygunge Metro Rly. Station"
+      ]
+    }
+  },
+  {
+    "route": "S21",
+    "data": {
+      "routeNo": "S21",
+      "from": "Bagbazar",
+      "to": "Garia",
+      "distance": "80  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Bagbazar",
+        "Girish Avenue",
+        "Bhupen Bose Ave.",
+        "Shyambazar 5 Point Crossing",
+        "A.P.C. Rd",
+        "Arabinda Sarani",
+        "Ultadanga Main Rd",
+        "C.I.T. Rd",
+        "Kankurgachi",
+        "Phoolbagan",
+        "Hem Naskar Ave.",
+        "Beleghata Main Rd",
+        "Joramandir",
+        "Em Bypass",
+        "Cstc Kasba Depot",
+        "Kalikapur",
+        "Santoshpur/Ajay Nagar",
+        "Bagha Jatin Railway Crossing",
+        "Kendua",
+        "Santinagar",
+        "Raja S.C. Mullick Road Terminating At Garia.",
+        "Garia"
+      ]
+    }
+  },
+  {
+    "route": "S22",
+    "data": {
+      "routeNo": "S22",
+      "from": "Sarsuna Main Road",
+      "to": "Salt Lake Depot",
+      "distance": "49  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Sarsuna Main Road",
+        "Biren Roy Rd",
+        "West D.H. Rd",
+        "Kidderpore Bridge",
+        "A.J.C. Bose Rd",
+        "Rabindra Sadan",
+        "Beck Bagan",
+        "Moulali",
+        "Sealdah",
+        "A.P.C. Rd",
+        "Rajabazar",
+        "Narikeldanga Main Rd",
+        "E.M. Bypass",
+        "Stadium Tank No.13",
+        "7th Ave.",
+        "Purbachal",
+        "Cross Rd No.9",
+        "Falguni",
+        "Labony",
+        "Eb/1c Block Upto Central Park Broadway Crossing Then Upto Karunamayee",
+        "Salt Lake Depot.",
+        "Salt Lake Depot"
+      ]
+    }
+  },
+  {
+    "route": "S23",
+    "data": {
+      "routeNo": "S23",
+      "from": "Karunamayee (Salt Lake)",
+      "to": "Dharamtala",
+      "distance": "69  K.M.",
+      "totalStops": 25,
+      "stops": [
+        "Karunamayee (Salt Lake)",
+        "Tank No.8",
+        "Baishakhi",
+        "Purta Bhaban",
+        "Salt Lake P.S.",
+        "Seva Hospital",
+        "C.A. Island",
+        "Vidya Sagar",
+        "Labony",
+        "Falguni",
+        "Tank No.13",
+        "Then Follow Route No.S19. I.E.",
+        "Through G.B./H.A. Block",
+        "6th Avenue To Broadway",
+        "E.M. Bypass",
+        "Park Circus Connecting",
+        "No.4 Iron Bridge",
+        "Park Circus Tram Depot",
+        "Circus Ave.",
+        "Beg Bagan",
+        "A.J.C. Bose Rd",
+        "Rabindra Sadan",
+        "Chowringhee Rd",
+        "Esplanade.",
+        "Dharamtala"
+      ]
+    }
+  },
+  {
+    "route": "S24",
+    "data": {
+      "routeNo": "S24",
+      "from": "Santoshpur Triangular Park",
+      "to": "Howrah",
+      "distance": "45  K.M.",
+      "totalStops": 18,
+      "stops": [
+        "Santoshpur Triangular Park",
+        "New Santoshpur",
+        "Park Circus Connecting",
+        "Topsia Rd Crossing",
+        "Lohapool",
+        "Dr. Sundari Mohan Ave.",
+        "C.I.T. Rd",
+        "Moulali",
+        "S.N. Banerjee Rd",
+        "Lenin Sarani",
+        "Esplanade",
+        "Rani Rashmoni Ave.",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Hare St.",
+        "Strand Rd",
+        "Howrah.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S25",
+    "data": {
+      "routeNo": "S25",
+      "from": "Tangra Housing Estate",
+      "to": "Howrah",
+      "distance": "59  K.M.",
+      "totalStops": 16,
+      "stops": [
+        "Tangra Housing Estate",
+        "Atul Sen Rd",
+        "Tangra Rd",
+        "Munshibazar",
+        "Beliaghata Rd",
+        "Sealdah",
+        "A.P.C. Rd",
+        "M.G. Rd",
+        "Raja Rammohan Sn.",
+        "B.B. Ganguly St.",
+        "Lal Bazar",
+        "B.B.D. Bag",
+        "Telephone Bhaban",
+        "India Exchange Place",
+        "Brabourne Road.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S26",
+    "data": {
+      "routeNo": "S26",
+      "from": "Sakuntala Park (Behala)",
+      "to": "Esplanade",
+      "distance": "17  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Sakuntala Park (Behala)",
+        "B.R. Rd",
+        "Diamond Harbour Rd",
+        "Taratala",
+        "Mominpur",
+        "Kidderpur",
+        "Hastings",
+        "Strand Rd",
+        "Esplanade",
+        "Via B.B.D. Bag."
+      ]
+    }
+  },
+  {
+    "route": "S26A",
+    "data": {
+      "routeNo": "S26A",
+      "from": "Ultadanga",
+      "to": "Behala",
+      "distance": "19  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Ultadanga",
+        "A.P.C. Rd",
+        "Vivekananda Rd",
+        "C.R. Ave.",
+        "B.B.D. Bag",
+        "Old Court House St.",
+        "Esplanade",
+        "Chowringhee",
+        "A.J.C. Bose Rd",
+        "Kidderpore Bridge",
+        "D.H. Rd",
+        "Behala.",
+        "Behala"
+      ]
+    }
+  },
+  {
+    "route": "S27",
+    "data": {
+      "routeNo": "S27",
+      "from": "Sonarpur -",
+      "to": "Howrah",
+      "distance": "34  K.M.",
+      "totalStops": 22,
+      "stops": [
+        "Sonarpur -",
+        "Rajpur",
+        "Narendrapur",
+        "Kamalgaze More",
+        "Garia Main Rd",
+        "Garia",
+        "Raja S.C. Mullick Rd",
+        "Jadavpur P.S.",
+        "Anwar Shah Rd",
+        "Tollygunge Fari",
+        "R.B. Ave.",
+        "S.P. Mukherjee Rd",
+        "Hazra Rd",
+        "Elgin Rd",
+        "Chowringhee Rd",
+        "Park Street",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Strand Rd",
+        "Howrah.",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S28",
+    "data": {
+      "routeNo": "S28",
+      "from": "Sukuntala Park",
+      "to": "Esplanade",
+      "distance": "37  K.M.",
+      "totalStops": 20,
+      "stops": [
+        "Sukuntala Park",
+        "Biren Roy Rd(West)",
+        "Chowrasta",
+        "Biren Roy Road (East)",
+        "James Long Sarani",
+        "Taratala",
+        "Diamond Harbour Road",
+        "Mominpur",
+        "Judges Court Rd",
+        "Gopalnagar",
+        "Baker Rd",
+        "Bhabani Bhawan",
+        "Alipur Zoo",
+        "A.J.C. Bose Rd",
+        "Rabindra Sadan",
+        "Chowringhee Rd",
+        "Esplanade",
+        "Rani Rashmani Rd",
+        "Old Court House St.",
+        "B.B.D. Bag"
+      ]
+    }
+  },
+  {
+    "route": "S28A",
+    "data": {
+      "routeNo": "S28A",
+      "from": "Baranagar",
+      "to": "Rabindra Sadan",
+      "distance": "22  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Baranagar",
+        "B.B.D. Bag",
+        "Bentinck St.",
+        "Lal Bazar St.",
+        "Chittaranjan Ave",
+        "Vivekananda Rd",
+        "Bagbazar",
+        "Cossipore Rd",
+        "Rabindra Sadan"
+      ]
+    }
+  },
+  {
+    "route": "S29",
+    "data": {
+      "routeNo": "S29",
+      "from": "Chatta Sabed Ali Institute",
+      "to": "Esplanade",
+      "distance": "22  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Chatta Sabed Ali Institute",
+        "Banerjee Hat",
+        "Dakghar",
+        "Maheshtala",
+        "Gabatala Rd",
+        "D.H. Rd",
+        "Kidderpur",
+        "A.J.C. Bose Rd",
+        "Rabindra Sadan",
+        "Dharamtala",
+        "B.B.D. Bag",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "S3",
+    "data": {
+      "routeNo": "S3",
+      "from": "Nagerbazar",
+      "to": "B.B.D. Bag / Esplanade",
+      "distance": "11  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Nagerbazar",
+        "Dum Dum Rd",
+        "B.T. Rd",
+        "Shyambazar",
+        "Bhupen Bose Ave.",
+        "Jotindra Mohan Ave.",
+        "Chittaranjan Ave.",
+        "B.B. Ganguly Street.",
+        "B.B.D. Bag / Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "S30",
+    "data": {
+      "routeNo": "S30",
+      "from": "Bakultala",
+      "to": "Esplanade",
+      "distance": "14  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Bakultala",
+        "Biren Roy Rd",
+        "D.H. Rd",
+        "Judge Court Rd",
+        "Hazra Rd",
+        "Harish Mukherjee Rd",
+        "Chowranghee",
+        "B.B.D. Bag",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "S31",
+    "data": {
+      "routeNo": "S31",
+      "from": "Behala Chourasta",
+      "to": "Jadavpur",
+      "distance": "8  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Behala Chourasta",
+        "Sakher Bazar",
+        "Santosh Rai Rd",
+        "Sirit More",
+        "Tollygunge Metro Stn.",
+        "Deshpran Sasmal Rd",
+        "Anwar Shah Rd",
+        "Raja S.C. Mullick Road.",
+        "Jadavpur"
+      ]
+    }
+  },
+  {
+    "route": "S32",
+    "data": {
+      "routeNo": "S32",
+      "from": "Barrackpore Court",
+      "to": "Howrah Station",
+      "distance": "34  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Barrackpore Court",
+        "B.T. Rd",
+        "Shyambazar",
+        "Bhupen Bose Ave.",
+        "Jotindra Mohan Ave.",
+        "Chittaranjan Ave.",
+        "Vivekananda Rd",
+        "Kali Krishna Tagore St.",
+        "Strand Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "S34",
+    "data": {
+      "routeNo": "S34",
+      "from": "Barrackpore Court",
+      "to": "Barasat Court",
+      "distance": "11  K.M.",
+      "totalStops": 3,
+      "stops": [
+        "Barrackpore Court",
+        "Nilgunge Road.",
+        "Barasat Court"
+      ]
+    }
+  },
+  {
+    "route": "S35",
+    "data": {
+      "routeNo": "S35",
+      "from": "Garia",
+      "to": "Dum Dum Airport",
+      "distance": "50  K.M.",
+      "totalStops": 25,
+      "stops": [
+        "Garia",
+        "Raja S.C. Mullick Rd",
+        "Jadavpur",
+        "Gariahat Jn.",
+        "Parkcircus",
+        "Park Street",
+        "Mullick Bazar",
+        "Sealdah",
+        "Beleghata",
+        "V.I.P. Rd",
+        "Baguiati",
+        "Bangur",
+        "Lake Town",
+        "Ultadanga Housing Estate",
+        "Beleghata Main Rd",
+        "Moulali",
+        "Sundarimohan Ave",
+        "Surrawardy Ave",
+        "Syed Amir Ali Ave",
+        "Gariahat Rd",
+        "Dhakuria",
+        "Bagha Jatin",
+        "Ganguly Bagan",
+        "Ram Garh.",
+        "Dum Dum Airport"
+      ]
+    }
+  },
+  {
+    "route": "S36",
+    "data": {
+      "routeNo": "S36",
+      "from": "Patuli P.S.",
+      "to": "Howrah",
+      "distance": "20  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Patuli P.S.",
+        "S.C. Mullick Rd",
+        "Gariahat Rd",
+        "R.B. Avenue",
+        "S.P. Mukherjee Rd",
+        "Chowringhee Rd",
+        "Esplanade",
+        "B.B.D. Bag",
+        "Howrah"
+      ]
+    }
+  },
+  {
+    "route": "S4",
+    "data": {
+      "routeNo": "S4",
+      "from": "Taratala State Bus Depot (Parnasree Pally)",
+      "to": "Howrah Station",
+      "distance": "22  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Taratala State Bus Depot (Parnasree Pally)",
+        "Taratala Rd",
+        "Diamond Harbour Rd",
+        "N.R. Sarkar Ave.",
+        "Tollygunge Cir. Rd",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Rd",
+        "A. Mukherjee Rd",
+        "Chowringhee Rd",
+        "B.B.D. Bag",
+        "Koilaghat St.",
+        "Strand Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "S5",
+    "data": {
+      "routeNo": "S5",
+      "from": "Lake Town",
+      "to": "B.B.D. Bag / Esplanade",
+      "distance": "8  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Lake Town",
+        "Najrul Islam Sarani",
+        "Kankurgachi",
+        "Maniktala Main Rd",
+        "Vivekananda Rd",
+        "Chittaranjan Ave.",
+        "Esplanade",
+        "B.B.D. Bag / Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "S6",
+    "data": {
+      "routeNo": "S6",
+      "from": "Ballygunge",
+      "to": "Howrah Station",
+      "distance": "11  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Ballygunge",
+        "Rash Behari Ave.",
+        "Gariahat Rd",
+        "Syed Amir Ali Ave.",
+        "Sundari Mohan Ave.",
+        "(Lenin Sarani)",
+        "S.N. Banerjee Rd",
+        "Esplanade",
+        "B.B.D. Bag",
+        "Brabourne Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "S7",
+    "data": {
+      "routeNo": "S7",
+      "from": "Garia",
+      "to": "Howrah Station",
+      "distance": "45  K.M.",
+      "totalStops": 13,
+      "stops": [
+        "Garia",
+        "Baishnab Ghata",
+        "Naktala",
+        "Bansdroni",
+        "Netaji Nagar",
+        "Deshapran Sasmal Rd",
+        "S.P. Mukherjee Road.",
+        "Chowringhee Rd",
+        "Esplanade",
+        "Old Court House St.",
+        "B.B.D. Bag",
+        "Brabourne Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "S8",
+    "data": {
+      "routeNo": "S8",
+      "from": "Thakurpukur",
+      "to": "Howrah Station",
+      "distance": "26  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Thakurpukur",
+        "Diamond Harbour Rd",
+        "Mominpur",
+        "New Alipur",
+        "Kalighat",
+        "Harish Mukherjee Rd",
+        "Acharya J.C. Bose Rd",
+        "Chowringhee Rd",
+        "Esplanade",
+        "B.B.D. Bag",
+        "Brabourne Road.",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "S9",
+    "data": {
+      "routeNo": "S9",
+      "from": "Dunlop Bridge",
+      "to": "Jadavpur",
+      "distance": "13  K.M.",
+      "totalStops": 12,
+      "stops": [
+        "Dunlop Bridge",
+        "B.T. Rd",
+        "Shyambazar",
+        "A.P.C. Rd",
+        "Sealdah Flyover",
+        "Acharya J.C. Bose Rd",
+        "Sarat Bose Rd",
+        "Rash Behari Avenue",
+        "Gariahat Rd",
+        "Dhakuria",
+        "Raja Subodh Mallick Road.",
+        "Jadavpur"
+      ]
+    }
+  },
+  {
+    "route": "T-1",
+    "data": {
+      "routeNo": "T-1",
+      "from": "Rajabazar",
+      "to": "Alampur",
+      "distance": "20  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Rajabazar",
+        "Bbd Bag",
+        "Esplanade",
+        "Park Street",
+        "Rabindra Sadan",
+        "Vidyasagar Setu",
+        "Mourigram",
+        "Andul",
+        "Alampur"
+      ]
+    }
+  },
+  {
+    "route": "T-10",
+    "data": {
+      "routeNo": "T-10",
+      "from": "Rajabazar",
+      "to": "Malancha",
+      "distance": "17  K.M.",
+      "totalStops": 9,
+      "stops": [
+        "Rajabazar",
+        "Sealdah Court",
+        "Baishali",
+        "Topsia",
+        "Em Bypass",
+        "Bhojerhat Ghatakpur",
+        "Chusughata",
+        "Minakha",
+        "Malancha"
+      ]
+    }
+  },
+  {
+    "route": "T-11",
+    "data": {
+      "routeNo": "T-11",
+      "from": "Lauhati",
+      "to": "Esplanade",
+      "distance": "21  K.M.",
+      "totalStops": 10,
+      "stops": [
+        "Lauhati",
+        "Rajarhat",
+        "Kaikhali",
+        "Airport Gate 1",
+        "Dumdum Nagerbazar",
+        "Laketown",
+        "Belgachia",
+        "Shyambazar",
+        "Central Avenue",
+        "Esplanade"
+      ]
+    }
+  },
+  {
+    "route": "T-2",
+    "data": {
+      "routeNo": "T-2",
+      "from": "Mandirtala (Howrah)",
+      "to": "Bbd Bag",
+      "distance": "9  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Mandirtala (Howrah)",
+        "Park Street",
+        "Rabindra Sadan",
+        "Vidyasagar Setu",
+        "Bbd Bag"
+      ]
+    }
+  },
+  {
+    "route": "T-3",
+    "data": {
+      "routeNo": "T-3",
+      "from": "Rajabazar",
+      "to": "Ghatakpur",
+      "distance": "24  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Rajabazar",
+        "Sealdah Court",
+        "Baishali",
+        "Topsia",
+        "Em Bypass",
+        "Bantala",
+        "Bhojerhat",
+        "Ghatakpur"
+      ]
+    }
+  },
+  {
+    "route": "T-4",
+    "data": {
+      "routeNo": "T-4",
+      "from": "Mandirtala (Howrah)",
+      "to": "Karunamayee",
+      "distance": "27  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Mandirtala (Howrah)",
+        "Vidyasagar Setu",
+        "Rabindra Sadan",
+        "Minto Park",
+        "Beckbagan",
+        "Sealdah",
+        "Maniktala",
+        "Hudco",
+        "Pn Bank",
+        "Laboni",
+        "Karunamayee"
+      ]
+    }
+  },
+  {
+    "route": "T-5",
+    "data": {
+      "routeNo": "T-5",
+      "from": "Rajabazar",
+      "to": "Bhangarh",
+      "distance": "10  K.M.",
+      "totalStops": 6,
+      "stops": [
+        "Rajabazar",
+        "Sealdah Court",
+        "Baishali",
+        "Topsia",
+        "Bantala",
+        "Bhangarh"
+      ]
+    }
+  },
+  {
+    "route": "T-6",
+    "data": {
+      "routeNo": "T-6",
+      "from": "Rajabazar",
+      "to": "Howrah Station",
+      "distance": "37  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Rajabazar",
+        "Sealdah",
+        "Mahatma Gandhi Road",
+        "Mechhua",
+        "Chitpur",
+        "Strand Road",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "T-7",
+    "data": {
+      "routeNo": "T-7",
+      "from": "Tangra",
+      "to": "Howrah Station",
+      "distance": "24  K.M.",
+      "totalStops": 5,
+      "stops": [
+        "Tangra",
+        "Baishali",
+        "Sealdah Court",
+        "Mahatma Gandhi Road",
+        "Howrah Station"
+      ]
+    }
+  },
+  {
+    "route": "T-8",
+    "data": {
+      "routeNo": "T-8",
+      "from": "Tikiapara",
+      "to": "Bbd Bag",
+      "distance": "9  K.M.",
+      "totalStops": 7,
+      "stops": [
+        "Tikiapara",
+        "Belepol",
+        "Vidyasagar Setu",
+        "Rabindra Sadan",
+        "Park Street",
+        "Esplanade",
+        "Bbd Bag"
+      ]
+    }
+  },
+  {
+    "route": "T-9",
+    "data": {
+      "routeNo": "T-9",
+      "from": "Madhyamgram",
+      "to": "Botanical Garden",
+      "distance": "26  K.M.",
+      "totalStops": 11,
+      "stops": [
+        "Madhyamgram",
+        "Ganganagar",
+        "Airport Gate 1",
+        "Vip Road",
+        "Maniktala",
+        "Central Avenue",
+        "Bbd Bag",
+        "Esplanade",
+        "Park Street",
+        "Vidyasagar Setu",
+        "Botanical Garden"
+      ]
+    }
+  },
+  {
+    "route": "Whiteliners - Luxury",
+    "data": {
+      "routeNo": "Whiteliners - Luxury",
+      "from": "Airport",
+      "to": "Joka",
+      "distance": "64  K.M.",
+      "totalStops": 8,
+      "stops": [
+        "Airport",
+        "Vidyasagar Setu",
+        "Satragachhi",
+        "Newtown",
+        "Eastern Bypass",
+        "New Alipore",
+        "Behala",
+        "Joka"
+      ]
+    }
+  }
+]
