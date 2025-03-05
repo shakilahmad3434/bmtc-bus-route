@@ -14,7 +14,7 @@ export const cities = [
     badge: '2,200',
     title: 'Bengaluru',
     desc: 'Explore bus routes throughout Karnataka, including Bangalore Metropolitan Transport Corporation (BMTC) services.',
-    link: '/bengaluru',
+    link: '/',
     bgColor: 'bg-amber-50'
   },
   {
